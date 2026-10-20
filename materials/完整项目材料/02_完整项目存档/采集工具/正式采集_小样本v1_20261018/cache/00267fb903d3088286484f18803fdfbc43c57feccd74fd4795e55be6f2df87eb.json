@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315850242929",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:35.413434+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315850242929,
+        "rpid_str": "315850242929",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790998600,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_160678560a6dabb0a0373f30",
+        "content": {
+          "message": "水冰元素挺多的[笑哭]上期拿不满这期拿满了 可惜好友没一个挂神子在外面的 把木偶放生了",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ee600b84883209815a381a1c691a9c24170e129177576fd56579102827f0b183",
+  "original_bytes_sha256": "f185e9671e51062037f9cc89cdeb51e9507cf4fa97ab1567b07f4e923aabad42",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

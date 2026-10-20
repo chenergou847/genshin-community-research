@@ -1,0 +1,46 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117449387280943",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-18T04:59:38.374364+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "response_hash": "7d12b397159a34d79552d1bd5cfbd2c7f9030940572eae066722d7ff99d2ff1b",
+  "original_bytes_sha256": "79e0027502857e2af242bd9dacdc0ffc90659baf689da0f2dfde3413a9410d9e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319691338672",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:33:25.463202+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319691338672,
+        "rpid_str": "319691338672",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791182274,
+        "like": 1,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_365c1bfde08d20757b90928e",
+        "content": {
+          "message": "上版本下半入坑的，有没有大佬带带n4[委屈]\nuid：349221818",
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c7eef50553a70f3bc662c10004685ecd6d7b1b2bc443c4eaf489d52323ea0d64",
+  "original_bytes_sha256": "06bc7e9e66c822a33d37319f6d3ae2717975e43334024122f8580aaab27cde6b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

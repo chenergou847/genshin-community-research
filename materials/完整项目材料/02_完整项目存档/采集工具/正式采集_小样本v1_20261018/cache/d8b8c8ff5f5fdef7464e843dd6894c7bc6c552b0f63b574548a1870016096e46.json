@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319291641312",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:18:59.958315+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319330194064,
+          "rpid_str": "319330194064",
+          "root": 319291641312,
+          "root_str": "319291641312",
+          "parent": 319291641312,
+          "parent_str": "319291641312",
+          "dialog": 319330194064,
+          "ctime": 1790927959,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ad3ae2b70a006547d3370f2f",
+          "content": {
+            "message": "合什么一样，本质都是狗粮变体力，刷需求高的合需求低的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319291641312,
+        "rpid_str": "319291641312",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790905211,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_08edca035e9aab2005d1d4f6",
+        "content": {
+          "message": "大佬你下落套多少双爆啊？是专为冰主和迪卢克刷的吗？大概多长时间啊？\n我自选主要想选个牛牛，武器只有精1赌狗，要是太难了不行就合成夜魂套玩玩了，（其实夜魂也一般）话说像这种进合成台的，给辅助合一套比较方便（千岩宗师啥的），但主c级的还是要进本专门刷是吧？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "df52b538b983d7ba2d7cc9084f6ada3ff648be82cd76c896f0c897bfd2de2376",
+  "original_bytes_sha256": "cb78fb2e3c2c13f8db404252aea5dcab79b09b61c599b3ef35f77a0f1359510e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

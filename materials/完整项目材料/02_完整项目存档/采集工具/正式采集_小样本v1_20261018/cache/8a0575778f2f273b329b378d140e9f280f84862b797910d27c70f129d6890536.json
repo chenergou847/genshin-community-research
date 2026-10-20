@@ -1,0 +1,226 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319331725952",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:32:57.198096+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319332240000,
+          "rpid_str": "319332240000",
+          "root": 319331725952,
+          "root_str": "319331725952",
+          "parent": 319331725952,
+          "parent_str": "319331725952",
+          "dialog": 319332240000,
+          "ctime": 1790929213,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_97d96e992b827ed98fe03d13",
+          "content": {
+            "message": "这可不是50％，是25％的概率啊[偷笑]",
+            "emote": {
+              "[偷笑]": {
+                "id": 833,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[偷笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/6c49d226e76c42cd8002abc47b3112bc5a92f66a.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "偷笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319332583744,
+          "rpid_str": "319332583744",
+          "root": 319331725952,
+          "root_str": "319331725952",
+          "parent": 319332240000,
+          "parent_str": "319332240000",
+          "dialog": 319332240000,
+          "ctime": 1790929366,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_941cb1c2b8c679e1163bc398",
+          "content": {
+            "message": "回复 @天爱追番 :不是啊，2幕只要有一张不是重复的就行，所以是50%"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315763242081,
+          "rpid_str": "315763242081",
+          "root": 319331725952,
+          "root_str": "319331725952",
+          "parent": 319331725952,
+          "parent_str": "319331725952",
+          "dialog": 315763242081,
+          "ctime": 1790930073,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2e52ec6cc8f0fdfd6b61429f",
+          "content": {
+            "message": "说是给的牌和选的角色有关，我每次都是命运之轮。然后又因为芙芙持有率很高所以正义牌很多"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319335774912,
+          "rpid_str": "319335774912",
+          "root": 319331725952,
+          "root_str": "319331725952",
+          "parent": 315763242081,
+          "parent_str": "315763242081",
+          "dialog": 315763242081,
+          "ctime": 1790931195,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_941cb1c2b8c679e1163bc398",
+          "content": {
+            "message": "回复 @_云青岑_ :谁知道呢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319336748640,
+          "rpid_str": "319336748640",
+          "root": 319331725952,
+          "root_str": "319331725952",
+          "parent": 319331725952,
+          "parent_str": "319331725952",
+          "dialog": 319336748640,
+          "ctime": 1790931767,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a76591557c3f9d31944cc8d1",
+          "content": {
+            "message": "给牌确实和选角色有关的，试试把挂件换几个角色，顺序也随便打乱一下"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319331725952,
+        "rpid_str": "319331725952",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790928873,
+        "like": 2,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_941cb1c2b8c679e1163bc398",
+        "content": {
+          "message": "重开了好几次了，给的牌每次都是重复的，50%的几率都能一直重复[辣眼睛]",
+          "emote": {
+            "[辣眼睛]": {
+              "id": 2374,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[辣眼睛]",
+              "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "辣眼睛"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "82e38fdaa34889e40758d7c275d3a56840d390f774b07d4ccb549a66bc8a1b02",
+  "original_bytes_sha256": "3fb8873be10a18998126a5f54038df285cbd99af0113e5540cfa790cbe8244b0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

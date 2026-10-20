@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315747518785",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:17:39.715684+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 10
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315747518785,
+        "rpid_str": "315747518785",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790920254,
+        "like": 19,
+        "rcount": 10,
+        "count": 11,
+        "state": 0,
+        "author_id": "U_5713907a2295d40f1058fb5f",
+        "content": {
+          "message": "再次重新置顶 已确认0命茜特菈莉+2闲能通关 因为2闲罗莎不带茜奶奶已通关N6丘林老头！【全网首发！无奥黛塔3金冰主携手枫丹队友通关N6丘林老头！（修远-1 严格4金)】 https://www.bilibili.com/video/BV121am6fEUh/?share_source=copy_web&amp;vd_source=1e51c9f4690b269cd5401349e348f4cc",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8a582c55c83202d4d6a70026baebec1d65371594.png",
+              "img_width": 963,
+              "img_height": 156,
+              "img_size": 36.543
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c444b6456e1cab79a6802070620ebd36482e8655d6855877c355969978793c81",
+  "original_bytes_sha256": "433f654073c75fc2fd81387f04d96a49b2d376a7e48270893e2b431d83b08065",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

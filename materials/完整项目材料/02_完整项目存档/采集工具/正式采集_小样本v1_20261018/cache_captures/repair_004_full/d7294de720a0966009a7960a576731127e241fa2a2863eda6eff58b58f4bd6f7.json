@@ -1,0 +1,59 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317216704129",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:40:52.856200+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317216704129,
+        "rpid_str": "317216704129",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792134734,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_5913a1ea8145e186341a8822",
+        "content": {
+          "message": "下半双冰法尔伽能打吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "d1dbcf9b0dcb3d0747c6f01752034d3ae34deaa4612a2b1d26516ab811793b01",
+  "original_bytes_sha256": "088897219d88b16506691ff5dfbea3443eb84d037fae0fb139df394b75d1430e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

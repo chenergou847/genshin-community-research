@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315611444209",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:24:51.829647+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315611444209,
+        "rpid_str": "315611444209",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790819396,
+        "like": 2,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_6d0dd6f5ec9503a9e8b95d3d",
+        "content": {
+          "message": "20闲00茜被卡在斩杀线，难受，又不想给茜补金"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b1533d64c6c2f77bec618c9a05881aae264bf225a8ccb634c03bb348780972f8",
+  "original_bytes_sha256": "1622b77a2fd20aa43a8da6895e07fbb045e2976e03263ed202f856b5df79897f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

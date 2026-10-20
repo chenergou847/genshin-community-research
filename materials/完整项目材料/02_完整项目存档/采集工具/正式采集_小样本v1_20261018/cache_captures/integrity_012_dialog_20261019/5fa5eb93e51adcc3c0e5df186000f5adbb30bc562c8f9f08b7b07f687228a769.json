@@ -1,0 +1,87 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117365148746080",
+    "type": 1,
+    "root": "316280823873",
+    "dialog": "316547634721",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:39:15.000303+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 11,
+        "max_floor": 11,
+        "size": 1,
+        "next": 12,
+        "prev": 10,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":12}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 11
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320529078272,
+          "rpid_str": "320529078272",
+          "root": 316280823873,
+          "root_str": "316280823873",
+          "parent": 316547634721,
+          "parent_str": "316547634721",
+          "dialog": 316547634721,
+          "ctime": 1791831785,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 11,
+          "author_id": "U_9d02bf24573b4f199d0d1521",
+          "content": {
+            "message": "回复 @沧笙踏歌の春 :你的意思是严格一金这个火神有火专（）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "ecd9bf137d8eaed43ab44fbcb58df05b97b6d6fd7747873b8efadaca747cb53b",
+  "original_bytes_sha256": "c86f2f68efb94e6f401ad41a653be8757945fc4d18d26dcc748233b371444c71",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

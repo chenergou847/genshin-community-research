@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319066643984",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:17:47.099963+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319066643984,
+        "rpid_str": "319066643984",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790736401,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_048bb34c401235a1f71b9d50",
+        "content": {
+          "message": "N5怎么配哇[给心心]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ddc242f72060d89b30828cd76d1ba5c73494355262245017.jpg",
+              "img_width": 1220,
+              "img_height": 12201,
+              "img_size": 1536.02
+            }
+          ],
+          "emote": {
+            "[给心心]": {
+              "id": 3302,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[给心心]",
+              "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "给心心"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "56b79c5f16d15618c4b22f782e54c0a62a5e80a81f2e0482239494a8b6cb8cf7",
+  "original_bytes_sha256": "e4210e1a32762c554122b68bf72b6b9823b23a0f2334df0aca8ad0bf9c2fbc9e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

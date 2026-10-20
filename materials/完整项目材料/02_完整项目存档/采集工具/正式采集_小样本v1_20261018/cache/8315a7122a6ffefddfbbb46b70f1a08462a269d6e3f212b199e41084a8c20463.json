@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315923981105",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:02:21.317745+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315923981105,
+        "rpid_str": "315923981105",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791040249,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_1af1f11138a543393d898681",
+        "content": {
+          "message": "@是碳烤鱼吗 为了小天鹅的颜值抽的我到底看了多远[doge][doge][doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c2b3b5a459622eda60dcfb00625b67b8f5e4b3e2df3ef53b3c531621d2d3e601",
+  "original_bytes_sha256": "70f1013299aaaf316818b0e15c38896949be9017a2d3eb02af156204ee77f1ae",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

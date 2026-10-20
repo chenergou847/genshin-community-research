@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318923299952",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:36:57.638113+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318923299952,
+        "rpid_str": "318923299952",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790604144,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d667aec42cd56144674c630c",
+        "content": {
+          "message": "问问n6有希望吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6ec97aa7fbba89459364a8ba42075915413136919.jpg",
+              "img_width": 1206,
+              "img_height": 13539,
+              "img_size": 3788.978
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fa9b02a65ceb55af6ced8ed0f2825a9df92398925d7cebbf8371b43404a7f0e0",
+  "original_bytes_sha256": "8b9be31dac694859be613f3105040aaaff44053880cda7d5497c0b4c475a5bb4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

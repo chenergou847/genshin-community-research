@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319674762480",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:34:00.807201+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 13
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319674762480,
+        "rpid_str": "319674762480",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791173111,
+        "like": 1,
+        "rcount": 13,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_1a128090997488d2954a888f",
+        "content": {
+          "message": "有没有大佬带我这个新手打n4的，想要一个羽毛，己急哭"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "26c2d2bea0ae9aa86f41dcd86b6829164c1afef2df7b04436a47a071092b260d",
+  "original_bytes_sha256": "9b0cb5b630537a10e3098c03a49cd01a54b81b8875f573cab4e16903f5a96d11",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

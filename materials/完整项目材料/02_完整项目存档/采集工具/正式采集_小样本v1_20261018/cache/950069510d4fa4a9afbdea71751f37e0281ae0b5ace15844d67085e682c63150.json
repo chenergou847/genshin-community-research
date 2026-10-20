@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318903618336",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:38:31.918579+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318903618336,
+        "rpid_str": "318903618336",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790592846,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_90ebb5a96a4e85580933a6ba",
+        "content": {
+          "message": "木偶不是冰伤吗，可以破冰棺的盾吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fccd5b923c560eaff3c11241b5f9175ebf220b3e98b7ecfb25462f559af4f3ff",
+  "original_bytes_sha256": "6323d94e4fcab842d64c1afd223c61b6d596872fc87b943eae7b52212de56f4c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320861622560",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:12:17.981341+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320861622560,
+        "rpid_str": "320861622560",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792128385,
+        "like": 8,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_dd1ca462d081b9dbaa96858d",
+        "content": {
+          "message": "我说原神最新深渊降温有人懂吗？\n水温下降所以降温\n上半星超导，下半水冰战舰全是冰属性角色"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "057419be7db04a2ded4d3f9d9666a4f422498dfa92ad26659b2e32af46ffcde9",
+  "original_bytes_sha256": "d5b371ac24a90a44b38512ac71a9615893ffa072aa8b5d928b055f5f56153852",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

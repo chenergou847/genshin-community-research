@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "316290838433",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:08:00.903986+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316376088657,
+          "rpid_str": "316376088657",
+          "root": 316290838433,
+          "root_str": "316290838433",
+          "parent": 316290838433,
+          "parent_str": "316290838433",
+          "dialog": 316376088657,
+          "ctime": 1791377786,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b77ec33bd3ce7b98b8a9da8",
+          "content": {
+            "message": "n6，但还是有点艰难[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316379354353,
+          "rpid_str": "316379354353",
+          "root": 316290838433,
+          "root_str": "316290838433",
+          "parent": 316376088657,
+          "parent_str": "316376088657",
+          "dialog": 316376088657,
+          "ctime": 1791379842,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d64b20a5d2a41e44c9588408",
+          "content": {
+            "message": "回复 @零花钱的存款 :也就是说我可以适当降低金数打过n5是吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316387810945,
+          "rpid_str": "316387810945",
+          "root": 316290838433,
+          "root_str": "316290838433",
+          "parent": 316379354353,
+          "parent_str": "316379354353",
+          "dialog": 316376088657,
+          "ctime": 1791384718,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b77ec33bd3ce7b98b8a9da8",
+          "content": {
+            "message": "回复 @墨竹婉莹 :新角色全00就能过n5[OK]",
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316290838433,
+        "rpid_str": "316290838433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791309330,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_d64b20a5d2a41e44c9588408",
+        "content": {
+          "message": "我是回坑玩家，请问up说的这些角色金数保底是过n5的还是n6的？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e67d1196950bb91bdf8422783582ea3b044f05abecca874e406549a408a719f9",
+  "original_bytes_sha256": "2906faab1160480363cb2d91fde930f8275d10c68c75030b9c0ab5d809a2de90",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

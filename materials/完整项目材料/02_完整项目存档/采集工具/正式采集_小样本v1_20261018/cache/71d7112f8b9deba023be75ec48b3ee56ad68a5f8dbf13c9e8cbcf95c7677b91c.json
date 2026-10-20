@@ -1,0 +1,301 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319173203424",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:25:14.296444+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315619857649,
+          "rpid_str": "315619857649",
+          "root": 319173203424,
+          "root_str": "319173203424",
+          "parent": 319173203424,
+          "parent_str": "319173203424",
+          "dialog": 315619857649,
+          "ctime": 1790824893,
+          "like": 20,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "过不了("
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319197292304,
+          "rpid_str": "319197292304",
+          "root": 319173203424,
+          "root_str": "319173203424",
+          "parent": 315619857649,
+          "parent_str": "315619857649",
+          "dialog": 315619857649,
+          "ctime": 1790832521,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d2cc0a4bfe4a40d1cc73cbea",
+          "content": {
+            "message": "回复 @Hamlat :被优化掉力（悲"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319207116320,
+          "rpid_str": "319207116320",
+          "root": 319173203424,
+          "root_str": "319173203424",
+          "parent": 315619857649,
+          "parent_str": "315619857649",
+          "dialog": 315619857649,
+          "ctime": 1790838463,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c3529b6a136885e6d780c8d7",
+          "content": {
+            "message": "回复 @Hamlat :迪卢克市区[孤独摇滚!剧场总集篇动态表情_哭哭]",
+            "emote": {
+              "[孤独摇滚!剧场总集篇动态表情_哭哭]": {
+                "id": 120002,
+                "package_id": 8670,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[孤独摇滚!剧场总集篇动态表情_哭哭]",
+                "url": "https://i0.hdslb.com/bfs/garb/f01bb6731ad295d489f9e377ce0ff3549dfca9d3.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1756976402,
+                "gif_url": "https://i0.hdslb.com/bfs/garb/5b0e280a950cb8ab6c9e88a9615fecd381e48878.gif",
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=109421&hybrid_set_header=2&anchor_task=1&lottery_id=109422&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109424%22%2C%22sub_id%22%3A%22%5B%E5%AD%A4%E7%8B%AC%E6%91%87%E6%BB%9A%21%E5%89%A7%E5%9C%BA%E6%80%BB%E9%9B%86%E7%AF%87%E5%8A%A8%E6%80%81%E8%A1%A8%E6%83%85_%E5%93%AD%E5%93%AD%5D%22%7D",
+                "jump_title": "哭哭",
+                "webp_url": "https://i0.hdslb.com/bfs/garb/af0471aaedbad5e4c6ec35a452e3f4083bd02bb1.webp"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315649219761,
+          "rpid_str": "315649219761",
+          "root": 319173203424,
+          "root_str": "319173203424",
+          "parent": 319207116320,
+          "parent_str": "319207116320",
+          "dialog": 315619857649,
+          "ctime": 1790842840,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "老了[颂乐人偶_眯眼笑]",
+            "emote": {
+              "[颂乐人偶_眯眼笑]": {
+                "id": 105211,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[颂乐人偶_眯眼笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/6087f6b3919b915c8922e608cfde147dd5ece43b.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1740045752,
+                "jump_title": "眯眼笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319215058816,
+          "rpid_str": "319215058816",
+          "root": 319173203424,
+          "root_str": "319173203424",
+          "parent": 319173203424,
+          "parent_str": "319173203424",
+          "dialog": 319215058816,
+          "ctime": 1790843406,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_282181483f03e7c288c62e54",
+          "content": {
+            "message": "迪卢克不能过机制，会被肘死"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319226193648,
+          "rpid_str": "319226193648",
+          "root": 319173203424,
+          "root_str": "319173203424",
+          "parent": 319207116320,
+          "parent_str": "319207116320",
+          "dialog": 315619857649,
+          "ctime": 1790849991,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_96ed943adb9398b3fddae232",
+          "content": {
+            "message": "回复 @抽象思维定式 :迪卢克只是死了，又不是老了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319232963952,
+          "rpid_str": "319232963952",
+          "root": 319173203424,
+          "root_str": "319173203424",
+          "parent": 319173203424,
+          "parent_str": "319173203424",
+          "dialog": 319232963952,
+          "ctime": 1790853560,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a622008460e79af901999e1c",
+          "content": {
+            "message": "根本没有这种迪卢克[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319173203424,
+        "rpid_str": "319173203424",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790818272,
+        "like": 24,
+        "rcount": 7,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_96ed943adb9398b3fddae232",
+        "content": {
+          "message": "我迪卢克呢",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/cd20f561ded9d397dbf612960f8660163546577534716606.jpg",
+              "img_width": 1500,
+              "img_height": 1815,
+              "img_size": 1112.15
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "733d42b18baf826a0edfb2ee3938331268a4124143f10cd0081431abf90d00fd",
+  "original_bytes_sha256": "b32f641cfadc9cdb560957b776ddf218c737188e78f52fe02bedf699ffa25d43",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

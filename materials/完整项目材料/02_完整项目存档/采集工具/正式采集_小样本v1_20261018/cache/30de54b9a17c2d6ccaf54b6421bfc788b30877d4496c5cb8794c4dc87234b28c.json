@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318537749248",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:08:41.827896+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315000727809,
+          "rpid_str": "315000727809",
+          "root": 318537749248,
+          "root_str": "318537749248",
+          "parent": 318537749248,
+          "parent_str": "318537749248",
+          "dialog": 315000727809,
+          "ctime": 1790316863,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "置顶评论区，那就是官方公告的内容。米游社还有微博都有的东西"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315000814193,
+          "rpid_str": "315000814193",
+          "root": 318537749248,
+          "root_str": "318537749248",
+          "parent": 318537749248,
+          "parent_str": "318537749248",
+          "dialog": 315000814193,
+          "ctime": 1790316875,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "我视频封面不是也写了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318574124864,
+          "rpid_str": "318574124864",
+          "root": 318537749248,
+          "root_str": "318537749248",
+          "parent": 318537749248,
+          "parent_str": "318537749248",
+          "dialog": 318574124864,
+          "ctime": 1790337962,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9bc94848e7411a0e393b97b4",
+          "content": {
+            "message": "每个版本更新后的第七天，这次是30号"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318537749248,
+        "rpid_str": "318537749248",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790316783,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_e905c5a93577470ccab9e3ed",
+        "content": {
+          "message": "什么时候出来"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "349afb886552e17f5555d0b140da9c238311299147656b57bafc72f47fa3229a",
+  "original_bytes_sha256": "e4949125869710e35e372f558b30b252dc96b420a956ddf9a71a0483ce267320",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

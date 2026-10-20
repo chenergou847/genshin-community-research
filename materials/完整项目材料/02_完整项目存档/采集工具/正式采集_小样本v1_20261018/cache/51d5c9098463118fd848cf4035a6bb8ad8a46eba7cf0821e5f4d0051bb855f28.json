@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "320945390752",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:01:35.993026+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317288880161,
+          "rpid_str": "317288880161",
+          "root": 320945390752,
+          "root_str": "320945390752",
+          "parent": 320945390752,
+          "parent_str": "320945390752",
+          "ctime": 1792197311,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f409866602dc4221d65d8012",
+          "content": {
+            "message": "这期拉踩太严重了，导致打榜的角色上来了，洛恩35说是，而且持有率太高了，使用率多少有点影响，我好友位里有个带冰伤杯的木偶，还有个生命头的[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317293829905,
+          "rpid_str": "317293829905",
+          "root": 320945390752,
+          "root_str": "320945390752",
+          "parent": 320945390752,
+          "parent_str": "320945390752",
+          "ctime": 1792201711,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3d6eb5c8eeade7d5609fb467",
+          "content": {
+            "message": "这期环境只看无脑程度的话，木偶和薇打上半感觉差不多，都很简单，下半三间连打也就丝柯克最简单，木偶也不难，但差点意思，薇斯纳不清楚，所以这个使用率还算正常"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321044397712,
+          "rpid_str": "321044397712",
+          "root": 320945390752,
+          "root_str": "320945390752",
+          "parent": 317288880161,
+          "parent_str": "317288880161",
+          "ctime": 1792255401,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0b04c2506b2738118a93307",
+          "content": {
+            "message": "回复 @瞎眼猴不会忘记朵拉 :这期下半冰环境洛恩怎么就不能玩[笑哭]尬黑了吧，洛恩本来抽得人就少，使用率高很正常",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320945390752,
+        "rpid_str": "320945390752",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792196968,
+        "like": 4,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b6911990726f024faf74b4e5",
+        "content": {
+          "message": "我们路边偶怎会如此[笑哭]女皇大人和达尼卡快来救救吧",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "a7de2d19d2748f8c2a94f450d8f35527e8f5cea940beab4c163844d0abf699b2",
+  "original_bytes_sha256": "cf76f51373cf9d3855465783706e64d7ddf469cbf31f710393e732c5981ebb2a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

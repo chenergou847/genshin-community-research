@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319179799152",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:24:11.744700+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315617941681,
+          "rpid_str": "315617941681",
+          "root": 319179799152,
+          "root_str": "319179799152",
+          "parent": 319179799152,
+          "parent_str": "319179799152",
+          "dialog": 315617941681,
+          "ctime": 1790823693,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "因为这个号已经出现五六把只剩10w左右的血 实在难凹 最后选择qe可以多buff 风套后茜只放1个e可以吃满风套 但是话又说回来了 打太久打昏头了最后按成了qee 直接慢了1秒出头的样子 而且我看这个血条好像这把正常打也能出[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315617997137,
+          "rpid_str": "315617997137",
+          "root": 319179799152,
+          "root_str": "319179799152",
+          "parent": 319179799152,
+          "parent_str": "319179799152",
+          "dialog": 315617997137,
+          "ctime": 1790823796,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "反正还能快3~4秒 4套伤害卡的太死 凹好久了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319179799152,
+        "rpid_str": "319179799152",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790822624,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_35e12cce64d90ed4f18c8f87",
+        "content": {
+          "message": "倒计时60秒的时候奶奶为何要开q呢"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fff86120abe7e0911285aa66924679376967b53563fb7115dac2c847ba9fe495",
+  "original_bytes_sha256": "afc8896c3dbae259552a3c31784fa9a27b1a3d045c2d529e95f014b9859ba6c6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

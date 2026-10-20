@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315404741793",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:31:15.769824+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315404741793,
+        "rpid_str": "315404741793",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790649676,
+        "like": 0,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_6f4906ec5eff1aaa83b35b9b",
+        "content": {
+          "message": "求大佬教配队",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/84942fcf3768d6676a45d883b3b9dbdf254671268.jpg",
+              "img_width": 1118,
+              "img_height": 15000,
+              "img_size": 8219.18,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a01e398506c2e387049a3d54ca537702714fcbbd2fe5c08750f812cbe0b33e26",
+  "original_bytes_sha256": "1fafaefecfb912c596475864dc20c844cb6042a6893762d743c3ba087dc4f708",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

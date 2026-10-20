@@ -1,0 +1,245 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318961428944",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:31:53.234434+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315403440609,
+          "rpid_str": "315403440609",
+          "root": 318961428944,
+          "root_str": "318961428944",
+          "parent": 318961428944,
+          "parent_str": "318961428944",
+          "dialog": 315403440609,
+          "ctime": 1790648552,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你去米游社问。那里很多的。这里怎么可能都有人回。个人也没啥满命角色"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318961749808,
+          "rpid_str": "318961749808",
+          "root": 318961428944,
+          "root_str": "318961428944",
+          "parent": 315403440609,
+          "parent_str": "315403440609",
+          "dialog": 315403440609,
+          "ctime": 1790648650,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_12f73acdda32dc162804684d",
+          "content": {
+            "message": "回复 @星光璀璨之时 :米游社也有问哦[汤圆][汤圆]我前几次都是在b站借到的[原神_哇]",
+            "emote": {
+              "[原神_哇]": {
+                "id": 4259,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[原神_哇]",
+                "url": "https://i0.hdslb.com/bfs/emote/8188ddf95bace929d382c7a83214afde79d83bfc.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哇"
+              },
+              "[汤圆]": {
+                "id": 5936,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[汤圆]",
+                "url": "https://i0.hdslb.com/bfs/emote/93609633a9d194cf336687eb19c01dca95bde719.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    "汤圆",
+                    "元宵节",
+                    "汤团"
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "汤圆"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315403591713,
+          "rpid_str": "315403591713",
+          "root": 318961428944,
+          "root_str": "318961428944",
+          "parent": 318961749808,
+          "parent_str": "318961749808",
+          "dialog": 315403440609,
+          "ctime": 1790648725,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "回复 @卷帘忧尘 :那行吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315541133281,
+          "rpid_str": "315541133281",
+          "root": 318961428944,
+          "root_str": "318961428944",
+          "parent": 318961428944,
+          "parent_str": "318961428944",
+          "dialog": 315541133281,
+          "ctime": 1790760727,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8187dba50df8813abb4929df",
+          "content": {
+            "message": "满恰没有。满法是指珐露珊吗？我有千岩终末诗六命珐"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315541206929,
+          "rpid_str": "315541206929",
+          "root": 318961428944,
+          "root_str": "318961428944",
+          "parent": 318961428944,
+          "parent_str": "318961428944",
+          "dialog": 315541206929,
+          "ctime": 1790760739,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8187dba50df8813abb4929df",
+          "content": {
+            "message": "我过N5了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318961428944,
+        "rpid_str": "318961428944",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790648316,
+        "like": 0,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_12f73acdda32dc162804684d",
+        "content": {
+          "message": "UID：235977815\n想求大佬借个满恰/满法[蹲蹲][蹲蹲][蹲蹲]",
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1ddd338f2a89ab2c6609372a7205f632ec9371554508edfbb311cda2eb52d24c",
+  "original_bytes_sha256": "9be4cce1ffbe98df7b0ebc0a11b9414fe378c64e18fdceaf4489c1ece6c09733",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

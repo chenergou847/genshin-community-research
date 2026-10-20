@@ -1,0 +1,206 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "315094616817",
+    "dialog": "318645583616",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:38:35.266303+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 8,
+        "max_floor": 16,
+        "size": 5,
+        "next": 17,
+        "prev": 7,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":17}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 16
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318645583616,
+          "rpid_str": "318645583616",
+          "root": 315094616817,
+          "root_str": "315094616817",
+          "parent": 315094616817,
+          "parent_str": "315094616817",
+          "dialog": 318645583616,
+          "ctime": 1790397679,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 8,
+          "author_id": "U_b6497f7154230d79a3017ec0",
+          "content": {
+            "message": "我个人觉得问题最大的还是冰锅，全0冰水战舰去打冰锅真的有点，木偶的话没有专武伤害也很难说"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318645878256,
+          "rpid_str": "318645878256",
+          "root": 315094616817,
+          "root_str": "315094616817",
+          "parent": 315103052849,
+          "parent_str": "315103052849",
+          "dialog": 318645583616,
+          "ctime": 1790397786,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 12,
+          "author_id": "U_b6497f7154230d79a3017ec0",
+          "content": {
+            "message": "回复 @魔法少女NAnAm1 :用的是丝柯克么还是什么"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315103325617,
+          "rpid_str": "315103325617",
+          "root": 315094616817,
+          "root_str": "315094616817",
+          "parent": 318645583616,
+          "parent_str": "318645583616",
+          "dialog": 318645583616,
+          "ctime": 1790397917,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 13,
+          "author_id": "U_cfd550fee5e02a8df5db3feb",
+          "content": {
+            "message": "回复 @数字la :记错了 79秒 刚上线看了下"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318646206384,
+          "rpid_str": "318646206384",
+          "root": 315094616817,
+          "root_str": "315094616817",
+          "parent": 315103325617,
+          "parent_str": "315103325617",
+          "dialog": 318645583616,
+          "ctime": 1790397978,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 14,
+          "author_id": "U_b6497f7154230d79a3017ec0",
+          "content": {
+            "message": "回复 @魔法少女NAnAm1 :如果你是绿的话，我倒是挺好奇你的手法了，我B站上面找到的00丝柯克，打n6都是很极限的那种，而且都是圣遗物巨离谱的[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315103758849,
+          "rpid_str": "315103758849",
+          "root": 315094616817,
+          "root_str": "315094616817",
+          "parent": 318646206384,
+          "parent_str": "318646206384",
+          "dialog": 318645583616,
+          "ctime": 1790398236,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 16,
+          "author_id": "U_cfd550fee5e02a8df5db3feb",
+          "content": {
+            "message": "回复 @数字la :私信给你发配置呗  我又不是全低配"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "67aabdcbbb00bc20e5823c5a19a1ce58d76d3be6c6aa833dacf0e6a245673302",
+  "original_bytes_sha256": "11b35a692e07e2e106797608eb430fa28f0e061ab5c11a5111ea71f0f530b4e4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318552182864",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:06:14.686031+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315015188113,
+          "rpid_str": "315015188113",
+          "root": 318552182864,
+          "root_str": "318552182864",
+          "parent": 318552182864,
+          "parent_str": "318552182864",
+          "dialog": 315015188113,
+          "ctime": 1790326343,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_40ca40a2f97425ce05916d48",
+          "content": {
+            "message": "看配置吧，第一间的压力比第三间大"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315396472257,
+          "rpid_str": "315396472257",
+          "root": 318552182864,
+          "root_str": "318552182864",
+          "parent": 318552182864,
+          "parent_str": "318552182864",
+          "dialog": 315396472257,
+          "ctime": 1790641651,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1619b92fafcd83d2e4f06dca",
+          "content": {
+            "message": "肯定第三间啊，打第一间必须要奥黛塔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318552182864,
+        "rpid_str": "318552182864",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790325808,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_97952f54f1447b0ae731c972",
+        "content": {
+          "message": "菲林斯到底打第一间好还是打第三间好"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "182c77372f79670cd029f6a4e0bf0cd69e51712a479e76a67de12dac4808985a",
+  "original_bytes_sha256": "d481db98f2724fe9a294ba5c4022659e8e616781a0cff9b8445e833c943488f9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

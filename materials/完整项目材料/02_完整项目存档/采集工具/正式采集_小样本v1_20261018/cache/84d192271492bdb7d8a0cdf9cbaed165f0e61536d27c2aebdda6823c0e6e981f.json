@@ -1,0 +1,543 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "320986011280",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:51:37.275350+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 34
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320986744512,
+          "rpid_str": "320986744512",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320986011280,
+          "parent_str": "320986011280",
+          "ctime": 1792223266,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "某些极个别原神玩家可以造谣？那么同样身为原神玩家的我难道不能造谣？"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320987105216,
+          "rpid_str": "320987105216",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320986744512,
+          "parent_str": "320986744512",
+          "ctime": 1792223526,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0ecdbb39509d0b3e2134c03f",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :我是鸣潮玩家主播，我爱鸣潮我喜欢鸣潮，库洛拯救人类！！！"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320987771488,
+          "rpid_str": "320987771488",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320986744512,
+          "parent_str": "320986744512",
+          "ctime": 1792223879,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6721974bfa5f94556ff2d28f",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :你这话说出来我已经崩不住了[喜极而泣]",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320987902368,
+          "rpid_str": "320987902368",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320987105216,
+          "parent_str": "320987105216",
+          "ctime": 1792224035,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6721974bfa5f94556ff2d28f",
+          "content": {
+            "message": "回复 @总要再见一面love :你这话串的太明显了[doge_金箍]他不会搭理你了",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320988187840,
+          "rpid_str": "320988187840",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320987771488,
+          "parent_str": "320987771488",
+          "ctime": 1792224199,
+          "like": 8,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @浪的可悲 :我只是在致敬最不爱造谣最不会双标的玩家[汤圆]",
+            "emote": {
+              "[汤圆]": {
+                "id": 5936,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[汤圆]",
+                "url": "https://i0.hdslb.com/bfs/emote/93609633a9d194cf336687eb19c01dca95bde719.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    "汤圆",
+                    "元宵节",
+                    "汤团"
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "汤圆"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320988499664,
+          "rpid_str": "320988499664",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320987902368,
+          "parent_str": "320987902368",
+          "ctime": 1792224354,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0ecdbb39509d0b3e2134c03f",
+          "content": {
+            "message": "回复 @浪的可悲 :我可没串我只是把库洛的口号说了出来而已[doge]而且这个随便查库洛拯救人类库洛还专门用这个口号注册了公司和商标",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320990822336,
+          "rpid_str": "320990822336",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320986744512,
+          "parent_str": "320986744512",
+          "ctime": 1792225871,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :你自己心里明白你在发布什么内容，能天天和啥子较劲但连自己在干嘛都不知道[原神_喝茶]串得多了就不是单单随口说说了，自己说啥子言论很乐但忘了乐从自己身上来的",
+            "emote": {
+              "[原神_喝茶]": {
+                "id": 4263,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[原神_喝茶]",
+                "url": "https://i0.hdslb.com/bfs/emote/1de5789fbb3526ef7823c54db7081790a38e7044.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喝茶"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320990867984,
+          "rpid_str": "320990867984",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320986744512,
+          "parent_str": "320986744512",
+          "ctime": 1792225953,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :两年前我问你发这种视频的意义在哪，你的自娱自乐丝毫改变不了什么，无论是魔怔米社区还是你自己"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320992885728,
+          "rpid_str": "320992885728",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320990867984,
+          "parent_str": "320990867984",
+          "ctime": 1792227148,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @bili_20726956291 :意思是我说原神现在水温低是错误的？能不能别抛开视频内容不谈直接各种扣帽子？意思是其他博主夸原神也是错误的？"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320994388880,
+          "rpid_str": "320994388880",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320992885728,
+          "parent_str": "320992885728",
+          "ctime": 1792228087,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :哦抱歉是我没说清楚，我是说那些纯良米友给友商展示我们圆神的视频，我的问题\n我扣了什么帽子"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320994798448,
+          "rpid_str": "320994798448",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320992885728,
+          "parent_str": "320992885728",
+          "ctime": 1792228382,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :或者说是你这种八竿子打不着关系的说着很乐的语言系统，你应该知道你很多视频针对的群体不会来点开看你的视频，受众主要一个是鸣潮节奏区的，另一个就是真·纯良玩家。论串的技术，我认可你可以媲美雨和泯，但我从你这反复看到的视频内容只是空虚的壳子和你颓废的娱乐方式"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320995107456,
+          "rpid_str": "320995107456",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320992885728,
+          "parent_str": "320992885728",
+          "ctime": 1792228521,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :尤其是在你把很多应该去认真体验的游戏内容阴阳化后，你似乎在无意中贬低了很多本来不该被曲解的内容"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320995594320,
+          "rpid_str": "320995594320",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320992885728,
+          "parent_str": "320992885728",
+          "ctime": 1792228831,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :我只是想要一个你创作这种视频的理由，而非不经思考自找的补充，你不在意明确一言既出后果的责任边界，在我看来很自私"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320996980928,
+          "rpid_str": "320996980928",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320995594320,
+          "parent_str": "320995594320",
+          "ctime": 1792229609,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @bili_20726956291 :你依旧是在抛开我视频内容扣帽子，如果你任何我视频中有任何具体的内容有错误不符合游戏中的客观事实，你可以直接截图例举出来然后指正错误让我做出修改，之前鸣潮玩家认为我视频标题有错误我可以改正，同样原神玩家认为我视频内容有任何错误我也可以改正"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320997176960,
+          "rpid_str": "320997176960",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320995594320,
+          "parent_str": "320995594320",
+          "ctime": 1792229710,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @bili_20726956291 :鸣潮视频中我的态度是对于鸣潮要做到有理有据实事求是具体问题具体分析，对于原神我也是同样的态度，我希望如果你认为我视频有错误，可以实事求是具体例举出来"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320997864832,
+          "rpid_str": "320997864832",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320996980928,
+          "parent_str": "320996980928",
+          "ctime": 1792230059,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :这不就是你串的高明之处吗，都是映射暗示的个人观点啊我的能力反驳不出是非对错的，我反驳也是我的体验看法，我没有用三言两语就改变你看法的能力"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320997819616,
+          "rpid_str": "320997819616",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320996980928,
+          "parent_str": "320996980928",
+          "ctime": 1792230114,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :客观事实只能靠你描述一个内容，全程哇哇哇的我怎么看客观事实"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320998259696,
+          "rpid_str": "320998259696",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320996980928,
+          "parent_str": "320996980928",
+          "ctime": 1792230320,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :本质上你可以看作只是我不喜欢长期串来串去的形式，偶尔在评论区串两下活跃气氛无可厚非，我不知道长期沉浸在自己空虚的艺术里有哪些功能"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320999663008,
+          "rpid_str": "320999663008",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320998259696,
+          "parent_str": "320998259696",
+          "ctime": 1792231128,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @bili_20726956291 :所以为什么非要抛开视频内容不谈呢？副本水温低就是低，水温高就是高，梦见月身为免费送的常驻就是打的非常轻松，芙宁娜现如今就是没有逆环境执法的能力，你觉着我陈述这些事实是在串？意思是这期水温高，梦见月很拉胯，芙宁娜依旧T0才是真正的玩家说出来的话？"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320999852256,
+          "rpid_str": "320999852256",
+          "root": 320986011280,
+          "root_str": "320986011280",
+          "parent": 320997176960,
+          "parent_str": "320997176960",
+          "ctime": 1792231175,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b12e5a6686f145889e60f42",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :你可以再看一遍我前面发的，你的理由补充多为自找，你可以欺骗自己在不主动接收外在不同信息而凭自认为充足的理由来“有理有据”；因为你的“有理有据”和“具体分析”，视频里出现了大量八竿子打不着干系的言论，我的重点只是在你自己塑造一个自己印象中虚假的空壳，发布视频试图寻求共鸣，但最重要的是无论原神还是鸣潮本身的内容被你部分淡化了，说简单点，你在想象一个乐子陪你玩"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320986011280,
+        "rpid_str": "320986011280",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792222745,
+        "like": 4,
+        "rcount": 34,
+        "count": 40,
+        "state": 0,
+        "author_id": "U_6721974bfa5f94556ff2d28f",
+        "content": {
+          "message": "up说我删除评论了，那我一定要发一下了[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0a32b8f87a50f0b5040365741651f3201950311614.png",
+              "img_width": 1170,
+              "img_height": 2532,
+              "img_size": 894
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/79d767399a189eb92b043ed8a37e43b81950311614.png",
+              "img_width": 1170,
+              "img_height": 2532,
+              "img_size": 877
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "d2fb9e7a38f5dd53d591eb8ce2c05b29cb7eecb1b4a83673666aef41de65e1fa",
+  "original_bytes_sha256": "57ddc6688662b38cdf06b512ce197d50223b89d741eccafc302d168964c5bead",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

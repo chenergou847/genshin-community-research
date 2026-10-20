@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318947122656",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:33:31.205707+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315390586129,
+          "rpid_str": "315390586129",
+          "root": 318947122656,
+          "root_str": "318947122656",
+          "parent": 318947122656,
+          "parent_str": "318947122656",
+          "dialog": 315390586129,
+          "ctime": 1790627758,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_88fab5da93d98071cd00aff6",
+          "content": {
+            "message": "N4没难度啊，不确定就直接找大佬联机邦邦"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315391479393,
+          "rpid_str": "315391479393",
+          "root": 318947122656,
+          "root_str": "318947122656",
+          "parent": 318947122656,
+          "parent_str": "318947122656",
+          "dialog": 315391479393,
+          "ctime": 1790631326,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db8eea24bd4f6cc7ebb7df86",
+          "content": {
+            "message": "N4的dps需求约等于N5的70%，难度和深渊12层相当"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318949509504,
+          "rpid_str": "318949509504",
+          "root": 318947122656,
+          "root_str": "318947122656",
+          "parent": 318947122656,
+          "parent_str": "318947122656",
+          "dialog": 318949509504,
+          "ctime": 1790633886,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_513cb1fc7e2e6e8ac6894785",
+          "content": {
+            "message": "N4找大佬，你进去只需要做的是点开挑战[脱单doge]",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318947122656,
+        "rpid_str": "318947122656",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790626237,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_e212d2e840fbd3a4eb0e60da",
+        "content": {
+          "message": "虽然这个问题可能很蠢，但是我问问N4要多少dps啊，我听说队伍完整练度正常就行，入坑一年刚凑齐三个队，不知道能不能打过[蹲蹲]",
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ab21aade6e39e5f7f20f9c0256ea9444690585abbf673adb606d28d7bd0c8641",
+  "original_bytes_sha256": "dda9fb2b71f48e00d5a2f5694c7073f7115b327595367e293e85d4ba3793702c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

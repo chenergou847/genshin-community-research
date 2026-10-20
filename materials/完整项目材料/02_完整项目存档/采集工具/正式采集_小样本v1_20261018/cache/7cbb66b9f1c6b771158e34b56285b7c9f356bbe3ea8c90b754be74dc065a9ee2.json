@@ -1,0 +1,127 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "320978155600",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:52:46.891282+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320978483824,
+          "rpid_str": "320978483824",
+          "root": 320978155600,
+          "root_str": "320978155600",
+          "parent": 320978155600,
+          "parent_str": "320978155600",
+          "ctime": 1792217853,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_825f8d2dd10f59262ef231d9",
+          "content": {
+            "message": "爱国爱党爱人民，世界人民大团结[呲牙]",
+            "emote": {
+              "[呲牙]": {
+                "id": 1902,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[呲牙]",
+                "url": "https://i0.hdslb.com/bfs/emote/b5a5898491944a4268360f2e7a84623149672eb6.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "呲牙"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320979229536,
+          "rpid_str": "320979229536",
+          "root": 320978155600,
+          "root_str": "320978155600",
+          "parent": 320978155600,
+          "parent_str": "320978155600",
+          "ctime": 1792218335,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_96f363753f4c11ed2fa18342",
+          "content": {
+            "message": "越看越红[点赞]",
+            "emote": {
+              "[点赞]": {
+                "id": 25,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[点赞]",
+                "url": "https://i0.hdslb.com/bfs/emote/1a67265993913f4c35d15a6028a30724e83e7d35.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "点赞"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320978155600,
+        "rpid_str": "320978155600",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792217783,
+        "like": 12,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_629b76986d9d440c50b57d47",
+        "content": {
+          "message": "省流：原神才是无产阶级应该玩的好游戏"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "40035f50557cefe6828eee4997ab5dcdf9c0b54b7e385a6021530f3ca239d83a",
+  "original_bytes_sha256": "f1637f6f102fe214a45d24e03c696cc109ca663495f8077c758149764b3a57e6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

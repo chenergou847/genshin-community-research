@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "320981135264",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:52:05.490581+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320981309040,
+          "rpid_str": "320981309040",
+          "root": 320981135264,
+          "root_str": "320981135264",
+          "parent": 320981135264,
+          "parent_str": "320981135264",
+          "ctime": 1792219686,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "能"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320981135264,
+        "rpid_str": "320981135264",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792219606,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_5db4bf258e131254d350a9c5",
+        "content": {
+          "message": "学长能开播帮我打深渊吗"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "e68be1396fc6d48fa4954657a5013996e293d8fa43e8fd6248c4721cb801647c",
+  "original_bytes_sha256": "e8702fb92304d545f87f2799fcf354ce3523eeb872976653cc4fccf907afb82b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

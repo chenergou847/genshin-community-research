@@ -1,0 +1,210 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319530923168",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:01:26.513708+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315953154945,
+          "rpid_str": "315953154945",
+          "root": 319530923168,
+          "root_str": "319530923168",
+          "parent": 319530923168,
+          "parent_str": "319530923168",
+          "dialog": 315953154945,
+          "ctime": 1791076673,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_160e0be4d077dade9311d55d",
+          "content": {
+            "message": "糊涂啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315958262449,
+          "rpid_str": "315958262449",
+          "root": 319530923168,
+          "root_str": "319530923168",
+          "parent": 319530923168,
+          "parent_str": "319530923168",
+          "dialog": 315958262449,
+          "ctime": 1791080276,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_210f6c48ba9c56fc0aa07fb5",
+          "content": {
+            "message": "那你就继续懒下去退游吧[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319553677408,
+          "rpid_str": "319553677408",
+          "root": 319530923168,
+          "root_str": "319530923168",
+          "parent": 319530923168,
+          "parent_str": "319530923168",
+          "dialog": 319553677408,
+          "ctime": 1791088140,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a010efefb3157f856d57ebe7",
+          "content": {
+            "message": "慢慢玩就行，没有很需要强度的话"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316015288241,
+          "rpid_str": "316015288241",
+          "root": 319530923168,
+          "root_str": "319530923168",
+          "parent": 319530923168,
+          "parent_str": "319530923168",
+          "dialog": 316015288241,
+          "ctime": 1791113171,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b651890db71a181a28b0d890",
+          "content": {
+            "message": "懒狗的胜利"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319530923168,
+        "rpid_str": "319530923168",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791073920,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_dec6621bab9ba13fcbdd2ceb",
+        "content": {
+          "message": "但是我的01天鹅到现在都还没养，懒得开图[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/15609ce91c95d54c202dccf3f71166be1974004001.jpg",
+              "img_width": 720,
+              "img_height": 1600,
+              "img_size": 449.84
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "93dbe4f09d98ca4d9a0c3bb2201e27be315d11c46b33b47e6c55045cc19f22a9",
+  "original_bytes_sha256": "14b3cfc72d071aa29b3f05df77c7970df2341708c26b66d3fb057891b86e6542",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

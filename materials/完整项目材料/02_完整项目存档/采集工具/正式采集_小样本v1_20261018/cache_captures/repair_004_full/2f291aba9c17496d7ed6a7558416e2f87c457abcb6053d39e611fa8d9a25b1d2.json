@@ -1,0 +1,112 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320871707200",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:40:16.342448+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320871713712,
+          "rpid_str": "320871713712",
+          "root": 320871707200,
+          "root_str": "320871707200",
+          "parent": 320871707200,
+          "parent_str": "320871707200",
+          "ctime": 1792136274,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3a3eaf0496489120c3a17048",
+          "content": {
+            "message": "我大概很快就会忘记你吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320871707200,
+        "rpid_str": "320871707200",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792136259,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_3a3eaf0496489120c3a17048",
+        "content": {
+          "message": "真是一场酣畅淋漓的战斗啊[嘘声]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f89ec32da617ac4312ae54bd72e9a2d23546854660770237.jpg",
+              "img_width": 2664,
+              "img_height": 1200,
+              "img_size": 1042.22,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[嘘声]": {
+              "id": 31,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[嘘声]",
+              "url": "https://i0.hdslb.com/bfs/emote/e64af664d20716e090f10411496998095f62f844.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "嘘声"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "d65f7c5ce5fba05d6ea00e95501d1836bc38a568393444fef701cf190154f1a2",
+  "original_bytes_sha256": "abf3a73a997bb60654a24960916b77a1120f745721c5a4a99b039535b47efb8b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

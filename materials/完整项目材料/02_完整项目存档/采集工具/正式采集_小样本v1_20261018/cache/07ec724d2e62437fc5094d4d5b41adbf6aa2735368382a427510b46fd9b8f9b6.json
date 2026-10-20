@@ -1,0 +1,188 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314959941361",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:19:14.308498+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314962027825,
+          "rpid_str": "314962027825",
+          "root": 314959941361,
+          "root_str": "314959941361",
+          "parent": 314959941361,
+          "parent_str": "314959941361",
+          "dialog": 314962027825,
+          "ctime": 1790286150,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d872fa32796577e0da675a0e",
+          "content": {
+            "message": "接下來米提亞也是超導，接著就是女皇了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314962894929,
+          "rpid_str": "314962894929",
+          "root": 314959941361,
+          "root_str": "314959941361",
+          "parent": 314959941361,
+          "parent_str": "314959941361",
+          "dialog": 314962894929,
+          "ctime": 1790288622,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d62341bc213e927c77b798f7",
+          "content": {
+            "message": "够了够了，肯定够了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318500039776,
+          "rpid_str": "318500039776",
+          "root": 314959941361,
+          "root_str": "314959941361",
+          "parent": 314959941361,
+          "parent_str": "314959941361",
+          "dialog": 318500039776,
+          "ctime": 1790291513,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1282714997b158f613731005",
+          "content": {
+            "message": "20+00吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315020971745,
+          "rpid_str": "315020971745",
+          "root": 314959941361,
+          "root_str": "314959941361",
+          "parent": 318500039776,
+          "parent_str": "318500039776",
+          "dialog": 318500039776,
+          "ctime": 1790329789,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e498376ecb01689b706d3d6e",
+          "content": {
+            "message": "回复 @我是一条吐泡泡的鱼 :11+00"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318559203200,
+          "rpid_str": "318559203200",
+          "root": 314959941361,
+          "root_str": "314959941361",
+          "parent": 315020971745,
+          "parent_str": "315020971745",
+          "dialog": 318500039776,
+          "ctime": 1790329846,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1282714997b158f613731005",
+          "content": {
+            "message": "回复 @AAA金雷竹批发韩仙师 :我是01+01，打算天赋拉满了再去测测，现在在21w挣扎..."
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314959941361,
+        "rpid_str": "314959941361",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790279487,
+        "like": 0,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_e498376ecb01689b706d3d6e",
+        "content": {
+          "message": "老头星扩散dps要求是多少？打桩的24万够吗？薇沃四个金已经花了我400来抽了，再打不过就太不值，反正我没抽木偶等扩散现在已经后悔死了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "acc31b0017f68fd5fc61b6ba9797e04775ccd23a0fd35eafd696a8c70fa54b40",
+  "original_bytes_sha256": "b0d00112ee906f16236ddcbeba7ceb4d32c9577cb37a5b312d4c459688fdf6ea",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

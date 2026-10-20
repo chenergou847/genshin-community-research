@@ -1,0 +1,99 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317227472177",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:08:48.251135+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317281081489,
+          "rpid_str": "317281081489",
+          "root": 317227472177,
+          "root_str": "317227472177",
+          "parent": 317227472177,
+          "parent_str": "317227472177",
+          "ctime": 1792180859,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_50ae904867e09409cbf6aa97",
+          "content": {
+            "message": "梦见月确实牛逼 我没有奥黛塔伤害都很高[阿梓从小就很可爱新装扮_拜托]",
+            "emote": {
+              "[阿梓从小就很可爱新装扮_拜托]": {
+                "id": 9197,
+                "package_id": 517,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[阿梓从小就很可爱新装扮_拜托]",
+                "url": "http://i0.hdslb.com/bfs/emote/55d3887afa6d03a849c67abaf5f7041d74d3a16a.png",
+                "meta": {
+                  "size": 2,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1664437264,
+                "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=38639&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+                "jump_title": "拜托"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317227472177,
+        "rpid_str": "317227472177",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792142792,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9e5e8a3ddf669fb31dc08b30",
+        "content": {
+          "message": "这个号第一次满星",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9119f0f0f3ca4b624e1647c927ad64af1287421657.jpg",
+              "img_width": 720,
+              "img_height": 1610,
+              "img_size": 573.65
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "9eda8b735b85c57c1b2410bf5bf02648296bd0caa31b1226596889937f57d2df",
+  "original_bytes_sha256": "564edeece6b951b25c5177092b14239ccb2093f2f6dacd47f6a3d1783e5755d2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

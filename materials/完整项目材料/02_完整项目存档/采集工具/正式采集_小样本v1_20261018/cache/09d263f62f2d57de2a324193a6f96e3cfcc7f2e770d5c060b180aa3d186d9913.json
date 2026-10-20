@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319066177680",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:17:58.706912+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319066133504,
+          "rpid_str": "319066133504",
+          "root": 319066177680,
+          "root_str": "319066177680",
+          "parent": 319066177680,
+          "parent_str": "319066177680",
+          "dialog": 319066133504,
+          "ctime": 1790736144,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_38fe9bf95c6154e9bff689ee",
+          "content": {
+            "message": "没超载队，没夏沃蕾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319066177680,
+        "rpid_str": "319066177680",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790736071,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_38fe9bf95c6154e9bff689ee",
+        "content": {
+          "message": "大佬，感觉有点极限，怎么分配呀（火神没专）",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/66b164e84587f9b77d695044beafd565571539220.jpg",
+              "img_width": 1260,
+              "img_height": 5025,
+              "img_size": 1381.83,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a1ce04f49ddd8fdfbc8d55514a2818a62b928375d83258a9f4d9c17fcec44ad1",
+  "original_bytes_sha256": "785edef442c0c892c1f722112598bde0e3866f28cbeec8406e8e6c631a676a86",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

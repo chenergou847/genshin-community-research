@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315063342049",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:00:00.440096+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315063342049,
+        "rpid_str": "315063342049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790353912,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_10fd5a1932447491f93a20f6",
+        "content": {
+          "message": "这个box怎么打冰锅啊[委屈]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d17a382492d48d0ca4b6139a80c06990503861896.jpg",
+              "img_width": 720,
+              "img_height": 1604,
+              "img_size": 645.91
+            }
+          ],
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "038393cd9e382bac4e955846fb69a3e9a8d6fed6f0c88066806bd38fe0fac662",
+  "original_bytes_sha256": "10e1a9e64ec36e8f71734630377e216f0b3b1d4b14d93c52f02a1b1e18be7db3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

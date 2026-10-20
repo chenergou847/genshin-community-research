@@ -1,0 +1,93 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318444280272",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:29:01.787802+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318444280272,
+        "rpid_str": "318444280272",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790244666,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_c30828a31942f81416974e05",
+        "content": {
+          "message": "我这个打的了n6吗，绿玩的话",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dcfdf11a9ecc10fa33804a0741bd5b84363170421.jpg",
+              "img_width": 1264,
+              "img_height": 2780,
+              "img_size": 1056.14
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8ace4b63ea8f771bd7003e685f83ff87363170421.jpg",
+              "img_width": 1264,
+              "img_height": 2780,
+              "img_size": 726.56
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/013e88a07bade459ea01b28ba6f7a8c7363170421.jpg",
+              "img_width": 1264,
+              "img_height": 2780,
+              "img_size": 999.66
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/51013519c472ba67302c3c8454915bee363170421.jpg",
+              "img_width": 1264,
+              "img_height": 2780,
+              "img_size": 1121.96
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "923bf1b270f5bd59a6c9039a38b8bcbc77de179579cd9eb6ec664af4bba86f7d",
+  "original_bytes_sha256": "9e8fbc13b6f55634663fd8e6421002d987f03cdb838e00b12fc51839d9ed0008",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

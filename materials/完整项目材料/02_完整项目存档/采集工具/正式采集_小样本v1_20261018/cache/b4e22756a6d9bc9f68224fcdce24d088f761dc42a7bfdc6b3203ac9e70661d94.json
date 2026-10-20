@@ -1,0 +1,154 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318960468624",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:32:09.766222+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315403079665,
+          "rpid_str": "315403079665",
+          "root": 318960468624,
+          "root_str": "318960468624",
+          "parent": 318960468624,
+          "parent_str": "318960468624",
+          "dialog": 315403079665,
+          "ctime": 1790648279,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间00偶00奥不够N6\n第二间菲林斯队带个冰系，比如莱依拉，\n第三间火神战舰"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318962000352,
+          "rpid_str": "318962000352",
+          "root": 318960468624,
+          "root_str": "318960468624",
+          "parent": 318960468624,
+          "parent_str": "318960468624",
+          "dialog": 318962000352,
+          "ctime": 1790648715,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_78858a988fd86dc51c34d2fc",
+          "content": {
+            "message": "没事，我试试解帧。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318964699296,
+          "rpid_str": "318964699296",
+          "root": 318960468624,
+          "root_str": "318960468624",
+          "parent": 315403079665,
+          "parent_str": "315403079665",
+          "dialog": 315403079665,
+          "ctime": 1790650984,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_78858a988fd86dc51c34d2fc",
+          "content": {
+            "message": "回复 @星光璀璨之时 :刚刚用兼容模式60帧试了下，偶八奥希19.3万DPS能过吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318960468624,
+        "rpid_str": "318960468624",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790647520,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_78858a988fd86dc51c34d2fc",
+        "content": {
+          "message": "可以打下期n6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7fea7d522340d9d96f0028c1151dac543546890687744424.jpg",
+              "img_width": 1260,
+              "img_height": 11729,
+              "img_size": 1500.19
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dc46c8215671516e2461be39c5a9b0873546890687744424.jpg",
+              "img_width": 2800,
+              "img_height": 1260,
+              "img_size": 1312.24
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "41279ce69883995213fbd76d26ec36da3de617e2f21986e42675c22e07e52c92",
+  "original_bytes_sha256": "03f99a0e50f1b2942e8096ec0e67440fe0100c85cb56a6de36f56768395bf75b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

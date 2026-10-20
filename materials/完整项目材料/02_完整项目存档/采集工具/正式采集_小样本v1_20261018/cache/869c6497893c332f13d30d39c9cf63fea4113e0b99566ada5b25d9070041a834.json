@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315472583297",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:25:20.608673+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315477051473,
+          "rpid_str": "315477051473",
+          "root": 315472583297,
+          "root_str": "315472583297",
+          "parent": 315472583297,
+          "parent_str": "315472583297",
+          "dialog": 315477051473,
+          "ctime": 1790697937,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "梦见月奥黛塔珐露珊+沃雅妮莎"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315477086369,
+          "rpid_str": "315477086369",
+          "root": 315472583297,
+          "root_str": "315472583297",
+          "parent": 315472583297,
+          "parent_str": "315472583297",
+          "dialog": 315477086369,
+          "ctime": 1790698001,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间菲林斯少女+久岐忍+莱依拉"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315477149089,
+          "rpid_str": "315477149089",
+          "root": 315472583297,
+          "root_str": "315472583297",
+          "parent": 315472583297,
+          "parent_str": "315472583297",
+          "dialog": 315477149089,
+          "ctime": 1790698028,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间法尔伽尼可杜林+班尼特。或者一命仆人希诺宁班尼特万叶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315472583297,
+        "rpid_str": "315472583297",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790695133,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_80d1b6942b47ce4588423e22",
+        "content": {
+          "message": "已三连，求问n5怎么配队",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b2d50539a2e48c4e2e90bd5be77a44d6159410160.jpg",
+              "img_width": 1080,
+              "img_height": 11731,
+              "img_size": 1440.33
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "192b4328dbc2dd6d3db702d8cc3317c016136ec13ca50cd5d0dbb7f1d9e15fee",
+  "original_bytes_sha256": "5144cd8da2e042fa2e4966b77b815954ebd23929c11952af68ade984a85ec0b9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

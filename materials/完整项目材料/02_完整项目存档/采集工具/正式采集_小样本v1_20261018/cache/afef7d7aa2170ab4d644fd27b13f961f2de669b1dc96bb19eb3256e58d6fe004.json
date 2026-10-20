@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315006749489",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:07:10.698952+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315009226065,
+          "rpid_str": "315009226065",
+          "root": 315006749489,
+          "root_str": "315006749489",
+          "parent": 315006749489,
+          "parent_str": "315006749489",
+          "dialog": 315009226065,
+          "ctime": 1790322474,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶，第二间仆人肯定能打呀，又没影响才700多万。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315009112209,
+          "rpid_str": "315009112209",
+          "root": 315006749489,
+          "root_str": "315006749489",
+          "parent": 315006749489,
+          "parent_str": "315006749489",
+          "dialog": 315009112209,
+          "ctime": 1790322505,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间仆人超载，纯火都能打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315009266609,
+          "rpid_str": "315009266609",
+          "root": 315006749489,
+          "root_str": "315006749489",
+          "parent": 315006749489,
+          "parent_str": "315006749489",
+          "dialog": 315009266609,
+          "ctime": 1790322554,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间冰主奥黛塔队星超导都能过。第二间木偶也可以打。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315012318785,
+          "rpid_str": "315012318785",
+          "root": 315006749489,
+          "root_str": "315006749489",
+          "parent": 315009266609,
+          "parent_str": "315009266609",
+          "dialog": 315009266609,
+          "ctime": 1790324551,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_11568b666871dd2a2c04eed0",
+          "content": {
+            "message": "回复 @星光璀璨之时 :好的，谢谢，已点赞投币"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315006749489,
+        "rpid_str": "315006749489",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790320814,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_11568b666871dd2a2c04eed0",
+        "content": {
+          "message": "N5能过吗？之前我冰锅n5拿的是仆人打的，现在还能打不？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/61a1b5c1bb721a803903a232d93d2c5d526288173.jpg",
+              "img_width": 1260,
+              "img_height": 14326,
+              "img_size": 1837.2
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "98647e1178c297bc0ad1e6dce1b2b0676c9adddf4e7e524120cd1ec4c695d727",
+  "original_bytes_sha256": "67d262ff4cc4d49c1c53a7e3c0c5b0cc4ca44b631ecd3153bce42a19ab0f3158",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

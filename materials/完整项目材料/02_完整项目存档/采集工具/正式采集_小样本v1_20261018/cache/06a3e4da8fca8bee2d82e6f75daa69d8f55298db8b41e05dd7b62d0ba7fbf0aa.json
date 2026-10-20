@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319311182816",
+    "pn": 5,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:13:30.873650+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 5,
+        "size": 20,
+        "count": 66
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319311182816,
+        "rpid_str": "319311182816",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790916712,
+        "like": 52,
+        "rcount": 66,
+        "count": 69,
+        "state": 0,
+        "author_id": "U_ca6a8abb74e6c458d30654d6",
+        "content": {
+          "message": "4梦给他00奥沃6珐，能打过n5第一间吗，我圣遗物没换带精3草专1200精通的风套，第三间我没人能打，牛没练完，第三间我打算用木偶去打"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6e3db1d4d6a508de4e33cc9ab8e6d018e9a2d2f4d1dbb34516cb26ee5e6181a4",
+  "original_bytes_sha256": "272e85afa7f89df5f52816e635a1295a93749117c89ff0dd703ddab587420b07",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

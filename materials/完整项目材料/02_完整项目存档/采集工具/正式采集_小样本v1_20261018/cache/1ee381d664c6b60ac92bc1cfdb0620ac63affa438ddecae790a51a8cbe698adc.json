@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315794285809",
+    "pn": 6,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:10:04.798307+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 6,
+        "size": 20,
+        "count": 82
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315794285809,
+        "rpid_str": "315794285809",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790946818,
+        "like": 91,
+        "rcount": 82,
+        "count": 90,
+        "state": 0,
+        "author_id": "U_ee64f1b7dedff0fd2a40f301",
+        "content": {
+          "message": "感觉奥小妹拿的伊涅芙剧本啊[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fe7913cd0c1536342aa3e9e30b543814a40b30229293ddba751376bd39250e2d",
+  "original_bytes_sha256": "5185e3ef8936738613a2988ddba39b6fcbb31b0a40b985f086f3b135b3fc47e3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

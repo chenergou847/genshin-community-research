@@ -1,0 +1,96 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318979629648",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:29:23.229367+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318979629648,
+        "rpid_str": "318979629648",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790661068,
+        "like": 0,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_b774b70cb366548274db38c5",
+        "content": {
+          "message": "up这些能打n5吗[打call]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/451aba21a680ad9f8f863ea7fd6af9b71105639128.jpg",
+              "img_width": 1179,
+              "img_height": 12441,
+              "img_size": 3343,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[打call]": {
+              "id": 510,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[打call]",
+              "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "打call"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c05bcee84caff21c0b9e8898a5461b585edf2b664e769f860439c8c0b13e915d",
+  "original_bytes_sha256": "53fcd1fd9b0808d806197b7b2d04f86e89625d44038f9be0c0a6741fca421937",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

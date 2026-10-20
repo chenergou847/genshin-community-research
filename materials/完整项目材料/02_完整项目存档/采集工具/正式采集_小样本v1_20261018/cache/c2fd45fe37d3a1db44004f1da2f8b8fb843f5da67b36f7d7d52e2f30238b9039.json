@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319019215824",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:26:20.805542+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319019215824,
+        "rpid_str": "319019215824",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790687313,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b70e588d5f7ac4654f75b590",
+        "content": {
+          "message": "能不能n7啊。恰有一套风套。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c18979e0edb070823c5fc3985e74b0c9353707537.jpg",
+              "img_width": 1200,
+              "img_height": 14537,
+              "img_size": 1853.46,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1b313c572fda4c4404a32b4f7ab5fbc194101749738ab35353585beaabed0219",
+  "original_bytes_sha256": "2e55493c84a6c41428c627a7cc81e2adcb9f379ec92fbff584e36ebcb3a5215a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

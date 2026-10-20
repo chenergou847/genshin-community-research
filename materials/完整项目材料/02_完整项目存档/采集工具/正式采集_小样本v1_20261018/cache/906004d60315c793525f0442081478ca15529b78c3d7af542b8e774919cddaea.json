@@ -1,0 +1,138 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315850123521",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:05:48.425472+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319431946912,
+          "rpid_str": "319431946912",
+          "root": 315850123521,
+          "root_str": "315850123521",
+          "parent": 315850123521,
+          "parent_str": "315850123521",
+          "dialog": 319431946912,
+          "ctime": 1791002043,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7f1331448232519c0ebdd425",
+          "content": {
+            "message": "这张像印度阿三[笑哭][笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315850123521,
+        "rpid_str": "315850123521",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790998604,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_92d542153a7c175708ad3abc",
+        "content": {
+          "message": "[笑]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/532f121c30c60f312459848ca2e1219a3546919928334453.jpg",
+              "img_width": 1500,
+              "img_height": 2280,
+              "img_size": 1679.13
+            }
+          ],
+          "emote": {
+            "[笑]": {
+              "id": 1958,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑]",
+              "url": "https://i0.hdslb.com/bfs/emote/81edf17314cea3b48674312b4364df44d5c01f17.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8ac74f53d69f5be7c7854d8f922d33d83dc1923f26780a6e2cd485a3b92299ce",
+  "original_bytes_sha256": "003683b6c718475010cbfb27c9f1b4a54d9c53d0431f985b040fa17f0b8f7c8b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

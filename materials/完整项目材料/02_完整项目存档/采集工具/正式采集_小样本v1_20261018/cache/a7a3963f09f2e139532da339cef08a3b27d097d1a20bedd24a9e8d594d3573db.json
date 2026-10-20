@@ -1,0 +1,125 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315365191841",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:37:17.318601+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315380207265,
+          "rpid_str": "315380207265",
+          "root": 315365191841,
+          "root_str": "315365191841",
+          "parent": 315365191841,
+          "parent_str": "315365191841",
+          "dialog": 315380207265,
+          "ctime": 1790612008,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "薇斯纳打老头。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315365191841,
+        "rpid_str": "315365191841",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790602710,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_0e2d9890af1ca1efe132d5b9",
+        "content": {
+          "message": "这俩那个能过啊[三花猫]有没有大佬帮看一下",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9bfbf83f976b273064f9d78a447f37893493089264011482.jpg",
+              "img_width": 2049,
+              "img_height": 1280,
+              "img_size": 195.99
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/db7a307c72f7ca02d339f9a471e849793493089264011482.jpg",
+              "img_width": 2049,
+              "img_height": 1280,
+              "img_size": 202.75
+            }
+          ],
+          "emote": {
+            "[三花猫]": {
+              "id": 114238,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[三花猫]",
+              "url": "https://i0.hdslb.com/bfs/emote/3a36c1f88956996b31a835c13041f4d505f2e2e0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1751436738,
+              "jump_title": "三花猫"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a8d958bf57afc316d13d449ef9a7fb37c082891e2585e3f7ae1a8ec184688182",
+  "original_bytes_sha256": "e4f089f4c8aec3db6286510aeb429f476d226958147d8559f2f30360fcd166dc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

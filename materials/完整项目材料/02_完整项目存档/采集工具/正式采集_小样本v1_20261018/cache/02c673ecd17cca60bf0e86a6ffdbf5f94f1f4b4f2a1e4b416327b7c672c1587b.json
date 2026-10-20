@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319785566944",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:26:52.245530+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319785566944,
+        "rpid_str": "319785566944",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791252439,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_0e7aa84682d70bb5a683d596",
+        "content": {
+          "message": "说出来不怕大家笑，打这期前两关的散喵+第三关镇守给我打红温了，找了代打\n上来就说选错了关不好打，然后开始说为什么不用好友的C助战，后面刷列表时抱怨很多四星的技能等级只点到188、水神没命座、薇斯纳专武凸了不留……但我这也不存在打不过去和难打的问题吧？\n很不舒服，不知道这样说是能提现他技术好还是为了让气氛更热闹。已拉黑，其实上次就该拉黑，一直反复念叨我把精5蛇专给菈精2蛇专给奈是什么心理\n尤其昨天又刷到一个up哭诉：免费给人打，打完立刻取关，旱的旱死涝的涝死",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d4d6d3954196631e1acaffa0ec139e7a4269907.jpg",
+              "img_width": 1080,
+              "img_height": 1244,
+              "img_size": 772.82
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3c91d929ff1b1c8541c726a4f081e32083c155daa7da5f826bb286889322b958",
+  "original_bytes_sha256": "bbc1b15d5cc7a7691f2a44313d1de51e0f93d728774dd8bf7642109be070a532",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

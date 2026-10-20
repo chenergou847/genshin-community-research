@@ -1,0 +1,126 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315382459089",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:34:55.216286+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315401163617,
+          "rpid_str": "315401163617",
+          "root": 315382459089,
+          "root_str": "315382459089",
+          "parent": 315382459089,
+          "parent_str": "315382459089",
+          "dialog": 315401163617,
+          "ctime": 1790646478,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "火神尼可奥黛塔砂糖。\n丝柯克战舰\n菲林斯队四号位代表冰主"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315401165025,
+          "rpid_str": "315401165025",
+          "root": 315382459089,
+          "root_str": "315382459089",
+          "parent": 315382459089,
+          "parent_str": "315382459089",
+          "dialog": 315401165025,
+          "ctime": 1790646482,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色，你这配置已经够牛了。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315382459089,
+        "rpid_str": "315382459089",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790613825,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_1a72f6a773a6b1a526ac4f30",
+        "content": {
+          "message": "有180的风险吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/47f707ae0c6c293f146f7a559ba3c9511682108955.jpg",
+              "img_width": 1080,
+              "img_height": 11325,
+              "img_size": 1383.22,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3cbe059b1c09629650d59be438fbb06975c4549e0a093c56cf6cf81f1af4ff5b",
+  "original_bytes_sha256": "e6a04d4124b69945087fd39d1e364d7366519f7ad1f80b6db1d9117cdbce21b4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

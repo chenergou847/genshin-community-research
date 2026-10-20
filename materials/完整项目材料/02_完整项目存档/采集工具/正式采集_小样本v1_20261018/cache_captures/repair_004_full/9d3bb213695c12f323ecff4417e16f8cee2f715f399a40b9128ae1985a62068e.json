@@ -1,0 +1,78 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317212861841",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:41:31.816096+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 9
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317212861841,
+        "rpid_str": "317212861841",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792131517,
+        "like": 11,
+        "rcount": 9,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_164bdfb1340a91e06d846c49",
+        "content": {
+          "message": "01skk一个大带走满血三色使徒，有没有懂的[嘟嘟]",
+          "emote": {
+            "[嘟嘟]": {
+              "id": 3303,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[嘟嘟]",
+              "url": "https://i0.hdslb.com/bfs/emote/abd7404537d8162720ccbba9e0a8cdf75547e07a.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "嘟嘟"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "0a2fec9a25a8854d69ca2c944bfb32dc57d6172c1773805857fde434325eb34b",
+  "original_bytes_sha256": "cac652743dfd3d1672aeb04a9af6ef4f78dc1bb3c5bf9281875d321c6e734f30",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

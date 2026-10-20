@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314946964801",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:22:19.192394+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314946964801,
+        "rpid_str": "314946964801",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790264924,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_ef10026321d9f08de0358b97",
+        "content": {
+          "message": "怎么把奥黛塔掰成两个用啊，我星扩散和星超导都要用"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "622fb05e29318d828dcdf90412d9fc36cd399b82e48e379c4eafb744525903b9",
+  "original_bytes_sha256": "19c30d79ee6d58ebf57641a0e01192bcfc03019d1c3afecd8757ef0a609174fa",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

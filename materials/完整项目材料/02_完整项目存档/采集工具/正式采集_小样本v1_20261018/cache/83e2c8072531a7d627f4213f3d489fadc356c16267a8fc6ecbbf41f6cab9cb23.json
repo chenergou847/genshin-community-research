@@ -1,0 +1,123 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320841284272",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:15:38.674571+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320842800208,
+          "rpid_str": "320842800208",
+          "root": 320841284272,
+          "root_str": "320841284272",
+          "parent": 320841284272,
+          "parent_str": "320841284272",
+          "ctime": 1792115403,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0496e749672f0763cd9ba6a1",
+          "content": {
+            "message": "羡慕啊，就这点原石，扔进卡池里，浪花都没起[笑哭]还得垫",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320841284272,
+        "rpid_str": "320841284272",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792114062,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_f14fd0ddd20f005eacf3a3d7",
+        "content": {
+          "message": "谢谢你，深渊，2命了[doge][doge][doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d8bc50b815380d45dc107d27824d3d211627010211.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1042.2
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e3e2a1ab2f84e29d2a6472870831bfa1627010211.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1148.22
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "d81cb9775778e904345726cd9716fa1dc3183e04575b814a2641bde832d3a832",
+  "original_bytes_sha256": "06bf392a0a06b8d44308297bf4fb44423404408533623f0aac90f705ceb03cb2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

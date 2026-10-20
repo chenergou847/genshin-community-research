@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318775842640",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:49:14.163073+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318775842640,
+        "rpid_str": "318775842640",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790490205,
+        "like": 0,
+        "rcount": 8,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_e73a8b1ed1effa802f3ab768",
+        "content": {
+          "message": "大哥哥大姐姐们我这个box n6有希望吗[大哭]打算第一间上仆人尼可芙芙莫娜，第二间上木偶阿罗夏奥黛塔沃雅妮莎，第三间菲林斯伊涅芙哥伦比亚和砂糖",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a816a9e891bbfa5a00c99ed1016ef711435276615.jpg",
+              "img_width": 1320,
+              "img_height": 12975,
+              "img_size": 3617
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b71336fa73d68573077cface3f8d6aab87d2d61db6887cfae405ba928d040662",
+  "original_bytes_sha256": "8833100baeeb19bde61bfb1291a63e51f375c6006bfb562653d2891b1164e6dd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

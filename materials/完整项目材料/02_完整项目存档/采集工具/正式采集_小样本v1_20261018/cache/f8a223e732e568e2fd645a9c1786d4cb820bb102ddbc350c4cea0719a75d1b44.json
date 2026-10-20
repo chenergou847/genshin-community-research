@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "315598474305",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:55:14.865127+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315598474305,
+        "rpid_str": "315598474305",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790802165,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_20254a42c882b528ffa69280",
+        "content": {
+          "message": "没冰主打不了，逼氪，日内瓦！退钱！[doge_金箍]",
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "de790ab461bc00f5d4c985748a9bd52d1c12bab39496273b29a12d5e141e13e8",
+  "original_bytes_sha256": "aa769c738dba6c0e0eb808b5980ed9aa951ae39a8e999f041e21ba8573016679",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

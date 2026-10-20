@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319504791488",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:46:48.921896+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 42
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321008250080,
+          "rpid_str": "321008250080",
+          "root": 319504791488,
+          "root_str": "319504791488",
+          "parent": 319504791488,
+          "parent_str": "319504791488",
+          "dialog": 321008250080,
+          "ctime": 1792235549,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_905bde37ffc0ea2e5f1e87f6",
+          "content": {
+            "message": "尼克就是火神最后的底牌不过仅限于2命以上零命拉完了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321042278880,
+          "rpid_str": "321042278880",
+          "root": 319504791488,
+          "root_str": "319504791488",
+          "parent": 319504791488,
+          "parent_str": "319504791488",
+          "dialog": 321042278880,
+          "ctime": 1792253887,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c2c7b89a98ab7d5445e25d98",
+          "content": {
+            "message": "火是高贵的火雷c能吃到 123夏沃雷不算金数拐力还大于其他体系一个限定金的（说少了）  再加上本体不弱在低金领域制霸了   其他属性他没这个服气阿"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319504791488,
+        "rpid_str": "319504791488",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791041355,
+        "like": 6,
+        "rcount": 42,
+        "count": 42,
+        "state": 0,
+        "author_id": "U_dfe2835bd8c66191507b9020",
+        "content": {
+          "message": "火神被你们玩出花了，想要补强更不可能了，咋丝柯克就能补强呢，我21火神打个N5都费劲卡秒过的[藏狐]",
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "64453e880601b2a6a3d132123719cec4c7de146ac5e294c1563420e61bb2817d",
+  "original_bytes_sha256": "9e0c036f360eb36a87416dcf1f0a162c8c58941f494c4bdea0e6556b03d238e4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

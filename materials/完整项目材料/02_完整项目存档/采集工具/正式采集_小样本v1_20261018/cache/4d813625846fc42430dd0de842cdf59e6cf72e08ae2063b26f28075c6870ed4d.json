@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "316014068945",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:00:58.965690+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316014068945,
+        "rpid_str": "316014068945",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791112550,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_cbbcdd3fcf68e471465b6e47",
+        "content": {
+          "message": "7.2%來了，絕對不是歪了[墨镜]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/35573248eac9e53e5d7ef4c6a483cf3e2067692492.jpg",
+              "img_width": 1170,
+              "img_height": 2177,
+              "img_size": 2188
+            }
+          ],
+          "emote": {
+            "[墨镜]": {
+              "id": 1953,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[墨镜]",
+              "url": "https://i0.hdslb.com/bfs/emote/3a03aebfc06339d86a68c2d893303b46f4b85771.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "墨镜"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7d6c4d381101275bc80111cd37f01a99aaf9d57b40fba561819cf7f8886b84eb",
+  "original_bytes_sha256": "448e71e6b5d3953c17256f1b03c0d8cd9087b95e0f6a003c1014a7e10cb3c9ca",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

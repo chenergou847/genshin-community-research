@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318962632208",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:31:23.621710+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318962632208,
+        "rpid_str": "318962632208",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790649376,
+        "like": 0,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_a3ef2385150b050db0e52d7e",
+        "content": {
+          "message": "up你好，想问下我这配置怎么打，能过n6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2c9d8f57707340553e30fe48525aef613546935394831224.jpg",
+              "img_width": 878,
+              "img_height": 10800,
+              "img_size": 1655.743
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1c918276b3c4fba8d3c6d1e717ea3c87b2bb23cd72d40b5a3f2f176f3feb7565",
+  "original_bytes_sha256": "a04da96a05c8ec79773e32578fa050a2e2b375b970d3c147a16a08e22677be5c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

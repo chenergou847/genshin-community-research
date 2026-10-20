@@ -1,0 +1,96 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314956933921",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:20:09.064501+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314956933921,
+        "rpid_str": "314956933921",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790273928,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_3deae4818a386cf80739a71a",
+        "content": {
+          "message": "这个有机会过丘林吗，能过就能拿皮肤[星星眼]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5c6c7bee15496d9f35be74ac9eece521269916781.jpg",
+              "img_width": 3200,
+              "img_height": 1440,
+              "img_size": 2130.88,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bb2485f4e9243a5c997943b894ef14745d272a20329f7fce70f8239de7fb4386",
+  "original_bytes_sha256": "be5c4da79ea6da6707608f11abccfade449f383f14ff230c6d1a553e19fc7923",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

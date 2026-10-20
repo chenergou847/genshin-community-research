@@ -1,0 +1,714 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315569607537",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:38:33.409463+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 22
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319130981920,
+          "rpid_str": "319130981920",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319130981920,
+          "ctime": 1790775871,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2814acfac88a5516286c9a78",
+          "content": {
+            "message": "火神打第三间 打不动就没招了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315570357073,
+          "rpid_str": "315570357073",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 315570357073,
+          "ctime": 1790776166,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ea040448676caffe027e7538",
+          "content": {
+            "message": "打不过摇人，n4联机奖励可以拿，n5就不行了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315570613457,
+          "rpid_str": "315570613457",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 315570613457,
+          "ctime": 1790776326,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f8d97faf1d24d2e385dfdb15",
+          "content": {
+            "message": "偶奥沃带个雷，丝爱芙，火希茜班试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315570727345,
+          "rpid_str": "315570727345",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315570357073,
+          "parent_str": "315570357073",
+          "dialog": 315570357073,
+          "ctime": 1790776352,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_31df39a718e99b3b5f206cc7",
+          "content": {
+            "message": "回复 @sei依- :我同学还指望我带他们打呢[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319132324240,
+          "rpid_str": "319132324240",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319132324240,
+          "ctime": 1790776622,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2298d26643c3d9087272beb4",
+          "content": {
+            "message": "火神打的过第三间就能过，木偶第一间丝第二间都是随便打的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319133795104,
+          "rpid_str": "319133795104",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319133795104,
+          "ctime": 1790777442,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b6f828e067708dddb34c655e",
+          "content": {
+            "message": "可以的，凹吧[打call]",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315572675505,
+          "rpid_str": "315572675505",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315570727345,
+          "parent_str": "315570727345",
+          "dialog": 315570357073,
+          "ctime": 1790777481,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ea040448676caffe027e7538",
+          "content": {
+            "message": "回复 @抹上花开12 :匹配也能打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315575622801,
+          "rpid_str": "315575622801",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 315575622801,
+          "ctime": 1790779102,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_59756944925332659ba4644a",
+          "content": {
+            "message": "木偶奥黛塔阿罗夏任意雷\n丝柯克爱可菲芙宁娜任意冰水\n火神茜特拉莉希诺宁打不过？不会吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319141035872,
+          "rpid_str": "319141035872",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319141035872,
+          "ctime": 1790781449,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db80bd612167994d104989ae",
+          "content": {
+            "message": "木偶打矮人，丝打冰锅，火神打冰棺[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319142992400,
+          "rpid_str": "319142992400",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319142992400,
+          "ctime": 1790782531,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9e29c1984126457ffa56a12e",
+          "content": {
+            "message": "火奶能打第三间随便过，第一间木奥，第二间丝柯克带冰水挂件就行[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315581572609,
+          "rpid_str": "315581572609",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 315581572609,
+          "ctime": 1790782557,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5aeeb311390a364243099b6a",
+          "content": {
+            "message": "n5都有的打，第一间木偶+奥，第二间skk+爱，第三间纳塔战舰，过不了可以找主播扫个号"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319146923424,
+          "rpid_str": "319146923424",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319146923424,
+          "ctime": 1790784883,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_48d33eb5cbfd560f605c3559",
+          "content": {
+            "message": "一般4金全00队能过n5（机制对得上的话，6命关键四星算一个金的话）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319148044400,
+          "rpid_str": "319148044400",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319148044400,
+          "ctime": 1790785649,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_53909ec584aafe076438928e",
+          "content": {
+            "message": "要是n5打不过有可能，n4打不过就不应该了[捂脸]配队都齐了，除非练度非常拉胯，不然碾压的",
+            "emote": {
+              "[捂脸]": {
+                "id": 15,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[捂脸]",
+                "url": "https://i0.hdslb.com/bfs/emote/6921bb43f0c634870b92f4a8ad41dada94a5296d.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "捂脸"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315592931105,
+          "rpid_str": "315592931105",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 315592931105,
+          "ctime": 1790791185,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_88126a5a63720ac0b477661c",
+          "content": {
+            "message": "想不出打不过的理由，除非主c连一套180分的圣遗物都没有\n第一间偶奥沃阿\n第二间丝爱芙莫\n第三间火希茜班"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315593529393,
+          "rpid_str": "315593529393",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 315593529393,
+          "ctime": 1790791817,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_92f98507fed551b83c225b69",
+          "content": {
+            "message": "你火神能打出融化吗[笑哭]感觉是手法练度的问题",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319155442384,
+          "rpid_str": "319155442384",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319155442384,
+          "ctime": 1790791851,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4d5ad8b0a5c3661d16a93fc9",
+          "content": {
+            "message": "第一间腾个奥给第三间，木偶不带奥应该也能出"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315593575409,
+          "rpid_str": "315593575409",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 319148044400,
+          "parent_str": "319148044400",
+          "dialog": 319148044400,
+          "ctime": 1790791957,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_31df39a718e99b3b5f206cc7",
+          "content": {
+            "message": "回复 @天神之紫曦 :没想到这么多人回复我，我就是火神不会玩打不过而己[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319163541040,
+          "rpid_str": "319163541040",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319163541040,
+          "ctime": 1790808672,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_deff7a291ccd60917a9e8845",
+          "content": {
+            "message": "纯火火神简单的吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319166159168,
+          "rpid_str": "319166159168",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 319166159168,
+          "ctime": 1790812520,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e7ecbaff985ad646ab956ed0",
+          "content": {
+            "message": "你这能打不过就有鬼了，难道天赋没升？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315610668881,
+          "rpid_str": "315610668881",
+          "root": 315569607537,
+          "root_str": "315569607537",
+          "parent": 315569607537,
+          "parent_str": "315569607537",
+          "dialog": 315610668881,
+          "ctime": 1790818851,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_12b77bf86c9dc6b2f1434009",
+          "content": {
+            "message": "n4火神应该还是随便碾压的，觉得冰盾难破可以试试看杜林破盾?n4班尼特一个大招也可以拍掉很多盾量"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315569607537,
+        "rpid_str": "315569607537",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790775720,
+        "like": 3,
+        "rcount": 22,
+        "count": 23,
+        "state": 0,
+        "author_id": "U_31df39a718e99b3b5f206cc7",
+        "content": {
+          "message": "孩子们，我这配置N4都打不过正常吗[笑哭]第三间怎么打呀",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/38d2103d44f63bbb4110fd5b5c763da8492366771.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1215.77
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a3ebef0e679e327df32acc0dc5f5db32492366771.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1188.95
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "092dc9ca8090e9f70938c50f97df539b670382304defe47157cfb7e81f966e71",
+  "original_bytes_sha256": "4abef36099f396d5dc7510b0f985a8979faa2fd575619f89e7e017229ebf4c68",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

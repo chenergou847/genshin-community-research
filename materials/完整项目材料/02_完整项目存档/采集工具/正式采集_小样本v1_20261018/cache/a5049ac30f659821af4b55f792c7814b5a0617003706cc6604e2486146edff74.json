@@ -1,0 +1,861 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117359209613190",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-18T14:37:47.979572+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 37,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319331486080,
+          "rpid_str": "319331486080",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790928730,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6d4c48e76152c0c2ba01e965",
+          "content": {
+            "message": "打不过呀打不过",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7ec3cdfb9e97dab334d5aba42384cbf443895836.jpg",
+                "img_width": 1179,
+                "img_height": 2229,
+                "img_size": 667,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319275201936,
+          "rpid_str": "319275201936",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790879495,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_741e33393441b56de4b08807",
+          "content": {
+            "message": "有没有佬给点建议。很久没玩了，纳塔和月国角色没抽，冰国目前抽了个人鱼。现在练哪些队伍厉害点。是不是老角色雷神草神啥的已经完全用不了了？得练那些新反应的角色？",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/30cebe019a06c764b933845fa4cbac7066786713.jpg",
+                "img_width": 1272,
+                "img_height": 11260,
+                "img_size": 1436.21
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319188925504,
+          "rpid_str": "319188925504",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790827969,
+          "like": 0,
+          "rcount": 2,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_b520893d10a08efa309a1217",
+          "content": {
+            "message": "好久之前退坑的 现在想回坑 应该创新号还是就拿这个号玩啊",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c20d771653e551ec23c708a6445ea0f4475792045.jpg",
+                "img_width": 1440,
+                "img_height": 3200,
+                "img_size": 1760.93
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 319275139632,
+              "rpid_str": "319275139632",
+              "root": 319188925504,
+              "root_str": "319188925504",
+              "parent": 319262162816,
+              "parent_str": "319262162816",
+              "dialog": 319262162816,
+              "ctime": 1790879553,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b520893d10a08efa309a1217",
+              "content": {
+                "message": "回复 @拣起再放下 :奥黛塔卡池不是结束了嘛"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319262162816,
+              "rpid_str": "319262162816",
+              "root": 319188925504,
+              "root_str": "319188925504",
+              "parent": 319188925504,
+              "parent_str": "319188925504",
+              "dialog": 319262162816,
+              "ctime": 1790869018,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_9684a86a9f2825b8d4218bb6",
+              "content": {
+                "message": "建议直接回坑然后梭哈奥黛塔冰神达妮卡[吃瓜]",
+                "emote": {
+                  "[吃瓜]": {
+                    "id": 415,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[吃瓜]",
+                    "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "吃瓜"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319156236384,
+          "rpid_str": "319156236384",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790793260,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f09fe53dc2708e2b470b0201",
+          "content": {
+            "message": "硬打",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/9c9432605c59ad20db74abed6977642e515674100.png",
+                "img_width": 1125,
+                "img_height": 2436,
+                "img_size": 3385
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315582970401,
+          "rpid_str": "315582970401",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790783336,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1053b6bcf731477019b2713e",
+          "content": {
+            "message": "龙王依旧强势😋",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/427b877d665e2f92438d53efb556765c1227802266.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 1347.12
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315581338561,
+          "rpid_str": "315581338561",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790782422,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_0e9972a3b80c354625265ad4",
+          "content": {
+            "message": "我这个可以打过吗[大哭][大哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/6f835a0d3d2ce47c056199fc62b9b70c441443339.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 157.643,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/17adb90e581ebf8f5abc098d5f4c4809441443339.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 117.294,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/892b796021fbfe4fc32730a951a45744441443339.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 150.863,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/82cb9ba46c358a9d8a7ffe61670accd3441443339.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 219.386,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/a731067d74a37dc3dd6cad353cfbdaf5441443339.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 236.996,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/98810ff4e59534b3ac600ecc4990bdf6441443339.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 141.437,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7efdf1c55131796cf3fcf468174851b2441443339.jpg",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 172.555,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319156722592,
+              "rpid_str": "319156722592",
+              "root": 315581338561,
+              "root_str": "315581338561",
+              "parent": 315581338561,
+              "parent_str": "315581338561",
+              "dialog": 319156722592,
+              "ctime": 1790793480,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_ecbbb0f8be7d2d94685736c9",
+              "content": {
+                "message": "感觉差点意思"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315580853281,
+          "rpid_str": "315580853281",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790782113,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a90931e0d361dd6f9b9ff70a",
+          "content": {
+            "message": "这个单打是不是需要三个队啊[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315580688097,
+          "rpid_str": "315580688097",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790781984,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_faaec81d566b2b3510412f79",
+          "content": {
+            "message": "打哭了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/a62a01869df6b9d4181a73f771fff7b9373241691.jpg",
+                "img_width": 2778,
+                "img_height": 1248,
+                "img_size": 844,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319137257648,
+          "rpid_str": "319137257648",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790779341,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_fb7f3486e12792a5109aec13",
+          "content": {
+            "message": "你这里希诺宁2命刚需吗？0命的可以吗？"
+          },
+          "replies": [
+            {
+              "rpid": 319140246432,
+              "rpid_str": "319140246432",
+              "root": 319137257648,
+              "root_str": "319137257648",
+              "parent": 319137257648,
+              "parent_str": "319137257648",
+              "dialog": 319140246432,
+              "ctime": 1790780944,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_08a389ef165f2012a01b340c",
+              "content": {
+                "message": "可以，把希诺宁和奶奶的套装错开就行，我没换就是为了压一下整体练度"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315571430001,
+          "rpid_str": "315571430001",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790776775,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d65c189192173d80e3a5c840",
+          "content": {
+            "message": "两年没玩回来看看发现n4打不过",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/6a7a1ccb3c04f9e4972725c87eb22b971693249556.jpg",
+                "img_width": 2376,
+                "img_height": 1080,
+                "img_size": 1240.02
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319126139440,
+          "rpid_str": "319126139440",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790773201,
+          "like": 4,
+          "rcount": 3,
+          "count": 3,
+          "state": 0,
+          "author_id": "U_2bdc1a50dc47d97488c7b5fb",
+          "content": {
+            "message": "我也没有至冬角色，只能说梦见月牛逼。",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/a088f98ae498211588612bb15694942b240850002.png",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 1573.06
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 319146981232,
+              "rpid_str": "319146981232",
+              "root": 319126139440,
+              "root_str": "319126139440",
+              "parent": 315585277457,
+              "parent_str": "315585277457",
+              "dialog": 315585277457,
+              "ctime": 1790784934,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_2bdc1a50dc47d97488c7b5fb",
+              "content": {
+                "message": "回复 @月下之妖 :我是用的新圣遗物，但是我看好多攻略是用2+2堆精通，哪个好用哪个就行。"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319158053664,
+              "rpid_str": "319158053664",
+              "root": 319126139440,
+              "root_str": "319126139440",
+              "parent": 315585277457,
+              "parent_str": "315585277457",
+              "dialog": 315585277457,
+              "ctime": 1790796033,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_76082cc91b0b50d29d7daafa",
+              "content": {
+                "message": "回复 @月下之妖 :你把久其忍圣遗物扒下来给梦见月用就行。"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319120458128,
+          "rpid_str": "319120458128",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790770196,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4d802c1719e2f843cd0aa09e",
+          "content": {
+            "message": "新国家开局确实水温不高"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319117876704,
+          "rpid_str": "319117876704",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790768844,
+          "like": 0,
+          "rcount": 8,
+          "count": 8,
+          "state": 0,
+          "author_id": "U_63226e5133e5a8645ee53209",
+          "content": {
+            "message": "回坑老登求指点",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/f316e9b8e372daef1b186c87f1406bfb7046241.jpg",
+                "img_width": 1224,
+                "img_height": 10000,
+                "img_size": 1209.39
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 319384688480,
+              "rpid_str": "319384688480",
+              "root": 319117876704,
+              "root_str": "319117876704",
+              "parent": 319358659664,
+              "parent_str": "319358659664",
+              "dialog": 319156787776,
+              "ctime": 1790956060,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_94a74976e8efac28c662f1e4",
+              "content": {
+                "message": "回复 @爱笑是一辈子的事 :不容易啊"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319358659664,
+              "rpid_str": "319358659664",
+              "root": 319117876704,
+              "root_str": "319117876704",
+              "parent": 319156787776,
+              "parent_str": "319156787776",
+              "dialog": 319156787776,
+              "ctime": 1790943014,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_63226e5133e5a8645ee53209",
+              "content": {
+                "message": "回复 @天音682 : 老头：梦见月奥黛塔，冰锅：冰主0金，冰棺：薇斯纳沃雅妮莎猫猫甘雨过了，纯纯难民级别哈哈哈，三间星反应是可以做到的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319105649984,
+          "rpid_str": "319105649984",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790762634,
+          "like": 0,
+          "rcount": 7,
+          "count": 8,
+          "state": 0,
+          "author_id": "U_5c64e492a33c12e377c8f0cd",
+          "content": {
+            "message": "想问一下，第二件没斯科克就玩不了是吗？？恶心死了，有夜魂角色，但是破不了他的冰机制，要那么多冰吗？"
+          },
+          "replies": [
+            {
+              "rpid": 315546925201,
+              "rpid_str": "315546925201",
+              "root": 319105649984,
+              "root_str": "319105649984",
+              "parent": 319105649984,
+              "parent_str": "319105649984",
+              "dialog": 315546925201,
+              "ctime": 1790763689,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_94eb6c2546899b7478e0710e",
+              "content": {
+                "message": "可以用纳塔的角色打夜魂"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319188843040,
+              "rpid_str": "319188843040",
+              "root": 319105649984,
+              "root_str": "319105649984",
+              "parent": 319105649984,
+              "parent_str": "319105649984",
+              "dialog": 319188843040,
+              "ctime": 1790827924,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_838022ae6e4729a6c6703c16",
+              "content": {
+                "message": "退坑一坤年看到黄毛强势的视频才回坑的，玩了快一个月了，只能说我当初退坑是有一定道理的，角色抽不到，原石也不够，主线又臭又长，还强行把当期要卖的角色塞进主线。\n唯一有点劲的是原神大纲做的还不错"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319101861808,
+          "rpid_str": "319101861808",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790760516,
+          "like": 2,
+          "rcount": 0,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_76082cc91b0b50d29d7daafa",
+          "content": {
+            "message": "这期的幽境n5非常简单。我第一间2+0梦见月0+0奥黛塔加6命珐露珊和6命迪奥娜，过的那叫一个轻松写意。第二间全0+0丝柯克队，第四人用0+0奶奶，也是毫无手法的七十几秒过。第三间2+1仆人带0+0的希诺宁万叶，再带个6命班尼特，也是主打一个毫无手法。我是用手机玩的，这期幽境N5是我过的最轻松的一期。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "1ea4ebec96080413e4a1d896318c13540d23d288767ed792035ac506651e66f3",
+  "original_bytes_sha256": "fc359add4ba559a965e0c3ed39fd411832d7e70e3c267d60c0196e1bf9b6e10b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

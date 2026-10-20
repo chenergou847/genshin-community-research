@@ -1,0 +1,169 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314957498513",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:19:54.929679+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318492616544,
+          "rpid_str": "318492616544",
+          "root": 314957498513,
+          "root_str": "314957498513",
+          "parent": 314957498513,
+          "parent_str": "314957498513",
+          "dialog": 318492616544,
+          "ctime": 1790275297,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_477c61844722d4a9add28f3d",
+          "content": {
+            "message": "第一间要点手法，要躲他那个炮，其他俩都是撵过去"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318504545248,
+          "rpid_str": "318504545248",
+          "root": 314957498513,
+          "root_str": "314957498513",
+          "parent": 314957498513,
+          "parent_str": "314957498513",
+          "dialog": 318504545248,
+          "ctime": 1790296533,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a096cac1736a1e6df23729e",
+          "content": {
+            "message": "哈哈大佬可以加个好友吗[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315012091841,
+          "rpid_str": "315012091841",
+          "root": 314957498513,
+          "root_str": "314957498513",
+          "parent": 318504545248,
+          "parent_str": "318504545248",
+          "dialog": 318504545248,
+          "ctime": 1790324346,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_230bf7beaac421edb6d150e3",
+          "content": {
+            "message": "回复 @辄明- :可以，私信我吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314957498513,
+        "rpid_str": "314957498513",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790274651,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_230bf7beaac421edb6d150e3",
+        "content": {
+          "message": "能打n6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c74adfc0ea339f91ee39f891f2adb8fe88239957.jpg",
+              "img_width": 1101,
+              "img_height": 15000,
+              "img_size": 8091.17,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "51523b552df37e4a48770c61f46a8d0a3f2a7851cb770272abaa739337054bf0",
+  "original_bytes_sha256": "a0a60390e6c16ebec65344ac964de50f76493e80c831f4bef82c6f01ac5515c3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

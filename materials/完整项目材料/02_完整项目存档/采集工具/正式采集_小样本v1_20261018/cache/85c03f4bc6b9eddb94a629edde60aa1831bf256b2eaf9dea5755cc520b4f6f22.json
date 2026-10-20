@@ -1,0 +1,392 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317341623377",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:44:36.979509+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 10
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317349225457,
+          "rpid_str": "317349225457",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317341623377,
+          "parent_str": "317341623377",
+          "dialog": 317349225457,
+          "ctime": 1792235933,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf79c1f9bb5d67d64836d1ec",
+          "content": {
+            "message": "说实话冰主换珐露珊可以提上限，但是你不能吃那双冰暴击[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317352232993,
+          "rpid_str": "317352232993",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317349225457,
+          "parent_str": "317349225457",
+          "dialog": 317349225457,
+          "ctime": 1792237610,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e6389b380861586bd5c59bf7",
+          "content": {
+            "message": "回复 @梨雨婉婉 :感觉珐始终是备用选项，我发现想要发挥发的优势就必须得每轮都射一箭，实战难受的一批，而且和冰主差的实在太小了，而且在我手里还打不过冰主，下个版本冰主解锁完全体了估计就是冰主&gt;珐，除非高抗怪[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317363178593,
+          "rpid_str": "317363178593",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317352232993,
+          "parent_str": "317352232993",
+          "dialog": 317349225457,
+          "ctime": 1792243644,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8cecb6dbeda771eee27b7843",
+          "content": {
+            "message": "回复 @今天不惆怅 :维斯纳命座越高，珐露珊收益越大，而且你需要射一箭说明你充能不够。我用梦见月星扩散珐露珊275充都只需要开大就行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317364192193,
+          "rpid_str": "317364192193",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317363178593,
+          "parent_str": "317363178593",
+          "dialog": 317349225457,
+          "ctime": 1792244202,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e6389b380861586bd5c59bf7",
+          "content": {
+            "message": "回复 @星河丶御 :射这一件是给薇吃的，这样就算珐1000充能也没区别[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317364611361,
+          "rpid_str": "317364611361",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317349225457,
+          "parent_str": "317349225457",
+          "dialog": 317349225457,
+          "ctime": 1792244440,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0814a2df3efdf65959949ea0",
+          "content": {
+            "message": "回复 @梨雨婉婉 :冰主上限高点吧，我终未珐都没冰主强"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317379871713,
+          "rpid_str": "317379871713",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317349225457,
+          "parent_str": "317349225457",
+          "dialog": 317349225457,
+          "ctime": 1792252898,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_304737b9274270c07fed18b4",
+          "content": {
+            "message": "回复 @梨雨婉婉 :沒有雙冰壓不住沃雅妮紗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321047051648,
+          "rpid_str": "321047051648",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317352232993,
+          "parent_str": "317352232993",
+          "dialog": 317349225457,
+          "ctime": 1792257215,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_131b8045df0c1b331b964b9f",
+          "content": {
+            "message": "回复 @今天不惆怅 :法姐270充能带西风就不用射箭了。每轮开大就行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317387092049,
+          "rpid_str": "317387092049",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317379871713,
+          "parent_str": "317379871713",
+          "dialog": 317349225457,
+          "ctime": 1792258552,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf79c1f9bb5d67d64836d1ec",
+          "content": {
+            "message": "回复 @明汰子 :错一下轴就行，冰主后面不能直接放沃e，直接放的话薇斯纳是全程打不出星扩散的，要拿风扩一下先触发一下星扩散"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317394930785,
+          "rpid_str": "317394930785",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 321047051648,
+          "parent_str": "321047051648",
+          "dialog": 317349225457,
+          "ctime": 1792274511,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e6389b380861586bd5c59bf7",
+          "content": {
+            "message": "回复 @社恐麻球儿 :唉，没看懂我在说什么"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317418124833,
+          "rpid_str": "317418124833",
+          "root": 317341623377,
+          "root_str": "317341623377",
+          "parent": 317349225457,
+          "parent_str": "317349225457",
+          "dialog": 317349225457,
+          "ctime": 1792295748,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_88d8f25bd4aa281180b6e7d6",
+          "content": {
+            "message": "回复 @梨雨婉婉 : 低金得用冰主 高命换法和猫"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317341623377,
+        "rpid_str": "317341623377",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792231839,
+        "like": 1,
+        "rcount": 10,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_e6389b380861586bd5c59bf7",
+        "content": {
+          "message": "全0结算16w正常吗？这几天几乎天天打终于能稳定16万了，薇带的有乐，我看B站一堆都20大几万的，我20万看来真的等女皇了[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b330625502e42b96fa23942f8ba106ae646702059.jpg",
+              "img_width": 1600,
+              "img_height": 720,
+              "img_size": 683.71
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d776f6d5db5cfd32a7184d3528b146a778ae772a69d166b09e9067872c3e90e8",
+  "original_bytes_sha256": "2c2f84f8d33b02221ad9ad7fd4b56717af183c7689b7ab88c36acb20c567b158",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

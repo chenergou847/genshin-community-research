@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315054415873",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:02:35.704847+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315057436385,
+          "rpid_str": "315057436385",
+          "root": 315054415873,
+          "root_str": "315054415873",
+          "parent": 315054415873,
+          "parent_str": "315054415873",
+          "dialog": 315057436385,
+          "ctime": 1790350033,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你都满命的。第一间火神带个奥黛塔砂糖就能过机制了。第二间丝柯克队。第三间仆人要么纯火，要么超载，够了。\n另外龙王第二间冰水队也行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315057546865,
+          "rpid_str": "315057546865",
+          "root": 315054415873,
+          "root_str": "315054415873",
+          "parent": 315054415873,
+          "parent_str": "315054415873",
+          "dialog": 315057546865,
+          "ctime": 1790350057,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间火神奶奶砂糖奥黛塔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315057550081,
+          "rpid_str": "315057550081",
+          "root": 315054415873,
+          "root_str": "315054415873",
+          "parent": 315054415873,
+          "parent_str": "315054415873",
+          "dialog": 315057550081,
+          "ctime": 1790350063,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315058495505,
+          "rpid_str": "315058495505",
+          "root": 315054415873,
+          "root_str": "315054415873",
+          "parent": 315057550081,
+          "parent_str": "315057550081",
+          "dialog": 315057550081,
+          "ctime": 1790350611,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_30955b1d4eae6350b709a660",
+          "content": {
+            "message": "回复 @星光璀璨之时 :同中秋快乐[打call]，已三连推荐",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315054415873,
+        "rpid_str": "315054415873",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790348254,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_30955b1d4eae6350b709a660",
+        "content": {
+          "message": "这能过n7吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/071769ffe66d3ee4e0508779f0df1a81303192997.jpg",
+              "img_width": 1260,
+              "img_height": 14900,
+              "img_size": 1912.13
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5337234dacdf6cc3c45262200fd6ad0d392ee4d2e528c5a7b11e1be2265a04b3",
+  "original_bytes_sha256": "371c7dc76315273830aa1839dd43a6d22789340fc836482397ed30f16cd777e9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

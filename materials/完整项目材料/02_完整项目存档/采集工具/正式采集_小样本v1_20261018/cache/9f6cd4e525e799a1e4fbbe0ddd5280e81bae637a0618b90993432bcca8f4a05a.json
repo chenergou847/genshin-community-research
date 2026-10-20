@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316286303393",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:44:36.329613+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319886752976,
+          "rpid_str": "319886752976",
+          "root": 316286303393,
+          "root_str": "316286303393",
+          "parent": 316286303393,
+          "parent_str": "316286303393",
+          "dialog": 319886752976,
+          "ctime": 1791306411,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "私信我"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316286303393,
+        "rpid_str": "316286303393",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791305342,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_bbc3b867e068e16a8a3ec99c",
+        "content": {
+          "message": "01火餐叉伊安珊能帮忙打吗，自己是在打不过"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0fe3ccd2332a03d500b0efb923bd89625e2ea2a67f3113a33736ca3d3bc89cd3",
+  "original_bytes_sha256": "13203a0166bed7c8fdf60bb5e898ebd0ef892076b1f623feb45e695eda6309cd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

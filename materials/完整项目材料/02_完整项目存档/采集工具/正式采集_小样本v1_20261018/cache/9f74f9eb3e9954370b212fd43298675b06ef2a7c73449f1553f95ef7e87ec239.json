@@ -1,0 +1,98 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320858362352",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:12:29.684094+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317206533617,
+          "rpid_str": "317206533617",
+          "root": 320858362352,
+          "root_str": "320858362352",
+          "parent": 320858362352,
+          "parent_str": "320858362352",
+          "ctime": 1792126831,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_75e0d18c5d3400ac2ae0aec9",
+          "content": {
+            "message": "我冰水战舰这么多期深渊第一次打满"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320858362352,
+        "rpid_str": "320858362352",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792126340,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_32a709dc49a8ef40ac045af4",
+        "content": {
+          "message": "美美吃环境，太简单了[打call]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c0a141cdb832766641f60d419042fb231561867516.jpg",
+              "img_width": 1020,
+              "img_height": 2296,
+              "img_size": 639
+            }
+          ],
+          "emote": {
+            "[打call]": {
+              "id": 510,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[打call]",
+              "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "打call"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "5d5c2911a35254b2be2f1f75b160adb40b7e5a3ed4c82627f5babe3f9cdb89fc",
+  "original_bytes_sha256": "0c62aa79fd9c4f9d783ca60222e9fc13bf375aca5230e866d6af9c58395e992a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

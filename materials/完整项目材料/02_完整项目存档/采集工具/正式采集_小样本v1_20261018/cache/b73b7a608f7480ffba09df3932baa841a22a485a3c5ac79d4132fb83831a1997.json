@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318633338352",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:56:51.524717+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318633338352,
+        "rpid_str": "318633338352",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790390715,
+        "like": 1,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_7f493ad5a7fea8e0c3fbc476",
+        "content": {
+          "message": "我这能过n6吗？求大佬组一下配对[蹲蹲]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1f8b2750ca9747a652107be63ccac1e83461580373101325.jpg",
+              "img_width": 1440,
+              "img_height": 6698,
+              "img_size": 1890.62
+            }
+          ],
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8d4221eaf9ac96e66a17ab35ca5acad087f2e59262ac5cdb09cb0c88637c2eb2",
+  "original_bytes_sha256": "11d97dfa307deab28d3f81addb477a0249a2f56527d59ff19bea34c9fddbca25",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

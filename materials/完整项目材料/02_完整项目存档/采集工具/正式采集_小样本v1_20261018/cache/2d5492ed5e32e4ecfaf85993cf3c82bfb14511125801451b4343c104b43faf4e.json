@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318526858000",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:11:16.884961+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315131599457,
+          "rpid_str": "315131599457",
+          "root": 318526858000,
+          "root_str": "318526858000",
+          "parent": 318526858000,
+          "parent_str": "318526858000",
+          "dialog": 315131599457,
+          "ctime": 1790415645,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d7130693f73123ac31c0e858",
+          "content": {
+            "message": "请保持嘴向下"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315211288849,
+          "rpid_str": "315211288849",
+          "root": 318526858000,
+          "root_str": "318526858000",
+          "parent": 318526858000,
+          "parent_str": "318526858000",
+          "dialog": 315211288849,
+          "ctime": 1790481221,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e15a8036c8aa2a3d4b794480",
+          "content": {
+            "message": "打n6的话，没星c，第一间最好还是仆万+冰主+夜走机制。冰雕伤害很高容易秒人\n第三间有冰盾，可以试试 尼胡蕾+影/皇女超载 或者 尼希胡茜（破盾可能会很吃力）\n第二间丝爱芙鹤/莫"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319074180480,
+          "rpid_str": "319074180480",
+          "root": 318526858000,
+          "root_str": "318526858000",
+          "parent": 315211288849,
+          "parent_str": "315211288849",
+          "dialog": 315211288849,
+          "ctime": 1790741773,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5648c4a780c2d32010035962",
+          "content": {
+            "message": "回复 @jyaqxba :第一间单冰主也可以破盾吗[笑哭]不是很懂机制",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315516620641,
+          "rpid_str": "315516620641",
+          "root": 318526858000,
+          "root_str": "318526858000",
+          "parent": 319074180480,
+          "parent_str": "319074180480",
+          "dialog": 315211288849,
+          "ctime": 1790744768,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e15a8036c8aa2a3d4b794480",
+          "content": {
+            "message": "回复 @绿影Ivy :现在雷风星烁好像都能减抗，冰主和奥一样可以转化星反应。\n另外老头伤害比预想低很多，仆人这种脆皮主c应该也可以硬打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318526858000,
+        "rpid_str": "318526858000",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790310570,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_c1f3ba0febd57e39a0720fa0",
+        "content": {
+          "message": "已三连求指导，我想打n6，还有哪里不足",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c954c6b493daf0ed050e0ddefb227d93500718725.jpg",
+              "img_width": 1080,
+              "img_height": 5752,
+              "img_size": 3108.5
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "71399e87fc109b50027134cf49278d822ceb3dae49d396e892069ad67a583e63",
+  "original_bytes_sha256": "85958cae64d4d180142683706adf76d0fba90bc1ee988766610809d83d6756a8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

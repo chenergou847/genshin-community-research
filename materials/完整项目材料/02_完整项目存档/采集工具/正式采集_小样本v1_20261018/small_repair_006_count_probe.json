@@ -1,0 +1,124 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-18T05:40:14.976603+00:00",
+  "source_hash": "aa8854393d2da41eb3def2e39eda6c34b6a91fc48caade71cba6a1de0c386563",
+  "probes": [
+    {
+      "route": "roots_web",
+      "source_data_keys": [
+        "assist",
+        "blacklist",
+        "callbacks",
+        "config",
+        "control",
+        "cursor",
+        "effects",
+        "note",
+        "replies",
+        "top",
+        "top_replies",
+        "upper",
+        "vote"
+      ],
+      "count_metadata": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 839,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzMTcyNTY5NzkwNjAaADIDCMcG"
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 1214,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "folder": null,
+      "FoldRpids": null,
+      "fold_control": {},
+      "ids": [
+        "321090834448",
+        "317424794321",
+        "317424026897",
+        "321083784384",
+        "321077416240",
+        "321071253056",
+        "317400964593",
+        "321062757440",
+        "317389912033",
+        "321050682368",
+        "321048660096",
+        "321047030416",
+        "321046746016",
+        "317381675201",
+        "317377700305",
+        "317373577025",
+        "317372781617",
+        "317372737281",
+        "321032971728",
+        "321032393184"
+      ],
+      "response_hash": "498489839404c3f2c149f760360aec15f5d4c1c2ea64890c8789d7c95aa2c505",
+      "captured_at": "2026-10-18T05:40:07.884924+00:00"
+    },
+    {
+      "route": "roots",
+      "source_data_keys": [
+        "assist",
+        "blacklist",
+        "config",
+        "control",
+        "folder",
+        "mode",
+        "page",
+        "replies",
+        "support_mode",
+        "top",
+        "upper",
+        "vote"
+      ],
+      "count_metadata": {
+        "num": 1,
+        "size": 20,
+        "count": 1214,
+        "acount": 1214
+      },
+      "folder": {
+        "has_folded": false,
+        "is_folded": false,
+        "rule": ""
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "ids": [
+        "321090834448",
+        "317424794321",
+        "317424026897",
+        "321083784384",
+        "321077416240",
+        "321071253056",
+        "317400964593",
+        "321062757440",
+        "317389912033",
+        "321050682368",
+        "321048660096",
+        "321047030416",
+        "321046746016",
+        "317381675201",
+        "317377700305",
+        "317373577025",
+        "317372781617",
+        "317372737281",
+        "321032971728",
+        "321032393184"
+      ],
+      "response_hash": "ad9fff05f5af7ce5a902f77246a15321026c8e5bf1a0882b90dc5cd254f65aae",
+      "captured_at": "2026-10-18T05:40:12.504084+00:00"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-17T18:00:18.754861+00:00",
+  "source_hash": "ed124d13777574b785b630a2a6bb503f75128ac76a2bb7c431c0122f817f142f",
+  "paused_at": "2026-10-17T18:00:18.729970+00:00",
+  "instruction": "保存进度，今天就到这里，明天起来继续",
+  "workflow_state": {
+    "protocol": "17-small-v1",
+    "targets": {
+      "videos": 20,
+      "comments_per_video": 10,
+      "coding_review": 30
+    },
+    "t0": "2026-10-17T23:09:00+08:00",
+    "files": {
+      "small_candidate_frame.json": true,
+      "small_video_draw.json": true,
+      "small_video_selection.json": false,
+      "small_comment_frame.json": false,
+      "small_codebook.json": false,
+      "small_comment_draw.json": false,
+      "small_estimates.json": false
+    },
+    "note": "目标不是实收数；文件存在也不代表审核或统计验收通过",
+    "bounded_queries_completed": {
+      "main": 54,
+      "audit_a": 18,
+      "audit_b": 18
+    },
+    "discovery_groups_sealed": {
+      "main": true,
+      "audit_a": true,
+      "audit_b": true
+    },
+    "candidate_video_domain_rows": 1634,
+    "different_candidate_videos": 1573,
+    "at": "2026-10-17T18:00:18.729970+00:00",
+    "status": "PAUSED_BY_USER",
+    "stage": "VIDEO_ELIGIBILITY_PAUSED",
+    "pause_instruction": "保存进度，今天就到这里，明天起来继续",
+    "resume_requires_new_user_message": true,
+    "human_final_video_domain_rows": 46,
+    "human_included_video_domain_rows": 33,
+    "human_excluded_video_domain_rows": 13,
+    "eligibility_progress": {
+      "abyss": {
+        "selected": 12,
+        "reviewed_prefix": 16,
+        "status": "pending_review"
+      },
+      "theater": {
+        "selected": 10,
+        "reviewed_prefix": 16,
+        "status": "pending_review"
+      },
+      "stygian": {
+        "selected": 11,
+        "reviewed_prefix": 14,
+        "status": "pending_review"
+      }
+    },
+    "batch_005": {
+      "metadata_domain_rows_ready": 20,
+      "first_frames_saved": 8,
+      "first_frames_target": 20,
+      "first_frames_manifest_sealed": false,
+      "proposal_ready": false,
+      "human_final_rows": 0
+    },
+    "formal_eligible_videos_locked": 0,
+    "formal_random_raw_comments_drawn": 0
+  },
+  "video_review_csv_sha256": "013a7deef9a895a94c320dde00331fef1cb4a65129ac87d0b9978516007c646b",
+  "fifth_evidence_progress_hash": "1b099a3dffc0d3c09e601022847f762f9c1996b802c914c68fa3009c9539db48",
+  "candidate_frame_hash": "bd9643ef46367a35674386ae016ba658d0b60c521127f7c7b4a5ab780a7be3da",
+  "video_draw_hash": "c4548e0a83835828e7e3aec53d14f85021e816980a8a86558b35163b1a9122d2",
+  "resume_note": "Resume only after a new direct user instruction. Preserve candidate frame, random order, T0, and existing human decisions."
+}

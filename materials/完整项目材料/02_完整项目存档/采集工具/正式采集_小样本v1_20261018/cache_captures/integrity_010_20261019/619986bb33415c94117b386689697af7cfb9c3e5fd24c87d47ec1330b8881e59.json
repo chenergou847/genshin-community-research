@@ -1,0 +1,76 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317446641345",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-19T05:26:52.958601+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 20
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317446641345,
+        "rpid_str": "317446641345",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792313344,
+        "like": 1,
+        "rcount": 20,
+        "count": 24,
+        "state": 0,
+        "author_id": "U_ff2f8c42f5345d04b8256544",
+        "content": {
+          "message": "我也想上舰",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d6e35c0188cb82b4a9bb70aaba7f1242316627570.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 1565.03
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9e5fdb3487eb07dcad3a6e0d532ac9ee698d61bce390c59bf32b230480a91392",
+  "original_bytes_sha256": "b4b3fb8e7d5c57f5eee115626f9c6d71f877a148a4e5791bfaee1d1e31a32a4a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

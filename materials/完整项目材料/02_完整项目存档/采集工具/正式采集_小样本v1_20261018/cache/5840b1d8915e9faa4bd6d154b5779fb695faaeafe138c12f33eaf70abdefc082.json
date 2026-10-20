@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319221936144",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:21:34.934067+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319221936144,
+        "rpid_str": "319221936144",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790847652,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_e2c9384fa9ae28cf5653a1bc",
+        "content": {
+          "message": "真的假的啊？难道我也",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/07d839800c9b61f686dabb7da0051fb3471892733.jpg",
+              "img_width": 1272,
+              "img_height": 14459,
+              "img_size": 1906.2
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c0be381b726df413bc6061ee4561efd1995bbb0e0a9e4da3b7b93a61c2fc7479",
+  "original_bytes_sha256": "af6271f429105c0eaf963038c607d65430e250c3510a5f6d659e06e12ef68751",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

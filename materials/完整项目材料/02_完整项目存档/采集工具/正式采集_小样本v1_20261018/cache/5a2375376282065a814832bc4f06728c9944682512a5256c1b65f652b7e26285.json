@@ -1,0 +1,130 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315321076145",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:42:11.763769+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315321686097,
+          "rpid_str": "315321686097",
+          "root": 315321076145,
+          "root_str": "315321076145",
+          "parent": 315321076145,
+          "parent_str": "315321076145",
+          "dialog": 315321686097,
+          "ctime": 1790572655,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8f4143f130f123c445d9324b",
+          "content": {
+            "message": "希专和勇者是不是没什么用，武器圣遗物换什么，有拐力的五星单手剑就苍古[热]",
+            "emote": {
+              "[热]": {
+                "id": 7647,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[热]",
+                "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "热"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315321076145,
+        "rpid_str": "315321076145",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790572228,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_8f4143f130f123c445d9324b",
+        "content": {
+          "message": "00赤角偶00奥21八61希有机会过第一间吗[思考]",
+          "emote": {
+            "[思考]": {
+              "id": 1941,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[思考]",
+              "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "思考"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5688f05352ec5662d1d4674faa6d69a8000977b06b2b59b77ad8d9de1b88602e",
+  "original_bytes_sha256": "0bd0618a5c1ea6a024a6e19158dd65ef31d7ac2586e36274be9e62f313b2756f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

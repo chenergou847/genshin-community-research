@@ -1,0 +1,89 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117453783042019",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-19T05:39:55.397758+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 1,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321119894896,
+          "rpid_str": "321119894896",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792318986,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fa97bf9232e28516b4d73f2c",
+          "content": {
+            "message": "我问你个事（）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "e36661d35532776df4bed59a03d15375f06366787c76b4d865bf6e7900d623e8",
+  "original_bytes_sha256": "89fa34924d4a2cc317b2dcffb6b20b3a67f96d4e60dc679d1106bc101a5e1de6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318993255584",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:27:35.231313+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315435389537,
+          "rpid_str": "315435389537",
+          "root": 318993255584,
+          "root_str": "318993255584",
+          "parent": 318993255584,
+          "parent_str": "318993255584",
+          "dialog": 315435389537,
+          "ctime": 1790672709,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔阿罗夏砂糖"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315435534769,
+          "rpid_str": "315435534769",
+          "root": 318993255584,
+          "root_str": "318993255584",
+          "parent": 318993255584,
+          "parent_str": "318993255584",
+          "dialog": 315435534769,
+          "ctime": 1790672823,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "绫华冰水队"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315435613361,
+          "rpid_str": "315435613361",
+          "root": 318993255584,
+          "root_str": "318993255584",
+          "parent": 318993255584,
+          "parent_str": "318993255584",
+          "dialog": 315435613361,
+          "ctime": 1790672840,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "菲林斯队+班尼特"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315435469473,
+          "rpid_str": "315435469473",
+          "root": 318993255584,
+          "root_str": "318993255584",
+          "parent": 318993255584,
+          "parent_str": "318993255584",
+          "dialog": 315435469473,
+          "ctime": 1790672847,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318993255584,
+        "rpid_str": "318993255584",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790671919,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_10ef8f504824756c9480b303",
+        "content": {
+          "message": "三间怎么配",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/979d286d1a61e933cbfd599cd8a2d81c309987913.jpg",
+              "img_width": 1407,
+              "img_height": 15000,
+              "img_size": 9005.6
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0577675899d4f9fa3e85f39b8e9574e51771b05894510e60e9ec112ef694126d",
+  "original_bytes_sha256": "513e12cc333d23dc114e94abf80f8003f6526f5943c6cbd3399e64fc2afad0a9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

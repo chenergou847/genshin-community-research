@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318459007904",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:26:52.447185+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314927051809,
+          "rpid_str": "314927051809",
+          "root": 318459007904,
+          "root_str": "318459007904",
+          "parent": 318459007904,
+          "parent_str": "318459007904",
+          "dialog": 314927051809,
+          "ctime": 1790253641,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e61e463d59c24f1cd23ec9b6",
+          "content": {
+            "message": "月感电第一间 法尔加第三间 第二间得用凌华 有2沃也不难打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314931506801,
+          "rpid_str": "314931506801",
+          "root": 318459007904,
+          "root_str": "318459007904",
+          "parent": 318459007904,
+          "parent_str": "318459007904",
+          "dialog": 314931506801,
+          "ctime": 1790256253,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间冰水冻结，用高频冰压，凌华队够了。你第一间菲林斯够了。有二命尼可，法尔伽打冰棺也够，风扩散火也行的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318459007904,
+        "rpid_str": "318459007904",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790252731,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_bba5aaea6a1e27b8fa797065",
+        "content": {
+          "message": "n6能肘贏嗎",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/02c3f89d5490fffcaa3211b201fb7b24110501101.jpg",
+              "img_width": 804,
+              "img_height": 10154,
+              "img_size": 2196
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "65c751254e931fef139022a04465f075f613cad5d7b45b2d9e6682f06432aadf",
+  "original_bytes_sha256": "21c4b727abad33c96b75e313041b0dd7744b48890495c49f641fff4c3f222a29",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

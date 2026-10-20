@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315721718225",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:33:53.600426+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315721718225,
+        "rpid_str": "315721718225",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790904457,
+        "like": 168,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_484225b72b31e1f7d44afac6",
+        "content": {
+          "message": "我就不一样了，小小号（帮女儿代打的号，她是纯xp抽卡），发愁哪些关卡用哪些四星对付过去，而自己强度抽卡的小号就舒服很多，氪金大号则是发愁哪些大c这次不上场，譬如65玛拉妮，一天不给挂火的，我就一天不给她报名[笑哭]\n所以我每次剧诗都是小小号-小号-大号的顺序玩，此所谓“先苦后甜”，体验极其丰富。",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bb77effa8c3126f289d5d973bbb20980598df952001a6fb0d228bca126bf873d",
+  "original_bytes_sha256": "9d5083aebe886957d8d21f39ba9a258ad164644bde1fac9a816fec2cec3b941a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

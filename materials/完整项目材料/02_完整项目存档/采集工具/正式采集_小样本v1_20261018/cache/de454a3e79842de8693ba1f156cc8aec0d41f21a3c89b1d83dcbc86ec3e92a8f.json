@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319229287776",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:52:13.096368+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319229744320,
+          "rpid_str": "319229744320",
+          "root": 319229287776,
+          "root_str": "319229287776",
+          "parent": 319229287776,
+          "parent_str": "319229287776",
+          "dialog": 319229744320,
+          "ctime": 1790851928,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "夏的Q一共就2个，都给用来过机制了。打桩的话轴已经相当紧凑了没法插入夏Q"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315665422033,
+          "rpid_str": "315665422033",
+          "root": 319229287776,
+          "root_str": "319229287776",
+          "parent": 319229287776,
+          "parent_str": "319229287776",
+          "dialog": 315665422033,
+          "ctime": 1790852627,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_021f32e88f643a38e46baa80",
+          "content": {
+            "message": "夏沃蕾的q是多段的，用来破冰盾快，加上3段e没看到破盾效率吗？[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315667561809,
+          "rpid_str": "315667561809",
+          "root": 319229287776,
+          "root_str": "319229287776",
+          "parent": 319229287776,
+          "parent_str": "319229287776",
+          "dialog": 315667561809,
+          "ctime": 1790853771,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_230296fa108a3025460caec0",
+          "content": {
+            "message": "就破盾需要"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319229287776,
+        "rpid_str": "319229287776",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790851665,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_d6989b4b6a8dc47482b63ce9",
+        "content": {
+          "message": "那夏有q的时候插入个夏qeee是正提升吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7ded24ed64f9f3b405e63079c737f3399e3323af3244565307803875a43ad556",
+  "original_bytes_sha256": "343f3d5b06310b184826b4dd913e8aa897f0f16aefe0f6e3eff139a0a1d773e4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

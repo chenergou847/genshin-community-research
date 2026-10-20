@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "319272567824",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:58:47.405940+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 18
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319272567824,
+        "rpid_str": "319272567824",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790876595,
+        "like": 2,
+        "rcount": 18,
+        "count": 18,
+        "state": 0,
+        "author_id": "U_865021d72c418ebea919b345",
+        "content": {
+          "message": "孩子们既然给木偶了为什么不给个四星雷我没神子啊"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "16812a8d755f15d067cb55c8b9ccdd18c060229b3ee27d8d361461b27a61ba62",
+  "original_bytes_sha256": "d634ca9fc3178be0c4854604eb6a366fc1ff05514c32d89bf3960ca18669ea5b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

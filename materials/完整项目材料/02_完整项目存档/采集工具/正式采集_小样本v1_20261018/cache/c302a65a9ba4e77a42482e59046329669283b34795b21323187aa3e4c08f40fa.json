@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316288290913",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:44:28.469904+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319887655136,
+          "rpid_str": "319887655136",
+          "root": 316288290913,
+          "root_str": "316288290913",
+          "parent": 316288290913,
+          "parent_str": "316288290913",
+          "dialog": 319887655136,
+          "ctime": 1791307168,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "第一间火伊万旅，第二间丝爱，第三间尼杜，不难吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316289180513,
+          "rpid_str": "316289180513",
+          "root": 316288290913,
+          "root_str": "316288290913",
+          "parent": 319887655136,
+          "parent_str": "319887655136",
+          "dialog": 319887655136,
+          "ctime": 1791307643,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5771e237f11078956bafd976",
+          "content": {
+            "message": "回复 @夜星Wetchin :第三间过了，一二间没手法（安详躺平）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316288290913,
+        "rpid_str": "316288290913",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791306858,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_5771e237f11078956bafd976",
+        "content": {
+          "message": "这个box有机会打n6嘛",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ee3dc3505085f10d2092cdaa519349a737958498.jpg",
+              "img_width": 1221,
+              "img_height": 15000,
+              "img_size": 8443.24
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4c7ba4b4b1ce588dddfd591a36914c3c81af8dca37703b2cb0df91f07270b709",
+  "original_bytes_sha256": "c26f64a525759dc783ea0cec6d033c5af36bbe9dffcaeaf50c7b6c5c9ef76d51",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

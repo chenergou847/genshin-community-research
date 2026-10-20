@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319375807968",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:08:50.651914+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316050326209,
+          "rpid_str": "316050326209",
+          "root": 319375807968,
+          "root_str": "319375807968",
+          "parent": 319375807968,
+          "parent_str": "319375807968",
+          "dialog": 316050326209,
+          "ctime": 1791131832,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5e524ea2073a05264cfe7551",
+          "content": {
+            "message": "迪奥娜带精二新弓差些，还他妈凹了半天从木偶那里拆了砂糖还他妈差一点我还去重头到位补了一把90级祭礼才擦边过的[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316050257761,
+          "rpid_str": "316050257761",
+          "root": 319375807968,
+          "root_str": "319375807968",
+          "parent": 316050326209,
+          "parent_str": "316050326209",
+          "dialog": 316050326209,
+          "ctime": 1791131849,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5e524ea2073a05264cfe7551",
+          "content": {
+            "message": "回复 @小阳---_--- :就差冰主6命了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319375807968,
+        "rpid_str": "319375807968",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790951473,
+        "like": 15,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_40867c42a16635c1cef9922f",
+        "content": {
+          "message": "冰主的6命赶紧抬上来吧，是个星C都在抢奥太难受了[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ff16ba11da44027bf0935632cdce329d1889606020.jpg",
+              "img_width": 1280,
+              "img_height": 2336,
+              "img_size": 886.86,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "51aef03d882f7aa1da4a5baf5cf396d09e66a7f7a291eee8fc9b29c1abe15813",
+  "original_bytes_sha256": "9d3f32fd538f527dcfad3f7c9967ef7505d1e37a67e3c25fa8cec3d8a7147285",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

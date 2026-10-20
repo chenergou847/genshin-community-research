@@ -1,0 +1,186 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316960030913",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:29:44.846638+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317265769873,
+          "rpid_str": "317265769873",
+          "root": 316960030913,
+          "root_str": "316960030913",
+          "parent": 316960030913,
+          "parent_str": "316960030913",
+          "dialog": 317265769873,
+          "ctime": 1792164326,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fdda4b0d853bf0d3d56dedca",
+          "content": {
+            "message": "薇小妹也一样[笑哭]这算是什么专怪",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317272380753,
+          "rpid_str": "317272380753",
+          "root": 316960030913,
+          "root_str": "316960030913",
+          "parent": 317265769873,
+          "parent_str": "317265769873",
+          "dialog": 317265769873,
+          "ctime": 1792168846,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a32541d4b49a031f9251fb29",
+          "content": {
+            "message": "回复 @亦祸 :感觉更适合木偶呢，离着挺老远喷就完了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317272803105,
+          "rpid_str": "317272803105",
+          "root": 316960030913,
+          "root_str": "316960030913",
+          "parent": 317272380753,
+          "parent_str": "317272380753",
+          "dialog": 317265769873,
+          "ctime": 1792169078,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fdda4b0d853bf0d3d56dedca",
+          "content": {
+            "message": "回复 @见切如风的猫老板 :木偶即便被挂了都没啥影响。这个老头对需要贴身近战攻速角色真不友好啊。木偶能打得怪星扩散打不了，星扩散能打的木偶更能打[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316960030913,
+        "rpid_str": "316960030913",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791895240,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_a32541d4b49a031f9251fb29",
+        "content": {
+          "message": "老头减攻速挺恶心，奈芙尔后摇变得巨大",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1af9009d079233d5c67bb3f484043c1212201361.png",
+              "img_width": 940,
+              "img_height": 692,
+              "img_size": 749.04
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "51644ebab29c35734fb58f1c7e1942f3ee797b91376a6374586af5d15269d225",
+  "original_bytes_sha256": "999d9fb5c28bca4a87ec6d917ca563e27d150e3aa60f7b4fc508c753c27cc352",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

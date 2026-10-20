@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314946964801",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:22:15.187569+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314948267489,
+          "rpid_str": "314948267489",
+          "root": 314946964801,
+          "root_str": "314946964801",
+          "parent": 314946964801,
+          "parent_str": "314946964801",
+          "dialog": 314948267489,
+          "ctime": 1790265748,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f88f5bb8d37e6e58242b282e",
+          "content": {
+            "message": "冰主"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314950889761,
+          "rpid_str": "314950889761",
+          "root": 314946964801,
+          "root_str": "314946964801",
+          "parent": 314946964801,
+          "parent_str": "314946964801",
+          "dialog": 314950889761,
+          "ctime": 1790267663,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_23333261b38d31260d279e59",
+          "content": {
+            "message": "星扩散冰主有后台冰，勉强用用"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314946964801,
+        "rpid_str": "314946964801",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790264924,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_ef10026321d9f08de0358b97",
+        "content": {
+          "message": "怎么把奥黛塔掰成两个用啊，我星扩散和星超导都要用"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2a5a76ad49f37c4896f439670be8dfdb2da4aba65c71d248a6f1e585f00665ef",
+  "original_bytes_sha256": "ad18293259e173405e0f81ab65e6b74763fb53799ff2f179247dc6d590a9aca0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

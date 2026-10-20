@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318871261392",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:42:39.755497+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318871261392,
+        "rpid_str": "318871261392",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790569550,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b3daa5848ab2909be658ae05",
+        "content": {
+          "message": "不知道怪的机制，问一下，这里面哪个4金月感电能打（n5）"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "994247b194441597dbedf19221fd8cc1d732eccad4b5d699ced897ddc830750a",
+  "original_bytes_sha256": "e77eb89e86b88d4da6db6ca8edb2d4ac144dcc6a8b283e82178e39693679027b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

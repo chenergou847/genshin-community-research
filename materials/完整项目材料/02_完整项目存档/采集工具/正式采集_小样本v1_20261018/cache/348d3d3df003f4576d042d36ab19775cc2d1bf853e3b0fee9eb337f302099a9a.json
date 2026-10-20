@@ -1,0 +1,119 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319578786000",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:01:10.802757+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316048643025,
+          "rpid_str": "316048643025",
+          "root": 319578786000,
+          "root_str": "319578786000",
+          "parent": 319578786000,
+          "parent_str": "319578786000",
+          "dialog": 316048643025,
+          "ctime": 1791130661,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_baa946283d4a2a60e1ce8fb4",
+          "content": {
+            "message": "歪了直说"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319578786000,
+        "rpid_str": "319578786000",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791102308,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_1594702b083149a0e3784dee",
+        "content": {
+          "message": "感觉奥黛塔强度也就一般吧，不如我的二命莫娜[微笑]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5f2459f3dffc5b9cddaf5ff9fa3c215e3546695325452906.jpg",
+              "img_width": 2400,
+              "img_height": 1080,
+              "img_size": 899.04
+            }
+          ],
+          "emote": {
+            "[微笑]": {
+              "id": 1,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[微笑]",
+              "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "微笑"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7458e7f759849f80f1fc5926e85e423674126f4ef5a89da3205923a1bce2c708",
+  "original_bytes_sha256": "342689a1cbdeff1a7183292eb3a82c95e6e6471deb44c896c21976bcd4f88b37",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

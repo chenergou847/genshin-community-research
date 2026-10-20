@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315735893809",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:18:26.860847+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315735979025,
+          "rpid_str": "315735979025",
+          "root": 315735893809,
+          "root_str": "315735893809",
+          "parent": 315735893809,
+          "parent_str": "315735893809",
+          "dialog": 315735979025,
+          "ctime": 1790913713,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_76cd5d2c3d197a08824ec05f",
+          "content": {
+            "message": "主角是冰伤杯精通沙"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315736513553,
+          "rpid_str": "315736513553",
+          "root": 315735893809,
+          "root_str": "315735893809",
+          "parent": 315735893809,
+          "parent_str": "315735893809",
+          "dialog": 315736513553,
+          "ctime": 1790913943,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_59db29bca15ea23bdb3c4d80",
+          "content": {
+            "message": "打到融化了嘛"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319310200128,
+          "rpid_str": "319310200128",
+          "root": 315735893809,
+          "root_str": "315735893809",
+          "parent": 315735893809,
+          "parent_str": "315735893809",
+          "dialog": 319310200128,
+          "ctime": 1790916153,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d24f7373a7a165358d21b2ff",
+          "content": {
+            "message": "当然要火伤杯"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315780798801,
+          "rpid_str": "315780798801",
+          "root": 315735893809,
+          "root_str": "315735893809",
+          "parent": 315735979025,
+          "parent_str": "315735979025",
+          "dialog": 315735979025,
+          "ctime": 1790939739,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c8641d5e0de2d7a7868f5de8",
+          "content": {
+            "message": "回复 @怕激动 :火附魔当然得带火伤杯呀"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315735893809,
+        "rpid_str": "315735893809",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790913677,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_76cd5d2c3d197a08824ec05f",
+        "content": {
+          "message": "怎么差了这么多，我6奶2闲一次下落就60w"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e3abbcdefdb78adcda15272db90a412106f2664a2412c43b5d351c3380c8c820",
+  "original_bytes_sha256": "b9c41008d37f0c870c69114eaa89988df25a0da489af0797ccb9e3772907b217",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

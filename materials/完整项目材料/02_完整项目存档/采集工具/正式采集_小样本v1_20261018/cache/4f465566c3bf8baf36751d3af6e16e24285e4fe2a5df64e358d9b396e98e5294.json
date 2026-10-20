@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315500987537",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:19:19.085069+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315501101857,
+          "rpid_str": "315501101857",
+          "root": 315500987537,
+          "root_str": "315500987537",
+          "parent": 315500987537,
+          "parent_str": "315500987537",
+          "dialog": 315501101857,
+          "ctime": 1790733929,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔阿罗夏+砂糖。四号位要减抗的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315501110785,
+          "rpid_str": "315501110785",
+          "root": 315500987537,
+          "root_str": "315500987537",
+          "parent": 315500987537,
+          "parent_str": "315500987537",
+          "dialog": 315501110785,
+          "ctime": 1790733952,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间菲林斯少女伊涅芙+比如莱依拉。超导可以压。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315501161601,
+          "rpid_str": "315501161601",
+          "root": 315500987537,
+          "root_str": "315500987537",
+          "parent": 315500987537,
+          "parent_str": "315500987537",
+          "dialog": 315501161601,
+          "ctime": 1790733964,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间火神队。完事。纯火，超载也行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315501177185,
+          "rpid_str": "315501177185",
+          "root": 315500987537,
+          "root_str": "315500987537",
+          "parent": 315500987537,
+          "parent_str": "315500987537",
+          "dialog": 315501177185,
+          "ctime": 1790734000,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。打N5完全够，视频也有演示你的角色三间。那我就下线上班了，做餐饮的哦[OK]",
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315500987537,
+        "rpid_str": "315500987537",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790733828,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_675c55e9043272ce8f42a6a7",
+        "content": {
+          "message": "n5怎么配对",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4e5253b443af2bce035e327346487f132121220192.jpg",
+              "img_width": 1080,
+              "img_height": 4924,
+              "img_size": 2696.96
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8bf0f74b7de8e0c2c9937c5fcf03f299021c3f4ba82bc55bc38c1d04615c8efa",
+  "original_bytes_sha256": "e2f7036527c564247544d23cd1c2df62a201ac2d1a43d5e7ec5ceafbd64e3bce",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

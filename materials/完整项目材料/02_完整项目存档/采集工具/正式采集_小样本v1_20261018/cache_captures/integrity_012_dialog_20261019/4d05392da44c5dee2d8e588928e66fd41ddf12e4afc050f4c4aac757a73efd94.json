@@ -1,0 +1,475 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "314935852353",
+    "dialog": "314942093713",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:38:11.062892+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 8,
+        "max_floor": 40,
+        "size": 15,
+        "next": 41,
+        "prev": 7,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":41}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 40
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314944409057,
+          "rpid_str": "314944409057",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314942093713,
+          "parent_str": "314942093713",
+          "dialog": 314942093713,
+          "ctime": 1790263402,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 8,
+          "author_id": "U_aabd42e273353da5bcf12860",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :这金数拿头打老头"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314945745409,
+          "rpid_str": "314945745409",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314944409057,
+          "parent_str": "314944409057",
+          "dialog": 314942093713,
+          "ctime": 1790264228,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 10,
+          "author_id": "U_5ef6233a91844ec15fc4e1a9",
+          "content": {
+            "message": "回复 @EXOqqqq :圣遗物好点应该能凹过吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314947160641,
+          "rpid_str": "314947160641",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314945745409,
+          "parent_str": "314945745409",
+          "dialog": 314942093713,
+          "ctime": 1790265097,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 12,
+          "author_id": "U_aabd42e273353da5bcf12860",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :三命阿罗夏，拿头过，圣遗物难不成40词？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314949163713,
+          "rpid_str": "314949163713",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314947160641,
+          "parent_str": "314947160641",
+          "dialog": 314942093713,
+          "ctime": 1790266432,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 14,
+          "author_id": "U_5ef6233a91844ec15fc4e1a9",
+          "content": {
+            "message": "11神子啊，四号位肯定带01希诺宁减抗的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314954578609,
+          "rpid_str": "314954578609",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314942093713,
+          "parent_str": "314942093713",
+          "dialog": 314942093713,
+          "ctime": 1790270946,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 16,
+          "author_id": "U_5b3c5870c84f1a4d15537fac",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :3金带抗性打2000万血老头吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318495478736,
+          "rpid_str": "318495478736",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314949163713,
+          "parent_str": "314949163713",
+          "dialog": 314942093713,
+          "ctime": 1790279971,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 18,
+          "author_id": "U_a2f0fec8750202712aa2e7ca",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :星超导带01希诺宁的来了👈[笑哭] 人家红玩都不一定能过，你让个专武让个6阿脚打过是吧",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314966725745,
+          "rpid_str": "314966725745",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 318495478736,
+          "parent_str": "318495478736",
+          "dialog": 314942093713,
+          "ctime": 1790294658,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 21,
+          "author_id": "U_5ef6233a91844ec15fc4e1a9",
+          "content": {
+            "message": "回复 @Boundaryear :上砂糖未必有把雷抗也减了加上有专武的长轴减抗重要我说实话，11神子伤害很高的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314966901105,
+          "rpid_str": "314966901105",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 318495478736,
+          "parent_str": "318495478736",
+          "dialog": 314942093713,
+          "ctime": 1790294829,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 22,
+          "author_id": "U_5ef6233a91844ec15fc4e1a9",
+          "content": {
+            "message": "回复 @Boundaryear :而且谁给你的错觉，1命神子打不过满命阿罗夏？何况是11神子，神子这个专武也大加强的情况下"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314971013393,
+          "rpid_str": "314971013393",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314942093713,
+          "parent_str": "314942093713",
+          "dialog": 314942093713,
+          "ctime": 1790298647,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 24,
+          "author_id": "U_3fc8fb684bfa645b83125e6e",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :无爱还是个0芙00丝，木偶队也就是个双00的主配置，说真的除非圣遗物好到逆天我感觉不用打了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314974348913,
+          "rpid_str": "314974348913",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314971013393,
+          "parent_str": "314971013393",
+          "dialog": 314942093713,
+          "ctime": 1790301032,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 27,
+          "author_id": "U_5ef6233a91844ec15fc4e1a9",
+          "content": {
+            "message": "回复 @狐游炮 :有爱啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314976285153,
+          "rpid_str": "314976285153",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314974348913,
+          "parent_str": "314974348913",
+          "dialog": 314942093713,
+          "ctime": 1790302338,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 29,
+          "author_id": "U_3fc8fb684bfa645b83125e6e",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :哦，居然没看见[笑哭]那冰锅有凹的机会",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314999976817,
+          "rpid_str": "314999976817",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314942093713,
+          "parent_str": "314942093713",
+          "dialog": 314942093713,
+          "ctime": 1790316491,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 32,
+          "author_id": "U_a8b0b50822aa040ea2797e06",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :打个一条毛，你用星超导打过老头吗，就他这角色星超导起码要30多wdps"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315007852449,
+          "rpid_str": "315007852449",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314942093713,
+          "parent_str": "314942093713",
+          "dialog": 314942093713,
+          "ctime": 1790321577,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 33,
+          "author_id": "U_e11fc7deb5655c343ae06b45",
+          "content": {
+            "message": "回复 @Moss莫斯丶 :逗我呢双0打个🥚老头"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318622640864,
+          "rpid_str": "318622640864",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314999976817,
+          "parent_str": "314999976817",
+          "dialog": 314942093713,
+          "ctime": 1790382925,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 38,
+          "author_id": "U_09383b7900e98ff00d21dc69",
+          "content": {
+            "message": "回复 @这把我们就遇上髙手 :这么离谱吗，对策卡也要30多万dps吗，我这有个01木偶、满夏、2奥，岂不是也没有机会了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315126299217,
+          "rpid_str": "315126299217",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 318622640864,
+          "parent_str": "318622640864",
+          "dialog": 314942093713,
+          "ctime": 1790412497,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 40,
+          "author_id": "U_c97b06ff6db4d3b95d2e9966",
+          "content": {
+            "message": "回复 @只剩下我了lx :你这个能打，你这是金数最优分配了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "9b7bdc1d2e78b368a0c6485c4946c983bafc50b081cb07372affbe158639a967",
+  "original_bytes_sha256": "a52fc3c49797b35ded2ad9da89947e80d424294ad0299268150ca7db2afee819",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447239669367",
+    "root": "317194665041",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:58:06.478297+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317201568145,
+          "rpid_str": "317201568145",
+          "root": 317194665041,
+          "root_str": "317194665041",
+          "parent": 317194665041,
+          "parent_str": "317194665041",
+          "ctime": 1792123788,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8e18d73973e927da5689c7c7",
+          "content": {
+            "message": "疑似吃环境吃出幻觉。"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317210953073,
+          "rpid_str": "317210953073",
+          "root": 317194665041,
+          "root_str": "317194665041",
+          "parent": 317194665041,
+          "parent_str": "317194665041",
+          "ctime": 1792130094,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d64412501dda17b20c496445",
+          "content": {
+            "message": "评价为吃环境吃出幻觉了，我小号同样的队伍一遍过，大号没抽星扩散三和冰水只能上半月看连带冰  ，下半用木偶还得带水"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320868215152,
+          "rpid_str": "320868215152",
+          "root": 317194665041,
+          "root_str": "317194665041",
+          "parent": 317194665041,
+          "parent_str": "317194665041",
+          "ctime": 1792133508,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c6e42971e09024647b53a8ba",
+          "content": {
+            "message": "[doge]吃环境吃出幻觉了，虽然buff确实很利好平民",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317215422257,
+          "rpid_str": "317215422257",
+          "root": 317194665041,
+          "root_str": "317194665041",
+          "parent": 317210953073,
+          "parent_str": "317210953073",
+          "ctime": 1792133678,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4fde530b39ac41ee3897100f",
+          "content": {
+            "message": "回复 @千载星辰- :也不难我上半用的还是梦见月少机队伍下半我刚好有丝柯克不过换成绫华洛恩也是一样能打，"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320934758880,
+          "rpid_str": "320934758880",
+          "root": 317194665041,
+          "root_str": "317194665041",
+          "parent": 317210953073,
+          "parent_str": "317210953073",
+          "ctime": 1792176258,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_473a8b55eb830642a1791444",
+          "content": {
+            "message": "回复 @千载星辰- :不需要冻结，沃雅妮莎奶血，还有迪奥娜的盾，老太就算穿上全甲也拍不死薇斯纳，深渊的地方传奇没大世界那么高的数值不会一下连盾带人一起拍死"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317194665041,
+        "rpid_str": "317194665041",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792118605,
+        "like": 2,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_36a26317e87d93fb71d01edd",
+        "content": {
+          "message": "路边难度不是很好 省的网上吵翻天",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ceb7e1be388a485c86f895fb5c2021b1491978091.jpg",
+              "img_width": 1440,
+              "img_height": 3120,
+              "img_size": 1750.17,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "4ec42434158dcc23cf1ce8ec9ad1763581ef0f94970151c06f28957072ab743f",
+  "original_bytes_sha256": "c704b3b9a9adaa1c0f1a1e6d0223a65896fbdc47ef4b87ea4361f8aaf7c5713c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

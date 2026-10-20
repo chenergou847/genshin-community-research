@@ -1,0 +1,89 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317188159473",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:15:58.284719+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317188159473,
+        "rpid_str": "317188159473",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792113130,
+        "like": 3,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_027b57909f20aa54182a433e",
+        "content": {
+          "message": "给女仆打榜中[吃瓜]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/79ed8c653651cb3600fc9a8c7ba055bf252083559.jpg",
+              "img_width": 2400,
+              "img_height": 1080,
+              "img_size": 1227.81,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/94741ea95f90b51839d440f175f83168252083559.jpg",
+              "img_width": 2400,
+              "img_height": 1080,
+              "img_size": 283.98,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[吃瓜]": {
+              "id": 415,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[吃瓜]",
+              "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "吃瓜"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "654ecbf07048465f81821f9d9f4822822a1cb869c5271e2166aabf7bb5095921",
+  "original_bytes_sha256": "9a409ed37c4c0700cf9c6321e02ae9ad03578ad1ee7c1f6b5cdf70c6a447e240",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

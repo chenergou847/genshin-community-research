@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364813201666",
+    "root": "319277774656",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:42:40.209422+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319298338800,
+          "rpid_str": "319298338800",
+          "root": 319277774656,
+          "root_str": "319277774656",
+          "parent": 319277774656,
+          "parent_str": "319277774656",
+          "dialog": 319298338800,
+          "ctime": 1790909435,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a3148f8c4c044fa72442def7",
+          "content": {
+            "message": "全部0+0带4星锻造或者活动武器，人人都有的配置。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319277774656,
+        "rpid_str": "319277774656",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790883934,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_da254edae5a1aa6b7d98d2f7",
+        "content": {
+          "message": "啥是平民？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "35c3416af0be221aa00b8d7ae2471c49f4d5d9ffa78decbe45e1ecd22e2a9f1d",
+  "original_bytes_sha256": "8302108f34a88a918d0ad4b67945e39c4220c1ec816d8c1982031126859fb65c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

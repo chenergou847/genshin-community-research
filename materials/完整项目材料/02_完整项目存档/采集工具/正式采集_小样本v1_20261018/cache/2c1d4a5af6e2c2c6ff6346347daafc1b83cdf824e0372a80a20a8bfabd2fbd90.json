@@ -1,0 +1,202 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319175039296",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:24:28.251653+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315614474257,
+          "rpid_str": "315614474257",
+          "root": 319175039296,
+          "root_str": "319175039296",
+          "parent": 319175039296,
+          "parent_str": "319175039296",
+          "dialog": 315614474257,
+          "ctime": 1790821467,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cbcb8a60dd309a5128a17218",
+          "content": {
+            "message": "估计不太行，冰主打得是下落火伤，2奶40减抗250精通，还有40增伤"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315620688865,
+          "rpid_str": "315620688865",
+          "root": 319175039296,
+          "root_str": "319175039296",
+          "parent": 319175039296,
+          "parent_str": "319175039296",
+          "dialog": 315620688865,
+          "ctime": 1790825493,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "奥黛塔挂冰频率咋样 我没咋玩过[笑哭] 能2秒挂一次应该能过",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319192761776,
+          "rpid_str": "319192761776",
+          "root": 319175039296,
+          "root_str": "319175039296",
+          "parent": 315614474257,
+          "parent_str": "315614474257",
+          "dialog": 315614474257,
+          "ctime": 1790830039,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8c58e81fd404b5025db2056e",
+          "content": {
+            "message": "回复 @孤气i :那就难受了，只有0奶。闲云倒是有2命"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315692218625,
+          "rpid_str": "315692218625",
+          "root": 319175039296,
+          "root_str": "319175039296",
+          "parent": 319175039296,
+          "parent_str": "319175039296",
+          "dialog": 315692218625,
+          "ctime": 1790867158,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_df159ff023d54597598f439b",
+          "content": {
+            "message": "这板子里荧不是星反应c，她是一个能触发星扩散的火c，奥对荧一点用都没有[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319175039296,
+        "rpid_str": "319175039296",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790819639,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_8c58e81fd404b5025db2056e",
+        "content": {
+          "message": "奶奶换0命奥黛塔够过n6吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8ad2f74809be54bd860d12f2aecf0156111593a012b23288365aa8a2092395b4",
+  "original_bytes_sha256": "f06385c718d4bd69094ce87cac67270c0d9c49900456d4c162c5e8edd4adedf0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318516150736",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:14:54.962702+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318516150736,
+        "rpid_str": "318516150736",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790304500,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_bd0b3d858494ec77d1f67755",
+        "content": {
+          "message": "我这个第三间是不是给菲利斯里面塞个冰主不带砂糖也能打",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/53d4db4255bd771b83fc3a63441917f324852006.jpg",
+              "img_width": 1200,
+              "img_height": 13982,
+              "img_size": 1725.66,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "50e1c03c16aa251e13ef3cfe9bef41a0eb88aecfb134c0b6eab610588c9bf545",
+  "original_bytes_sha256": "4775ddc29334c17bfa2728602faa660f8ad44233ba4902719462da1158ab7c62",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

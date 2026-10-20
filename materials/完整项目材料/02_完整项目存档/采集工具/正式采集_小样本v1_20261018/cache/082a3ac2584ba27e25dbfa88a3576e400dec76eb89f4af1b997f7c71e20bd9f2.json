@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315755813921",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:12:33.754438+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315755813921,
+        "rpid_str": "315755813921",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790925414,
+        "like": 60,
+        "rcount": 8,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_a5da6b20544616cae1f6f9ea",
+        "content": {
+          "message": "现在想起7.0的时候，“怕冰神是大奥黛塔，感觉可以观望等复刻”就憋不住笑，啥✓8游戏理解，这角色能跳的，奥黛塔这种角色如果有两个，有个大的，那也是两个都拿下，而不是放弃其中一个。这么喜欢吃那点剩饭是真拦不住，别人首发抽完先玩几个月，某些人只能等复刻坐末班车。守财奴思维，这个跳那个跳，一个游戏6年了，他们还是没长出来脑子，就学会了一个等神，神不出来之前不会抽卡了，抽不明白了，大脑直接超载，抽神没错，但眼里只有神属于是没脑子。至冬前面全跳然后等7.3冰神，然后发现这个队友要找下位替代，那个队友要找下位替代，要不就是擅自期待冰神以辅助为主掏不出来一个像样的的C，又眼巴巴的干望着等队友复刻补队友，别人爽玩了大半个至冬，他才刚刚把人给凑齐，小丑完了[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "12a824352ea7bbf5dd1255bddf45e94ab72df7621ce0b4128d28e6c11923e2e4",
+  "original_bytes_sha256": "9bbb6ec674862ac4e14cb61e358c2851f4bfbb693f18d8f115b76598c6707244",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

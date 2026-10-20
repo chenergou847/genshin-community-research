@@ -1,0 +1,80 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T09:56:58.163478+00:00",
+  "source_hash": "819cfa0f2be9a6cb10a33bacb12670dc0f20cb3d419a54f529d52c6a2ddab8ab",
+  "summary": {
+    "total": 600,
+    "remaining_without_AI_proposal": 0,
+    "AI_proposals": 600,
+    "human_final": 0,
+    "relevance_counts": {
+      "related": 432,
+      "irrelevant": 128,
+      "unknown": 40
+    },
+    "per_mode": {
+      "abyss": {
+        "related": 154,
+        "irrelevant": 39,
+        "unknown": 7
+      },
+      "theater": {
+        "unknown": 29,
+        "irrelevant": 25,
+        "related": 146
+      },
+      "stygian": {
+        "related": 132,
+        "irrelevant": 64,
+        "unknown": 4
+      }
+    },
+    "self_experience_utterances": 208,
+    "current_reported_problem_utterances": 81,
+    "unknown_relevance": 40,
+    "priority_review_rows": 326,
+    "priority_counts": {
+      "2_受阻与归因": 87,
+      "4_其余": 274,
+      "3_媒体限制": 171,
+      "1_不明与边界": 68
+    },
+    "media_limited_rows": 236,
+    "sampled_missing_ancestor": 1,
+    "unit": "sampled_utterance_ID_not_unique_people",
+    "population_proportions_computed": false,
+    "reliability_or_accuracy_measured": false,
+    "human_final_coding_complete": false,
+    "conditions_action_outcome_fields_fully_extracted": false
+  },
+  "checks": {
+    "exact_600_IDs_and_200_per_mode": true,
+    "prior_31_proposals_unchanged": true,
+    "all_569_queue_IDs_once": true,
+    "original_232_retained": true,
+    "original_weights_and_draw_unchanged": true,
+    "raw_master_hashes_unchanged": true,
+    "every_evidence_is_own_body_substring": true,
+    "theme_sets_and_self_problem_subsets_valid": true,
+    "no_pending_AI_labels": true,
+    "all_600_final_no": true,
+    "independent_semantic_validation_done": false
+  },
+  "full_proposal_hash": "5f7eada0e5c0441b5a52f4cededca62960376656b4050e2f4bdf8ae6b05232ed",
+  "draw_hash": "d6b5f2a893b2a9577c8f2d735f6cd4237de5f1639204a2ad72f9e346a746fe4f",
+  "master_file_sha256": {
+    "small_collection.json": "45302078b3780d19f973bd7e813209dadff76ecda0e0fb4e38f3d37ae3e73ff4",
+    "small_comments.jsonl": "eaf1b16b03cc973a724da175f914a2b272890e4ac26a2422ee34bfad56e8a070",
+    "small_observations.jsonl": "ce83b10f8cc27fedc563710a8b20553ce13e00ea180b0218cc0ac985a1a9d53e"
+  },
+  "output_file_sha256": {
+    "small_snapshot_coding_full_review_001.csv": "f30caee17126d1520dcbad8687535957527bfe7071877e08ac901a66255d85a6",
+    "small_snapshot_coding_full_blind_material_001.csv": "1adc7dab8f037a272f2b63471ceb57849dbcf8f77036ee18ba13876fa3a3bcf9",
+    "small_snapshot_coding_priority_review_001.csv": "d410c04677396a0cc8820109472ccb927328f5141918e6ba89d10868c3f09c1b",
+    "small_snapshot_coding_unknown_review_001.csv": "40a2b2e0502b602b66514c149e1c1601ad15818795fa67d73d18440b0a99b0f9",
+    "small_snapshot_coding_problem_review_001.csv": "242ed0ef1f765ad006b183c4659dfc3dbb686e9aa0e2a02f14a4242a12e1542d",
+    "small_snapshot_coding_full_flat_001.csv": "112c4ba036cbac0e46283e5f2d3fc07cea43c81920871a95541fbed940384f5d",
+    "small_snapshot_coding_full_context_001.json": "87a24dfc27cf87ba385c7e28c838bb2ea8d2af2d837d814ee577715a4b5842da"
+  },
+  "interpretation": "AI initial counts only; no weighted estimates, no human agreement, no saturation claim"
+}

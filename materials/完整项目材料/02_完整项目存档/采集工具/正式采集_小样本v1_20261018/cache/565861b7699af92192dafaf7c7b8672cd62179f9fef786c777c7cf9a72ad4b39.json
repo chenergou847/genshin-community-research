@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319188970192",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:23:19.399947+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315705316433,
+          "rpid_str": "315705316433",
+          "root": 319188970192,
+          "root_str": "319188970192",
+          "parent": 319188970192,
+          "parent_str": "319188970192",
+          "dialog": 315705316433,
+          "ctime": 1790876610,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f8bfb7171591fd47b079c3cc",
+          "content": {
+            "message": "闲云没二命差了将近一半"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319188970192,
+        "rpid_str": "319188970192",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790827943,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_b538a763e7b2ea98bdfa4154",
+        "content": {
+          "message": "20茜，明天能拿到10鸟，有说法吗[微笑]",
+          "emote": {
+            "[微笑]": {
+              "id": 1,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[微笑]",
+              "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "微笑"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f9fbf1a2cb40f9e0d88095422f93ada30d89e6daa877feaf2b9fd6c867257ade",
+  "original_bytes_sha256": "4df97a5e521cbbed8ae3f40ab5dd4b7166e30987e3861d13bcc86543b3917597",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

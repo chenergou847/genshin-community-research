@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315569607537",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:38:42.023662+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 22
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315569607537,
+        "rpid_str": "315569607537",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790775720,
+        "like": 3,
+        "rcount": 22,
+        "count": 23,
+        "state": 0,
+        "author_id": "U_31df39a718e99b3b5f206cc7",
+        "content": {
+          "message": "孩子们，我这配置N4都打不过正常吗[笑哭]第三间怎么打呀",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/38d2103d44f63bbb4110fd5b5c763da8492366771.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1215.77
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a3ebef0e679e327df32acc0dc5f5db32492366771.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1188.95
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f79ffeff83755b72d7079ded192fca5e76732aab8ad6049fbfd4f098dcdb8fac",
+  "original_bytes_sha256": "f1f3a48bca93e4a0ef69228634f3aedfb9f4105a7b228227d171612189dd621f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

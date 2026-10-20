@@ -1,0 +1,408 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315868948977",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:56:31.742829+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319502503856,
+          "rpid_str": "319502503856",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315868948977,
+          "parent_str": "315868948977",
+          "dialog": 319502503856,
+          "ctime": 1791040057,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b7f2250cd5e1fcdf16f7eb16",
+          "content": {
+            "message": "数值不够很难拿星的，不信你去试试开幕试用的0命龙王"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315948311841,
+          "rpid_str": "315948311841",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 319502503856,
+          "parent_str": "319502503856",
+          "dialog": 319502503856,
+          "ctime": 1791072104,
+          "like": 43,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b1884ee8c00fc735e3fd3738",
+          "content": {
+            "message": "回复 @敌港 :试用的0龙很差，但如果是自己养的0命龙王还好，我一直是金珀0龙顺环境能打n6，平时打n5也没什么问题"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319541744624,
+          "rpid_str": "319541744624",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315868948977,
+          "parent_str": "315868948977",
+          "dialog": 319541744624,
+          "ctime": 1791081494,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c6190ceb3745c8236b6e0544",
+          "content": {
+            "message": "确实，试用的龙王比我自己养的公子强[OK]",
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315961113249,
+          "rpid_str": "315961113249",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315948311841,
+          "parent_str": "315948311841",
+          "dialog": 319502503856,
+          "ctime": 1791082103,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_69f2caf234697480fab56fc5",
+          "content": {
+            "message": "回复 @awslAlswa :0+0龙咋打的n6啊，这么强"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315961399169,
+          "rpid_str": "315961399169",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315961113249,
+          "parent_str": "315961113249",
+          "dialog": 319502503856,
+          "ctime": 1791082279,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b1884ee8c00fc735e3fd3738",
+          "content": {
+            "message": "回复 @伐落 :打的龙专怪火螃蟹"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315973244017,
+          "rpid_str": "315973244017",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 319502503856,
+          "parent_str": "319502503856",
+          "dialog": 319502503856,
+          "ctime": 1791089109,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06e2cf03a9381702a0760f59",
+          "content": {
+            "message": "回复 @敌港 :试用的虽然非常差，但是稍微带点减风抗的，秒几波怪，圣牌就可以直接拿下了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315973383761,
+          "rpid_str": "315973383761",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315948311841,
+          "parent_str": "315948311841",
+          "dialog": 319502503856,
+          "ctime": 1791089133,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06e2cf03a9381702a0760f59",
+          "content": {
+            "message": "回复 @awslAlswa :N6太逆天了吧？真的假的？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315974974289,
+          "rpid_str": "315974974289",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315973383761,
+          "parent_str": "315973383761",
+          "dialog": 319502503856,
+          "ctime": 1791090023,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b1884ee8c00fc735e3fd3738",
+          "content": {
+            "message": "回复 @6wwd6 :是的，火螃蟹就是这么专，不过那期黑狗我没抽月体系没打过，所以没三间全通关"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315978254289,
+          "rpid_str": "315978254289",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315973383761,
+          "parent_str": "315973383761",
+          "dialog": 319502503856,
+          "ctime": 1791091728,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_24957e768a764d0272277159",
+          "content": {
+            "message": "回复 @6wwd6 :火螃蟹是专怪，00龙过n6很正常"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319813381488,
+          "rpid_str": "319813381488",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315868948977,
+          "parent_str": "315868948977",
+          "dialog": 319813381488,
+          "ctime": 1791267895,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1a942d526dee1a6eef107352",
+          "content": {
+            "message": "还真是[笑哭][笑哭][笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316432371489,
+          "rpid_str": "316432371489",
+          "root": 315868948977,
+          "root_str": "315868948977",
+          "parent": 315868948977,
+          "parent_str": "315868948977",
+          "dialog": 316432371489,
+          "ctime": 1791437056,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_facc6ccd5dd19793fb547871",
+          "content": {
+            "message": "其实剧诗就算没有龙王也是轻松满星，但是危战龙王打不了确是实打实的[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315868948977,
+        "rpid_str": "315868948977",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791009224,
+        "like": 114,
+        "rcount": 11,
+        "count": 13,
+        "state": 0,
+        "author_id": "U_a2d0dbec4c431de17620b0f3",
+        "content": {
+          "message": "其实龙王在剧诗一直有地位的，任何时候带一队垃圾都可以过关，把强者们留给强敌来袭[微笑]",
+          "emote": {
+            "[微笑]": {
+              "id": 1,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[微笑]",
+              "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "微笑"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5e9b5f0a978dfa1f50c0ccd8eb2a7445c340fdc320d2a50758b78c10424bb9a3",
+  "original_bytes_sha256": "f451565edb8e2820af6aacaec3242c7639789d20892a8abf9cc63280dce4d272",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

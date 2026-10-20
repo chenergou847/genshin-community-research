@@ -1,0 +1,121 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315172501569",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:52:39.519536+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318728378416,
+          "rpid_str": "318728378416",
+          "root": 315172501569,
+          "root_str": "315172501569",
+          "parent": 315172501569,
+          "parent_str": "315172501569",
+          "dialog": 318728378416,
+          "ctime": 1790445748,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_630fb2268a52f0f60439a132",
+          "content": {
+            "message": "木偶带一队，奥黛塔带一队，菲林斯带冰走冰锅"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315172501569,
+        "rpid_str": "315172501569",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790437586,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_c465ffc8229da019c4282765",
+        "content": {
+          "message": "n5可以吗[doge_金箍]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f4b58d308a40b88ce4233cb67dcf3042662615075.jpg",
+              "img_width": 954,
+              "img_height": 10800,
+              "img_size": 5330.12,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "81b075165911806bce6dbdd43093d77aafece14bc77d4b03c6b597d6d5922f2b",
+  "original_bytes_sha256": "77636c6567c52396b4e2dfef7a0adc439697300237a7fff7b5172cc31589811e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

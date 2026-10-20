@@ -1,0 +1,106 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315002967409",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:07:52.231286+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315008274529,
+          "rpid_str": "315008274529",
+          "root": 315002967409,
+          "root_str": "315002967409",
+          "parent": 315002967409,
+          "parent_str": "315002967409",
+          "dialog": 315008274529,
+          "ctime": 1790321865,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你丝柯克可以打二间。木偶要么0+1，2奥，要么2命木偶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315002967409,
+        "rpid_str": "315002967409",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790318328,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a2c3b76d3211c16020676892",
+        "content": {
+          "message": "n6有希望吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/91c69f64c5c2b5b6704acdad662fcfe0442087779.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1207.93
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b0066dab3155f6d849c25e1f9df45ec6442087779.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1208.4
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fd2eb41bcc207b3722dd8a612cb395475feb03d280851e76a6bcfc5dde8d188e",
+  "original_bytes_sha256": "1cb0b5ea8f815c1063e3c4c32a3a7823ffb36c548f643e9521e79c40d0031bec",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

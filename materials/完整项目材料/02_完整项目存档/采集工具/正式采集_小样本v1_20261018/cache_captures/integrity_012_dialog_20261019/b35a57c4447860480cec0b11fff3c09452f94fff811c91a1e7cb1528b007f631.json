@@ -1,0 +1,175 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117369108174481",
+    "type": 1,
+    "root": "319347514112",
+    "dialog": "315846741329",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:39:30.257809+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 8,
+        "max_floor": 24,
+        "size": 3,
+        "next": 25,
+        "prev": 7,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":25}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 24
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319422439424,
+          "rpid_str": "319422439424",
+          "root": 319347514112,
+          "root_str": "319347514112",
+          "parent": 315846741329,
+          "parent_str": "315846741329",
+          "dialog": 315846741329,
+          "ctime": 1790997031,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 8,
+          "author_id": "U_ff4afe596429b403bfd46c03",
+          "content": {
+            "message": "回复 @狐狐鴨 :我没说是抽了雷公电母的教训啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315866356849,
+          "rpid_str": "315866356849",
+          "root": 319347514112,
+          "root_str": "319347514112",
+          "parent": 315854774113,
+          "parent_str": "315854774113",
+          "dialog": 315846741329,
+          "ctime": 1791007590,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 23,
+          "author_id": "U_37245e290d9143ab27d2c79e",
+          "content": {
+            "message": "回复 @Lthozes :不愧是肚子里的蛔虫[喜极而泣]，描述的模棱两可都能猜对",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315866563985,
+          "rpid_str": "315866563985",
+          "root": 319347514112,
+          "root_str": "319347514112",
+          "parent": 319422439424,
+          "parent_str": "319422439424",
+          "dialog": 315846741329,
+          "ctime": 1791007674,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 24,
+          "author_id": "U_37245e290d9143ab27d2c79e",
+          "content": {
+            "message": "回复 @zhuai_hao :那就是我理解错了[鸭科夫_流汗鸭]",
+            "emote": {
+              "[鸭科夫_流汗鸭]": {
+                "id": 124985,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[鸭科夫_流汗鸭]",
+                "url": "https://i0.hdslb.com/bfs/emote/b49b325224cef1ef8313728022aa86e93e65bd08.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1762163627,
+                "jump_title": "流汗鸭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "87f5c6df2e721f734ce7617e4f561d6665c64080ae6974927b76cafeb57cef29",
+  "original_bytes_sha256": "1bc3da9bddf55455f96cda27a5909e434c3dde1205cecf732e2468b7d037ddfc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

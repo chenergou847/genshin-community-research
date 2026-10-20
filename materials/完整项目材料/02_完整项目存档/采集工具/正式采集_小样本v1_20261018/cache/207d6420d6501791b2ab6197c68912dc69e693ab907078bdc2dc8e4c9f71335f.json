@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315726571745",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:09:21.994078+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315729439425,
+          "rpid_str": "315729439425",
+          "root": 315726571745,
+          "root_str": "315726571745",
+          "parent": 315726571745,
+          "parent_str": "315726571745",
+          "dialog": 315729439425,
+          "ctime": 1790909763,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_054116ca9aa2e56bdf761734",
+          "content": {
+            "message": "站内搜一下都有人出视频过的。0火都有人过。怎么可能2命火神过不了。。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315729628017,
+          "rpid_str": "315729628017",
+          "root": 315726571745,
+          "root_str": "315726571745",
+          "parent": 315726571745,
+          "parent_str": "315726571745",
+          "dialog": 315729628017,
+          "ctime": 1790909816,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_054116ca9aa2e56bdf761734",
+          "content": {
+            "message": "打不过可以找那种直播谋生的主播打。UP主一看就是个上班族，业余爱好。人家视频讲的东西很全的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315726571745,
+        "rpid_str": "315726571745",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790907835,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_55f285bbe59dea139e76f13e",
+        "content": {
+          "message": "21火神过不了n6第三间，可能是手法问题吧[藏狐]",
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8c1e01a9e24671364e6e846bf956f165ff93e3336f6cad8225e9b547ee251b34",
+  "original_bytes_sha256": "5137cf405fb64fe485f01529a94fe0fc85cc11a581c15732c846e45c148ba71a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

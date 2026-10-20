@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315017320625",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:05:54.526977+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315017320625,
+        "rpid_str": "315017320625",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790327634,
+        "like": 1,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_2b6f7ae98b4a11b9eb4dae96",
+        "content": {
+          "message": "被冰棺卡死了，有点好奇补个10薇斯纳00沃能不能冰棺",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/bb9b4b06b8b525622c28996c06fc00fb398187092.jpg",
+              "img_width": 1264,
+              "img_height": 9219,
+              "img_size": 5582.31
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a24119fd53c306095b9dd5ca3a1b9450b4cbf9e9490a4d31de51908fbdb0cf00",
+  "original_bytes_sha256": "b1f97dce14b69220ac8eddec00e3ebba6a608d3776b2dcbe779e09fe3c4ddebf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

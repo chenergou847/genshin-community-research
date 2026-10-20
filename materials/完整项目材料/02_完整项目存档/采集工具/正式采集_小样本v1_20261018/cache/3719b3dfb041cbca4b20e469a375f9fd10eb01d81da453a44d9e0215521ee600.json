@@ -1,0 +1,250 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315866864929",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:47:56.740130+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315867118641,
+          "rpid_str": "315867118641",
+          "root": 315866864929,
+          "root_str": "315866864929",
+          "parent": 315866864929,
+          "parent_str": "315866864929",
+          "dialog": 315867118641,
+          "ctime": 1791008105,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_71275eacdb06030808a0c1d5",
+          "content": {
+            "message": "N5还可以吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319451023072,
+          "rpid_str": "319451023072",
+          "root": 315866864929,
+          "root_str": "315866864929",
+          "parent": 315866864929,
+          "parent_str": "315866864929",
+          "dialog": 319451023072,
+          "ctime": 1791012915,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "可以的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319472722016,
+          "rpid_str": "319472722016",
+          "root": 315866864929,
+          "root_str": "315866864929",
+          "parent": 315866864929,
+          "parent_str": "315866864929",
+          "dialog": 319472722016,
+          "ctime": 1791024804,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_be055a1e5028a66fc38feeaf",
+          "content": {
+            "message": "带班尼特"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315896187649,
+          "rpid_str": "315896187649",
+          "root": 315866864929,
+          "root_str": "315866864929",
+          "parent": 319451023072,
+          "parent_str": "319451023072",
+          "dialog": 319451023072,
+          "ctime": 1791025324,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f9527758987060ffc827c64e",
+          "content": {
+            "message": "回复 @夜星Wetchin :谢谢大佬，那我再争取凹一下[给心心]",
+            "emote": {
+              "[给心心]": {
+                "id": 3302,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[给心心]",
+                "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "给心心"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319492038064,
+          "rpid_str": "319492038064",
+          "root": 315866864929,
+          "root_str": "315866864929",
+          "parent": 315866864929,
+          "parent_str": "315866864929",
+          "dialog": 319492038064,
+          "ctime": 1791034737,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_81cec4b52d1439fd1f8e32df",
+          "content": {
+            "message": "能打，我打过10牛00火2伊6夏的号，而且火神练度很低"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315919518849,
+          "rpid_str": "315919518849",
+          "root": 315866864929,
+          "root_str": "315866864929",
+          "parent": 319492038064,
+          "parent_str": "319492038064",
+          "dialog": 319492038064,
+          "ctime": 1791037832,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f9527758987060ffc827c64e",
+          "content": {
+            "message": "回复 @kirakei :厉害哦"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315866864929,
+        "rpid_str": "315866864929",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791007932,
+        "like": 1,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_f9527758987060ffc827c64e",
+        "content": {
+          "message": "11牛，00火，3伊，6夏，有机会打n5冰棺吗[热]",
+          "emote": {
+            "[热]": {
+              "id": 7647,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[热]",
+              "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "热"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "94af6c4988bbd61d8d948361e841a4a53c7727e9d94fd0802a8e9cce86a01dda",
+  "original_bytes_sha256": "499b0b1f3c89771afd35bd544d2a6a23600605db767153dd9313806c368185c3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

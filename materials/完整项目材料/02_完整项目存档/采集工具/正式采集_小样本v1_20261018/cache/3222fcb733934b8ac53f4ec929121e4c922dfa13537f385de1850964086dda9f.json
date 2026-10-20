@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319461486112",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:03:51.776586+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315907993265,
+          "rpid_str": "315907993265",
+          "root": 319461486112,
+          "root_str": "319461486112",
+          "parent": 319461486112,
+          "parent_str": "319461486112",
+          "dialog": 315907993265,
+          "ctime": 1791031684,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cc17524b73241eabce8e961c",
+          "content": {
+            "message": "瞧你这么说的，火锅不也是抬火和燃烧的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319461486112,
+        "rpid_str": "319461486112",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791018970,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_20cb0af719c67d1abc434f01",
+        "content": {
+          "message": "这不是环境强抬吗，把火锅叫回来[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "eb7918daadf3b5e4d6b9c8af9a0a0b7ac7723460d4c110a5204137d842c380b8",
+  "original_bytes_sha256": "4572360d94be8eeec11f9d13713ae280ad00cc6750d622b25292476a39c361c9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

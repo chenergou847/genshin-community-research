@@ -1,0 +1,85 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319110230976",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:12:06.561407+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 10
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319110230976,
+        "rpid_str": "319110230976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790765028,
+        "like": 2,
+        "rcount": 10,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_97952fa9c31a01cd0edd30cb",
+        "content": {
+          "message": "这个老头必须用星扩散打，星扩散和其他配队根本不是一个难度的，包括星超导，搭上一个奥黛塔，靠着快速破机制就能过，我这梦见月练度约等于没有，都能过n5",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/87ddca799f7bda5515145c534743530f44789027.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1687.24,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0b225b459f79d4b9d2047c2037893e8e44789027.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1083.12,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fb0a9d65d4a63728ea76de3fa79193afe3f7ee3aecbe7ef3266b371b98c1d386",
+  "original_bytes_sha256": "2adff73d78354bf105f2c530bcf67af6a8d8faefdba0e10fca5df2e66be84d19",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

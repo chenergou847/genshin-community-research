@@ -1,0 +1,122 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117447743047283",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-18T04:59:26.322012+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 6,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317203798081,
+          "rpid_str": "317203798081",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792125148,
+          "like": 1,
+          "rcount": 5,
+          "count": 5,
+          "state": 0,
+          "author_id": "U_979fe4f72c2c4daf22c80b7e",
+          "content": {
+            "message": "这就叫完全不会玩儿但是数值爆炸吗。星反应，开局两个雷系乱甩，根本没生成领域。你需要雷后接冰的。。。。"
+          },
+          "replies": [
+            {
+              "rpid": 317208723761,
+              "rpid_str": "317208723761",
+              "root": 317203798081,
+              "root_str": "317203798081",
+              "parent": 320861152576,
+              "parent_str": "320861152576",
+              "ctime": 1792128286,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_979fe4f72c2c4daf22c80b7e",
+              "content": {
+                "message": "回复 @空荧满月满荧空 :不好意思，我的语气有问题。我下意识以为视频是为了指导别人，我觉得你玩儿得快乐就够了。付不起。"
+              },
+              "replies": []
+            },
+            {
+              "rpid": 320861152576,
+              "rpid_str": "320861152576",
+              "root": 317203798081,
+              "root_str": "317203798081",
+              "parent": 317203798081,
+              "parent_str": "317203798081",
+              "ctime": 1792128089,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_28959b5c51d928550dd13194",
+              "content": {
+                "message": "完全不会玩这你倒是可以说我，因为我的手法和操作一直都很烂，从来都是哪里亮了就点哪里，没技能就技能切另一个角色[doge]",
+                "emote": {
+                  "[doge]": {
+                    "id": 26,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "doge"
+                  }
+                }
+              },
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "response_hash": "d08e4a106fbe6022c185e0ac78eedf017321c141c5cf359d4dd5eb66b59124f3",
+  "original_bytes_sha256": "c9689f5dc9717655621417d26a290f7b4189264301fc569b6888231b76fdda6f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

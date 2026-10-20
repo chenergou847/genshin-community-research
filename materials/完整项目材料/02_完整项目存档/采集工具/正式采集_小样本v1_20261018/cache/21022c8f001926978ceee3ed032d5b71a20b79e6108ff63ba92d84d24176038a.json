@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318929266368",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:36:16.636156+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318929266368,
+        "rpid_str": "318929266368",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790607573,
+        "like": 0,
+        "rcount": 8,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_0ba0b327df052f7faa76faf6",
+        "content": {
+          "message": "请问n6有希望吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ed7a31b2839d307337c2c993b18f069e456185133.jpg",
+              "img_width": 1199,
+              "img_height": 3657,
+              "img_size": 1912.39
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2eb1e320c5456b9076de7914704cd2b5703cc22cd3c28ad6891fa3382f7b6465",
+  "original_bytes_sha256": "3bfa0334a6b2fb1c75b575f8f27b67c5adf9a314d0ad76ff40381f4cdc800542",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,130 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315542808065",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:12:18.219851+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319203624672,
+          "rpid_str": "319203624672",
+          "root": 315542808065,
+          "root_str": "315542808065",
+          "parent": 315542808065,
+          "parent_str": "315542808065",
+          "dialog": 319203624672,
+          "ctime": 1790836249,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8b07480042079b543ac67290",
+          "content": {
+            "message": "打榜的来了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315639644945,
+          "rpid_str": "315639644945",
+          "root": 315542808065,
+          "root_str": "315542808065",
+          "parent": 319203624672,
+          "parent_str": "319203624672",
+          "dialog": 319203624672,
+          "ctime": 1790836695,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_96ca2cb8ab0123818092ea6b",
+          "content": {
+            "message": "回复 @高超浪浪礁 :是小程序把奥黛塔识别成绫人了，根本没有这样的打榜"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315542808065,
+        "rpid_str": "315542808065",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790761603,
+        "like": 0,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_96ca2cb8ab0123818092ea6b",
+        "content": {
+          "message": "我们绫人也是好起来了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/de97fe9d210101eab3c02ce5276cd386432331594.jpg",
+              "img_width": 720,
+              "img_height": 1608,
+              "img_size": 176.04
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e7ade775d0173df6cfe54d51d26345cf432331594.jpg",
+              "img_width": 720,
+              "img_height": 1580,
+              "img_size": 107.47
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4d869bb61bd198b157960ca409e4ef473c2c85bc18900e94f674afb69d5dd6a3",
+  "original_bytes_sha256": "e4c912b45fa863cc07d04d9928b3d0f8a19a59a3be2545fe2ab57a444a75a7eb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

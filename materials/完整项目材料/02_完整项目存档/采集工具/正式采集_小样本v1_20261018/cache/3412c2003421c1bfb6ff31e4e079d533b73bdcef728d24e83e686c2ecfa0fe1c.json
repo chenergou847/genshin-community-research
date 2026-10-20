@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319194033856",
+    "pn": 10,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:36:04.190808+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 10,
+        "size": 20,
+        "count": 165
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319194033856,
+        "rpid_str": "319194033856",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790830739,
+        "like": 228,
+        "rcount": 165,
+        "count": 171,
+        "state": 0,
+        "author_id": "U_2eaa37c323670b6d5abfa77e",
+        "content": {
+          "message": "感觉这期局诗难了好多啊，大家都打了多久啊？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "35b34bdebecdb3788323ae06b276a0b7d17a4c46f5551f5537472d4d1534b53e",
+  "original_bytes_sha256": "689c95c99c9a79cb0660ac319468dc2867c268873e9c9edd3ab21a8689c4df59",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

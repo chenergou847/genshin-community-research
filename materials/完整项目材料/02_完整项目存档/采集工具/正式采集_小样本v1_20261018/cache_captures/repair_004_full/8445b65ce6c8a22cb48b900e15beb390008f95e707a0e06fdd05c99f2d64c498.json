@@ -1,0 +1,152 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320848195424",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:44:10.187300+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317196362945,
+          "rpid_str": "317196362945",
+          "root": 320848195424,
+          "root_str": "320848195424",
+          "parent": 320848195424,
+          "parent_str": "320848195424",
+          "ctime": 1792120089,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9f55bc71301a4ff7b96eeb72",
+          "content": {
+            "message": "回坑两个月玩家打完过一次n6后感觉深渊和周本难度差不多"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317202603265,
+          "rpid_str": "317202603265",
+          "root": 320848195424,
+          "root_str": "320848195424",
+          "parent": 320848195424,
+          "parent_str": "320848195424",
+          "ctime": 1792124474,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a67f1aebf846e950947f89ea",
+          "content": {
+            "message": "老深渊都跟N4差不多了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320859284752,
+          "rpid_str": "320859284752",
+          "root": 320848195424,
+          "root_str": "320848195424",
+          "parent": 317202603265,
+          "parent_str": "317202603265",
+          "ctime": 1792126807,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2f33f3badb344689d01a16a6",
+          "content": {
+            "message": "回复 @X-I-N_B :差距大着呢，满能量起手差别大着呢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320878749488,
+          "rpid_str": "320878749488",
+          "root": 320848195424,
+          "root_str": "320848195424",
+          "parent": 317202603265,
+          "parent_str": "317202603265",
+          "ctime": 1792141545,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_457c2799e38fff9126f39bb6",
+          "content": {
+            "message": "回复 @X-I-N_B :比N4简单多了，开局满能量，有buff，开书吃球之类的操作都能用，而且怪相对定制程度比幽默危战低多了。而且上下共享时间，还能分开凹每一间。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320848195424,
+        "rpid_str": "320848195424",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792119825,
+        "like": 2,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_457c2799e38fff9126f39bb6",
+        "content": {
+          "message": "老深渊开局满能量还有buff，数值也远低于N5，减速带这一块"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "300cb59e7a751a360a6dd3890e9b3c9121b6b5a55ce80295f91be6e629f5819d",
+  "original_bytes_sha256": "9aa5aa8b8bc1d71f72a411be91b423bb1cf604b2c30cdc0eaa8f91bd3bbbba1d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

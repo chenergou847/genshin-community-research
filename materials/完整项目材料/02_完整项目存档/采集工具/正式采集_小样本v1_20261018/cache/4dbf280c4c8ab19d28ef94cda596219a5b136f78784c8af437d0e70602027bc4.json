@@ -1,0 +1,163 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320918946416",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:06:08.042535+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317281694129,
+          "rpid_str": "317281694129",
+          "root": 320918946416,
+          "root_str": "320918946416",
+          "parent": 320918946416,
+          "parent_str": "320918946416",
+          "ctime": 1792182300,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_787d3f906ecd3ef58f7b774a",
+          "content": {
+            "message": "你把角色拉起来以后倒立都能打过"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317305228513,
+          "rpid_str": "317305228513",
+          "root": 320918946416,
+          "root_str": "320918946416",
+          "parent": 320918946416,
+          "parent_str": "320918946416",
+          "ctime": 1792209238,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_af375eafb5b70427682bbb16",
+          "content": {
+            "message": "感觉练度差点意思"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317351130593,
+          "rpid_str": "317351130593",
+          "root": 320918946416,
+          "root_str": "320918946416",
+          "parent": 320918946416,
+          "parent_str": "320918946416",
+          "ctime": 1792236904,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a28e0c3386bb64f867ae3e43",
+          "content": {
+            "message": "你的意思是一个老角色配一堆练度低的辅助去打深渊吗"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321011983472,
+          "rpid_str": "321011983472",
+          "root": 320918946416,
+          "root_str": "320918946416",
+          "parent": 317351130593,
+          "parent_str": "317351130593",
+          "ctime": 1792237468,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d1d8a2db5652f0c6ee418212",
+          "content": {
+            "message": "回复 @6星辰为海6 :我以为可以靠手法能拉回来这个差距[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320918946416,
+        "rpid_str": "320918946416",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792163512,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d1d8a2db5652f0c6ee418212",
+        "content": {
+          "message": "评论区那么多下半是绫华打过去的，我10绫华申鹤00沃（80级）和00爱（70级）老差一点，这显得我手法好烂啊[藏狐]",
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "30f300b0ac978f09fddc2a556f35e8f7c0a5f32126e390e9331c241027126804",
+  "original_bytes_sha256": "0f53b60f6c555be69b9fc45fcb751f310a897eee5c0a675104760c36b68f2a2f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

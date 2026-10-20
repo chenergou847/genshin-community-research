@@ -1,0 +1,130 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319307941216",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:33:41.921401+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 41
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321090847632,
+          "rpid_str": "321090847632",
+          "root": 319307941216,
+          "root_str": "319307941216",
+          "parent": 319307941216,
+          "parent_str": "319307941216",
+          "dialog": 321090847632,
+          "ctime": 1792301012,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f205d56a11215394edccc906",
+          "content": {
+            "message": "主要是前面不给想用的角色[笑哭]最后才给，导致结束的时候还有两队[笑哭]这关我就是配队不齐打的，没拿到花",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319307941216,
+        "rpid_str": "319307941216",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790914980,
+        "like": 3,
+        "rcount": 41,
+        "count": 44,
+        "state": 0,
+        "author_id": "U_3c4324df25d314ca2e09f725",
+        "content": {
+          "message": "最阴的应该是月瑜2吧，基本上怪出来就死也要凹[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0b07bfe2309ecdefb5c2ca166a554973d68ad6aa4a70aa42d07ca6cbda87e82e",
+  "original_bytes_sha256": "87b57739bdfc5f4d46bd9b98f05ef5bcd43863a6411d372e022ee24cdd4b2d4c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

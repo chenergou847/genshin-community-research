@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "317293912449",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:00:52.897617+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 15
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317293912449,
+        "rpid_str": "317293912449",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792201754,
+        "like": 0,
+        "rcount": 15,
+        "count": 16,
+        "state": 0,
+        "author_id": "U_04760213b54266990df73a2d",
+        "content": {
+          "message": "火神这么低吗 ，我感觉零命纳塔战舰上半挺简单的"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "262602cd04a481ca0a62582ec42c066264e7a088571d7528af0525d6d3bb0565",
+  "original_bytes_sha256": "979aa2ef76336ca91f06d039b7d2fa86a2d1736b14a921e33a2b281e102839da",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

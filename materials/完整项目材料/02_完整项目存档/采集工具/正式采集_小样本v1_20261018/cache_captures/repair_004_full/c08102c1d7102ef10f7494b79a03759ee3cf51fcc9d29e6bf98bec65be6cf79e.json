@@ -1,0 +1,78 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320840229840",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:46:04.267834+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320840229840,
+        "rpid_str": "320840229840",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792113213,
+        "like": 1,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_2573a6806d07819e18a68b77",
+        "content": {
+          "message": "上半：迪奥娜，奥黛塔，七七，梦见月瑞希\n下半：芙宁娜，爱可菲，希格雯，神里绫华\n廉颇老矣，尚能饭[doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "1e78f59a2b10565d6ba130991ddcbb4d06c3a39a66837e0f8ba36483905b16c6",
+  "original_bytes_sha256": "960c7ba0964c892b0d53def0a4cc11243a81da7d6fdadbfb1414503daa7a28bc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

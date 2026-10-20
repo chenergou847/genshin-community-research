@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319467639424",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:03:27.942742+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315900926913,
+          "rpid_str": "315900926913",
+          "root": 319467639424,
+          "root_str": "319467639424",
+          "parent": 319467639424,
+          "parent_str": "319467639424",
+          "dialog": 315900926913,
+          "ctime": 1791027802,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_43df98403f9132856f8f0c94",
+          "content": {
+            "message": "第一间为什么不带主角"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319513952128,
+          "rpid_str": "319513952128",
+          "root": 319467639424,
+          "root_str": "319467639424",
+          "parent": 315900926913,
+          "parent_str": "315900926913",
+          "dialog": 315900926913,
+          "ctime": 1791047114,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b2af272534d7b720a467bf51",
+          "content": {
+            "message": "回复 @天上月是心中人 :带了打不过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319467639424,
+        "rpid_str": "319467639424",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791022285,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b2af272534d7b720a467bf51",
+        "content": {
+          "message": "我的低配版的冰水战舰真的拉完了，只能让木偶去打冰锅[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4cda1ea2391e78578a751aacd56cb667381515813.png",
+              "img_width": 1589,
+              "img_height": 1080,
+              "img_size": 1300.07
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "555b5bfbcae4ae6b4aef8bf5aad3178f9038bf80191be266d5994ce5d727eaac",
+  "original_bytes_sha256": "9e3752f73b85a3effaac9f70b9a4fe22518f31054a258b5ece19ff89c028d2ee",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

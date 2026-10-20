@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314946245553",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:22:30.848507+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314946254337,
+          "rpid_str": "314946254337",
+          "root": 314946245553,
+          "root_str": "314946245553",
+          "parent": 314946245553,
+          "parent_str": "314946245553",
+          "dialog": 314946254337,
+          "ctime": 1790264488,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_756a7eb18a3cfa45837fa76f",
+          "content": {
+            "message": "发不了图片为何"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314946245553,
+        "rpid_str": "314946245553",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790264471,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_756a7eb18a3cfa45837fa76f",
+        "content": {
+          "message": "本来想老头梦见月冰锅木偶雪女菲林斯的，或者应该菲林斯去打老头，梦见月去雪女吗？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c2233785ddc5660073c39608c5dee819c0dac9375cc368cca8b55bc1804455c2",
+  "original_bytes_sha256": "7066bd2cd46b853ed5c54bd1568a56f4fea46001685ebf65f8c157433bba0529",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

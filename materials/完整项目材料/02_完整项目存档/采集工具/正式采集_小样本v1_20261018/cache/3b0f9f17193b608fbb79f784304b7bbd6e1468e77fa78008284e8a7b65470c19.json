@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364813201666",
+    "root": "319242489584",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:42:55.701638+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315684879233,
+          "rpid_str": "315684879233",
+          "root": 319242489584,
+          "root_str": "319242489584",
+          "parent": 319242489584,
+          "parent_str": "319242489584",
+          "dialog": 315684879233,
+          "ctime": 1790863245,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ef3f12c96c9cc9a9ee736ac0",
+          "content": {
+            "message": "不需要，这次都不是伤害盾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319242489584,
+        "rpid_str": "319242489584",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790858574,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_798f2f046fb3fa2c785c0ec2",
+        "content": {
+          "message": "冰主破机制需要练度吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "10bb9c18dd7db109a9229448c85279a49c4b87d95a177532fd8bb7c39731dd6c",
+  "original_bytes_sha256": "77c44972c39df979208ee8a67e8b0e53e108ae109563d07173cda2de0e8677ef",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

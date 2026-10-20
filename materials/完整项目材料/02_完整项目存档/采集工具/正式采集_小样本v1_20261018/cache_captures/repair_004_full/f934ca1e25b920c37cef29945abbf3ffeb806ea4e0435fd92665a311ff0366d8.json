@@ -1,0 +1,639 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317186872241",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:47:03.455014+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 17
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317187355281,
+          "rpid_str": "317187355281",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792112235,
+          "like": 8,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6ac11eed7c0eb9bd2a8e78e7",
+          "content": {
+            "message": "不要带我们没膨胀的节奏"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320839639280,
+          "rpid_str": "320839639280",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792112706,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_58bec5356c174b52b125c1de",
+          "content": {
+            "message": "讲个笑话，12 3456水温三年比原神6还夸张好几倍"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320839845824,
+          "rpid_str": "320839845824",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792112803,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ba512abd7ad319953085fadf",
+          "content": {
+            "message": "诶，不讲不讲[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317188601201,
+          "rpid_str": "317188601201",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 320839639280,
+          "parent_str": "320839639280",
+          "ctime": 1792113423,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_403df6f1ed8239626db58f6b",
+          "content": {
+            "message": "回复 @会数吃过多少面包 :它那血量曲线都长成指数样了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320841565152,
+          "rpid_str": "320841565152",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317188601201,
+          "parent_str": "317188601201",
+          "ctime": 1792114436,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_58bec5356c174b52b125c1de",
+          "content": {
+            "message": "回复 @Eutopia0_0 :原水温曲线和几年前的油价一样稳定，崩铁那水温曲线和股价跳楼一样，但是是反向跳楼啊！甚至还不会掉的！[打call]真是蒸蒸日上啊[打call]",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320841910720,
+          "rpid_str": "320841910720",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792114731,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_217eafb93f53b2de68a5aa72",
+          "content": {
+            "message": "[星星眼]有一款一款同期牢角色还没加强，同期怪就加强机制，血量乘以10的游戏",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317199544481,
+          "rpid_str": "317199544481",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792122415,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b734fb37fedcc2d7e4f59c24",
+          "content": {
+            "message": "为什么我铁打满了原打不满[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320859489552,
+          "rpid_str": "320859489552",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317199544481,
+          "parent_str": "317199544481",
+          "ctime": 1792127025,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_81dffb70315588f578f9e1d6",
+          "content": {
+            "message": "回复 @第五牢九门监管玩家 :该练手法了，这难度跟地脉花似的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320862360464,
+          "rpid_str": "320862360464",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792128944,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_34acdbd9842a60a712c1a3f4",
+          "content": {
+            "message": "爆了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317211417425,
+          "rpid_str": "317211417425",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317199544481,
+          "parent_str": "317199544481",
+          "ctime": 1792130448,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b58b3d496524be79cd9f90bc",
+          "content": {
+            "message": "回复 @第五牢九门监管玩家 :因为铁是很简单粗暴的，抽了对应的角色就自动随便过。原神就不一样了，原神没有自动，要一点点手法，但是不多"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320872849728,
+          "rpid_str": "320872849728",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792137253,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_585031b8cd65888e77ca9e1b",
+          "content": {
+            "message": "我们213465怎么你了！"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320878210496,
+          "rpid_str": "320878210496",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792141172,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d5cee4f2cd516978893899e",
+          "content": {
+            "message": "🤫"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320917937920,
+          "rpid_str": "320917937920",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317199544481,
+          "parent_str": "317199544481",
+          "ctime": 1792162880,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f8ff0a3eb0b2136fa16abe9b",
+          "content": {
+            "message": "回复 @第五牢九门监管玩家 :崩铁选择大于努力，努力不一定有回报。原神努力就有回报，选对了更是起飞"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320923485968,
+          "rpid_str": "320923485968",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317188601201,
+          "parent_str": "317188601201",
+          "ctime": 1792166101,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_58bec5356c174b52b125c1de",
+          "content": {
+            "message": "回复 @Eutopia0_0 :原神是十几w十几w加，到挪之后就是机制膨胀血量几乎没动，血量涨的明显的是纳塔和水龙，但是崩铁是一次就30%～40%！而且不是大版本开头的30%！而是上个版本的30%啊！指数膨胀的啊！跳楼机都没这个夸张[笑哭][喜极而泣]",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320923748928,
+          "rpid_str": "320923748928",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 320917937920,
+          "parent_str": "320917937920",
+          "ctime": 1792166281,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_58bec5356c174b52b125c1de",
+          "content": {
+            "message": "回复 @2丶5个NiKo :怕黑男的同期角色是高人和海瑟音，这两位现在处境还好，但是和老玛同期的帽子尖尖女士01不知道跑哪发财了[喜极而泣]纳塔战舰至今依旧坚挺，甚至蕾神的纯在更是屹立不倒，21老玛更是一点颓势都没有，21黑塔女士我没有就不评价了",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317355111377,
+          "rpid_str": "317355111377",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792239149,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf081e9c706dc8010cb7de9a",
+          "content": {
+            "message": "当然是21:3465了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317426000129,
+          "rpid_str": "317426000129",
+          "root": 317186872241,
+          "root_str": "317186872241",
+          "parent": 317186872241,
+          "parent_str": "317186872241",
+          "ctime": 1792300037,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_88a62d8d1a785cb0e7eb6b00",
+          "content": {
+            "message": "孩子们注意了，这是怪的血量不是uid[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317186872241,
+        "rpid_str": "317186872241",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792111609,
+        "like": 2,
+        "rcount": 17,
+        "count": 20,
+        "state": 0,
+        "author_id": "U_a77b33685ddcb3a7b305df34",
+        "content": {
+          "message": "那么打起来不爽的是哪款游戏呢[doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "a2376b4d9666e7f54e6b3567cb039eb98f41ac9f665c38e9379965a779751236",
+  "original_bytes_sha256": "96f26950943a10fc4e7df470509a6b0eb89f89f4ad0c84852233ef45a7ae165c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

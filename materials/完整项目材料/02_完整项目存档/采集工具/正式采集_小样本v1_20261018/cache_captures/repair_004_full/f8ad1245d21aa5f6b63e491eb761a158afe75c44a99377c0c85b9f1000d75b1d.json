@@ -1,0 +1,69 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317204820369",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:42:52.478632+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317204820369,
+        "rpid_str": "317204820369",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792125784,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_3a154863deafefb8f9bb8a07",
+        "content": {
+          "message": "依旧宝宝巴士",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d2c7f3ac3dcef7b5387ae35168af3b4b648993462.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 1423.15,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "10d5917b28a15378046fabbe3979da2f802c614e891cb13320ddefeb25a908eb",
+  "original_bytes_sha256": "eb7817206ea4aedef0e56f97972510e66d5bd2dc5fdd39bafba8c46bc4f33644",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

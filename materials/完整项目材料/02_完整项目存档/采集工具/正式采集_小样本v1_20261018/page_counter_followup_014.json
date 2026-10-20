@@ -1,0 +1,22 @@
+{
+  "method": "CUA rendered page follow-up: brought the visible loading notice into view and reread the actual comments heading; no browser API requests",
+  "columns": ["bvid", "saved_total", "page_total", "no_more_comments_visible", "observed_at_UTC"],
+  "rows": [
+    ["BV1s7YA6PEW9",0,0,true,"2026-10-19T05:44:16.144Z"],
+    ["BV1ZgHa63Ezh",0,0,true,"2026-10-19T05:44:19.303Z"],
+    ["BV1nbak6KEBa",1,1,false,"2026-10-19T05:44:22.602Z"],
+    ["BV13paD6GENC",0,0,true,"2026-10-19T05:48:58.322Z"],
+    ["BV1CZa66qEwP",0,0,true,"2026-10-19T05:44:50.671Z"],
+    ["BV1ovak6cEwb",2,2,true,"2026-10-19T05:48:12.074Z"],
+    ["BV1QGaZ6wEP8",37,37,false,"2026-10-19T05:45:04.800Z"],
+    ["BV1MXJa6dEuu",2,2,false,"2026-10-19T05:45:08.770Z"]
+  ],
+  "unavailable_page": {
+    "bvid": "BV1wBJB68EJV",
+    "url": "https://www.bilibili.com/video/BV1wBJB68EJV/",
+    "observed_at_UTC": "2026-10-19T05:47:22.746Z",
+    "visible_message": "啊叻？视频不见了？",
+    "redirect_notice": "3秒后为您自动跳转至首页",
+    "interpretation": "Current page unavailable; cannot distinguish deletion, private visibility or another site-side cause. Original 97 saved IDs and the locked source remain retained."
+  }
+}

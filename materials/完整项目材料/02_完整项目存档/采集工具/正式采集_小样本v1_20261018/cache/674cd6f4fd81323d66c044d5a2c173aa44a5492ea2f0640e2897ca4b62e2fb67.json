@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "320282257040",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:26:20.903792+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320282257040,
+        "rpid_str": "320282257040",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791635662,
+        "like": 30,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_fd5ee0271c097b550e826ab8",
+        "content": {
+          "message": "你充了多少钱？\n我充了一个多小时"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f5c57e2c4c5513dc6f7df2b91b039447a783ebd980eaea196a591e8e14814811",
+  "original_bytes_sha256": "848777dff2be64d31eb7f354ff4a0f403db1818ffbd593d92189b0652156472b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

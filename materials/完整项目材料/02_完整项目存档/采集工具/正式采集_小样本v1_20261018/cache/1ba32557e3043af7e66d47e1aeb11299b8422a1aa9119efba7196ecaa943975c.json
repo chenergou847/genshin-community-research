@@ -1,0 +1,109 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "317309300785",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:00:17.967552+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 321062976768,
+          "rpid_str": "321062976768",
+          "root": 317309300785,
+          "root_str": "317309300785",
+          "parent": 317309300785,
+          "parent_str": "317309300785",
+          "ctime": 1792283873,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9ebb674e87247e7847c95f56",
+          "content": {
+            "message": "这期没环境，等小米实装又会好起来[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317309300785,
+        "rpid_str": "317309300785",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792211509,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_375ecb97151c69fe464d3304",
+        "content": {
+          "message": "灯哥依旧星爷和冰系下第一c，虽然使用率不大好看[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "bebfc9cc0c9416fcd826a0d6ed345abc7cf76930566bc1ec1421aea86a7dcefc",
+  "original_bytes_sha256": "773444a542d2abe696289f5a464f5cef759a327565e6f463bfe3cc0972415701",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,186 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319266210304",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:19:51.886228+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319268125808,
+          "rpid_str": "319268125808",
+          "root": 319266210304,
+          "root_str": "319266210304",
+          "parent": 319266210304,
+          "parent_str": "319266210304",
+          "dialog": 319268125808,
+          "ctime": 1790872880,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0d9477cc9093d0da7fbc4478",
+          "content": {
+            "message": "第三间月结晶都2命，少爷换班尼特破盾啊，起码可以7到8开。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319268266720,
+          "rpid_str": "319268266720",
+          "root": 319266210304,
+          "root_str": "319266210304",
+          "parent": 319268125808,
+          "parent_str": "319268125808",
+          "dialog": 319268125808,
+          "ctime": 1790873010,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c02a7b6cfb472c070d55433c",
+          "content": {
+            "message": "回复 @核动力按摩人 :打过就行了[doge]，反正无缘180，主要第一间凹了好久，抽了二沃才过。",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319268542016,
+          "rpid_str": "319268542016",
+          "root": 319266210304,
+          "root_str": "319266210304",
+          "parent": 319268266720,
+          "parent_str": "319268266720",
+          "dialog": 319268125808,
+          "ctime": 1790873260,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0d9477cc9093d0da7fbc4478",
+          "content": {
+            "message": "回复 @镜花凋零水月残 :第一间啄食煎熬，我也打了5个小时，差点想抽沃了，用61仆2奶过的[笑哭]，省下钻石了。61skk忍住不抽沃，想all in冰女皇",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319266210304,
+        "rpid_str": "319266210304",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790871578,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_c02a7b6cfb472c070d55433c",
+        "content": {
+          "message": "我也有二茜二闲啊，那我它算什么…没苦硬吃？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/59a22ce8c33beaa663c4b10ffc89649415650237.jpg",
+              "img_width": 1200,
+              "img_height": 2640,
+              "img_size": 1537.26
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8e1dea89a0f8a357aaaad77716a3f90737f46440cd4ceb0ba64d60fe325289b2",
+  "original_bytes_sha256": "16de10b8c83c785a5d01a67f699ba759e03340c396b97f875f6bdbc3275f1b25",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

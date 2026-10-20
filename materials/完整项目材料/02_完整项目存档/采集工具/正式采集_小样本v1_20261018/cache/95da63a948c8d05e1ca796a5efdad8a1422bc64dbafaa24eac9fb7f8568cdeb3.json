@@ -1,0 +1,104 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316026433089",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:36:31.511567+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316026433089,
+        "rpid_str": "316026433089",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791118821,
+        "like": 6,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_83684195b6b5d3c4ca3f2d45",
+        "content": {
+          "message": "基本没环境燃尽了[doge_金箍]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5e4f58a633ed526d5dd73fdd1d7a5da6702823697.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 2098.88,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0891e0fcf39142b24f2a35b8e6592576702823697.jpg",
+              "img_width": 3200,
+              "img_height": 1440,
+              "img_size": 1978.81,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6ddc325f2103b586a3b8746aa7b0c2af346d4e0705c05a504dee6fa9e324a4bc",
+  "original_bytes_sha256": "b54a7a303e7413aad587fe50cbf0c79d450475dc3cadf9e9cfbd483077cd6c68",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

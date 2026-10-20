@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "320553142848",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:29:57.254575+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320553142848,
+        "rpid_str": "320553142848",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791864010,
+        "like": 0,
+        "rcount": 8,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_b49818419799f3505240fbf7",
+        "content": {
+          "message": "这个队伍能打n几[笑哭][笑哭]60梦见月00奥黛塔",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/08f6ab25003d1ec6acf81379d5853f7f524910908.jpg",
+              "img_width": 2670,
+              "img_height": 1200,
+              "img_size": 841.08
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5355b16119f91e770e95596cedb51284c7f33f8a5596ed4fae2c0992001170e5",
+  "original_bytes_sha256": "1880738ae0c8efec12dff003f9bcc75c4f96238b4ea24daf5f4573f688140e0e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,81 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318966820128",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:30:43.506412+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318966820128,
+        "rpid_str": "318966820128",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790652562,
+        "like": 1,
+        "rcount": 6,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_b96e3b8750a4d09f51feb260",
+        "content": {
+          "message": "n6有没有机会",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/bd03857235f74ff1b0da03eaf909d51b3493091612821504.jpg",
+              "img_width": 1200,
+              "img_height": 12282,
+              "img_size": 1508.63
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/765aac7f3d97528e9f110c68694153b93493091612821504.jpg",
+              "img_width": 1317,
+              "img_height": 913,
+              "img_size": 477.65
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e3df422e1172df36977d589047606feff916b9d250ba1ec78a7e9658d84125c9",
+  "original_bytes_sha256": "cef42b966c6c05362a8c1e49bc1b15131a8bb972eef783a6c62c5e05723b344b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

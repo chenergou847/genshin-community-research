@@ -1,0 +1,284 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318611886976",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:58:45.469980+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315080324481,
+          "rpid_str": "315080324481",
+          "root": 318611886976,
+          "root_str": "318611886976",
+          "parent": 318611886976,
+          "parent_str": "318611886976",
+          "dialog": 315080324481,
+          "ctime": 1790382512,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e973aaafb5ac8873b8f95731",
+          "content": {
+            "message": "第一间不好创"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315080684577,
+          "rpid_str": "315080684577",
+          "root": 318611886976,
+          "root_str": "318611886976",
+          "parent": 318611886976,
+          "parent_str": "318611886976",
+          "dialog": 315080684577,
+          "ctime": 1790382915,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_816345d51c7b80b8f995d15a",
+          "content": {
+            "message": "你火神呢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318632898912,
+          "rpid_str": "318632898912",
+          "root": 318611886976,
+          "root_str": "318611886976",
+          "parent": 315080684577,
+          "parent_str": "315080684577",
+          "dialog": 315080684577,
+          "ctime": 1790390406,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b98aa47ab81caf41a92ded59",
+          "content": {
+            "message": "回复 @杰瑞是只鸟呀 :不喜欢没抽"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318632870368,
+          "rpid_str": "318632870368",
+          "root": 318611886976,
+          "root_str": "318611886976",
+          "parent": 315080324481,
+          "parent_str": "315080324481",
+          "dialog": 315080324481,
+          "ctime": 1790390454,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b98aa47ab81caf41a92ded59",
+          "content": {
+            "message": "回复 @Down_仆 :第一间我是想月结晶硬打或者用月感电带个奥黛塔[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315094040353,
+          "rpid_str": "315094040353",
+          "root": 318611886976,
+          "root_str": "318611886976",
+          "parent": 318632870368,
+          "parent_str": "318632870368",
+          "dialog": 315080324481,
+          "ctime": 1790392595,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9ad56c8bd0ff02d51fec8c8a",
+          "content": {
+            "message": "回复 @Lv.0 :第一间带希诺宁不是随便打吗？太看不起3个61的白大娘了吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315097050769,
+          "rpid_str": "315097050769",
+          "root": 318611886976,
+          "root_str": "318611886976",
+          "parent": 318611886976,
+          "parent_str": "318611886976",
+          "dialog": 315097050769,
+          "ctime": 1790394350,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e973aaafb5ac8873b8f95731",
+          "content": {
+            "message": "原来有2希，看漏了 这样白大娘随便打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318660710064,
+          "rpid_str": "318660710064",
+          "root": 318611886976,
+          "root_str": "318611886976",
+          "parent": 315097050769,
+          "parent_str": "315097050769",
+          "dialog": 315097050769,
+          "ctime": 1790406638,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9fe8697385c94b17956b8b0",
+          "content": {
+            "message": "回复 @Down_仆 : 没啥可能了吧 就一套6+不够，老头你用木偶打得100s开外"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318611886976,
+        "rpid_str": "318611886976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790362591,
+        "like": 0,
+        "rcount": 7,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_b98aa47ab81caf41a92ded59",
+        "content": {
+          "message": "这期有n7的风险么[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/fe22d1c0ff60689a170258df4ccb7a6c1878928.jpg",
+              "img_width": 1222,
+              "img_height": 15000,
+              "img_size": 8477.76,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a4a48725e97786bcdefb5fbdfe7f33f46dd3e48cd1210599eb51fbeb03db6bd6",
+  "original_bytes_sha256": "18c3b34beb8967de67d289d186cec2ff63723e8866a19a797b572bf18e1f0b81",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

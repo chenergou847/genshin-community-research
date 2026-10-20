@@ -1,0 +1,73 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T06:48:30.144483+00:00",
+  "source_hash": "802cefb48b1b3404f50ac52a1b222709eecc1dc69f4d661d4647888a4469f03f",
+  "protocol": "captured-snapshot-v1",
+  "status": "RANDOM_SAMPLING_COMPLETE_CODING_PENDING",
+  "domains": {
+    "abyss": {
+      "name": "深境螺旋",
+      "fixed_videos": 20,
+      "nonempty_videos": 9,
+      "zero_window_videos": 11,
+      "saved_window_IDs": 1451,
+      "raw_sample_n": 69,
+      "roots": 29,
+      "replies": 40,
+      "sampled_context_gap_n": 1
+    },
+    "theater": {
+      "name": "幻想真境剧诗",
+      "fixed_videos": 20,
+      "nonempty_videos": 10,
+      "zero_window_videos": 10,
+      "saved_window_IDs": 879,
+      "raw_sample_n": 40,
+      "roots": 18,
+      "replies": 22,
+      "sampled_context_gap_n": 0
+    },
+    "stygian": {
+      "name": "幽境危战",
+      "fixed_videos": 20,
+      "nonempty_videos": 14,
+      "zero_window_videos": 6,
+      "saved_window_IDs": 4196,
+      "raw_sample_n": 123,
+      "roots": 47,
+      "replies": 76,
+      "sampled_context_gap_n": 0
+    }
+  },
+  "master_file_sha256": {
+    "small_collection.json": "45302078b3780d19f973bd7e813209dadff76ecda0e0fb4e38f3d37ae3e73ff4",
+    "small_comments.jsonl": "eaf1b16b03cc973a724da175f914a2b272890e4ac26a2422ee34bfad56e8a070",
+    "small_observations.jsonl": "ce83b10f8cc27fedc563710a8b20553ce13e00ea180b0218cc0ac985a1a9d53e"
+  },
+  "frame_hash": "46a6d4e3de4289919e584f5ce260d805dca322f88b114efd0e6318b249c75611",
+  "draw_hash": "ea2ac4f3f3919c3e7beaac5d8401e48122abf25633cb2861d3452786b99bc5ad",
+  "export_file_sha256": {
+    "small_snapshot_main_material.csv": "ff37b7398ca33702c999245e15a078d63ca3c1b99143df7e628651882cc234c5",
+    "small_snapshot_context_material.csv": "ffdc1978e26e683324b349480b875ac77ac061431397fd729afb5f88af515f37",
+    "small_snapshot_video_allocation.csv": "0379e911713780538cfd3502c0e79ca8ddbd011edef06604eb0401d4d0afba4c",
+    "small_snapshot_sample_bodies.json": "cc4a9e18639b3416b241895ae280faed0010c2c8ce20ab39f9334911b57345ef"
+  },
+  "initial_coding_template_sha256": "270325bf19a9f775cc1735e06f33b95080ee6eaa7d28e019a3cfe3de5a39febf",
+  "original_source_review_counts": {
+    "accepted": 45,
+    "pending_temporal_reconciliation": 7,
+    "pending_context_source_page_review": 3,
+    "blocked_integrity": 4,
+    "pending_page_unavailable": 1
+  },
+  "raw_sample_rows": 232,
+  "unique_sampled_IDs": 232,
+  "saved_raw_unique_IDs": 9593,
+  "original_full_enumeration_verified": false,
+  "original_strict_protocol_sample_generated": false,
+  "broader_video_domain_inference_allowed": false,
+  "coding_completed": false,
+  "feedback_proportions_computed": false,
+  "seed_replay_verified": true,
+  "scope": "fixed_selected_videos_normalized_saved_bodies_in_original_windows_only"
+}

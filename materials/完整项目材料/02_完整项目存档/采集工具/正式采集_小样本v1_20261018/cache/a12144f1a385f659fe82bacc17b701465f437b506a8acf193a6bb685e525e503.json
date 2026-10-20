@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315160088625",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:53:21.346035+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315160162385,
+          "rpid_str": "315160162385",
+          "root": 315160088625,
+          "root_str": "315160088625",
+          "parent": 315160088625,
+          "parent_str": "315160088625",
+          "dialog": 315160162385,
+          "ctime": 1790431022,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8ac3c0e87bca5c0935963a29",
+          "content": {
+            "message": "我没skk"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315160415729,
+          "rpid_str": "315160415729",
+          "root": 315160088625,
+          "root_str": "315160088625",
+          "parent": 315160088625,
+          "parent_str": "315160088625",
+          "dialog": 315160415729,
+          "ctime": 1790431168,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3b46d2d2277bc8767053bd2a",
+          "content": {
+            "message": "确实，木偶队也有大量冰，过冰锅没问题；第三关感觉火C超载队是不是更好打点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318710676816,
+          "rpid_str": "318710676816",
+          "root": 315160088625,
+          "root_str": "315160088625",
+          "parent": 315160088625,
+          "parent_str": "315160088625",
+          "dialog": 318710676816,
+          "ctime": 1790433816,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3e05823ff34f1e25833b16b8",
+          "content": {
+            "message": "3个星体系，队友都不够你分的吧= =除非你都是满命，直接力大砖飞"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315170120545,
+          "rpid_str": "315170120545",
+          "root": 315160088625,
+          "root_str": "315160088625",
+          "parent": 315160088625,
+          "parent_str": "315160088625",
+          "dialog": 315170120545,
+          "ctime": 1790436176,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d1ac7d545bcbe56b35fe9d60",
+          "content": {
+            "message": "奥黛塔只有一个"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315160088625,
+        "rpid_str": "315160088625",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790431015,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_8ac3c0e87bca5c0935963a29",
+        "content": {
+          "message": "好家伙 梦见月一队 木偶一队 薇斯纳一队 齐活"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7075bf76aec472c21f736e27773dc45e2e5cb561250ce426c92d56ab83decec4",
+  "original_bytes_sha256": "5adad25b517fac065995f68b7de3e7e130b45a800e0a9d9ecfcd155e238b76d5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

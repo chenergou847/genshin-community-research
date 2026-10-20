@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "315558156369",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:56:13.718898+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315558156369,
+        "rpid_str": "315558156369",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790769450,
+        "like": 6,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_8cfa01e80f081f1d1544ccd4",
+        "content": {
+          "message": "轻取？呵呵，也就冰锅可以说轻取，其他两间肉眼可见的膨胀哪间可以说轻取的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3d20e76c01e4c2c571c2392e0fd8361330ba918449c5764ac4b4e9d814a0ef4f",
+  "original_bytes_sha256": "cda48ea160768325b9ff9d87c8b90ee644f3c26717cef313f1fa4a057212a445",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

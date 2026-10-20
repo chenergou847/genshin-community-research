@@ -1,0 +1,912 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T11:12:15.493043+00:00",
+  "source_hash": "819cfa0f2be9a6cb10a33bacb12670dc0f20cb3d419a54f529d52c6a2ddab8ab",
+  "user_reply": "全部认可",
+  "authority": "direct_user_reply_in_current_chat",
+  "packet_hash": "fb328bb5ccf3d325377e8c1701ebcd6abe7c609d0e110dade64be769ba0e4005",
+  "rows": [
+    {
+      "number": 1,
+      "mode": "abyss",
+      "id": "320938363424",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "social_or_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "祖先是粉丝数玩梗；本条未表达副本、配队或通关体验。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 2,
+      "mode": "abyss",
+      "id": "320930281520",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "firsthand_report",
+        "self_experience_themes": "roster_build",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "positive",
+        "theme_status": "known",
+        "reason": "明确自述这期使用旧角色配队，评价伤害与可玩性；奇域测得的12w不能作为本期深渊实测数据。",
+        "content_flags": "off_mode_benchmark"
+      }
+    },
+    {
+      "number": 3,
+      "mode": "abyss",
+      "id": "317372849121",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build;damage_threshold",
+        "experience_kind": "help_request",
+        "self_experience_themes": "roster_build;damage_threshold",
+        "problem_status": "current_reported",
+        "problem_themes": "damage_threshold",
+        "sentiment": "negative",
+        "theme_status": "known",
+        "reason": "包含本人的输出不足及通关求助；没有明确机制原因，不能诊断为副本数值或角色设计问题。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 4,
+      "mode": "abyss",
+      "id": "317260396977",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "strategy_advice",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "结合父评论的配队求助，属于角色替换建议；并未自述本人卡关或验证操作。",
+        "content_flags": "ancestor_image_unread"
+      }
+    },
+    {
+      "number": 5,
+      "mode": "abyss",
+      "id": "320929118128",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "social_or_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "unknown",
+        "theme_status": "known",
+        "reason": "父评论与回复均为无明确玩法内容的互动表情；不从视频标题推定体验态度。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 6,
+      "mode": "abyss",
+      "id": "317288880161",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "evaluation_or_comparison",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "unknown",
+        "theme_status": "known",
+        "reason": "明确讨论本期角色使用率及好友配置，保留为玩法相关比较；不是本人通关体验，也不采信使用率和装备截图为已核实统计。",
+        "content_flags": "community_statistic_unverified"
+      }
+    },
+    {
+      "number": 7,
+      "mode": "abyss",
+      "id": "320883454704",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "strategy_advice",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "本条面向他人继续建议上下半配队；不将祖先中他人的失误或本人早先文字自动继承成本条受阻经历。",
+        "content_flags": "ancestor_image_unread"
+      }
+    },
+    {
+      "number": 8,
+      "mode": "abyss",
+      "id": "320987902368",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "social_or_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "沿祖先是跨游戏立场和删评争论；当前回复没有本期副本体验内容。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 9,
+      "mode": "abyss",
+      "id": "317209071585",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "social_or_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "当前发言是对争论的安抚；虽更早祖先讨论操作，本条未继续表达副本体验，不把祖先观点算给当前发言。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 10,
+      "mode": "abyss",
+      "id": "320921530544",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "strategy_advice",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "父评论问行秋的作用，本条解释配装辅助价值；有明确玩法内容，但未陈述本人困难。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 11,
+      "mode": "theater",
+      "id": "315730024865",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "off_mode",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "当前正文明确谈深渊和N4，没有可读的本期剧诗体验；父评论只有角色图，不能据标题补成剧诗反馈。",
+        "content_flags": "cross_mode;ancestor_image_unread"
+      }
+    },
+    {
+      "number": 12,
+      "mode": "theater",
+      "id": "319275768640",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "unknown",
+        "themes": "",
+        "experience_kind": "ambiguous",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "unknown",
+        "theme_status": "unknown",
+        "reason": "文字含快速完成与不明过程，但“越狱”具体对应内容尚不能确认，图片未读；保留不明，不直接编码为剧诗太简单或机制不清。",
+        "content_flags": "image_unread;slang_unresolved"
+      }
+    },
+    {
+      "number": 13,
+      "mode": "theater",
+      "id": "316956178209",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "buff_and_route",
+        "experience_kind": "strategy_advice",
+        "self_experience_themes": "",
+        "problem_status": "retrospective_only",
+        "problem_themes": "",
+        "sentiment": "positive",
+        "theme_status": "known",
+        "reason": "本期冻结路线评价可识别；卡第7幕、角色池不足明确是“上回”，不算本期第一手困难。夹带账号交易平台名称，标疑似推广，不能据此认定真人或广告账号。",
+        "content_flags": "suspected_commercial_content;retrospective_experience"
+      }
+    },
+    {
+      "number": 14,
+      "mode": "theater",
+      "id": "320847911728",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "content_request",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "催更另一个副本内容，不是本期剧诗体验反馈。",
+        "content_flags": "cross_mode"
+      }
+    },
+    {
+      "number": 15,
+      "mode": "theater",
+      "id": "320816262192",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "platform_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "涉及评论发布，不是游戏内界面或副本技术问题。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 16,
+      "mode": "theater",
+      "id": "315621236001",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build;damage_threshold",
+        "experience_kind": "firsthand_report",
+        "self_experience_themes": "roster_build;damage_threshold",
+        "problem_status": "current_reported",
+        "problem_themes": "damage_threshold",
+        "sentiment": "negative",
+        "theme_status": "known",
+        "reason": "父评论明确说领瑞希命座再打剧诗；本条自述领取后仍未能通关，但不能从中推定失败机制。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 17,
+      "mode": "theater",
+      "id": "319283906368",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "unknown",
+        "themes": "",
+        "experience_kind": "ambiguous",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "unknown",
+        "theme_status": "unknown",
+        "reason": "根评论只有表情，无可恢复的具体指向；不自动当作正向反馈或无关项。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 18,
+      "mode": "theater",
+      "id": "319846622624",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "unknown",
+        "themes": "",
+        "experience_kind": "ambiguous",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "unknown",
+        "theme_status": "unknown",
+        "reason": "根评论只有表情，无法核定与玩法的相关性或评价。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 19,
+      "mode": "theater",
+      "id": "319448744784",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "strategy_advice",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "沿祖先可确定是借用角色和配队讨论；本条为建议，不把父评论借角色使用时机的问题继承为本人的受阻。",
+        "content_flags": "ancestor_image_unread"
+      }
+    },
+    {
+      "number": 20,
+      "mode": "theater",
+      "id": "315713207649",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "mechanic_understanding",
+        "experience_kind": "mechanism_tip",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "提供关卡元素机制提示；没有自述困难，不据视频标题“满地找火”给本条补出负面体验。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 21,
+      "mode": "stygian",
+      "id": "315522586593",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build;other_current_experience",
+        "experience_kind": "firsthand_report",
+        "self_experience_themes": "roster_build;other_current_experience",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "本人与求配队根评论作者一致，自述调整一三间配队后N5通过；这条是通关结果，不自动等于仍有难度问题。",
+        "content_flags": "ancestor_image_unread"
+      }
+    },
+    {
+      "number": 22,
+      "mode": "stygian",
+      "id": "315958262449",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "social_or_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "针对他人未养角色的调侃，当前文字未给出本期幽境表现或体验；不能编码成养成成本太高。",
+        "content_flags": "ancestor_image_unread"
+      }
+    },
+    {
+      "number": 23,
+      "mode": "stygian",
+      "id": "320159850736",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build;damage_threshold;reward_motivation",
+        "experience_kind": "expectation_or_intention",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "positive",
+        "theme_status": "known",
+        "reason": "基于视频预期自己的配置能通关并取得奖励；“可以”尚不能确认为已打通或已领取。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 24,
+      "mode": "stygian",
+      "id": "317352475521",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "own_account_condition",
+        "self_experience_themes": "roster_build",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "父评论问是否还有其他主C，本条作者与配置求助根作者一致，回答没有其他选择；账号条件可识别，但没有明确说已经打不过。",
+        "content_flags": "ancestor_image_unread"
+      }
+    },
+    {
+      "number": 25,
+      "mode": "stygian",
+      "id": "320978295120",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "social_or_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "文字是角色舆论立场表达，未说明本期玩法过程或评价；不凭相关视频标题补内容。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 26,
+      "mode": "stygian",
+      "id": "315582970401",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "evaluation_or_comparison",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "positive",
+        "theme_status": "known",
+        "reason": "在明确本期幽境攻略视频下评价角色表现，文字已足够识别主题；未读图片，不记录面板、成绩或本人通关，也不等同对副本整体满意。",
+        "content_flags": "image_unread;sentiment_targets_character"
+      }
+    },
+    {
+      "number": 27,
+      "mode": "stygian",
+      "id": "320355184160",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "retrospective_off_mode",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "描述早期打狼经历，非本期幽境；“12分钟”不能作为本期副本耗时证据。",
+        "content_flags": "retrospective_experience;cross_mode"
+      }
+    },
+    {
+      "number": 28,
+      "mode": "stygian",
+      "id": "320986117472",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build",
+        "experience_kind": "configuration_data",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "作为本期实录作者的配置补充，“面板”足够识别配置主题；图片未读，所以不填具体数值、难度或成绩。",
+        "content_flags": "image_unread"
+      }
+    },
+    {
+      "number": 29,
+      "mode": "stygian",
+      "id": "319241551296",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "related",
+        "themes": "roster_build;damage_threshold",
+        "experience_kind": "help_request",
+        "self_experience_themes": "roster_build;damage_threshold",
+        "problem_status": "current_reported",
+        "problem_themes": "damage_threshold",
+        "sentiment": "negative",
+        "theme_status": "known",
+        "reason": "当前自述通关受阻并说明只有某角色，属于本期求助；原因仍待配置和操作核验。",
+        "content_flags": ""
+      }
+    },
+    {
+      "number": 30,
+      "mode": "stygian",
+      "id": "317369229617",
+      "verdict": "accepted",
+      "approved_fields": [
+        "relevance",
+        "themes",
+        "experience_kind",
+        "self_experience_themes",
+        "problem_status",
+        "problem_themes",
+        "sentiment",
+        "theme_status",
+        "reason",
+        "content_flags"
+      ],
+      "approved_AI_proposal": {
+        "relevance": "irrelevant",
+        "themes": "",
+        "experience_kind": "social_or_meta",
+        "self_experience_themes": "",
+        "problem_status": "none_explicit",
+        "problem_themes": "",
+        "sentiment": "neutral",
+        "theme_status": "known",
+        "reason": "泛角色立场调侃，不构成本期副本体验证据。",
+        "content_flags": ""
+      }
+    }
+  ],
+  "human_confirmed_n": 30,
+  "calibration_not_accuracy_validation": true
+}

@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315757122177",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:12:13.322879+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315762401809,
+          "rpid_str": "315762401809",
+          "root": 315757122177,
+          "root_str": "315757122177",
+          "parent": 315757122177,
+          "parent_str": "315757122177",
+          "dialog": 315762401809,
+          "ctime": 1790929551,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d97f5d61ade67ad0a61833f4",
+          "content": {
+            "message": "看你女皇想几命吧，我估计四百多抽正常水平你就抽个2奥加21女皇的要命座的话只能等复刻了，运气不好的就要少算两个金"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315757122177,
+        "rpid_str": "315757122177",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790926175,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_d7e7cc8dda8942cde5077f47",
+        "content": {
+          "message": "目前手上有200抽，肝到7.3大概能有400多抽,目前月结晶少个莉奈娅，奥黛塔目前只有0命，听说7.3会up女皇和奥黛塔，给没有大佬给个说法，莉奈娅值不值得补，因为现在特别想要2奥和女皇，怕抽了莉奈娅抽数不够[给心心]",
+          "emote": {
+            "[给心心]": {
+              "id": 3302,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[给心心]",
+              "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "给心心"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1af8074dbbb14094574c2333cef09b275d98b909a225b9f03941481b40bfe230",
+  "original_bytes_sha256": "d6e8681efadc50010165536f2a873b94bdb69b3dcfa028317d17711185fc1fb9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

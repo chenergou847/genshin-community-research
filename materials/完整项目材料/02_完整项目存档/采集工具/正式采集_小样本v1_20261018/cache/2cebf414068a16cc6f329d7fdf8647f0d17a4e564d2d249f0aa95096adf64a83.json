@@ -1,0 +1,1277 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117382311904089",
+    "type": "1",
+    "mode": "2",
+    "next": "72",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzNDk3NTU4NjQwODkaADICCEg=\"}"
+  },
+  "captured_at": "2026-10-18T14:29:16.772794+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 73,
+        "next": 50,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzNDk3NTU4NjQwODkaADICCDI=",
+          "prev_offset": "CAISEDE4MzUzNDk3NTU4NjQwODkaADICCEk="
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 498,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316208048977,
+          "rpid_str": "316208048977",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791262433,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_fc79fe8619efa3de9e8e4130",
+          "content": {
+            "message": "[哦呼]N6能聯機？",
+            "emote": {
+              "[哦呼]": {
+                "id": 1940,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[哦呼]",
+                "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哦呼"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 316215972369,
+              "rpid_str": "316215972369",
+              "root": 316208048977,
+              "root_str": "316208048977",
+              "parent": 316208048977,
+              "parent_str": "316208048977",
+              "dialog": 316215972369,
+              "ctime": 1791266906,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_d25571cf7a5509811231bd95",
+              "content": {
+                "message": "能联机，但是没有奖励"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316205216273,
+          "rpid_str": "316205216273",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791260898,
+          "like": 2,
+          "rcount": 4,
+          "count": 5,
+          "state": 0,
+          "author_id": "U_b7461938772f82960a0d315d",
+          "content": {
+            "message": "你不只奶不了队友，你专武加攻也没有，也不给队友提供羽毛。0命沃唯一的拐和辅助能力就是E的减抗和E的伤害。\n\n命座抽到6后，所有命座的效果都可以给到。"
+          },
+          "replies": [
+            {
+              "rpid": 316603187713,
+              "rpid_str": "316603187713",
+              "root": 316205216273,
+              "root_str": "316205216273",
+              "parent": 316205216273,
+              "parent_str": "316205216273",
+              "dialog": 316603187713,
+              "ctime": 1791595082,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_c6b7c01813da94f4cf026578",
+              "content": {
+                "message": "2命联机队友也可以吃到"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 316609218769,
+              "rpid_str": "316609218769",
+              "root": 316205216273,
+              "root_str": "316205216273",
+              "parent": 316603187713,
+              "parent_str": "316603187713",
+              "dialog": 316603187713,
+              "ctime": 1791600395,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b7461938772f82960a0d315d",
+              "content": {
+                "message": "回复 @拽拽大面包 : 2命效果要6命后才可以吃到。单2命不行"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319799248384,
+          "rpid_str": "319799248384",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791260454,
+          "like": 1,
+          "rcount": 1,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_c222143382061939ed7c5084",
+          "content": {
+            "message": "这个联机n4也可以吗就是不匹配那种，朋友进我一起那种可以吗"
+          },
+          "replies": [
+            {
+              "rpid": 319804558976,
+              "rpid_str": "319804558976",
+              "root": 319799248384,
+              "root_str": "319799248384",
+              "parent": 319799248384,
+              "parent_str": "319799248384",
+              "dialog": 319804558976,
+              "ctime": 1791263160,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_be484de14b46936033ae9337",
+              "content": {
+                "message": "可以的，可以叫朋友进你世界，然后你调险恶难度(N4)邀请你朋友就能一起打了"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316202565009,
+          "rpid_str": "316202565009",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791259426,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c02c37f6889f7f3d0e83ccc4",
+          "content": {
+            "message": "破冰盾尼可贴身去放个Q啊有E放E，都有一段挂火加快破盾，常规阶段走开点也开Q啊，协同又没有火不干扰融化，这通操作下来应该能提2秒"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319780365168,
+          "rpid_str": "319780365168",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791248581,
+          "like": 0,
+          "rcount": 4,
+          "count": 4,
+          "state": 0,
+          "author_id": "U_c328fb4d4b1a319f895b7a6b",
+          "content": {
+            "message": "沃联机e为啥奶不了队友？观赏鱼都可以"
+          },
+          "replies": [
+            {
+              "rpid": 319786457456,
+              "rpid_str": "319786457456",
+              "root": 319780365168,
+              "root_str": "319780365168",
+              "parent": 319780365168,
+              "parent_str": "319780365168",
+              "dialog": 319786457456,
+              "ctime": 1791253025,
+              "like": 13,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_56e434bc8d05d51f7a7f7374",
+              "content": {
+                "message": "因为文本描述是为队伍中自己的当前场上角色恢复生命值，所有这种描述的联机都是不能奶队友的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319794802656,
+              "rpid_str": "319794802656",
+              "root": 319780365168,
+              "root_str": "319780365168",
+              "parent": 319786457456,
+              "parent_str": "319786457456",
+              "dialog": 319786457456,
+              "ctime": 1791258030,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_c6889e6baa765be8489a97ca",
+              "content": {
+                "message": "回复 @777Yoroko :为啥希诺宁前台奶但是也能联机奶队友"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319770576496,
+          "rpid_str": "319770576496",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791232092,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1822f52b205b26a6ee352036",
+          "content": {
+            "message": "我这里第三间是最难打的，全靠班爷破盾，还能带原木刀和草套增加点拐力[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/cf9ecec548913a8a76c1a16ec25fd683148996225.jpg",
+                "img_width": 2712,
+                "img_height": 1220,
+                "img_size": 1271.58,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319764100032,
+          "rpid_str": "319764100032",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791222508,
+          "like": 0,
+          "rcount": 9,
+          "count": 10,
+          "state": 0,
+          "author_id": "U_522cf1ced82052153a1023db",
+          "content": {
+            "message": "谁能带我打下n6[大哭][大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319804235616,
+              "rpid_str": "319804235616",
+              "root": 319764100032,
+              "root_str": "319764100032",
+              "parent": 319764100032,
+              "parent_str": "319764100032",
+              "dialog": 319804235616,
+              "ctime": 1791263028,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_be484de14b46936033ae9337",
+              "content": {
+                "message": "联机只能拿N4及以下的奖励的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 320166505792,
+              "rpid_str": "320166505792",
+              "root": 319764100032,
+              "root_str": "319764100032",
+              "parent": 319804235616,
+              "parent_str": "319804235616",
+              "dialog": 319804235616,
+              "ctime": 1791542961,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a104008c641b538e9e52a8a3",
+              "content": {
+                "message": "回复 @-恭听太阳的轰鸣 :那个视频是怎么回事？"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316161627009,
+          "rpid_str": "316161627009",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791214846,
+          "like": 1,
+          "rcount": 7,
+          "count": 9,
+          "state": 0,
+          "author_id": "U_812fad3a303b9b2929624c2f",
+          "content": {
+            "message": "上面打不进90s的我和你同配置你是咋打的能差这么多，这老头开局众生平等没减抗打的慢也正常，但是6薇0奥1沃你打不进90那是真的你的问题了，毕竟星扩可没有那么多手法能让你差30s的。",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/ef65ce791d41ad8b7a2c8258066ffcac33702867.jpg",
+                "img_width": 1080,
+                "img_height": 2400,
+                "img_size": 1321.31
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7d6d9a2ba39b89f1f884872a2b94a3bd33702867.png",
+                "img_width": 1920,
+                "img_height": 1080,
+                "img_size": 754.29
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 319790620672,
+              "rpid_str": "319790620672",
+              "root": 316161627009,
+              "root_str": "316161627009",
+              "parent": 316161627009,
+              "parent_str": "316161627009",
+              "dialog": 319790620672,
+              "ctime": 1791255721,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_5d8bfce1fea9a58675911ce9",
+              "content": {
+                "message": "[酸了]",
+                "emote": {
+                  "[酸了]": {
+                    "id": 1273,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[酸了]",
+                    "url": "https://i0.hdslb.com/bfs/emote/92b1c8cbceea3ae0e8e32253ea414783e8ba7806.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "酸了"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319805106352,
+              "rpid_str": "319805106352",
+              "root": 316161627009,
+              "root_str": "316161627009",
+              "parent": 316161627009,
+              "parent_str": "316161627009",
+              "dialog": 319805106352,
+              "ctime": 1791263458,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_90a51c7fa107e0b0b46523d5",
+              "content": {
+                "message": "我猜开局猫充能不够没满等了15秒，并且每轮吃满减速[doge]（我甚至怀疑他每轮都是短e，还吃不到奥黛塔e的球，得额外等个猫e的时间[笑哭]）",
+                "emote": {
+                  "[doge]": {
+                    "id": 26,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "doge"
+                  },
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316150803665,
+          "rpid_str": "316150803665",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791209122,
+          "like": 4,
+          "rcount": 1,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_3077aa46da63d84fa018df7e",
+          "content": {
+            "message": "珐可以换梦见月吧，我试了下联机梦见月辅助薇强得多[Cat2_Astromeawt!]",
+            "emote": {
+              "[Cat2_Astromeawt!]": {
+                "id": 4701,
+                "package_id": 283,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[Cat2_Astromeawt!]",
+                "url": "http://i0.hdslb.com/bfs/emote/2381ef91f67edca67d567433081662faaa8e385d.png",
+                "meta": {
+                  "size": 2,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1632048431,
+                "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=32266&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+                "jump_title": "Astromeawt!"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 316257073665,
+              "rpid_str": "316257073665",
+              "root": 316150803665,
+              "root_str": "316150803665",
+              "parent": 316150803665,
+              "parent_str": "316150803665",
+              "dialog": 316257073665,
+              "ctime": 1791289908,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_78e49f4e2283dd810a6942da",
+              "content": {
+                "message": "你说对了，当时这视频是随便打的，没怎么考虑过，或者说思维固化了。换梦妥妥的可以提几秒，29应该可以\n千精6梦的拐是54星扩散增伤，100精通，20风抗，10暴击，20爆伤\n6珐的拐是30风抗，40爆伤，终末/新四星弓的拐，两个人都可以带风套补一点奥的伤害\n但是珐启动有问题，而且梦也可以补点伤害，一来二去差距不小"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316148069073,
+          "rpid_str": "316148069073",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791207807,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b365969a6be8572e9595a7fe",
+          "content": {
+            "message": "N5对于我这个回坑玩家，还是太难了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/98e9d71acddb21da818b5b708d1f525139848556.png",
+                "img_width": 1600,
+                "img_height": 900,
+                "img_size": 1233.753
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319735502608,
+          "rpid_str": "319735502608",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791206056,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_945ea78b001e1a551cbf10dc",
+          "content": {
+            "message": "求蹭个6命薇斯纳大佬好友位，打剧诗[跪了]",
+            "emote": {
+              "[跪了]": {
+                "id": 1945,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[跪了]",
+                "url": "https://i0.hdslb.com/bfs/emote/f2b3aee7e521de7799d4e3aa379b01be032698ac.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "跪了"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319729928256,
+          "rpid_str": "319729928256",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791203204,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_72d4ef1d37c146f7ff2501bd",
+          "content": {
+            "message": "联机n6打老头是三路里煎熬的，尤其是队友没一个通关n6的情况[笑哭]（我自己是n5 196s的混子）\n图2是6菲6少拼尽全力无法战胜。",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7b2bd27a7c521bb14b16d9e5302ff1411885581409.jpg",
+                "img_width": 2480,
+                "img_height": 1116,
+                "img_size": 1055.11
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/ea2097d17ddb003912d57a3fce7e0b641885581409.jpg",
+                "img_width": 2480,
+                "img_height": 1116,
+                "img_size": 1399.07
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316138218689,
+          "rpid_str": "316138218689",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791202772,
+          "like": 2,
+          "rcount": 0,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_6b4c665bad2ebe86643663ac",
+          "content": {
+            "message": "4人联机是2倍血吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316138058177,
+          "rpid_str": "316138058177",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791202671,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_31a21cd5f1384b1993d21995",
+          "content": {
+            "message": "为什么要防联机呢？[魔法少女的魔女审判表情包_何意味]",
+            "emote": {
+              "[魔法少女的魔女审判表情包_何意味]": {
+                "id": 131093,
+                "package_id": 9340,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[魔法少女的魔女审判表情包_何意味]",
+                "url": "https://i0.hdslb.com/bfs/garb/item/b2f2f599b4dabbcc57b309b9bdf7caf8a03ad294.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1769744777,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=111546&hybrid_set_header=2&anchor_task=1&lottery_id=111547&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22111548%22%2C%22sub_id%22%3A%22%5B%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E7%9A%84%E9%AD%94%E5%A5%B3%E5%AE%A1%E5%88%A4%E8%A1%A8%E6%83%85%E5%8C%85_%E4%BD%95%E6%84%8F%E5%91%B3%5D%22%7D",
+                "jump_title": "何意味"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316135485473,
+          "rpid_str": "316135485473",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791201362,
+          "like": 26,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ad931c6bd2f0b347f68607ea",
+          "content": {
+            "message": "联机的沃雅妮莎不随便平a挂水，超越80%的智人了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316118672977,
+          "rpid_str": "316118672977",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791192489,
+          "like": 0,
+          "rcount": 7,
+          "count": 8,
+          "state": 0,
+          "author_id": "U_f576a664a93ceedf0fe5becc",
+          "content": {
+            "message": "n5变的好难，差点过不去了都",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e95fc924c31a243f55c6e047af2f7f5688701358.png",
+                "img_width": 1716,
+                "img_height": 1245,
+                "img_size": 1992.5
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 319721874656,
+              "rpid_str": "319721874656",
+              "root": 316118672977,
+              "root_str": "316118672977",
+              "parent": 316118672977,
+              "parent_str": "316118672977",
+              "dialog": 319721874656,
+              "ctime": 1791199215,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_5ac01662dc19d2d0c1c3f7d6",
+              "content": {
+                "message": "没有吧，我00仆过的第3间"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 320251982992,
+              "rpid_str": "320251982992",
+              "root": 316118672977,
+              "root_str": "316118672977",
+              "parent": 316118672977,
+              "parent_str": "316118672977",
+              "dialog": 320251982992,
+              "ctime": 1791618163,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_fb3189799c96181f042126a1",
+              "content": {
+                "message": "凯亚没绷住"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319705872880,
+          "rpid_str": "319705872880",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791191051,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_63655405c2b65c5f5fa57c19",
+          "content": {
+            "message": "刚回坑打不过n4,我去联机会有大佬带吗🥺"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316112532593,
+          "rpid_str": "316112532593",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791188855,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_93b4682484d361d2db7a0de3",
+          "content": {
+            "message": "沃雅妮莎不是联机回不了血也加不了拐嘛"
+          },
+          "replies": [
+            {
+              "rpid": 316143720705,
+              "rpid_str": "316143720705",
+              "root": 316112532593,
+              "root_str": "316112532593",
+              "parent": 316112532593,
+              "parent_str": "316112532593",
+              "dialog": 316143720705,
+              "ctime": 1791205600,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_33c3e50ac22eab6208135df4",
+              "content": {
+                "message": "只是没生存而已，拐力除了羽毛好像都能吃到的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319700709424,
+          "rpid_str": "319700709424",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791188031,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_47165160444f3d4ff977417a",
+          "content": {
+            "message": "第一间我凹了三四个小时[热]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/abe565a30fd385822cbc4b26e81d5f72515064134.jpg",
+                "img_width": 1080,
+                "img_height": 2400,
+                "img_size": 1341.39,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[热]": {
+                "id": 7647,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[热]",
+                "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "热"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316108403697,
+          "rpid_str": "316108403697",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791186223,
+          "like": 6,
+          "rcount": 2,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_4bb847acf242b4abd7533e35",
+          "content": {
+            "message": "四人联机牢底坐穿，你是说初始90抗，5000w血的同时还不让用奥黛塔吗[藏狐]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7bc9e767098af71649123f5adcbf0ec07954982.png",
+                "img_width": 1750,
+                "img_height": 328,
+                "img_size": 609.72
+              }
+            ],
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319953961024,
+              "rpid_str": "319953961024",
+              "root": 316108403697,
+              "root_str": "316108403697",
+              "parent": 316108403697,
+              "parent_str": "316108403697",
+              "dialog": 319953961024,
+              "ctime": 1791362819,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+              "content": {
+                "message": "兄弟还有没好友位，想借角色打真镜剧诗[doge_金箍]",
+                "emote": {
+                  "[doge_金箍]": {
+                    "id": 83964,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge_金箍]",
+                    "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1724910828,
+                    "jump_title": "金箍"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 317266010657,
+              "rpid_str": "317266010657",
+              "root": 316108403697,
+              "root_str": "316108403697",
+              "parent": 316108403697,
+              "parent_str": "316108403697",
+              "dialog": 317266010657,
+              "ctime": 1792164479,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_fdda4b0d853bf0d3d56dedca",
+              "content": {
+                "message": "贷款一手薇小妹风辅助。法有点牢了[脱单doge]",
+                "emote": {
+                  "[脱单doge]": {
+                    "id": 3301,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[脱单doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "脱单doge"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "caec57f2bd097b13b64cf4166f6d62de831d8eaed33907873fd13c86b6606d62",
+  "original_bytes_sha256": "14cd1d57082581914b6d7c72d4b944b9895586d650c1a91611d2faa8d1e06a81",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

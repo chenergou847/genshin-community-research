@@ -1,0 +1,195 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "315400518497",
+    "ps": 20,
+    "next": 1
+  },
+  "captured_at": "2026-10-19T05:25:55.654534+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315400518497,
+        "rpid_str": "315400518497",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790645822,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "floor": 903,
+        "author_id": "U_f35acc9da615b82fabf2bf9b",
+        "content": {
+          "message": "这期有机会打绝境吗，该怎么打呢",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9f3222019e730e7ec1b9547f3a59367f15125260.jpg",
+              "img_width": 1200,
+              "img_height": 14205,
+              "img_size": 1771.67,
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [
+          {
+            "rpid": 315401655745,
+            "rpid_str": "315401655745",
+            "root": 315400518497,
+            "root_str": "315400518497",
+            "parent": 315400518497,
+            "parent_str": "315400518497",
+            "dialog": 315401655745,
+            "ctime": 1790646991,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 1,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "木偶都有二奥黛塔了"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315401661729,
+            "rpid_str": "315401661729",
+            "root": 315400518497,
+            "root_str": "315400518497",
+            "parent": 315400518497,
+            "parent_str": "315400518497",
+            "dialog": 315401661729,
+            "ctime": 1790647005,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 2,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "丝柯克队"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315401583601,
+            "rpid_str": "315401583601",
+            "root": 315400518497,
+            "root_str": "315400518497",
+            "parent": 315400518497,
+            "parent_str": "315400518497",
+            "dialog": 315401583601,
+            "ctime": 1790647016,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 3,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "兹白队带个班尼特或者其他火系不就行了。第三间"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315402683441,
+            "rpid_str": "315402683441",
+            "root": 315400518497,
+            "root_str": "315400518497",
+            "parent": 315401585697,
+            "parent_str": "315401585697",
+            "dialog": 315401585697,
+            "ctime": 1790647909,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 5,
+            "author_id": "U_f35acc9da615b82fabf2bf9b",
+            "content": {
+              "message": "回复 @星光璀璨之时 :噢噢，好的谢谢"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "422fe8172d2c54e459a156289a6d75d58f1f0a09eb365ab5d409a8e62e105d71",
+  "original_bytes_sha256": "89dd3e3d5d50e1c8efc6a7bfd58d7185057664f2058f561784e34690a6b2e5e1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

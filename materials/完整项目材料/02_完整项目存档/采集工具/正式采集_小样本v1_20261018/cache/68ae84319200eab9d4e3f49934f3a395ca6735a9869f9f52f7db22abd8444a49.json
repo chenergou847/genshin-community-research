@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318865043008",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:43:25.771197+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315322445953,
+          "rpid_str": "315322445953",
+          "root": 318865043008,
+          "root_str": "318865043008",
+          "parent": 318865043008,
+          "parent_str": "318865043008",
+          "dialog": 315322445953,
+          "ctime": 1790573290,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶奥黛塔+阿罗夏+砂糖/迪奥娜/七七。\n第二间龙芙万叶+奶奶/莱依拉。\n第三间火神希诺宁班尼特万叶，万叶扩散还能班尼特战场配合火神破冰盾。视频都有讲的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318865043008,
+        "rpid_str": "318865043008",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790565170,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_69ea017a795da1a7ffe75907",
+        "content": {
+          "message": "三连了，我这角色能过N5吗，拿满奖励就行",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/83d84e9d486e9b4184c1ff72154f0286695787735.jpg",
+              "img_width": 1080,
+              "img_height": 7727,
+              "img_size": 4257.74,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "572be9f8439685694e8e7077289d1ba6f1e42425a286dfed870028699b889912",
+  "original_bytes_sha256": "1fcf8e9869e3d361168235737958910c46b5cb80d0c31ab9ffefd37167eb69cb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

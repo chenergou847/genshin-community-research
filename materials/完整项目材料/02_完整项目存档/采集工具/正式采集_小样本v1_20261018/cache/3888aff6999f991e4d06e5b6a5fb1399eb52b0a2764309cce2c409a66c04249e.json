@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117448078596976",
+    "root": "317297577441",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:58:37.949374+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317297577441,
+        "rpid_str": "317297577441",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792204385,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_19f7883ec15cfa9196a5a61e",
+        "content": {
+          "message": "为什么我打冰锅的时候打得那么慢"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "a0eee8eec64aa32a6f3b2766879fc55b9efc92a1ceb60329e57b70574df49d88",
+  "original_bytes_sha256": "852e00ec38c1f81835e531ee9ff44cbbae8afd8bff58c445dd5ef4ce72b9d618",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

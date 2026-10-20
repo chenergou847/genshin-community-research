@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364813201666",
+    "root": "315788346833",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:42:15.197682+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319364206304,
+          "rpid_str": "319364206304",
+          "root": 315788346833,
+          "root_str": "315788346833",
+          "parent": 315788346833,
+          "parent_str": "315788346833",
+          "dialog": 319364206304,
+          "ctime": 1790945903,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a3148f8c4c044fa72442def7",
+          "content": {
+            "message": "这期没配音，准备扩冰的时候离怪远一些，拉出少女水环范围就可以了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315788346833,
+        "rpid_str": "315788346833",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790943615,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_789b123f201923395c1303d6",
+        "content": {
+          "message": "奈夫尔打老头老是扩不到冰"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "55c3e5e779683a5c9ed5e1d34593505ee1322eb0f211e66a1d264b9553cdda3e",
+  "original_bytes_sha256": "9c90c33c2075a387d3e67dc55877b8ab06d88fb354933b4758f30657ef2d86ba",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318867466080",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:43:04.437445+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318867466080,
+        "rpid_str": "318867466080",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790567070,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_e6b43ce8808f6dd828042c96",
+        "content": {
+          "message": "没抽至冬角色可以这么打。\n老头就用月瑞希＋冰主打星扩散。\n冰锅直接丝柯克完事。\n雪精用菲林斯、火神、仆人都行"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2abd4999df9986cdb9bdb9f0fbb54b7edc7005f76627006800e8f7ca41d124fb",
+  "original_bytes_sha256": "e9d474c667b22348a3d222fec1a14ece2a1322396fae48caf6e876b6d589cfa2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

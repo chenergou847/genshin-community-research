@@ -1,0 +1,188 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317341548481",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:44:45.039714+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321007348784,
+          "rpid_str": "321007348784",
+          "root": 317341548481,
+          "root_str": "317341548481",
+          "parent": 317341548481,
+          "parent_str": "317341548481",
+          "dialog": 321007348784,
+          "ctime": 1792235156,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1c271e122b41965d4b71de41",
+          "content": {
+            "message": "不是哥们，真的假的，没专武带的啥呀"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317418176881,
+          "rpid_str": "317418176881",
+          "root": 317341548481,
+          "root_str": "317341548481",
+          "parent": 321007348784,
+          "parent_str": "321007348784",
+          "dialog": 321007348784,
+          "ctime": 1792295824,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_88d8f25bd4aa281180b6e7d6",
+          "content": {
+            "message": "回复 @超级宇宙无敌大将军 : 其他五星大剑呗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317452347345,
+          "rpid_str": "317452347345",
+          "root": 317341548481,
+          "root_str": "317341548481",
+          "parent": 321007348784,
+          "parent_str": "321007348784",
+          "dialog": 321007348784,
+          "ctime": 1792317009,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4d830f52c45caaacc3f3f39f",
+          "content": {
+            "message": "回复 @超级宇宙无敌大将军 :赤角，纯白板武器[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317341548481,
+        "rpid_str": "317341548481",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792231826,
+        "like": 6,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_4d830f52c45caaacc3f3f39f",
+        "content": {
+          "message": "木偶是真给力啊，00也能打进合格线[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e5eaf1cb72d07d975d49b930f29d07d12044169875.jpg",
+              "img_width": 1220,
+              "img_height": 2712,
+              "img_size": 1627.94,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "06146fb707f27a0481913957fe161e06dec3139fd708de5902cb23222a8ea00b",
+  "original_bytes_sha256": "53fb42f7478fc59ce5dbb15d3dda03c720cdc2ce8b49f4fd2e9a3e09ea1c7f0f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

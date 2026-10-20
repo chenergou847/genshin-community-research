@@ -1,0 +1,1313 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117364628657999",
+    "type": "1",
+    "mode": "2",
+    "next": "59",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzNDM5NzU4MTYwNTgaADICCDs=\"}"
+  },
+  "captured_at": "2026-10-18T12:55:15.190743+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 60,
+        "next": 36,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzNDM5NzU4MTYwNTgaADICCCQ=",
+          "prev_offset": "CAISEDE4MzUzNDM5NzU4MTYwNTgaADICCDw="
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 511,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315716586209,
+          "rpid_str": "315716586209",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790899811,
+          "like": 9,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_761911767f134ac6654aea0e",
+          "content": {
+            "message": "我还不能倒下😡",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/890d9dc4a638c1cf87bc38ee91304d04229410952.jpg",
+                "img_width": 3168,
+                "img_height": 1440,
+                "img_size": 1876.76
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 315739375409,
+              "rpid_str": "315739375409",
+              "root": 315716586209,
+              "root_str": "315716586209",
+              "parent": 315716586209,
+              "parent_str": "315716586209",
+              "dialog": 315739375409,
+              "ctime": 1790915498,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_924b17785108924d41da621c",
+              "content": {
+                "message": "我用那维莱特前台喷完才发现后台角色死光了[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315710114337,
+          "rpid_str": "315710114337",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790884253,
+          "like": 10,
+          "rcount": 5,
+          "count": 5,
+          "state": 0,
+          "author_id": "U_c929f480056c859e85034d40",
+          "content": {
+            "message": "玩散兵一直坠机，伤害还低[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315724366577,
+              "rpid_str": "315724366577",
+              "root": 315710114337,
+              "root_str": "315710114337",
+              "parent": 315710114337,
+              "parent_str": "315710114337",
+              "dialog": 315724366577,
+              "ctime": 1790906390,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_6d5a0c496addfd2cc8bec6e7",
+              "content": {
+                "message": "我自己是21散兵，看了别人视频才知道原来试用真的很区。。。"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319291633712,
+              "rpid_str": "319291633712",
+              "root": 315710114337,
+              "root_str": "315710114337",
+              "parent": 315710114337,
+              "parent_str": "315710114337",
+              "dialog": 319291633712,
+              "ctime": 1790905197,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_683f63963abb342c09833075",
+              "content": {
+                "message": "打第一关的两头熊时，e后一共就a了两下，其余时间都在坠机[妙啊]",
+                "emote": {
+                  "[妙啊]": {
+                    "id": 435,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[妙啊]",
+                    "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "妙啊"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315708871873,
+          "rpid_str": "315708871873",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790881742,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_198ee26cf338ae75019a2a68",
+          "content": {
+            "message": "龙王的水龙头真的是最好用的[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315708224177,
+          "rpid_str": "315708224177",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790880535,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fb857c5dfabeaef00062336b",
+          "content": {
+            "message": "有水的每期龙使用率应该都不低吧，毕竟数值只是不容易打n6了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315705877057,
+          "rpid_str": "315705877057",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790877205,
+          "like": 9,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0797a6282e555f5e2d479ef8",
+          "content": {
+            "message": "最灵活配队之人，可以蹭月反应和星超导",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/2d619f2d3dc056455453d8b9ad4ef8a813412583.jpg",
+                "img_width": 3168,
+                "img_height": 1440,
+                "img_size": 1582.11,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319272567824,
+          "rpid_str": "319272567824",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790876595,
+          "like": 2,
+          "rcount": 18,
+          "count": 18,
+          "state": 0,
+          "author_id": "U_865021d72c418ebea919b345",
+          "content": {
+            "message": "孩子们既然给木偶了为什么不给个四星雷我没神子啊"
+          },
+          "replies": [
+            {
+              "rpid": 319272717264,
+              "rpid_str": "319272717264",
+              "root": 319272567824,
+              "root_str": "319272567824",
+              "parent": 319272833856,
+              "parent_str": "319272833856",
+              "dialog": 319272833856,
+              "ctime": 1790876967,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_865021d72c418ebea919b345",
+              "content": {
+                "message": "回复 @红A的骨头 :伤害太低了而且我没什么风后台珐露珊充能不够不如拿温迪玩魔导去"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319272833856,
+              "rpid_str": "319272833856",
+              "root": 319272567824,
+              "root_str": "319272567824",
+              "parent": 319272567824,
+              "parent_str": "319272567824",
+              "dialog": 319272833856,
+              "ctime": 1790876842,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_41a64e0140c31e720159b3ad",
+              "content": {
+                "message": "我记得木偶能打星扩散的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315704026017,
+          "rpid_str": "315704026017",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790875267,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9321ccc054f901077cc94c06",
+          "content": {
+            "message": "看到散兵我才想起来，在那个年代，实际上能打出4w的dps已经算很不错了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319270542576,
+          "rpid_str": "319270542576",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790874894,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c2ac0a3abe6e83f7d510b407",
+          "content": {
+            "message": "下一期有龙王的人要憋笑了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315703257697,
+          "rpid_str": "315703257697",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790874679,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dbd07b2528272ee0e305f870",
+          "content": {
+            "message": "[doge]何止100%，我没有龙王但我都用了，使用率超过100%了",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315703001377,
+          "rpid_str": "315703001377",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790874402,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_55891581f387c8f546335d75",
+          "content": {
+            "message": "跟牢散对比一下就知道龙王的好了，牢散开局都汗流浃背给我气红温了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315702307441,
+          "rpid_str": "315702307441",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790873819,
+          "like": 2,
+          "rcount": 3,
+          "count": 4,
+          "state": 0,
+          "author_id": "U_5d6e19ac0509acffca530b1e",
+          "content": {
+            "message": "这次给的这两个开幕真的恶心死了，第一次没有拿到月喻牌，真的恶心坏了，玩一次恶心一次这个模式，这东西到底算是肉鸽嘛？"
+          },
+          "replies": [
+            {
+              "rpid": 315711479825,
+              "rpid_str": "315711479825",
+              "root": 315702307441,
+              "root_str": "315702307441",
+              "parent": 315702307441,
+              "parent_str": "315702307441",
+              "dialog": 315711479825,
+              "ctime": 1790888050,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_46de4dfac331f630dab3d496",
+              "content": {
+                "message": "散兵开局刷个夜兰行秋就行了，另外能进还打不过的话应该是你c不够吧，跟开幕关系不大"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319270692432,
+              "rpid_str": "319270692432",
+              "root": 315702307441,
+              "root_str": "315702307441",
+              "parent": 315702307441,
+              "parent_str": "315702307441",
+              "dialog": 319270692432,
+              "ctime": 1790874918,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f5edaa41a797bcb8846bcae7",
+              "content": {
+                "message": "第一个带了三个奶，两个瞬抬一个持续，带一个龙王嗯扛，还死了两奶妈，第二个必须留到后面用成品队打，不然过不去"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319267620832,
+          "rpid_str": "319267620832",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790872497,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0382b8f037dc96638029cfb5",
+          "content": {
+            "message": "试用龙王+试用奶奶+风系+70级托马打剧诗3和4关，试用牢散+试用布伦妮+芭芭拉凯亚打剧诗1和2关，这还不超标[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315695738001,
+          "rpid_str": "315695738001",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790869200,
+          "like": 14,
+          "rcount": 5,
+          "count": 5,
+          "state": 0,
+          "author_id": "U_6d6db1609e92854d4aea3c1f",
+          "content": {
+            "message": "玩个散兵，在高速上用云原神打巨屎，伤害低，网又卡，[笑哭]被怪当陀螺抽",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315704655489,
+              "rpid_str": "315704655489",
+              "root": 315695738001,
+              "root_str": "315695738001",
+              "parent": 315695738001,
+              "parent_str": "315695738001",
+              "dialog": 315704655489,
+              "ctime": 1790875865,
+              "like": 3,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_3d0925f502c5519000258170",
+              "content": {
+                "message": "那很辛苦了[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319275656256,
+              "rpid_str": "319275656256",
+              "root": 315695738001,
+              "root_str": "315695738001",
+              "parent": 315695738001,
+              "parent_str": "315695738001",
+              "dialog": 319275656256,
+              "ctime": 1790880300,
+              "like": 4,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_aa1f0344893c5fa75e27a4ec",
+              "content": {
+                "message": "这是真赤石大王[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315695655025,
+          "rpid_str": "315695655025",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790869065,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42b0621bfa631fa5b718d89c",
+          "content": {
+            "message": "第二个战斗那牢散打的我真难受，直接上龙王了，这就是这一期给我的自信[笑哭]，角色综合练度最高的一次[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319261798016,
+          "rpid_str": "319261798016",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790868819,
+          "like": 3,
+          "rcount": 7,
+          "count": 7,
+          "state": 0,
+          "author_id": "U_90b1dbe64db41bdfd26ca6d0",
+          "content": {
+            "message": "试用龙王手感上也是有点区了，数值明显跟不上了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315714911953,
+              "rpid_str": "315714911953",
+              "root": 319261798016,
+              "root_str": "319261798016",
+              "parent": 319261798016,
+              "parent_str": "319261798016",
+              "dialog": 315714911953,
+              "ctime": 1790897333,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_247604ebf8ecf79485668175",
+              "content": {
+                "message": "试用谁不是区呀，这话说的[喜极而泣]",
+                "emote": {
+                  "[喜极而泣]": {
+                    "id": 791,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[喜极而泣]",
+                    "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "喜极而泣"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319547785952,
+              "rpid_str": "319547785952",
+              "root": 319261798016,
+              "root_str": "319261798016",
+              "parent": 315714911953,
+              "parent_str": "315714911953",
+              "dialog": 315714911953,
+              "ctime": 1791084912,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_86fd7918fd138e6dd7ce359c",
+              "content": {
+                "message": "回复 @PreferenceHUAN :可莉"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315693690289,
+          "rpid_str": "315693690289",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790867912,
+          "like": 8,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_fcf1b88400b2a188ef5fe136",
+          "content": {
+            "message": "龙王出场三次，在我绝望的时候我抽中了龙王转为待命角色[打call]",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315706881457,
+              "rpid_str": "315706881457",
+              "root": 315693690289,
+              "root_str": "315693690289",
+              "parent": 315693690289,
+              "parent_str": "315693690289",
+              "dialog": 315706881457,
+              "ctime": 1790878374,
+              "like": 4,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_e74f20e996887ea753a9f2e2",
+              "content": {
+                "message": "我的天啊，绝望中诞生的奇迹[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319256837520,
+          "rpid_str": "319256837520",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790866152,
+          "like": 13,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_d403e62d103661632be248a9",
+          "content": {
+            "message": "下次别百分百登场率了，怎么能给我月谕大王整开幕呢😡😡"
+          },
+          "replies": [
+            {
+              "rpid": 315973038753,
+              "rpid_str": "315973038753",
+              "root": 319256837520,
+              "root_str": "319256837520",
+              "parent": 319256837520,
+              "parent_str": "319256837520",
+              "dialog": 315973038753,
+              "ctime": 1791089037,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_06e2cf03a9381702a0760f59",
+              "content": {
+                "message": "试用的也可以，稍微来两个勉强能用的辅助，把前几个快速秒掉就可以单通了，已经成功了"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319254394704,
+          "rpid_str": "319254394704",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790864922,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4f878dbd1ff61c2c20454b1d",
+          "content": {
+            "message": "等若娜瓦的课业[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315687526241,
+          "rpid_str": "315687526241",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790864609,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d74e9c2c68cb0492bef100fe",
+          "content": {
+            "message": "龙王是剧诗亲蝶，第4关守塔必备（原地转圈就能守住），月谕一流血关必备，还是最强对群灭火器[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315682124545,
+          "rpid_str": "315682124545",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790861726,
+          "like": 31,
+          "rcount": 8,
+          "count": 8,
+          "state": 0,
+          "author_id": "U_2b3ccab396cd99d6f1a18b25",
+          "content": {
+            "message": "月谕关但凡有流血狗或者空壳怪，就是龙王大展身手的时候"
+          },
+          "replies": [
+            {
+              "rpid": 315709245377,
+              "rpid_str": "315709245377",
+              "root": 315682124545,
+              "root_str": "315682124545",
+              "parent": 315682124545,
+              "parent_str": "315682124545",
+              "dialog": 315709245377,
+              "ctime": 1790882074,
+              "like": 8,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a7c2e2b0f6583f27eec5808e",
+              "content": {
+                "message": "还得注意自己队伍的流血狗[笑哭]里外夹击这一块，害我又重开一轮",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319299047376,
+              "rpid_str": "319299047376",
+              "root": 315682124545,
+              "root_str": "315682124545",
+              "parent": 315709245377,
+              "parent_str": "315709245377",
+              "dialog": 315709245377,
+              "ctime": 1790909856,
+              "like": 4,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_9369a760f597bba57d13f0f0",
+              "content": {
+                "message": "回复 @神所不知的人 :明知道是掉血环境还敢用黑芙吗，哈基神你这家伙，还有芙带三个奶不是随便过，流血狗攻击间隔那么大怎么被打到的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "670146ce7957c497147efd3ae02224322659f987f7f556817b2b3d06adfb05c2",
+  "original_bytes_sha256": "0c740cf036e96b79caff7fc43d27254d44e765809232e38bde3be7f98f8c5679",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

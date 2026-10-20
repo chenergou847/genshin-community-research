@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "321030420256",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:40:53.847757+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321030420256,
+        "rpid_str": "321030420256",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792247199,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_31a54fc1331a868f964c6288",
+        "content": {
+          "message": "怎么一个n3都没有"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6f1c1c4bca405e3f1014678b0fc3ba4379cacfd022fbb6b2e7ba8b0ee9f25905",
+  "original_bytes_sha256": "ee4a378c1ecb82a688dd39317be7495a1db07f6f0f8926060bdbfaea8e34305d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315746835105",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:13:01.498389+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315746835105,
+        "rpid_str": "315746835105",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790919756,
+        "like": 7,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_258616dc43bc47c1d0023407",
+        "content": {
+          "message": "奥小妹谢谢你",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7cecb93913a0c7d317ed2784e12a424221664688.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 1048.45,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "91f0063ee9e6c0252010158fb9ca56d9b71089958d21336896ca51cbb514fc7a",
+  "original_bytes_sha256": "c0a0c34558fa190822e0c8f6a0b4f3b8842561d0b23a079df9036eb81faa291f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

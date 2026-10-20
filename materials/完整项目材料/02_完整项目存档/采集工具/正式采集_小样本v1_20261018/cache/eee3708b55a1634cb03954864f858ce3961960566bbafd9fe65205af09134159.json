@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315041508609",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:05:08.218675+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315041508609,
+        "rpid_str": "315041508609",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790341327,
+        "like": 1,
+        "rcount": 4,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_716007375f200bafe49054fd",
+        "content": {
+          "message": "这期有可能n6吗，梦见月下周能领个2，沃也能拉起来",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f5b4926bd8fd9f51265eba3dcc940c01519387258.jpg",
+              "img_width": 1290,
+              "img_height": 12693,
+              "img_size": 3592
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bbcf2a5ef83b5cb9b011e3c2d4e56491c0e2a190b1b14ad7ac6df84c4cdab30f",
+  "original_bytes_sha256": "e04c9b4b960dc539bbf43c5584ceb4add2859416d024eeb215561eac06f78976",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

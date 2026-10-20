@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315362895825",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:37:29.830895+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315362895825,
+        "rpid_str": "315362895825",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790601294,
+        "like": 0,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_7b2de60c1ef131b5218d3cf7",
+        "content": {
+          "message": "主播，31菲11少机00奥n6老头\n00蝶变丝00爱10芙莫n6冰锅\n20火6命夏洛蕾，班尼班，大孙子，伊安姗n6\n这个配置能过吗？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cc73e819af0d3246779b15a6801878869b6098442cfb0621cd8a9ef2b7234755",
+  "original_bytes_sha256": "3142a982cd28347a8ad8ef19403e3d1f62abeb57f5952f36627ecd191d1a31a5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

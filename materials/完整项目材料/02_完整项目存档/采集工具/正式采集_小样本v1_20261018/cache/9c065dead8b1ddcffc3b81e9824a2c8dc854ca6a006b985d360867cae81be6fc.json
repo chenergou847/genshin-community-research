@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318962229648",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:31:36.535672+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315403992353,
+          "rpid_str": "315403992353",
+          "root": 318962229648,
+          "root_str": "318962229648",
+          "parent": 318962229648,
+          "parent_str": "318962229648",
+          "dialog": 315403992353,
+          "ctime": 1790649084,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "超标了[doge]二命基尼奇就行",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315404015409,
+          "rpid_str": "315404015409",
+          "root": 318962229648,
+          "root_str": "318962229648",
+          "parent": 318962229648,
+          "parent_str": "318962229648",
+          "dialog": 315404015409,
+          "ctime": 1790649107,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "杜林尼可要不要命座，二命基尼奇都能打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318962453760,
+          "rpid_str": "318962453760",
+          "root": 318962229648,
+          "root_str": "318962229648",
+          "parent": 318962229648,
+          "parent_str": "318962229648",
+          "dialog": 318962453760,
+          "ctime": 1790649170,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dc3fe101af416752cfa46ef9",
+          "content": {
+            "message": "OK谢谢了[脱单doge]",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318962229648,
+        "rpid_str": "318962229648",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790649039,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_dc3fe101af416752cfa46ef9",
+        "content": {
+          "message": "31基612310杜00妮第三间n5应该能打吧🧐"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ca331c76029af29979d3dfde840d4a0bf28059d34cc6b391d991694039f1dce1",
+  "original_bytes_sha256": "80b830d666b48978c663487337738fc98aba11342c461975d0b1e9812f9f5561",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

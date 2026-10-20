@@ -1,0 +1,87 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "315400518497",
+    "dialog": "315401585697",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:38:44.075344+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 5,
+        "max_floor": 5,
+        "size": 1,
+        "next": 6,
+        "prev": 4,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":6}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 5
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315402683441,
+          "rpid_str": "315402683441",
+          "root": 315400518497,
+          "root_str": "315400518497",
+          "parent": 315401585697,
+          "parent_str": "315401585697",
+          "dialog": 315401585697,
+          "ctime": 1790647909,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 5,
+          "author_id": "U_f35acc9da615b82fabf2bf9b",
+          "content": {
+            "message": "回复 @星光璀璨之时 :噢噢，好的谢谢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "5b2be19816d56d02fe36d801bc49b54c642b57e83ef09fe07ba3f87e020af4bd",
+  "original_bytes_sha256": "3210c4c40d6263c9f9a27a5ba4a7b42a694466419e8374d95130fd236b983b7f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

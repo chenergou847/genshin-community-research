@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319406950320",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:07:24.484604+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319414244112,
+          "rpid_str": "319414244112",
+          "root": 319406950320,
+          "root_str": "319406950320",
+          "parent": 319406950320,
+          "parent_str": "319406950320",
+          "dialog": 319414244112,
+          "ctime": 1790991775,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_24513ad3f816b998f8dfee27",
+          "content": {
+            "message": "我是up老非了但是常驻和武器欧的飞起来[笑哭]服了",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317337058977,
+          "rpid_str": "317337058977",
+          "root": 319406950320,
+          "root_str": "319406950320",
+          "parent": 319406950320,
+          "parent_str": "319406950320",
+          "dialog": 317337058977,
+          "ctime": 1792229210,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_07997c2d77a3969ae1c96574",
+          "content": {
+            "message": "这个运气羡慕了，这个抽数放我这限定金差点只有空气"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319406950320,
+        "rpid_str": "319406950320",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790985583,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_30deba4e083a968c1f99d66c",
+        "content": {
+          "message": "啥时候复刻呀[大哭]开个新号200多抽沃和薇都0+1了，就差来奥黛塔把冰主踢出队伍了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a3781e6684688323bf6726b9e351f4731434275503.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 835.91,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d70b3c621d0c4cf140d64b7a26c4f35d1434275503.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 856.85,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7b0e4c2fea6a15a36051226be22a44686355811cab718ef5ecfdb55d1a6f439e",
+  "original_bytes_sha256": "2775e29081a32abd1590e510094922416fe854547818152ecc551355bbc38383",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

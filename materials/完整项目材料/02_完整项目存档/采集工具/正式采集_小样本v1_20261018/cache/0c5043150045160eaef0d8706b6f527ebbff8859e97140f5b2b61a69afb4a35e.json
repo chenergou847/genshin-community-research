@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316118672977",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:32:52.360212+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316118672977,
+        "rpid_str": "316118672977",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791192489,
+        "like": 0,
+        "rcount": 7,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_f576a664a93ceedf0fe5becc",
+        "content": {
+          "message": "n5变的好难，差点过不去了都",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e95fc924c31a243f55c6e047af2f7f5688701358.png",
+              "img_width": 1716,
+              "img_height": 1245,
+              "img_size": 1992.5
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9f9c599afd21c7e5fee0fc39d6578acd3bf5b841c71a989c431937d673f94861",
+  "original_bytes_sha256": "1f9559a19a2eac46637c6a1a7d6d2f196dfeaf27bf2cf1535988a2177fa962b1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

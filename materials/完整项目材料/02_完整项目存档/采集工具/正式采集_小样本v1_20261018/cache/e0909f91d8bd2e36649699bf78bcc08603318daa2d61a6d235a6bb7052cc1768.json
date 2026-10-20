@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319076995200",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:14:53.861370+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319076995200,
+        "rpid_str": "319076995200",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790743444,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b7e8ab3157fc72ff0febfc45",
+        "content": {
+          "message": "救命，这n6老头好难啊，差的有点多[委屈]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3e18b884a2474830e59f006343ad6290400984025.png",
+              "img_width": 1919,
+              "img_height": 1051,
+              "img_size": 1637.28
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a6c4f4cbac9b3890b669bbb314f91aad400984025.png",
+              "img_width": 1919,
+              "img_height": 1053,
+              "img_size": 1085.02
+            }
+          ],
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "925e1be3229fedd7b178abc88c7219d3f1228cbf296fb728d2978927d0f56192",
+  "original_bytes_sha256": "760cd79de32b5bbc282ba7b5bef236aab6f180248d82968e2c83d5d0cf8b0a4b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

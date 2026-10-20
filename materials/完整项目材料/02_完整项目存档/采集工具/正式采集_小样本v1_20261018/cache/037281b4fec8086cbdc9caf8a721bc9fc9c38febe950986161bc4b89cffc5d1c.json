@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319078094448",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:14:30.373674+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319078094448,
+        "rpid_str": "319078094448",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790744092,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a696ce1c875ed5e1bc085984",
+        "content": {
+          "message": "这次n5抢奥黛塔了，没有奥黛塔那一路只能用七七，木偶伤害暴跌，差点没打过冰棺。然后薇那边脸滚键盘...应该让木偶带奥黛塔的。冰锅落魄了，700w血量太不堪一击了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9d337c5da8d2d80b91171949611d327832f65e061060c0c428d5b419e1030a6b",
+  "original_bytes_sha256": "1d642504d582430cd29a6ded6b35a069d648d83c1169fabd000251da02d6ed06",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

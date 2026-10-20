@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314949542225",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:21:35.562043+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318495163024,
+          "rpid_str": "318495163024",
+          "root": 314949542225,
+          "root_str": "314949542225",
+          "parent": 314949542225,
+          "parent_str": "314949542225",
+          "dialog": 318495163024,
+          "ctime": 1790279242,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8b42e1f0bd7447f5a76f585",
+          "content": {
+            "message": "能打。但是你得弄个2瑞希感觉。瑞希1木偶2菲3"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318501649728,
+          "rpid_str": "318501649728",
+          "root": 314949542225,
+          "root_str": "314949542225",
+          "parent": 314949542225,
+          "parent_str": "314949542225",
+          "dialog": 318501649728,
+          "ctime": 1790293646,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5eb919e6f6d089d330dd7705",
+          "content": {
+            "message": "选个梦见月养一养，换个1命，把奥黛塔给她，稳过一间。\n木偶神子随便过一间，月感电随便过一间。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314949542225,
+        "rpid_str": "314949542225",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790266674,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_9b966cbf7d1ddde0c31d8b16",
+        "content": {
+          "message": "这期n5能打吗，不知道咋配队",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a82cb4c3e865dab229bddb103f18a82a649991780.jpg",
+              "img_width": 1260,
+              "img_height": 12884,
+              "img_size": 1635.61
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "80d7253a4888f0102995c5b8d4cd37346bfad92e88532356f1fcd72098e64c14",
+  "original_bytes_sha256": "bff350b020592a32faafd436a995f48d76e714063486c3fb99bb1e8b916be5dc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

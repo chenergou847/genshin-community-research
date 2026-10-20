@@ -1,0 +1,119 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315476976225",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:24:32.944386+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315497127553,
+          "rpid_str": "315497127553",
+          "root": 315476976225,
+          "root_str": "315476976225",
+          "parent": 315476976225,
+          "parent_str": "315476976225",
+          "dialog": 315497127553,
+          "ctime": 1790730037,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "0偶0奥 没神子。N6不够"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315476976225,
+        "rpid_str": "315476976225",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790697862,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_b2d48feb0a26e3cdce7eda75",
+        "content": {
+          "message": "n6还有希望吗[给心心]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/bbab5eb4a289ebb0c4ad230454c232bc399789156.jpg",
+              "img_width": 1260,
+              "img_height": 6601,
+              "img_size": 1825.92
+            }
+          ],
+          "emote": {
+            "[给心心]": {
+              "id": 3302,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[给心心]",
+              "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "给心心"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "147dc5f2e5ecfb02993331f5d72499b32beb3b4e9754ba3ab79e5b1c99a3303e",
+  "original_bytes_sha256": "cb632493b77d1d1a3bf6d469ced31260cc7330172e426567a3e7534ca0330b67",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

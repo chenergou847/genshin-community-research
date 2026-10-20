@@ -1,0 +1,10 @@
+{
+  "status": "REJECTED_FOR_FORMAL_USE",
+  "positive_probe": "日期筛选契约核验.json",
+  "positive_probe_limitation": "只检查了首页日期碰巧均落在最近一周范围，不能证明过滤参数真正生效。",
+  "negative_evidence": "正式采集_v2_20261017普通WBI搜索请求的上界896124870小于1999年，但返回pubdate1792110234等2026年视频；还有请求返回code=0且data含v_voucher访问校验字段。",
+  "conclusion": "pubtime_begin_s/end_s的API契约未核定；不可凭此宣称日期分箱已消除截断。需在访问校验解除后核对正常网页实际请求参数及正反边界。",
+  "formal_video_frame_created": false,
+  "formal_comment_frame_created": false,
+  "formal_random_sample_created": false
+}

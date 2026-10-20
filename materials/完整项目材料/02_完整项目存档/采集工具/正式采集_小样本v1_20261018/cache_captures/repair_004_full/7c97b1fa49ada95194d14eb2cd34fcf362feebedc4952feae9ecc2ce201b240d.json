@@ -1,0 +1,813 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320847801232",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:44:18.096728+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 23
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317196543857,
+          "rpid_str": "317196543857",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792120203,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_931871e8874189c4765ac300",
+          "content": {
+            "message": "我上半梦见月，下半丝柯克。轻轻松松"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317196581825,
+          "rpid_str": "317196581825",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792120218,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_931871e8874189c4765ac300",
+          "content": {
+            "message": "上半星反应c都能随便打，莱欧斯利 赛诺也可以"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320849166944,
+          "rpid_str": "320849166944",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 317196543857,
+          "parent_str": "317196543857",
+          "ctime": 1792120561,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @月-城 :能配个星烁就是乱杀，下半统御械妥妥的木桩子[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317197244401,
+          "rpid_str": "317197244401",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320849166944,
+          "parent_str": "320849166944",
+          "ctime": 1792120826,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_931871e8874189c4765ac300",
+          "content": {
+            "message": "回复 @暗影使者-但丁 :是的是的，这期打的特别轻松[滑稽]",
+            "emote": {
+              "[滑稽]": {
+                "id": 27,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[滑稽]",
+                "url": "https://i0.hdslb.com/bfs/emote/d15121545a99ac46774f1f4465b895fe2d1411c3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "滑稽"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317199982769,
+          "rpid_str": "317199982769",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792122841,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_69be33a82e45167dc372163a",
+          "content": {
+            "message": "我进镇守一点，出来的是水史莱姆，和上期比站在那跟佛似的[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320852586352,
+          "rpid_str": "320852586352",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 317199982769,
+          "parent_str": "317199982769",
+          "ctime": 1792122933,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @丝血反杀闰土的锸 :镇石里的24只水史莱姆不知道的是在cos减速带呢[滑稽]",
+            "emote": {
+              "[滑稽]": {
+                "id": 27,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[滑稽]",
+                "url": "https://i0.hdslb.com/bfs/emote/d15121545a99ac46774f1f4465b895fe2d1411c3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "滑稽"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317202066353,
+          "rpid_str": "317202066353",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792124135,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c2c5aca7a57d81954207dbe4",
+          "content": {
+            "message": "不带水也能打恐怖老奶，只是比较费劲"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320854708288,
+          "rpid_str": "320854708288",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 317202066353,
+          "parent_str": "317202066353",
+          "ctime": 1792124224,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @99Coins :主要打人特别疼，装甲吸附满了能打死一个人[白荆回廊_尴尬]",
+            "emote": {
+              "[白荆回廊_尴尬]": {
+                "id": 67768,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[白荆回廊_尴尬]",
+                "url": "https://i0.hdslb.com/bfs/emote/5f42aa8c1f13126f9dd7554a3b91db9068c6b2fa.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1711349550,
+                "jump_title": "尴尬"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317202449217,
+          "rpid_str": "317202449217",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320854708288,
+          "parent_str": "320854708288",
+          "ctime": 1792124391,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c2c5aca7a57d81954207dbe4",
+          "content": {
+            "message": "回复 @暗影使者-但丁 :我用木偶硬抗老奶好几拳[大笑]，后面掌握节奏了全部闪避掉()",
+            "emote": {
+              "[大笑]": {
+                "id": 12,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/ca94ad1c7e6dac895eb5b33b7836b634c614d1c0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320855555856,
+          "rpid_str": "320855555856",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 317202449217,
+          "parent_str": "317202449217",
+          "ctime": 1792124701,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @99Coins :玩闪身步呢这是[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320857080496,
+          "rpid_str": "320857080496",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792125558,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6114a3b19d902d5b6b4653c1",
+          "content": {
+            "message": "上半我带的薇斯纳七七冰主万叶，下半木偶奥黛塔雷神行秋00 60 40 01+00 00 00 65祭礼，小凹一下元素盾和老奶冻结也轻松过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320858234464,
+          "rpid_str": "320858234464",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320857080496,
+          "parent_str": "320857080496",
+          "ctime": 1792126259,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @入机pro :下半就带个水打冻结就行[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317206388177,
+          "rpid_str": "317206388177",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792126772,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_61032dc89ad3b7503adf077d",
+          "content": {
+            "message": "不用带水，直接碾过去就行，六命七七+希诺宁顶着强杀"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320859580432,
+          "rpid_str": "320859580432",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 317206388177,
+          "parent_str": "317206388177",
+          "ctime": 1792127036,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @舞麟阁 :有减抗也行，学会躲避boss攻击就没事[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317207000881,
+          "rpid_str": "317207000881",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320859580432,
+          "parent_str": "320859580432",
+          "ctime": 1792127106,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_61032dc89ad3b7503adf077d",
+          "content": {
+            "message": "回复 @暗影使者-但丁 :木偶最后血太低直接送了拿七七大招复活满血下一间[大笑]",
+            "emote": {
+              "[大笑]": {
+                "id": 12,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/ca94ad1c7e6dac895eb5b33b7836b634c614d1c0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320860006304,
+          "rpid_str": "320860006304",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792127272,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_874c8557eb7a448d57868510",
+          "content": {
+            "message": "大佬，请问只有两队怎么打，瑞希一队，还有菲林斯一队，上个月第一次打满12层，这次不知道可不可以[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320860613328,
+          "rpid_str": "320860613328",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 317207000881,
+          "parent_str": "317207000881",
+          "ctime": 1792127720,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @舞麟阁 :狠人[喜极而泣]",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317214508001,
+          "rpid_str": "317214508001",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792132825,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b20e9f5bc073c0c1b0d584b0",
+          "content": {
+            "message": "骗你的，上半连配队都组不齐的兹白都能打[doge_金箍]\n我上半兹白下半木偶，第二间海捷德没对策卡于是把一三打满后转头把上下半队伍对调后美美力大砖飞[doge_金箍]顺带一提，纯低金，连岩莉莉都没有的难民配队",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320870165280,
+          "rpid_str": "320870165280",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320847801232,
+          "parent_str": "320847801232",
+          "ctime": 1792134990,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_36c46dace8bf20f9531e6ae5",
+          "content": {
+            "message": "下半我甚至神里绫华打的（）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320874767696,
+          "rpid_str": "320874767696",
+          "root": 320847801232,
+          "root_str": "320847801232",
+          "parent": 320870165280,
+          "parent_str": "320870165280",
+          "ctime": 1792138749,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "回复 @真冬本冬 :答案都特别明显，冻结反应写的清清楚楚[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320847801232,
+        "rpid_str": "320847801232",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792119590,
+        "like": 53,
+        "rcount": 23,
+        "count": 23,
+        "state": 0,
+        "author_id": "U_65f20214a31eff6887f9ee92",
+        "content": {
+          "message": "总结：本期算得上是血量较高，但水温大降的一期，上半薇斯纳和木偶专属，配对成型直接乱战如麻。下半冰水战舰专属，但也可以用木偶超导队四号位带个水元素角色轻轻松松[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a5861efe1687eaec3b3bd0676d1f937d1270749002.jpg",
+              "img_width": 2712,
+              "img_height": 1220,
+              "img_size": 996.22
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "e74fb0bd415583f3c603b600544bf9699bd06904a564ea8597e58f4f693ff345",
+  "original_bytes_sha256": "ac14bce9edeb5014602c68a72d9bca3c4f12af304948d5242191112ec67169d8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

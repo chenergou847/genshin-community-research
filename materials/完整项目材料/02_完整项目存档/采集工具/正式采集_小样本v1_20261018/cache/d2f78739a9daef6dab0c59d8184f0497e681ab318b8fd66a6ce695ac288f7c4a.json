@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315422358177",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:28:38.758359+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315434694305,
+          "rpid_str": "315434694305",
+          "root": 315422358177,
+          "root_str": "315422358177",
+          "parent": 315422358177,
+          "parent_str": "315422358177",
+          "dialog": 315434694305,
+          "ctime": 1790672266,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "仆人冰主班尼特砂糖"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315434629393,
+          "rpid_str": "315434629393",
+          "root": 315422358177,
+          "root_str": "315422358177",
+          "parent": 315422358177,
+          "parent_str": "315422358177",
+          "dialog": 315434629393,
+          "ctime": 1790672281,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "丝柯克爱可菲芙宁娜沃雅妮莎"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315434713153,
+          "rpid_str": "315434713153",
+          "root": 315422358177,
+          "root_str": "315422358177",
+          "parent": 315422358177,
+          "parent_str": "315422358177",
+          "dialog": 315434713153,
+          "ctime": 1790672303,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "火神超载"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315422358177,
+        "rpid_str": "315422358177",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790662504,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_56e244d861a8a6384e5e4c91",
+        "content": {
+          "message": "被老头单防了[大哭][大哭][大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/47d68bbfeb21ccb5296408b47c2fc3182132660892.jpg",
+              "img_width": 1080,
+              "img_height": 7916,
+              "img_size": 1962.9
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cc4255cd6233aba7ee964ba53c9469be79940358e6b4fc0c4eff65f623635cd7",
+  "original_bytes_sha256": "14e33fb03dc27defcdafd73b179068592f2ba7f0913f5b8b855c0eb48e5be5a5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

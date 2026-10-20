@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315713422769",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:19:25.439671+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319285722608,
+          "rpid_str": "319285722608",
+          "root": 315713422769,
+          "root_str": "315713422769",
+          "parent": 315713422769,
+          "parent_str": "315713422769",
+          "dialog": 319285722608,
+          "ctime": 1790900423,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7bef1a9ba0f911db3e3661a4",
+          "content": {
+            "message": "跳前按冲刺"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315713422769,
+        "rpid_str": "315713422769",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790894626,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_5dd107966123ca8fe2558c3a",
+        "content": {
+          "message": "我下落攻击太笨重了，速度慢的要死"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "41e50d510bdb44cbf903b7594a0970ca9a2f19605453c9461f6c820db4769851",
+  "original_bytes_sha256": "3079ad121ee63957bd73e3ded9ec3accbb6e5fa0190a252dbdb8486806b83f35",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

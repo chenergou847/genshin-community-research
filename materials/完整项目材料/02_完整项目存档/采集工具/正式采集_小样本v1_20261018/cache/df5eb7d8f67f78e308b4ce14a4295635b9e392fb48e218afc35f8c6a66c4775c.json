@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318867466080",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:43:00.519982+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315323730145,
+          "rpid_str": "315323730145",
+          "root": 318867466080,
+          "root_str": "318867466080",
+          "parent": 318867466080,
+          "parent_str": "318867466080",
+          "dialog": 315323730145,
+          "ctime": 1790574211,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间雪精破盾，用火神仆人纯火，超载。菲林斯带冰主转星超导破机制为伤害盾也能打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315323735985,
+          "rpid_str": "315323735985",
+          "root": 318867466080,
+          "root_str": "318867466080",
+          "parent": 318867466080,
+          "parent_str": "318867466080",
+          "dialog": 315323735985,
+          "ctime": 1790574226,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你三间基本上视频都有演示，完全可以看看"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318905163264,
+          "rpid_str": "318905163264",
+          "root": 318867466080,
+          "root_str": "318867466080",
+          "parent": 318867466080,
+          "parent_str": "318867466080",
+          "dialog": 318905163264,
+          "ctime": 1790593777,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f94b195f278ac6795605dda2",
+          "content": {
+            "message": "虽然但是，人家叫梦见月  瑞希[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318867466080,
+        "rpid_str": "318867466080",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790567070,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_e6b43ce8808f6dd828042c96",
+        "content": {
+          "message": "没抽至冬角色可以这么打。\n老头就用月瑞希＋冰主打星扩散。\n冰锅直接丝柯克完事。\n雪精用菲林斯、火神、仆人都行"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2491f9a366e62d9219ce1a28b977e25d1443d934dcd610fcc9542bede98e0e69",
+  "original_bytes_sha256": "ee6748631cb93d03a48547015ffe388bc1f712072e52391a24ef86186bb6f37c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

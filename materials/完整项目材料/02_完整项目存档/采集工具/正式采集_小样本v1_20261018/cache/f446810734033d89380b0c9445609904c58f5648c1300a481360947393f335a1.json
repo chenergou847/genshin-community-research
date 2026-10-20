@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315498997761",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:20:48.934447+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315499242753,
+          "rpid_str": "315499242753",
+          "root": 315498997761,
+          "root_str": "315498997761",
+          "parent": 315498997761,
+          "parent_str": "315498997761",
+          "dialog": 315499242753,
+          "ctime": 1790732237,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "1.木偶奥黛塔阿罗夏砂糖，四号位要减抗的。\n2.奈芙尔菈乌玛少女+迪奥娜，迪奥娜蓄力射击加套盾可以压冰锅。\n3. 瓦蕾莎超载队。都一命了。。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315499256481,
+          "rpid_str": "315499256481",
+          "root": 315498997761,
+          "root_str": "315498997761",
+          "parent": 315498997761,
+          "parent_str": "315498997761",
+          "dialog": 315499256481,
+          "ctime": 1790732270,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。视频也有演示打法，完全可以看，1/3间看了也有配队"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315499487809,
+          "rpid_str": "315499487809",
+          "root": 315498997761,
+          "root_str": "315498997761",
+          "parent": 315498997761,
+          "parent_str": "315498997761",
+          "dialog": 315499487809,
+          "ctime": 1790732442,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "如果你冰主练了也可以去打冰锅。奈芙尔也能打的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315498997761,
+        "rpid_str": "315498997761",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790732055,
+        "like": 1,
+        "rcount": 3,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_229aa25cc103f517d246b99f",
+        "content": {
+          "message": "我这能打N5吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e4ef95721a85735ccef5f653eab719583546639354563374.jpg",
+              "img_width": 1080,
+              "img_height": 8103,
+              "img_size": 968.8
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "90771dbdddf4dacb2216db3de5dc1ce887a43d4e1f8c93d0278947f589362076",
+  "original_bytes_sha256": "c6474e9e56a5e24d09e428762266c9c26c9d6ddff6ae12e419d291924a87a36e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

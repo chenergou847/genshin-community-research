@@ -1,0 +1,237 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "321017282160",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:51:13.423405+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317371268353,
+          "rpid_str": "317371268353",
+          "root": 321017282160,
+          "root_str": "321017282160",
+          "parent": 321017282160,
+          "parent_str": "321017282160",
+          "ctime": 1792248060,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fcca172b7e3ca8a9dec3d015",
+          "content": {
+            "message": "原抽数少了，对非酋来说就是灾难，我奥和沃加起来俩0命310多抽才出"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321033131712,
+          "rpid_str": "321033131712",
+          "root": 321017282160,
+          "root_str": "321017282160",
+          "parent": 317371268353,
+          "parent_str": "317371268353",
+          "ctime": 1792248587,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a73e1f070f47cc94365f1453",
+          "content": {
+            "message": "回复 @寒鸢与雪莲 :我5单648只有3金奥沃"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317372789697,
+          "rpid_str": "317372789697",
+          "root": 321017282160,
+          "root_str": "321017282160",
+          "parent": 321033131712,
+          "parent_str": "321033131712",
+          "ctime": 1792248859,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fcca172b7e3ca8a9dec3d015",
+          "content": {
+            "message": "回复 @河倾月尽 :5单648不算双倍的话就刚好200抽，算了的话240抽左右，算上星辉那些应该有300抽了，300抽3个金比我好一点[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317372919521,
+          "rpid_str": "317372919521",
+          "root": 321017282160,
+          "root_str": "321017282160",
+          "parent": 321033131712,
+          "parent_str": "321033131712",
+          "ctime": 1792248893,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fcca172b7e3ca8a9dec3d015",
+          "content": {
+            "message": "回复 @河倾月尽 :不对，星辉应该没60抽"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321037444832,
+          "rpid_str": "321037444832",
+          "root": 321017282160,
+          "root_str": "321017282160",
+          "parent": 317372789697,
+          "parent_str": "317372789697",
+          "ctime": 1792250926,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a73e1f070f47cc94365f1453",
+          "content": {
+            "message": "回复 @寒鸢与雪莲 :260多抽吧"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321065670256,
+          "rpid_str": "321065670256",
+          "root": 321017282160,
+          "root_str": "321017282160",
+          "parent": 321017282160,
+          "parent_str": "321017282160",
+          "ctime": 1792286227,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_17ee1961fcd3831d60ccc7d1",
+          "content": {
+            "message": "米池是这样的，我崩铁530多抽4金白厄队和4金欢愉破船，你就算再怎么规划，福利到110-120抽一个版本，也抵不过卡池一歪导致版本白玩[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321078876576,
+          "rpid_str": "321078876576",
+          "root": 321017282160,
+          "root_str": "321017282160",
+          "parent": 321065670256,
+          "parent_str": "321065670256",
+          "ctime": 1792294637,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a73e1f070f47cc94365f1453",
+          "content": {
+            "message": "回复 @听音丷 :😭"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321017282160,
+        "rpid_str": "321017282160",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792240218,
+        "like": 1,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_a73e1f070f47cc94365f1453",
+        "content": {
+          "message": "我真得黑原神了，异环体验太好了，90抽大保底一版本200多抽，我自己也是原玩家，但是老米是真的扣完了，现在我自己充了3000多块钱的号打不过n5，（2梦0奥一队，0尼1沃1偶一队，11蛇10鹿00少一队）但是隔壁小月卡都只充过一张的都能争锋8万多分（10万分差不多就是n6水准了）（下附官b双号练度自证，可加好友）",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ccf9589e5ac625469e2ae7ef6b1d14c03493136061958607.jpg",
+              "img_width": 1280,
+              "img_height": 2781,
+              "img_size": 367.07
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9853c9f5ebb7ecc02c5bcd04fdbfc0713493136061958607.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1776.33
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9f304f8472ced8e69c035641f0690fb13493136061958607.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1802.98
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "72e025815377e8806d780adb176f31daf9e06290bb4dde494cf660271b146e0d",
+  "original_bytes_sha256": "d74633829bda09b4ffc7deb767996e4ae3818adc87bd5d05c0ea114bdf79c4c3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,427 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317193832033",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:44:46.713105+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317194012993,
+          "rpid_str": "317194012993",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317193832033,
+          "parent_str": "317193832033",
+          "ctime": 1792118081,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_083dee20bc02164efb72fd9f",
+          "content": {
+            "message": "我拿木偶打的，打出了最坚硬的盾和最锋利的矛的效果，木偶围着转圈圈找突破点，他就转圈格挡"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317198468945,
+          "rpid_str": "317198468945",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317193832033,
+          "parent_str": "317193832033",
+          "ctime": 1792121696,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_af59edf0b71917f1d20beae9",
+          "content": {
+            "message": "真的假的，丝大人尾刀直接秒了不知道这怪还有盾啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317198724481,
+          "rpid_str": "317198724481",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317198468945,
+          "parent_str": "317198468945",
+          "ctime": 1792121853,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_083dee20bc02164efb72fd9f",
+          "content": {
+            "message": "回复 @Bu阝e :这个怪的机制是你的角色有盾它才有盾，我带了伊涅芙所以怪才开盾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317198711969,
+          "rpid_str": "317198711969",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317193832033,
+          "parent_str": "317193832033",
+          "ctime": 1792121922,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_af59edf0b71917f1d20beae9",
+          "content": {
+            "message": "怪不得"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320858896480,
+          "rpid_str": "320858896480",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317193832033,
+          "parent_str": "317193832033",
+          "ctime": 1792126612,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65f20214a31eff6887f9ee92",
+          "content": {
+            "message": "别带盾，或者跟怪保持距离，不然碰到就拖时间[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320862836528,
+          "rpid_str": "320862836528",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317198724481,
+          "parent_str": "317198724481",
+          "ctime": 1792129260,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_34acdbd9842a60a712c1a3f4",
+          "content": {
+            "message": "回复 @QQ不是扣扣是七七 :黑骑？哪有黑骑[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317210116449,
+          "rpid_str": "317210116449",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 320862836528,
+          "parent_str": "320862836528",
+          "ctime": 1792129360,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_083dee20bc02164efb72fd9f",
+          "content": {
+            "message": "回复 @纱雾nya :因为我没看介绍，不知道还有第二波怪，给他个空隙就开盾了，重开了一把在他们开盾之前给秒掉了[阴险]",
+            "emote": {
+              "[阴险]": {
+                "id": 23,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[阴险]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba8d5f8e7d136d59aab52c40fd3b8a43419eb03c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "阴险"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317210423793,
+          "rpid_str": "317210423793",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317193832033,
+          "parent_str": "317193832033",
+          "ctime": 1792129564,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1d23c5d5bfa9010936ff9cf7",
+          "content": {
+            "message": "还会开盾啊[哦呼]我都没注意",
+            "emote": {
+              "[哦呼]": {
+                "id": 1940,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[哦呼]",
+                "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哦呼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317210396369,
+          "rpid_str": "317210396369",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317210423793,
+          "parent_str": "317210423793",
+          "ctime": 1792129616,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_083dee20bc02164efb72fd9f",
+          "content": {
+            "message": "回复 @AAA三轮车零售商 :你带盾他才带盾，没有神子挂雷位用的伊涅芙才有的盾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320863239184,
+          "rpid_str": "320863239184",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 317210116449,
+          "parent_str": "317210116449",
+          "ctime": 1792129619,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_34acdbd9842a60a712c1a3f4",
+          "content": {
+            "message": "回复 @QQ不是扣扣是七七 :哦哦，那还好，我都没看清怪[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317210550737,
+          "rpid_str": "317210550737",
+          "root": 317193832033,
+          "root_str": "317193832033",
+          "parent": 320863239184,
+          "parent_str": "320863239184",
+          "ctime": 1792129745,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_083dee20bc02164efb72fd9f",
+          "content": {
+            "message": "回复 @纱雾nya :这家伙的机制是他打到我的盾上，然后自动扣掉一部分血，把这部分血变成自己的盾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317193832033,
+        "rpid_str": "317193832033",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792118015,
+        "like": 2,
+        "rcount": 11,
+        "count": 12,
+        "state": 0,
+        "author_id": "U_083dee20bc02164efb72fd9f",
+        "content": {
+          "message": "那两个黑蛇骑士挺恶心的，打到盾上免疫效果堪比史莱姆[阴险]",
+          "emote": {
+            "[阴险]": {
+              "id": 23,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[阴险]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba8d5f8e7d136d59aab52c40fd3b8a43419eb03c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "阴险"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "d5b2443a13627ef7607fa139df1d3877fd6450d6934aab0db2c43521e16985d8",
+  "original_bytes_sha256": "c68a50b026bdda6dbb3b7fde853b3fbc3735a0f8fc592afa8d4d2dbd63d93c29",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

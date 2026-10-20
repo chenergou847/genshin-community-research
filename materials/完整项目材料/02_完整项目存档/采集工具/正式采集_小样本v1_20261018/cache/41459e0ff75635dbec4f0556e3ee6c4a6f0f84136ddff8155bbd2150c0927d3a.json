@@ -1,0 +1,269 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315611444209",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:24:47.162066+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315611344513,
+          "rpid_str": "315611344513",
+          "root": 315611444209,
+          "root_str": "315611444209",
+          "parent": 315611444209,
+          "parent_str": "315611444209",
+          "dialog": 315611344513,
+          "ctime": 1790819426,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6d0dd6f5ec9503a9e8b95d3d",
+          "content": {
+            "message": "还有冰主一出，硕果钩有点幽默了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319185940496,
+          "rpid_str": "319185940496",
+          "root": 315611444209,
+          "root_str": "315611444209",
+          "parent": 315611444209,
+          "parent_str": "315611444209",
+          "dialog": 319185940496,
+          "ctime": 1790826285,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8fb08c4a39ff9a272e0b3284",
+          "content": {
+            "message": "我21闲有机会吗[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315622434609,
+          "rpid_str": "315622434609",
+          "root": 315611444209,
+          "root_str": "315611444209",
+          "parent": 319185940496,
+          "parent_str": "319185940496",
+          "dialog": 319185940496,
+          "ctime": 1790826549,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6d0dd6f5ec9503a9e8b95d3d",
+          "content": {
+            "message": "回复 @Lane____ :几乎没有可能吧，up主这圣遗物+手法+解帧+注入插件痘不一定能过，老老实实n5吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319187657664,
+          "rpid_str": "319187657664",
+          "root": 315611444209,
+          "root_str": "315611444209",
+          "parent": 315622434609,
+          "parent_str": "315622434609",
+          "dialog": 319185940496,
+          "ctime": 1790827312,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8fb08c4a39ff9a272e0b3284",
+          "content": {
+            "message": "回复 @爽世 :你不是20闲斩杀线吗，我比你多一个扇子难道没机会吗[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315640696449,
+          "rpid_str": "315640696449",
+          "root": 315611444209,
+          "root_str": "315611444209",
+          "parent": 319187657664,
+          "parent_str": "319187657664",
+          "dialog": 319185940496,
+          "ctime": 1790837332,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6d0dd6f5ec9503a9e8b95d3d",
+          "content": {
+            "message": "回复 @Lane____ :是打的过n5，完全碰不了n6的斩杀线"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319246119264,
+          "rpid_str": "319246119264",
+          "root": 315611444209,
+          "root_str": "315611444209",
+          "parent": 315640696449,
+          "parent_str": "315640696449",
+          "dialog": 319185940496,
+          "ctime": 1790860564,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_194aa7fa6d7e653a6bb9e470",
+          "content": {
+            "message": "回复 @爽世 :亏我还在翻评论，原来是n5吗[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315611444209,
+        "rpid_str": "315611444209",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790819396,
+        "like": 2,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_6d0dd6f5ec9503a9e8b95d3d",
+        "content": {
+          "message": "20闲00茜被卡在斩杀线，难受，又不想给茜补金"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d4be115eb02bea28862b156c8d478bd998e0e2f2954b9a00e33b6d119e4a3a8e",
+  "original_bytes_sha256": "34b2b1b1e0fdd9fabd9f1d1982e6fff8b6fa0667adb11c082ccee12efdcb4fe9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

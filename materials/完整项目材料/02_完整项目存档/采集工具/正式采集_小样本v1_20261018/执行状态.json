@@ -1,0 +1,571 @@
+{
+  "protocol": "17-small-v1",
+  "targets": {
+    "videos": 20,
+    "comments_per_video": 10,
+    "coding_review": 30
+  },
+  "t0": "2026-10-17T23:09:00+08:00",
+  "files": {
+    "small_candidate_frame.json": true,
+    "small_video_draw.json": true,
+    "small_video_selection.json": true,
+    "small_comment_frame.json": false,
+    "small_codebook.json": false,
+    "small_comment_draw.json": false,
+    "small_estimates.json": false
+  },
+  "note": "目标不是实收数；文件存在也不代表审核或统计验收通过",
+  "bounded_queries_completed": {
+    "main": 54,
+    "audit_a": 18,
+    "audit_b": 18
+  },
+  "discovery_groups_sealed": {
+    "main": true,
+    "audit_a": true,
+    "audit_b": true
+  },
+  "candidate_video_domain_rows": 1634,
+  "different_candidate_videos": 1573,
+  "at": "2026-10-18T15:25:28.205198+00:00",
+  "status": "ENUMERATION_RUN_ENDED_WITH_INTEGRITY_HOLDS",
+  "stage": "FULL_CORPUS_REPORT_DELIVERED",
+  "pause_instruction": "保存进度，今天就到这里，明天起来继续",
+  "resume_requires_new_user_message": false,
+  "human_final_video_domain_rows": 79,
+  "human_included_video_domain_rows": 60,
+  "human_excluded_video_domain_rows": 19,
+  "eligibility_progress": {
+    "abyss": {
+      "selected": 20,
+      "reviewed_prefix": 26,
+      "status": "ready"
+    },
+    "theater": {
+      "selected": 20,
+      "reviewed_prefix": 28,
+      "status": "ready"
+    },
+    "stygian": {
+      "selected": 20,
+      "reviewed_prefix": 25,
+      "status": "ready"
+    }
+  },
+  "batch_005": {
+    "metadata_domain_rows_ready": 20,
+    "first_frames_saved": 20,
+    "first_frames_target": 20,
+    "first_frames_manifest_sealed": true,
+    "proposal_ready": true,
+    "proposal_hash": "723e44e74dba6842728bada2b4db6e2e1687e1b81540837d3749f59f7301f980",
+    "human_final_rows": 20
+  },
+  "formal_eligible_videos_locked": 60,
+  "formal_random_raw_comments_drawn": 0,
+  "resumed_at": "2026-10-18T04:28:45.959737+00:00",
+  "latest_user_instruction": "继续任务",
+  "batch_006": {
+    "metadata_domain_rows_ready": 6,
+    "first_frames_saved": 6,
+    "first_frames_manifest_sealed": true,
+    "proposal_ready": true,
+    "proposal_hash": "265a3dece551b0b9f491a6adda8a4d25195b92639cd1700dd33bb3b1b3f37d35",
+    "human_final_rows": 6,
+    "human_pending_rows": 0
+  },
+  "batch_007": {
+    "metadata_domain_rows_ready": 6,
+    "first_frames_saved": 6,
+    "first_frames_manifest_sealed": true,
+    "proposal_ready": true,
+    "proposal_hash": "7f3251382bf450aeb27b2d2707062aa68678c0bc9f0e85835ceb860bf9530ceb",
+    "human_final_rows": 6
+  },
+  "batch_008": {
+    "metadata_domain_rows_ready": 1,
+    "first_frames_saved": 1,
+    "first_frames_manifest_sealed": true,
+    "proposal_ready": true,
+    "proposal_hash": "a33c3597ee476cd0170ba77baf281a87ad74d09b704514df109b8cbb36c0b952",
+    "human_final_rows": 1
+  },
+  "selected_videos_by_mode": {
+    "abyss": 20,
+    "theater": 20,
+    "stygian": 20
+  },
+  "different_selected_videos": 60,
+  "formal_eligible_video_domain_rows_locked": 60,
+  "selection_hash": "4a22f96293600f69d116b49a8f01ec6ed751afb072d2615a29a0bd5eb1bec4f1",
+  "collection_attempt": 2,
+  "comment_collection_first_failure": "cursor_schema_changed_on_verified_empty_first_terminal",
+  "collector_regression_tests_passed": 108,
+  "collection_progress": {
+    "videos_attempted": 60,
+    "videos_selected": 60,
+    "all_sources_attempted": true,
+    "statuses": {
+      "enumerated_pending_review": 53,
+      "incomplete": 7
+    },
+    "raw_unique_IDs_saved": 9593,
+    "roots": 3251,
+    "replies": 6342,
+    "missing_parent_rows": 27,
+    "sources_with_missing_parents": 4,
+    "failures": [
+      {
+        "bvid": "BV12fJe6bEbz",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1AQJU6hE93",
+        "reason": "root_rcount_vs_reply_count_mismatch"
+      },
+      {
+        "bvid": "BV1zLJv6mE8T",
+        "reason": "root_plus_reply_count_mismatch:154!=155"
+      },
+      {
+        "bvid": "BV137aA63EF6",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1A5aB6FEuN",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1k6pK6UE9i",
+        "reason": "root_plus_reply_count_mismatch:29!=30"
+      },
+      {
+        "bvid": "BV1B7a16gEXr",
+        "reason": "missing_ancestor"
+      }
+    ],
+    "reason": "既有未通过来源或缺失父评论仍待解决；其余来源采集已保存，但不能冻结统计清单",
+    "formal_random_comments_drawn": 0
+  },
+  "comment_frame_frozen": false,
+  "strict_missing_parent_required": false,
+  "missing_parent_rule_user_decision": "同意，保留不明并继续比例估计（建议）",
+  "repair_progress": {
+    "status": "FINISHED_WITH_UNRESOLVED_INTEGRITY_FAILURES",
+    "result_file": "small_repair_result_001.json",
+    "thread_count_verified_equal": true,
+    "parents_recovered": 0,
+    "parents_required": 6,
+    "new_unresolved_total_gap": 1,
+    "recapture_running": false,
+    "formal_random_comments_generated": 0
+  },
+  "resume_checkpoint": "small_collection_resume_005.json",
+  "continue_source_count_failures": true,
+  "integrity_audit": {
+    "at": "2026-10-19T05:50:10.054779+00:00",
+    "report": "small_integrity_audit_010.json",
+    "technical_verified": 53,
+    "integrity_held": 7,
+    "final_accepted": 45,
+    "independent_page_review_completed": 45,
+    "missing_direct_child_relations": 27,
+    "missing_unique_parent_IDs": 20,
+    "ancestor_affected_descendants": 53,
+    "online_verification_status": "COMPLETED_WITH_UNRESOLVED_GAPS",
+    "approval_service_failures": 2,
+    "approval_service_reason": "Selected model is at capacity; automatic approval review could not complete",
+    "prepared_script": "verify_collection_gaps.py",
+    "master_collection_unchanged": true,
+    "formal_random_comments_drawn": 0,
+    "offline_tests_passed": 155,
+    "research_record": "37_审批恢复后完整性复核结果_20261019.md",
+    "page_counters_observed": 52,
+    "page_total_changes_pending": 7,
+    "page_unavailable": 1,
+    "approval_block_status": "RESOLVED_AFTER_USER_SWITCHED_TO_MANUAL_APPROVAL",
+    "parent_bodies_recovered": 0,
+    "detail_threads_normal_end": 12,
+    "dialog_groups_normal_end": 14,
+    "dialog_positive_controls": 14,
+    "actual_recapture_totals": {
+      "BV1zLJv6mE8T": {
+        "actual": 168,
+        "server": 169
+      },
+      "BV1k6pK6UE9i": {
+        "actual": 30,
+        "server": 31
+      }
+    },
+    "last_verified_at": "2026-10-19T05:52:29.162087+00:00",
+    "collection_freeze_gate_verified_blocked": true,
+    "online_background_processes_running": false,
+    "technical_eligible_under_context_amendment": 56,
+    "non_context_integrity_holds": 4,
+    "context_amendment": "small_context_disposition_015.json"
+  },
+  "context_amendment": {
+    "at": "2026-10-19T06:39:19.958217+00:00",
+    "file": "small_context_rule_decision_002.json",
+    "report": "small_context_disposition_015.json",
+    "research_record": "38_缺失父正文处理规则修订_20261019.md",
+    "sources": 60,
+    "technical_enumeration_eligible": 56,
+    "technical_count_or_other_holds": 4,
+    "parent_only_sources_reclassified": 3,
+    "source_review_status_counts": {
+      "accepted": 45,
+      "pending_temporal_reconciliation": 7,
+      "pending_context_source_page_review": 3,
+      "blocked_integrity": 4,
+      "pending_page_unavailable": 1
+    },
+    "unique_readable_IDs": 9593,
+    "roots": 3251,
+    "replies": 6342,
+    "missing_unique_parent_IDs": 20,
+    "ancestor_affected_descendants": 53,
+    "formal_random_comments_drawn": 0,
+    "affected_window_counts": {
+      "abyss": 8,
+      "theater": 0,
+      "stygian": 12
+    },
+    "freeze_gate_result": "入选来源尚未全部采集完整",
+    "offline_tests_passed": 155
+  },
+  "current_protocol": "full-corpus-calibrated-AI-v2-waived-validation",
+  "current_research_record": "49_全量编码定稿与分析口径_20261019.md",
+  "formal_random_comments_drawn": 600,
+  "strict_protocol_formal_random_comments_drawn": 0,
+  "captured_snapshot_comment_frame_frozen": true,
+  "snapshot_workaround": {
+    "at": "2026-10-19T06:50:25.351355+00:00",
+    "registration": "small_snapshot_registration_001.json",
+    "frame": "small_snapshot_frame_001.json",
+    "draw": "small_snapshot_draw_001.json",
+    "completion": "small_snapshot_completion_001.json",
+    "raw_sample_rows": 232,
+    "unique_IDs": 232,
+    "domains": {
+      "abyss": {
+        "name": "深境螺旋",
+        "fixed_videos": 20,
+        "nonempty_videos": 9,
+        "zero_window_videos": 11,
+        "saved_window_IDs": 1451,
+        "raw_sample_n": 69,
+        "roots": 29,
+        "replies": 40,
+        "sampled_context_gap_n": 1
+      },
+      "theater": {
+        "name": "幻想真境剧诗",
+        "fixed_videos": 20,
+        "nonempty_videos": 10,
+        "zero_window_videos": 10,
+        "saved_window_IDs": 879,
+        "raw_sample_n": 40,
+        "roots": 18,
+        "replies": 22,
+        "sampled_context_gap_n": 0
+      },
+      "stygian": {
+        "name": "幽境危战",
+        "fixed_videos": 20,
+        "nonempty_videos": 14,
+        "zero_window_videos": 6,
+        "saved_window_IDs": 4196,
+        "raw_sample_n": 123,
+        "roots": 47,
+        "replies": 76,
+        "sampled_context_gap_n": 0
+      }
+    },
+    "scope": "fixed_selected_videos_normalized_saved_bodies_in_original_windows_only",
+    "coding_completed": false,
+    "feedback_proportions_computed": false,
+    "offline_tests_passed": 164,
+    "master_files_unchanged": true,
+    "replay_verified": true
+  },
+  "current_comment_frame_file": "small_snapshot_frame_001.json",
+  "current_comment_draw_file": "small_snapshot_supplement_draw_001.json",
+  "current_coding_file": "small_snapshot_ai_reviewed_coding_001.csv",
+  "coding_completed": false,
+  "feedback_proportions_computed": true,
+  "snapshot_supplement": {
+    "at": "2026-10-19T08:50:59.685705+00:00",
+    "registration": "small_snapshot_supplement_registration_001.json",
+    "allocation": "small_snapshot_supplement_allocation_001.json",
+    "draw": "small_snapshot_supplement_draw_001.json",
+    "completion": "small_snapshot_supplement_completion_001.json",
+    "qc": "small_snapshot_supplement_qc_001.json",
+    "original_n": 232,
+    "added_n": 368,
+    "final_n": 600,
+    "domains": {
+      "abyss": {
+        "name": "深境螺旋",
+        "fixed_sources": 20,
+        "window_IDs": 1451,
+        "baseline_n": 69,
+        "added_n": 131,
+        "final_n": 200,
+        "sources_receiving_extra": 2,
+        "roots": 96,
+        "replies": 104,
+        "context_gap_n": 1,
+        "largest_source": {
+          "bvid": "BV1AQJU6hE93",
+          "N": 1170,
+          "old_m": 10,
+          "final_m": 133
+        }
+      },
+      "theater": {
+        "name": "幻想真境剧诗",
+        "fixed_sources": 20,
+        "window_IDs": 879,
+        "baseline_n": 40,
+        "added_n": 160,
+        "final_n": 200,
+        "sources_receiving_extra": 1,
+        "roots": 71,
+        "replies": 129,
+        "context_gap_n": 0,
+        "largest_source": {
+          "bvid": "BV1fuYP6tEva",
+          "N": 787,
+          "old_m": 10,
+          "final_m": 170
+        }
+      },
+      "stygian": {
+        "name": "幽境危战",
+        "fixed_sources": 20,
+        "window_IDs": 4196,
+        "baseline_n": 123,
+        "added_n": 77,
+        "final_n": 200,
+        "sources_receiving_extra": 7,
+        "roots": 74,
+        "replies": 126,
+        "context_gap_n": 0,
+        "largest_source": {
+          "bvid": "BV1B7a16gEXr",
+          "N": 1077,
+          "old_m": 10,
+          "final_m": 40
+        }
+      }
+    },
+    "scope": "fixed_selected_videos_normalized_saved_bodies_in_original_windows_only",
+    "offline_tests_passed": 175,
+    "original_IDs_retained": true,
+    "original_files_unchanged": true,
+    "replay_verified": true
+  },
+  "coding_pilot": {
+    "at": "2026-10-19T09:03:37.604074+00:00",
+    "report": "42_代码本草案与首轮试编码_20261019.md",
+    "codebook": "small_snapshot_codebook_proposal_001.json",
+    "pilot_result": "small_snapshot_coding_pilot_result_001.json",
+    "review": "small_snapshot_coding_pilot_review_001.csv",
+    "pilot_rows": 30,
+    "diagnostic_rows": 1,
+    "AI_proposals": 31,
+    "human_final": 0,
+    "pilot_relevance_counts": {
+      "irrelevant": 11,
+      "related": 16,
+      "unknown": 3
+    },
+    "per_mode": {
+      "abyss": {
+        "irrelevant": 4,
+        "related": 6
+      },
+      "theater": {
+        "irrelevant": 3,
+        "unknown": 3,
+        "related": 4
+      },
+      "stygian": {
+        "related": 6,
+        "irrelevant": 4
+      }
+    },
+    "primary_coding_pending_without_proposal": 569,
+    "retained_sample_rows": 600,
+    "population_proportions_computed": false,
+    "AI_accuracy_or_agreement_not_measured": true
+  },
+  "coding_boundary_approved": true,
+  "coding_continuation": {
+    "updated_at": "2026-10-19T09:56:58.163478+00:00",
+    "result_file": "small_snapshot_coding_full_result_001.json",
+    "summary": {
+      "total": 600,
+      "remaining_without_AI_proposal": 0,
+      "AI_proposals": 600,
+      "human_final": 0,
+      "relevance_counts": {
+        "related": 432,
+        "irrelevant": 128,
+        "unknown": 40
+      },
+      "per_mode": {
+        "abyss": {
+          "related": 154,
+          "irrelevant": 39,
+          "unknown": 7
+        },
+        "theater": {
+          "unknown": 29,
+          "irrelevant": 25,
+          "related": 146
+        },
+        "stygian": {
+          "related": 132,
+          "irrelevant": 64,
+          "unknown": 4
+        }
+      },
+      "self_experience_utterances": 208,
+      "current_reported_problem_utterances": 81,
+      "unknown_relevance": 40,
+      "priority_review_rows": 326,
+      "priority_counts": {
+        "2_受阻与归因": 87,
+        "4_其余": 274,
+        "3_媒体限制": 171,
+        "1_不明与边界": 68
+      },
+      "media_limited_rows": 236,
+      "sampled_missing_ancestor": 1,
+      "unit": "sampled_utterance_ID_not_unique_people",
+      "population_proportions_computed": false,
+      "reliability_or_accuracy_measured": false,
+      "human_final_coding_complete": false,
+      "conditions_action_outcome_fields_fully_extracted": false
+    }
+  },
+  "coding_AI_initial_completed": true,
+  "current_full_review_file": "small_snapshot_ai_review_human_form_001.csv",
+  "coding_AI_review_completed": true,
+  "feedback_proportions_status": "AI_REVIEWED_EXPLORATORY_NOT_HUMAN_FINAL",
+  "formal_human_estimates_computed": false,
+  "analysis": {
+    "reviewed_rows": 600,
+    "amended_rows": 30,
+    "related": 417,
+    "irrelevant": 125,
+    "unknown": 58,
+    "reported_problem_cases": 76,
+    "main_problem_cards": 6,
+    "exploratory_observation_cards": 1,
+    "numerical_tests_passed": 8,
+    "independent_coding_validation": false,
+    "estimates_file": "small_snapshot_AI_exploratory_estimates_001.json",
+    "problem_record": "45_体验问题证据与改进验证_20261019.md"
+  },
+  "current_AI_review_file": "small_snapshot_ai_review_001.json",
+  "current_estimates_file": "small_snapshot_AI_exploratory_estimates_001.json",
+  "current_delivery_record": "47_交付核验与人工接续_20261019.md",
+  "delivery_status": "FULL_CORPUS_CODING_AND_REPORT_COMPLETE",
+  "human_review_portal_ready": true,
+  "human_acceptance_waived": false,
+  "human_review": {
+    "protocol": "full-corpus-calibrated-AI-v1",
+    "calibration_expected": 30,
+    "calibration_received": 30,
+    "validation_expected": 0,
+    "validation_received": 0,
+    "all_rows_human_review_required": false,
+    "AI_project_final_authorized": true,
+    "required_action": null,
+    "validation_waived": true
+  },
+  "delivery": {
+    "folder": "交付_20261019",
+    "report": "46_社区观察整合报告_AI探索稿_20261019.md",
+    "evidence_rows": 76,
+    "metrics_rows": 72,
+    "reviewed_AI_rows": 600,
+    "numerical_checks_from_prior_stage": 8,
+    "import_negative_cases_rejected": 7,
+    "browser_visual_QA": false,
+    "background_tasks_running": false
+  },
+  "full_corpus_review": {
+    "registration": "full_corpus_review_registration_001.json",
+    "target_rows": 6526,
+    "calibration_packet": "full_corpus_calibration_packet_001.json",
+    "calibration_expected": 30,
+    "calibration_received": 30,
+    "validation_holdout": "full_corpus_validation_holdout_001.json",
+    "validation_expected": 0,
+    "validation_received": 0,
+    "AI_project_final_authorized": true,
+    "all_rows_human_review_required": false,
+    "full_corpus_coding_complete": true,
+    "baseline_AI_proposals": 600,
+    "baseline_AI_proposals_are_not_calibrated_final_labels": true,
+    "audit_accuracy_measured": false,
+    "raw_master_unchanged": true,
+    "work_queue": "full_corpus_work_queue_001.json",
+    "required_human_action": null,
+    "progress": {
+      "total_target": 6526,
+      "coded": 6526,
+      "remaining": 0,
+      "human_calibration": 30,
+      "AI_project_coded": 6496
+    },
+    "coded": 6526,
+    "remaining": 0,
+    "validation_waived": true,
+    "validation_waiver_file": "full_corpus_validation_waiver_001.json",
+    "analysis_complete": true,
+    "validation_reserved_n": 30,
+    "independent_accuracy_measured": false,
+    "final_labels": "full_corpus_labels_final_002.json",
+    "analysis": "full_corpus_analysis_002.json"
+  },
+  "prior_human_review_600_protocol": {
+    "main_expected": 600,
+    "main_confirmed": 0,
+    "blind_expected": 90,
+    "blind_received": 0,
+    "portal": "交付_20261019/01_600条人工核验.html",
+    "blind_portal": "交付_20261019/02_90条盲复核.html",
+    "registration": "small_snapshot_human_review_registration_001.json",
+    "user_latest_reply": "我不知道在哪核验",
+    "required_action": "打开离线页，逐条确认后导出JSON并提供路径；不能由AI代签",
+    "unused_source_qualitative_validation_complete": false
+  },
+  "all_rows_human_acceptance_required": false,
+  "current_delivery": "LOCAL_USER_HOME\\Desktop\\cx原神产品运营\\B站高难副本社区观察_20261017\\全量编码_20261019\\04_社区观察分析报告.md",
+  "next_required_human_action": null,
+  "scope": "saved_in_window_corpus_only; original_strict_collection_audit_not_relabelled_passed",
+  "report_revision": {
+    "status": "PENDING_NOT_IMPLEMENTED",
+    "authority": "latest_direct_user_messages_in_this_chat",
+    "requested_changes": [
+      "重写数据范围与完成状态，解释关键词视频检索、随机筛选、评论采集、窗口过滤与脚本分工及实际落实。",
+      "删除独立的借鉴网络民族志的语境解释部分，仅在实际方法上借鉴。",
+      "删除从观察到可验证的运营动作及文中浅层问题对应动作。",
+      "研究重点改为社区有哪些反馈、有哪些态度、玩家想要怎样的高难副本。"
+    ],
+    "work_done": "已核对检索和采集记录、读取部分态度及偏好证据；报告正文尚未重写。",
+    "latest_user_instruction": "把已有成果全部导出到一个文件夹，便于新对话接续。"
+  },
+  "export_handoff": {
+    "folder": "LOCAL_USER_HOME\\Desktop\\cx原神产品运营\\B站社区观察_完整交接包_20261019",
+    "snapshot_at": "2026-10-19T15:42:02.380170+00:00",
+    "status": "PROJECT_SNAPSHOT_PREPARED"
+  }
+}

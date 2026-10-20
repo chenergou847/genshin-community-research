@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315511175601",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:15:32.838149+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319074445440,
+          "rpid_str": "319074445440",
+          "root": 315511175601,
+          "root_str": "315511175601",
+          "parent": 315511175601,
+          "parent_str": "315511175601",
+          "dialog": 319074445440,
+          "ctime": 1790741955,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_68e0dfbabaa6fc250461f060",
+          "content": {
+            "message": "会的，n6明显比n5多"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315511175601,
+        "rpid_str": "315511175601",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790741661,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_f72aa6cc320957cbddc7d20b",
+        "content": {
+          "message": "第3间的冰盾会不会随着难度的不同，破盾需要的元素量也不同"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "864a15039b37cba40d337a8e72ade170b74f1eef5fe4936ddd893c5cc8efcc4c",
+  "original_bytes_sha256": "3ba2e2a7191f51b6e6a8d9de08130c9f1b1a2548aea896574bd65fce3cb8b6df",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

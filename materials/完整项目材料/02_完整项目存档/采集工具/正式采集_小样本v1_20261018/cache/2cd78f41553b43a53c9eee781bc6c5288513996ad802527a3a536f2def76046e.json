@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319388741504",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:08:15.655185+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320447865792,
+          "rpid_str": "320447865792",
+          "root": 319388741504,
+          "root_str": "319388741504",
+          "parent": 319388741504,
+          "parent_str": "319388741504",
+          "dialog": 320447865792,
+          "ctime": 1791773289,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_40aaf132b00bbb3b976ee5e0",
+          "content": {
+            "message": "那是你运气好，策划没在这下毒。玩二游抽卡玩多了，各种下毒，搞那么多四星伪装成五星的区。那些区零命五星各方面不如满命四星的都出一大堆。抽错一个就要赌大小保底了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319388741504,
+        "rpid_str": "319388741504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790958602,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9e13c6afa3eafc9d24b064bf",
+        "content": {
+          "message": "开门辅助我一直是闭着眼抽。枫丹芙芙/纳塔豹女/罗德鹿姐/至冬天鹅\n这一路上吃香喝辣好吧！[doge_金箍]",
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5130df00e5439f31314ff8a8386ffa3983695e62c8bc0df36e62bc2d8f6a8b68",
+  "original_bytes_sha256": "592129f598655484a6e077aa3bb9a40532196eba27a5845d19a932dc60989cfa",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

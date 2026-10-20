@@ -1,0 +1,1096 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": "1",
+    "mode": "2",
+    "next": "552",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzNDQ0MzI5MDg4MDMaADIDCKgE\"}"
+  },
+  "captured_at": "2026-10-18T13:05:31.064074+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 553,
+        "next": 526,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzNDQ0MzI5MDg4MDMaADIDCI4E",
+          "prev_offset": "CAISEDE4MzUzNDQ0MzI5MDg4MDMaADIDCKkE"
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 3434,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318628100272,
+          "rpid_str": "318628100272",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790387328,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_658dea9b6abcaf5155b5097e",
+          "content": {
+            "message": "大佬们，这个n5能打吗？[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/66f75b7b0226f3b5b5a39ed13d7b37d736238036.jpg",
+                "img_width": 1220,
+                "img_height": 13900,
+                "img_size": 1772.13
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 318728873120,
+              "rpid_str": "318728873120",
+              "root": 318628100272,
+              "root_str": "318628100272",
+              "parent": 318628100272,
+              "parent_str": "318628100272",
+              "dialog": 318728873120,
+              "ctime": 1790446289,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_6e9be7407633b8f7d42c92a4",
+              "content": {
+                "message": "N5随随便便打啊[微笑]",
+                "emote": {
+                  "[微笑]": {
+                    "id": 1,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[微笑]",
+                    "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "微笑"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315085925009,
+          "rpid_str": "315085925009",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790387176,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9e1e506dcf5562067b7b6fd6",
+          "content": {
+            "message": "能过吗",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/76460e4747fe5059a100686a94abcea5451126574.jpg",
+                "img_width": 1440,
+                "img_height": 17416,
+                "img_size": 6415.84
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315085509393,
+          "rpid_str": "315085509393",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790386971,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cead69adba0d1d01b887b32a",
+          "content": {
+            "message": "大佬大佬，我能过一次N5吗？刚抽01薇0沃6猫6珐，但偶子没八重和薇斯纳抢奥怎么办（已经在快马加鞭练星扩散了[委屈]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/fcb6104e63d82490fca6fd3fe224ee9e29115698.jpg",
+                "img_width": 780,
+                "img_height": 5041,
+                "img_size": 1329
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/b5865abfe92b6713e49952816f463df329115698.jpg",
+                "img_width": 1170,
+                "img_height": 1707,
+                "img_size": 1642
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/1dc2b0c58de4308295281014ee3ee8e329115698.jpg",
+                "img_width": 1170,
+                "img_height": 1710,
+                "img_size": 1619
+              }
+            ],
+            "emote": {
+              "[委屈]": {
+                "id": 8,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[委屈]",
+                "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "委屈"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315085245057,
+          "rpid_str": "315085245057",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790386743,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a9b077ede6c8d44dfbf2d61f",
+          "content": {
+            "message": "有N5风险么",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/d73fd214c928af5234bc944af60b04d23546707323259854.jpg",
+                "img_width": 1242,
+                "img_height": 10239,
+                "img_size": 2821
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318626667776,
+          "rpid_str": "318626667776",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790386249,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_752c871df62d9ffb506fc1f1",
+          "content": {
+            "message": "我感觉第一间月感电伤害不够，四号位是不是只有冰主能带，求指点一下谢谢",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/e0e2bda6479c112aaf7d37002d2838ef416192829.jpg",
+                "img_width": 1080,
+                "img_height": 11239,
+                "img_size": 1364.6
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318626372320,
+          "rpid_str": "318626372320",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790386100,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b70191b357b15ec8bfb0797",
+          "content": {
+            "message": "我这n5应该稳了吧，n6有过的风险吗[大哭][大哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/10feeb1b71e68dafdf8666b11ea7358e22736165.jpg",
+                "img_width": 1080,
+                "img_height": 6186,
+                "img_size": 1063.795
+              }
+            ],
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315083096161,
+          "rpid_str": "315083096161",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790385144,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c406608c2bb30200dbda5ad5",
+          "content": {
+            "message": "你看我还有机会吗[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/065af7fe418c626bc341af0f150c05a83546913261488250.jpg",
+                "img_width": 1080,
+                "img_height": 11574,
+                "img_size": 1378.88
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315082156993,
+          "rpid_str": "315082156993",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790384400,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6bf9500a3ab73879349827e0",
+          "content": {
+            "message": "这个金数推荐大概是要求怎么个操作手法，是个正常人就行，还是要有一定操作，还是需要手法拍轴都很好。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315082211745,
+          "rpid_str": "315082211745",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790384332,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_03b3390921598d618d269c04",
+          "content": {
+            "message": "01木01奥10神子加砂糖\n0丝0爱2芙0沃\n满桃加行秋皇女莫娜\n打算这么打了[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315081426689,
+          "rpid_str": "315081426689",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790383695,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_60a743122321f5bcac7e070e",
+          "content": {
+            "message": "这个可以打n7不，怎么配队呢",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/0c14509b494cb948d8eddb81d40e647119945880.jpg",
+                "img_width": 1009,
+                "img_height": 10800,
+                "img_size": 1768.91
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 318814780672,
+              "rpid_str": "318814780672",
+              "root": 315081426689,
+              "root_str": "315081426689",
+              "parent": 315081426689,
+              "parent_str": "315081426689",
+              "dialog": 318814780672,
+              "ctime": 1790513765,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_9d5828b827ffa6e1ef018864",
+              "content": {
+                "message": "维斯那1星扩散，莱欧2星超导，尼可杜林法尔伽3"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315081528177,
+          "rpid_str": "315081528177",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790383675,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_92383937f7fc5bf08fe0af4a",
+          "content": {
+            "message": "老大，想问下n4应该怎么配",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/236de522baa557a8f1f174ca4b4d68cc521628426.jpg",
+                "img_width": 1080,
+                "img_height": 9828,
+                "img_size": 1644.728,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318623367168,
+          "rpid_str": "318623367168",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790383660,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3e4429abc26c05bd4a02c458",
+          "content": {
+            "message": "已三连，我这号能过N5吗[doge_金箍]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/d30de1c657bc4d56a437874a8439132b59932738.jpg",
+                "img_width": 1180,
+                "img_height": 15000,
+                "img_size": 8443.16
+              }
+            ],
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318623235920,
+          "rpid_str": "318623235920",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790383582,
+          "like": 0,
+          "rcount": 3,
+          "count": 3,
+          "state": 0,
+          "author_id": "U_328c28a2f3892fa914e3a17c",
+          "content": {
+            "message": "n4求配队，一般把月感电拆两队",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/2c27e21ab54fe21844f05e864d6c128044807024.jpg",
+                "img_width": 1080,
+                "img_height": 2400,
+                "img_size": 953.54,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/ce3490e2a8cac23ebe6fb417923fb1d544807024.jpg",
+                "img_width": 1080,
+                "img_height": 2400,
+                "img_size": 925.13,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 319423281136,
+              "rpid_str": "319423281136",
+              "root": 318623235920,
+              "root_str": "318623235920",
+              "parent": 318623235920,
+              "parent_str": "318623235920",
+              "dialog": 319423281136,
+              "ctime": 1790997453,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_328c28a2f3892fa914e3a17c",
+              "content": {
+                "message": "我过n5了，火神加迪奥娜和奶奶第二间，菲林斯带冰主第三间，梦见月第一间"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319316520496,
+              "rpid_str": "319316520496",
+              "root": 318623235920,
+              "root_str": "318623235920",
+              "parent": 318623235920,
+              "parent_str": "318623235920",
+              "dialog": 319316520496,
+              "ctime": 1790919640,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_2575f8cdba005fd55f1200e8",
+              "content": {
+                "message": "火神好打，我n4的盾就是用1金超载队打破的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315081087361,
+          "rpid_str": "315081087361",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790383340,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a530a43bad7bdce3d6f56eb7",
+          "content": {
+            "message": "帮我配个队呗",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/e516d9fc6df87e51bfde71e9fa62ff9a3461562526337350.jpg",
+                "img_width": 1200,
+                "img_height": 13152,
+                "img_size": 1630.53,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315081076529,
+          "rpid_str": "315081076529",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790383311,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_adcd1edee0adc67a41717d6e",
+          "content": {
+            "message": "三队法尔伽队只有两金10wdps左右 肘得过第三间n5吗 n6还是太难了 至冬起码要再组一队才行",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/8709ea6043bc1d224e8de0f066eccf4111287453.jpg",
+                "img_width": 750,
+                "img_height": 5670,
+                "img_size": 1171
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 315081089969,
+              "rpid_str": "315081089969",
+              "root": 315081076529,
+              "root_str": "315081076529",
+              "parent": 315081076529,
+              "parent_str": "315081076529",
+              "dialog": 315081089969,
+              "ctime": 1790383347,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_adcd1edee0adc67a41717d6e",
+              "content": {
+                "message": "投币点赞啦[汤圆]",
+                "emote": {
+                  "[汤圆]": {
+                    "id": 5936,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[汤圆]",
+                    "url": "https://i0.hdslb.com/bfs/emote/93609633a9d194cf336687eb19c01dca95bde719.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        "汤圆",
+                        "元宵节",
+                        "汤团"
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "汤圆"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318622009216,
+          "rpid_str": "318622009216",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790382378,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f2e6951ebc4de96eabc9502a",
+          "content": {
+            "message": "大佬大佬，求配队，我这些角色能打过N5吗，谢谢大佬",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/a8f7e1fb7fd17917d21541a7029cce623461568079596321.jpg",
+                "img_width": 1256,
+                "img_height": 12008,
+                "img_size": 1510.65
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318621634896,
+          "rpid_str": "318621634896",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790382104,
+          "like": 1,
+          "rcount": 2,
+          "count": 3,
+          "state": 0,
+          "author_id": "U_8645e86edd8baa496fb48edd",
+          "content": {
+            "message": "n6能碰碰吗",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7447e9dd4c6ac1a4ea18ef25357a4541180372125.jpg",
+                "img_width": 1080,
+                "img_height": 12867,
+                "img_size": 1479.57
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 318815442720,
+              "rpid_str": "318815442720",
+              "root": 318621634896,
+              "root_str": "318621634896",
+              "parent": 318814871072,
+              "parent_str": "318814871072",
+              "dialog": 318814871072,
+              "ctime": 1790514078,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_8645e86edd8baa496fb48edd",
+              "content": {
+                "message": "回复 @原味忌盐小骸鸡 :补了11vw，有没有推荐的三间配队"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 318814871072,
+              "rpid_str": "318814871072",
+              "root": 318621634896,
+              "root_str": "318621634896",
+              "parent": 318621634896,
+              "parent_str": "318621634896",
+              "dialog": 318814871072,
+              "ctime": 1790513868,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_9d5828b827ffa6e1ef018864",
+              "content": {
+                "message": "2.3间可以，第一间难"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318621354528,
+          "rpid_str": "318621354528",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790381820,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_e006ee191f9b9359f3e0d6e2",
+          "content": {
+            "message": "什么时候开呀，想刷圣遗物和拿羽毛，薇斯纳沙漏差点意思看看能不能重塑好点[Floating Dream静态表情包_强颜欢笑]",
+            "emote": {
+              "[Floating Dream静态表情包_强颜欢笑]": {
+                "id": 118835,
+                "package_id": 8602,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[Floating Dream静态表情包_强颜欢笑]",
+                "url": "https://i0.hdslb.com/bfs/garb/2ba81d50eb11117e816c99f6cea42c15e79b1521.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1755856802,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=105435&hybrid_set_header=2&anchor_task=1&lottery_id=105438&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109230%22%2C%22sub_id%22%3A%22%5BFloating%20Dream%E9%9D%99%E6%80%81%E8%A1%A8%E6%83%85%E5%8C%85_%E5%BC%BA%E9%A2%9C%E6%AC%A2%E7%AC%91%5D%22%7D",
+                "jump_title": "强颜欢笑"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 318644773456,
+              "rpid_str": "318644773456",
+              "root": 318621354528,
+              "root_str": "318621354528",
+              "parent": 318621354528,
+              "parent_str": "318621354528",
+              "dialog": 318644773456,
+              "ctime": 1790397204,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_67ba671db3d7cf3d68e58f5d",
+              "content": {
+                "message": "30号"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315078912321,
+          "rpid_str": "315078912321",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790381014,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_f336a959e60fcd216eb6fb0d",
+          "content": {
+            "message": "全01星扩散队有机会吗，还有一个大堡底，薇斯纳一命强吗"
+          },
+          "replies": [
+            {
+              "rpid": 315085608737,
+              "rpid_str": "315085608737",
+              "root": 315078912321,
+              "root_str": "315078912321",
+              "parent": 315078912321,
+              "parent_str": "315078912321",
+              "dialog": 315085608737,
+              "ctime": 1790386989,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_8e30d249338d6ca9828b5a25",
+              "content": {
+                "message": "算强"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315078549585,
+          "rpid_str": "315078549585",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790380650,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a9bff128d175cf7e8ef0dcb7",
+          "content": {
+            "message": "能过六吗老大",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c309169f5326abb2217110ccea76d853399708169.png",
+                "img_width": 630,
+                "img_height": 7595,
+                "img_size": 4017.57
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "ef5c2bab1bfac4bf68d216976ba0965d40befef56bccccc5b5ec763facb44250",
+  "original_bytes_sha256": "c83f94633ad713c6f54d327af8fab84cae3d22b8ddb2e5c6b8a98965ee368921",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

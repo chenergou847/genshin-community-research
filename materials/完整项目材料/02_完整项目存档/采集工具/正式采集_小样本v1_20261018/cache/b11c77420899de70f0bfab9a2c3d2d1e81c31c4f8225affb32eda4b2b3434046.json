@@ -1,0 +1,81 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "315594195809",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:55:24.314876+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315594195809,
+        "rpid_str": "315594195809",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790792762,
+        "like": 9,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_60105581b95f0895491fe2f6",
+        "content": {
+          "message": "仅仅过去了一个版本，天鹅带队还是太权威了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b1d2b22fe2e235d4c791abba41883382299114168.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1607.27
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/659c4227d8c99b798d1e2a773b111e50299114168.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1662.9
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e63cc85ba6200caf084c0246b6bd20698c51e25d6272c94059e134d9823a6db1",
+  "original_bytes_sha256": "c4b5b737ffcc7f040b63db71c358eb230dbf9042dded0c01fe07c13f6aa6c7c0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315018526065",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:05:45.669075+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 15
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315018526065,
+        "rpid_str": "315018526065",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790328374,
+        "like": 0,
+        "rcount": 15,
+        "count": 19,
+        "state": 0,
+        "author_id": "U_9e37db3e3d4a026e2c4a20af",
+        "content": {
+          "message": "回归号，有机会N6吗[香奈美·追寻那道光 应援装扮_拜托了]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a76a735a359007e80770fda8de144b62299529350.jpg",
+              "img_width": 1080,
+              "img_height": 11039,
+              "img_size": 1341.72,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[香奈美·追寻那道光 应援装扮_拜托了]": {
+              "id": 62380,
+              "package_id": 4408,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[香奈美·追寻那道光 应援装扮_拜托了]",
+              "url": "https://i0.hdslb.com/bfs/garb/7ef66d07cf2baf54fadc6ab41c3534aac4326f51.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1706688000,
+              "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=1706087271001&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+              "jump_title": "拜托了"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "52253824cf517b410886d24602dc3348682cba65b8e9512d1c7f29888128fb80",
+  "original_bytes_sha256": "e18cd1a54a3aa8e53db8089c74a895c01b323dfd64b3d74384f3c844c3b858de",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

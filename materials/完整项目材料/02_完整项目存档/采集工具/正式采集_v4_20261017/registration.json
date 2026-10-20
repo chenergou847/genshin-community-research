@@ -1,0 +1,51 @@
+{
+  "config_hash": "b1371ace505b3145362d1c0c8ea86324a1f6a81036f14d51e488d8957b39e2ed",
+  "registered_at": "2026-10-17T15:40:10.498607+00:00",
+  "t0": "2026-10-17T23:09:00+08:00",
+  "parent_registration_hash": "f48f45c97e71f443aeb4694045c3c5fd788a416fbe4064b9d3666f67ea213929",
+  "periods": {
+    "abyss": {
+      "period_id": "CN-7.1-abyss-20261016",
+      "start": "2026-10-16T04:00:00+08:00",
+      "characteristics": "骇星之月；第11层风/冰伤+60%；第12层上半星烁反应伤害+75%、下半冰伤+75%；11/12层当期阵容另随视频核验",
+      "evidence": "https://ys.mihoyo.com/main/news/detail/166392，九、深境螺旋（日期和祝福/地脉）；小时依据：用户本会话明确确认国服时刻；不冒称官网7.1正文写了04:00",
+      "verified_by": "AI读取官网日期与规则；用户确认国服刷新小时"
+    },
+    "theater": {
+      "period_id": "CN-7.1-theater-20261001",
+      "start": "2026-10-01T04:00:00+08:00",
+      "characteristics": "限定水、冰、风；开幕那维莱特、芭芭拉、茜特菈莉、凯亚、流浪者、布伦妮；特邀伊涅芙、八重神子、托马、千织",
+      "evidence": "https://ys.mihoyo.com/main/news/detail/166392，八、幻想真境剧诗第一期（日期/元素/开幕/特邀）；小时依据：用户本会话明确确认国服时刻；不冒称官网7.1正文写了04:00",
+      "verified_by": "AI读取官网日期与规则；用户确认国服刷新小时"
+    },
+    "stygian": {
+      "period_id": "CN-7.1-stygian-20260930",
+      "start": "2026-09-30T10:00:00+08:00",
+      "characteristics": "7.1活动区间9月30日至11月3日；紊乱爆发期9月30日至10月10日；三场当期敌人与难度随原视频实机内容核验，不凭7.1标题认定",
+      "evidence": "https://www.taptap.cn/moment/853584114496833713?group_id=201765 西风快报员活动公告；用户本会话确认国服10:00",
+      "verified_by": "AI读取官方运营账号公告；用户确认国服开放小时"
+    }
+  },
+  "date_partitioning": {
+    "begin_param": "pubtime_begin_s",
+    "end_param": "pubtime_end_s",
+    "result_cap": 1000,
+    "verified_status": "passed_positive_and_negative_boundary_checks",
+    "evidence_hashes": [
+      "c46ab4244751b174d6498b302c2955c04f7c6f7d8b28d70d93322f761030f6c4",
+      "52dc1fdd2f93030972a7956bbb4492246c356642f694ce3ff37aecefa38b8ef1",
+      "56a6117b9efa8bfdceca8d82120f15fbba83caca905080ca71b5f318b1d2e2ae",
+      "cf58301f09c32c4a0232236b553d49c36076b403d3f89f1df1a9c8f616bf3942"
+    ],
+    "evidence": "../登录后契约核验_20261017/日期边界契约.json；正常搜索前端对0使用未启用日期筛选语义，改从Unix秒1开始；实际核验包含近期正例、B站存在前负例、单秒包含与相邻秒排除",
+    "algorithm": "同一预登记查询从[1,T0]开始；触及1000结果或50页上限则在整数秒中点二分；子区间[lo,mid]与[mid+1,hi]；每个未触顶叶区间完整分页；单秒仍触顶、日期越界、重复页、数量漂移或任一缺页均失败",
+    "amendment_reason": "修正Unix秒0作为未启用筛选标记造成的分箱失效；研究窗口、关键词、相关性规则和样本目标不变；用户正常扫码登录会话仅用于B站读取请求"
+  },
+  "queries_hash": "cee96336298873807153dc3646e2e86fc4271e814bd4358c97f53d3a9467a9c5",
+  "targets": {
+    "main": 400,
+    "raw_audit": 200,
+    "coding_review": 100
+  },
+  "purpose": "日期边界修复后重新正式建库；旧失败版本保留；未冻结视频库，未抽样"
+}

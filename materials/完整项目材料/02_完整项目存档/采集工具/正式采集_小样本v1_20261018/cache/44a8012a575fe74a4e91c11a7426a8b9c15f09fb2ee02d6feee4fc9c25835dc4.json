@@ -1,0 +1,60 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320873933248",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:10:03.760975+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320873933248,
+        "rpid_str": "320873933248",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792137993,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_62dfeff8bcd1cd9c29da449a",
+        "content": {
+          "message": "版本横行者",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/56a8c986679417f197f62cbcd700fd601368945837.jpg",
+              "img_width": 1080,
+              "img_height": 2866,
+              "img_size": 1327.72
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "dd47d7cd6857e05e0e3f4c8831776fc2a7a97e716cc9af56163b6a79fce90458",
+  "original_bytes_sha256": "c510b7c56579e17411687e6bec40596f87828ec59b3f1327c0798c570664fa03",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

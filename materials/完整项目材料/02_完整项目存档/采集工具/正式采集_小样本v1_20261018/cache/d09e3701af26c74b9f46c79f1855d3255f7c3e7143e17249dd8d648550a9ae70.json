@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315665466993",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:20:51.414425+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315675726321,
+          "rpid_str": "315675726321",
+          "root": 315665466993,
+          "root_str": "315665466993",
+          "parent": 315665466993,
+          "parent_str": "315665466993",
+          "dialog": 315675726321,
+          "ctime": 1790858164,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_846e80c41e5106d93738c809",
+          "content": {
+            "message": "2闲0奶&gt;2奶0闲，而且前者也难"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315665466993,
+        "rpid_str": "315665466993",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790852582,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_11a851ac8184824745c707a8",
+        "content": {
+          "message": "20茜00闲能过吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4bf6f66c3d004dded04c753f2fa84e1c8d8eec0f76eea2f67f8901711eea5e1f",
+  "original_bytes_sha256": "2cc10de0e263f8c3e1def2efd4a7cf77b365ed421c35257517d7678a2ff86afd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318762678720",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:50:22.402913+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318762678720,
+        "rpid_str": "318762678720",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790482826,
+        "like": 1,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_6650c14d6166e304935ff0f8",
+        "content": {
+          "message": "我能过n5吗，up主",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e16066faa83df11a7490afdce18849a83546786085997037.jpg",
+              "img_width": 1080,
+              "img_height": 10332,
+              "img_size": 1183.77
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d7c6be19740853dff5e8a91dc2104fd1c3092e31a5e8bf1070bc7fb549a2fec9",
+  "original_bytes_sha256": "baef7f0b4f3bd2b8fe4ff928aafed0d571c64db2a55dfee9298fceb1e60490c1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

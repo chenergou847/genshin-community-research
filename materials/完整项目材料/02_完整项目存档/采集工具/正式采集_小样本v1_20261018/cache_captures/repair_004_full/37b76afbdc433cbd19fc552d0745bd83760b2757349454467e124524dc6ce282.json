@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320839630720",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:46:23.949239+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321060088192,
+          "rpid_str": "321060088192",
+          "root": 320839630720,
+          "root_str": "320839630720",
+          "parent": 320839630720,
+          "parent_str": "320839630720",
+          "ctime": 1792280708,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_be578649ada6faf6631eac86",
+          "content": {
+            "message": "冰之国当然冷了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320839630720,
+        "rpid_str": "320839630720",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792112662,
+        "like": 18,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_58bec5356c174b52b125c1de",
+        "content": {
+          "message": "不知道的人还以为现在在纳塔版本[doge]这温度都要冻死人了",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "686b7f15765d34e3f131efce94fe37581711a057ac3b646d8cbe8c631e3edb19",
+  "original_bytes_sha256": "b8ad134ff15997c400e62d76b15ce7454fe52383de358463420ffa4ad5d5a895",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

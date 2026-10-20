@@ -1,0 +1,60 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "320986552096",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:51:33.368004+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320986552096,
+        "rpid_str": "320986552096",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792223199,
+        "like": 10,
+        "rcount": 6,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_0ecdbb39509d0b3e2134c03f",
+        "content": {
+          "message": "库洛拯救人类多么伟大的口号，我们鸣潮玩家能玩到鸣潮能玩到库洛游戏是我们的荣幸，我们给鸣潮充的每1分钱，都是在帮助库洛去拯救人类，现在的人类需要库洛来拯救",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3ee9e1b1516485eccb54ebd6754618a52042084306.jpg",
+              "img_width": 1260,
+              "img_height": 384,
+              "img_size": 120.11
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "28d54ca0d68c0016e062600d3aa8af447945e9428aa34646d91f24564965ce79",
+  "original_bytes_sha256": "1cab71874bd79efc3c649b7ccde9ae151f2cc8a317953b7badce98d567885ce5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

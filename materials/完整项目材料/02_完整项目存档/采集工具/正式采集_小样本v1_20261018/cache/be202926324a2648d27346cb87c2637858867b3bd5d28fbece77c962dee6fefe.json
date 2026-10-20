@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314934062897",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:25:34.950384+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314934062897,
+        "rpid_str": "314934062897",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790257751,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_45f2731bcf0b705c9e4bb9e1",
+        "content": {
+          "message": "孩子们极限能到N几",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e43f46bb3c7c0ccdf7b644547bc6b676491849471.jpg",
+              "img_width": 1260,
+              "img_height": 13468,
+              "img_size": 1736.61
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b37c8b81a00b37e5108e6afd54d01c377d10f6455e6f471328e82e3838a516f1",
+  "original_bytes_sha256": "69da2fac0e8d3e55aefe17e6ba5df76be004227f273764f0b458a3ee8571625c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

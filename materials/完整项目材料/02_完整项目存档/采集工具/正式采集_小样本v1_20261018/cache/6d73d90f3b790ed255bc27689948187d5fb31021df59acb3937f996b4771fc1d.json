@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315422312417",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:28:47.053653+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315430136017,
+          "rpid_str": "315430136017",
+          "root": 315422312417,
+          "root_str": "315422312417",
+          "parent": 315422312417,
+          "parent_str": "315422312417",
+          "dialog": 315430136017,
+          "ctime": 1790668891,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0a482efbcdaeedbc17fc6a9",
+          "content": {
+            "message": "后两间随便打，第一间不太可能"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315434655297,
+          "rpid_str": "315434655297",
+          "root": 315422312417,
+          "root_str": "315422312417",
+          "parent": 315422312417,
+          "parent_str": "315422312417",
+          "dialog": 315434655297,
+          "ctime": 1790672185,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "N5。木偶，丝柯克，火神战舰或者牛牛超载"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315463283025,
+          "rpid_str": "315463283025",
+          "root": 315422312417,
+          "root_str": "315422312417",
+          "parent": 315430136017,
+          "parent_str": "315430136017",
+          "dialog": 315430136017,
+          "ctime": 1790689646,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9cc95af87172ecfdf1783a68",
+          "content": {
+            "message": "回复 @鸱情 :第一间00木偶加01奥黛塔加2命希诺宁加神子，练度高的话有戏"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315508490657,
+          "rpid_str": "315508490657",
+          "root": 315422312417,
+          "root_str": "315422312417",
+          "parent": 315463283025,
+          "parent_str": "315463283025",
+          "dialog": 315430136017,
+          "ctime": 1790739900,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0a482efbcdaeedbc17fc6a9",
+          "content": {
+            "message": "回复 @她说山有扶苏- :刚打完，我的配置是01偶20奥20希6狗，大概114s过，10神子有说法但不多，要很高练度才有可能，很极限，老头带30抗性，少了2奥减抗，一个神子可能补不回来三金的差距"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315422312417,
+        "rpid_str": "315422312417",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790662459,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_2e9b0db51a2654f30a6e5a12",
+        "content": {
+          "message": "求帮看看 有碰瓷N6的风险吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d2d313f09945676986a885051e4bf3e3150323672.jpg",
+              "img_width": 1241,
+              "img_height": 15000,
+              "img_size": 8495.91
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8348b176030f9ef206c974aaa59b07f48241b138b4339d18cf22bf01e47c271d",
+  "original_bytes_sha256": "c49cd529e40a778b08c29ff12eda684ce29679980ad20ec1fe90de2baa1d5429",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

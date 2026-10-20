@@ -1,0 +1,1245 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T06:39:19.953171+00:00",
+  "source_hash": "7594e1028d95e0d15e0734cd6e7a7be880dddfe9ac540986e81646fe57feec20",
+  "summary": {
+    "sources": 60,
+    "technical_enumeration_eligible": 56,
+    "technical_count_or_other_holds": 4,
+    "parent_only_sources_reclassified": 3,
+    "source_review_status_counts": {
+      "accepted": 45,
+      "pending_temporal_reconciliation": 7,
+      "pending_context_source_page_review": 3,
+      "blocked_integrity": 4,
+      "pending_page_unavailable": 1
+    },
+    "unique_readable_IDs": 9593,
+    "roots": 3251,
+    "replies": 6342,
+    "missing_unique_parent_IDs": 20,
+    "ancestor_affected_descendants": 53,
+    "formal_random_comments_drawn": 0,
+    "affected_window_counts": {
+      "abyss": 8,
+      "theater": 0,
+      "stygian": 12
+    },
+    "freeze_gate_result": "入选来源尚未全部采集完整"
+  },
+  "sources": [
+    {
+      "bvid": "BV1jjJY6MEwP",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV14zJv6wEy9",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_temporal_reconciliation",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV12fJe6bEbz",
+      "acquisition_status_unchanged": "incomplete",
+      "original_findings": [
+        "missing_ancestor"
+      ],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [
+        "317324656433",
+        "320982232208",
+        "320983001584",
+        "320984707840",
+        "320985183568",
+        "320985385296"
+      ],
+      "affected_descendants": [
+        "320982688608",
+        "320983359392",
+        "320983441728",
+        "320983791168",
+        "320985037840",
+        "320985491904",
+        "320985520496",
+        "320985530640"
+      ],
+      "review_status": "pending_context_source_page_review",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1r6JS6oEAp",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_temporal_reconciliation",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1F2JQ6aEsJ",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_temporal_reconciliation",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1uTJ86UEej",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1CuJq68Ee1",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV174JD6xEuG",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1TxJS6ME8g",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1yoJX6CEvn",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1UzJv6wEFw",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1hfJS6yEQ2",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1fkJB6dERS",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1ReJ86FECd",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1iSJS6DEtJ",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1CFJh6GEt6",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_temporal_reconciliation",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1AQJU6hE93",
+      "acquisition_status_unchanged": "incomplete",
+      "original_findings": [
+        "global_server_total_disagrees",
+        "thread_inventory_incomplete",
+        "thread_declared_count_disagrees",
+        "cached_preview_IDs_not_in_inventory"
+      ],
+      "enumeration_eligible_under_amendment": false,
+      "non_context_findings": [
+        "global_server_total_disagrees",
+        "thread_inventory_incomplete",
+        "thread_declared_count_disagrees",
+        "cached_preview_IDs_not_in_inventory"
+      ],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "blocked_integrity",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1pYJ46PEaX",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1SrJt62En3",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1Q9Ji66Eid",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1iGHC6zE1w",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV19Gpw6HEfN",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1dQJ66tEGz",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1ScpZ6TEZZ",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1DAYA6CEji",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1fuYP6tEva",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_temporal_reconciliation",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1s7YA6PEW9",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1ZgHa63Ezh",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1qHao6TEYB",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1jGpP6cEaG",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1nbak6KEBa",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV13paD6GENC",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1CZa66qEwP",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1Kiar6kE4i",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV168Hd61E3u",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1UtYP6LEX5",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1g5Hj6WE67",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1PFYP6vEME",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1ovak6cEwb",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1RUaU61Eix",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1myaB6BEm8",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1zLJv6mE8T",
+      "acquisition_status_unchanged": "incomplete",
+      "original_findings": [
+        "global_server_total_disagrees"
+      ],
+      "enumeration_eligible_under_amendment": false,
+      "non_context_findings": [
+        "global_server_total_disagrees"
+      ],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "blocked_integrity",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV16caz6oEd9",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_temporal_reconciliation",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1Bwpm6dEdc",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "acquisition_status_unchanged": "incomplete",
+      "original_findings": [
+        "global_server_total_disagrees",
+        "missing_ancestor"
+      ],
+      "enumeration_eligible_under_amendment": false,
+      "non_context_findings": [
+        "global_server_total_disagrees"
+      ],
+      "missing_parent_IDs": [
+        "314940548961",
+        "314942093713",
+        "315055890289",
+        "315062952897",
+        "315103052849",
+        "315365864721",
+        "315401585697",
+        "319142078048"
+      ],
+      "affected_descendants": [
+        "314944409057",
+        "314945745409",
+        "314947160641",
+        "314949163713",
+        "314954578609",
+        "314966725745",
+        "314966901105",
+        "314971013393",
+        "314974348913",
+        "314976285153",
+        "314999976817",
+        "315007852449",
+        "315056173585",
+        "315063192337",
+        "315063210225",
+        "315063334433",
+        "315063366081",
+        "315063399505",
+        "315063448385",
+        "315063518065",
+        "315063662961",
+        "315063686177",
+        "315126299217",
+        "315367294481",
+        "315367480337",
+        "315367571921",
+        "315367651761",
+        "315402683441",
+        "318474899168",
+        "318495478736",
+        "318622640864",
+        "318645878256",
+        "318922503120",
+        "319143374640",
+        "319143966736"
+      ],
+      "review_status": "blocked_integrity",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1ZnHL68EAG",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_temporal_reconciliation",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1E9pM6UEuf",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1PwHe6xEpg",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1LBpz6FEJk",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1QGaZ6wEP8",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1MXJa6dEuu",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1wBJB68EJV",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "pending_page_unavailable",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1A5aB6FEuN",
+      "acquisition_status_unchanged": "incomplete",
+      "original_findings": [
+        "missing_ancestor"
+      ],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [
+        "316162654353",
+        "316547634721",
+        "316706472977"
+      ],
+      "affected_descendants": [
+        "316163334129",
+        "316164068881",
+        "316711946017",
+        "316712136673",
+        "320529078272"
+      ],
+      "review_status": "pending_context_source_page_review",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1k6pK6UE9i",
+      "acquisition_status_unchanged": "incomplete",
+      "original_findings": [
+        "global_server_total_disagrees"
+      ],
+      "enumeration_eligible_under_amendment": false,
+      "non_context_findings": [
+        "global_server_total_disagrees"
+      ],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "blocked_integrity",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1BTJb6fEak",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1EBaZ6VE29",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1B7a16gEXr",
+      "acquisition_status_unchanged": "incomplete",
+      "original_findings": [
+        "missing_ancestor"
+      ],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [
+        "315846741329",
+        "315854766225",
+        "315854774113"
+      ],
+      "affected_descendants": [
+        "315866356849",
+        "315866563985",
+        "319422439424",
+        "319439357424",
+        "319439467072"
+      ],
+      "review_status": "pending_context_source_page_review",
+      "review_final": "no"
+    },
+    {
+      "bvid": "BV1LhYc62EWa",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV1d5p76KEZp",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    },
+    {
+      "bvid": "BV14zJv6wEUY",
+      "acquisition_status_unchanged": "enumerated_pending_review",
+      "original_findings": [],
+      "enumeration_eligible_under_amendment": true,
+      "non_context_findings": [],
+      "missing_parent_IDs": [],
+      "affected_descendants": [],
+      "review_status": "accepted",
+      "review_final": "yes"
+    }
+  ],
+  "context_annotations": {
+    "314944409057": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314945745409": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314947160641": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314949163713": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314954578609": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314966725745": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314966901105": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314971013393": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314974348913": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314976285153": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "314999976817": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315007852449": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315056173585": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315055890289",
+      "root_id": "315055702433",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063192337": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063210225": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063334433": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063366081": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063399505": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063448385": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063518065": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063662961": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315063686177": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315062952897",
+      "root_id": "315061993377",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315126299217": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315367294481": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315365864721",
+      "root_id": "318915304256",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315367480337": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315365864721",
+      "root_id": "318915304256",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315367571921": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315365864721",
+      "root_id": "318915304256",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315367651761": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315365864721",
+      "root_id": "318915304256",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315402683441": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315401585697",
+      "root_id": "315400518497",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315866356849": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315854774113",
+      "root_id": "319347514112",
+      "bvid": "BV1B7a16gEXr",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "315866563985": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315846741329",
+      "root_id": "319347514112",
+      "bvid": "BV1B7a16gEXr",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "316163334129": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "316162654353",
+      "root_id": "315680903009",
+      "bvid": "BV1A5aB6FEuN",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "316164068881": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "316162654353",
+      "root_id": "315680903009",
+      "bvid": "BV1A5aB6FEuN",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "316711946017": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "316706472977",
+      "root_id": "316676436161",
+      "bvid": "BV1A5aB6FEuN",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "316712136673": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "316706472977",
+      "root_id": "316676436161",
+      "bvid": "BV1A5aB6FEuN",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "318474899168": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314940548961",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "318495478736": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "318622640864": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "314942093713",
+      "root_id": "314935852353",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "318645878256": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315103052849",
+      "root_id": "315094616817",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "318922503120": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315365864721",
+      "root_id": "318915304256",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "319143374640": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "319142078048",
+      "root_id": "319138922672",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "319143966736": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "319142078048",
+      "root_id": "319138922672",
+      "bvid": "BV137aA63EF6",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "319422439424": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315846741329",
+      "root_id": "319347514112",
+      "bvid": "BV1B7a16gEXr",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "319439357424": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315854766225",
+      "root_id": "319347514112",
+      "bvid": "BV1B7a16gEXr",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "319439467072": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "315854766225",
+      "root_id": "319347514112",
+      "bvid": "BV1B7a16gEXr",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320529078272": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "316547634721",
+      "root_id": "316280823873",
+      "bvid": "BV1A5aB6FEuN",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320982688608": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "320982232208",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320983359392": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "320983001584",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320983441728": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "317324656433",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320983791168": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "320983001584",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320985037840": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "320984707840",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320985491904": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "320985385296",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320985520496": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "320985183568",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    },
+    "320985530640": {
+      "status": "ancestor_body_unavailable",
+      "first_missing_ancestor_id": "320984707840",
+      "root_id": "320978740800",
+      "bvid": "BV12fJe6bEbz",
+      "deletion_confirmed": false,
+      "coding_pending": true
+    }
+  },
+  "rule_hash": "c66e24710f9d324ed1ec3b5cf643d4f4822c78e9cbf1691a5ba5f98e5c5b222d",
+  "audit_file": "small_integrity_audit_010.json",
+  "audit_hash": "60d3a4aeb5094ccb26d8930f239eb43078184215f11baf00a9fcddf73fc24f9e",
+  "selection_hash": "4a22f96293600f69d116b49a8f01ec6ed751afb072d2615a29a0bd5eb1bec4f1",
+  "collection_hash": "75becedfbda9cbde26931afe63888740cd63b383ca3e068b36a4651dcb1a0409",
+  "comments_hash": "aed2898041b0539c584afc11a90a9a32fe9ddc48d95accb7bedd1158a428a6f1",
+  "observations_hash": "1ed4140bdde1a9d1a2760361a6175bba20db826d1d3fa35fd292e5cd30b0d104",
+  "scope": "same_frozen_video_domain_and_comment_windows; missing bodies are context references, not sampling units",
+  "coding_rules": {
+    "relevance": "related/irrelevant/unknown",
+    "theme_status": "known/unknown",
+    "known_relevant_theme_unknown": "keep relevance=related, theme_status=unknown, no theme assignment",
+    "point_denominator": "weighted related and theme-determinate utterances; label conditional scope",
+    "sensitivity": "D=known theme-determinate related weight; A=theme weight; U=unknown relevance or known-related unknown-theme weight; bounds=[A/(D+U),(A+U)/(D+U)]",
+    "bounds_are_not_95_percent_CIs": true,
+    "affected_does_not_mean_uncodable": true
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315739047041",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:13:44.890387+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315749524257,
+          "rpid_str": "315749524257",
+          "root": 315739047041,
+          "root_str": "315739047041",
+          "parent": 315739047041,
+          "parent_str": "315739047041",
+          "dialog": 315749524257,
+          "ctime": 1790921405,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e2227e416556276f17273bb9",
+          "content": {
+            "message": "没办法，月体系太封闭了，原神有史以来最封闭的体系"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315756127185,
+          "rpid_str": "315756127185",
+          "root": 315739047041,
+          "root_str": "315739047041",
+          "parent": 315739047041,
+          "parent_str": "315739047041",
+          "dialog": 315756127185,
+          "ctime": 1790925620,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a5da6b20544616cae1f6f9ea",
+          "content": {
+            "message": "月神不带外地人玩儿，不过有三套完整体系也不需要带外地人玩儿了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315898820657,
+          "rpid_str": "315898820657",
+          "root": 315739047041,
+          "root_str": "315739047041",
+          "parent": 315739047041,
+          "parent_str": "315739047041",
+          "dialog": 315898820657,
+          "ctime": 1791026669,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c07b54551099bb0ef0e73eff",
+          "content": {
+            "message": "老角色得是雷风c，不然得占两位"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315739047041,
+        "rpid_str": "315739047041",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790915346,
+        "like": 5,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d03c2d035f3452b8935d1825",
+        "content": {
+          "message": "奥黛塔主要老角色也能拿来用当对策卡，不像哥伦比娅只能在月体系里"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5c1ab93b88feae3e64ed1e2be4231c5341fb72d83877d8d0498b2458a0f559f7",
+  "original_bytes_sha256": "6b717bfe4f73bd8f4ae597254a10c1a198c5a6c4ca77ea0caf75eecef89ed077",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

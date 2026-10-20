@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320868796912",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:10:47.449034+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317216116497,
+          "rpid_str": "317216116497",
+          "root": 320868796912,
+          "root_str": "320868796912",
+          "parent": 320868796912,
+          "parent_str": "320868796912",
+          "ctime": 1792134262,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6bab3f529fa4cc9cce252cf1",
+          "content": {
+            "message": "注意让薇小妹打上[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317216500577,
+          "rpid_str": "317216500577",
+          "root": 320868796912,
+          "root_str": "320868796912",
+          "parent": 320868796912,
+          "parent_str": "320868796912",
+          "ctime": 1792134577,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_66d924fe6b953d9c7701bd4e",
+          "content": {
+            "message": "啸着玩"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320870192272,
+          "rpid_str": "320870192272",
+          "root": 320868796912,
+          "root_str": "320868796912",
+          "parent": 320868796912,
+          "parent_str": "320868796912",
+          "ctime": 1792135047,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a06f72623766c04d6e5815eb",
+          "content": {
+            "message": "注意嘴角向下"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320871575536,
+          "rpid_str": "320871575536",
+          "root": 320868796912,
+          "root_str": "320868796912",
+          "parent": 320868796912,
+          "parent_str": "320868796912",
+          "ctime": 1792136145,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1aaa6f119ce353b0319c7619",
+          "content": {
+            "message": "如何憋住不笑"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320872655536,
+          "rpid_str": "320872655536",
+          "root": 320868796912,
+          "root_str": "320868796912",
+          "parent": 320868796912,
+          "parent_str": "320868796912",
+          "ctime": 1792137024,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4f2ceab54c117e8ac2fe7e91",
+          "content": {
+            "message": "偏科了吗？"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320868796912,
+        "rpid_str": "320868796912",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792133934,
+        "like": 1,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_55d9ee674f4865768ed8c771",
+        "content": {
+          "message": "要注意什么",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1b87266cfd5880be480550ef8f7fe5b4473113305.jpg",
+              "img_width": 1256,
+              "img_height": 2760,
+              "img_size": 1494.95,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "fb4e917a5219ae6d7190e0fa3fb01715a19fd1e39333dbdedc188de0d8703d5e",
+  "original_bytes_sha256": "ca2dae307eb876fdf722ddf0298c04c4ad6fc63642df998cdea2be30e800a661",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

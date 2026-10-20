@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319087379360",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:13:07.424680+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319087702688,
+          "rpid_str": "319087702688",
+          "root": 319087379360,
+          "root_str": "319087379360",
+          "parent": 319087379360,
+          "parent_str": "319087379360",
+          "dialog": 319087702688,
+          "ctime": 1790750957,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1807e4d811f40acdbce6d4a1",
+          "content": {
+            "message": "梦见月和沃雅妮莎一队。\n梦见月和奥黛塔一队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319087379360,
+        "rpid_str": "319087379360",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790750679,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_e7f32f125dfc63c7c538a215",
+        "content": {
+          "message": "有11薇斯纳，00沃，10梦见月，00七七，01菲林斯，01伊涅芙，01奥黛塔，00牛牛，00莫娜，怎么打"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fe9a011b7b5b214ca3b47ef5a63e8c17bc232b2a7e79f1900a85a2aeb22bb00b",
+  "original_bytes_sha256": "78b0757d61d2715a4fde82f63a46bf2b710614a6cbd5a073d18ed87e7936c9e9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

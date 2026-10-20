@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359209613190",
+    "root": "319188925504",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:37:52.236003+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319262162816,
+          "rpid_str": "319262162816",
+          "root": 319188925504,
+          "root_str": "319188925504",
+          "parent": 319188925504,
+          "parent_str": "319188925504",
+          "dialog": 319262162816,
+          "ctime": 1790869018,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9684a86a9f2825b8d4218bb6",
+          "content": {
+            "message": "建议直接回坑然后梭哈奥黛塔冰神达妮卡[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319275139632,
+          "rpid_str": "319275139632",
+          "root": 319188925504,
+          "root_str": "319188925504",
+          "parent": 319262162816,
+          "parent_str": "319262162816",
+          "dialog": 319262162816,
+          "ctime": 1790879553,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b520893d10a08efa309a1217",
+          "content": {
+            "message": "回复 @拣起再放下 :奥黛塔卡池不是结束了嘛"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319188925504,
+        "rpid_str": "319188925504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790827969,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b520893d10a08efa309a1217",
+        "content": {
+          "message": "好久之前退坑的 现在想回坑 应该创新号还是就拿这个号玩啊",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c20d771653e551ec23c708a6445ea0f4475792045.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1760.93
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ebf172cff09df8f36a30a539ee4d5f8f9f1f3b1a9c0143ddb248c9944bdb8fc6",
+  "original_bytes_sha256": "487fb8e71ef5bb18b03e58553bd89213f1456aebc25dfbcda9fd4a3ce3c63ac6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

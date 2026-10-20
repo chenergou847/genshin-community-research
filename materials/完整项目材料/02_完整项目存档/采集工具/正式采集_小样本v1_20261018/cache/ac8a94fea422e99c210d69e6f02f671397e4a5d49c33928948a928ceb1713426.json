@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319370747392",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:09:07.340338+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315805290449,
+          "rpid_str": "315805290449",
+          "root": 319370747392,
+          "root_str": "319370747392",
+          "parent": 319370747392,
+          "parent_str": "319370747392",
+          "dialog": 315805290449,
+          "ctime": 1790952224,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_772b719a0de38ebda8eeba34",
+          "content": {
+            "message": "草神换香班都行，12秒左右就能破盾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319807953744,
+          "rpid_str": "319807953744",
+          "root": 319370747392,
+          "root_str": "319370747392",
+          "parent": 319370747392,
+          "parent_str": "319370747392",
+          "dialog": 319807953744,
+          "ctime": 1791264875,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_80a5032d13d7321f8cf5b3c3",
+          "content": {
+            "message": "我换的班尼特不会抢反应"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319370747392,
+        "rpid_str": "319370747392",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790949117,
+        "like": 1,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_42d18571d02ddd2513ca6d4d",
+        "content": {
+          "message": "第三间急哭了[大哭]这怪太恶心了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ff7a0bd658ff8963bc310f7e21a9260a1332884201.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 1631.29
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e6733cf94a504466308b5cdeca0a56e5a9a18b47f49ab026add76f0f624eb8a0",
+  "original_bytes_sha256": "ed7b37dc18c3543fd066e464cb0235f81819c4dcccccab53b825a18c2342385f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

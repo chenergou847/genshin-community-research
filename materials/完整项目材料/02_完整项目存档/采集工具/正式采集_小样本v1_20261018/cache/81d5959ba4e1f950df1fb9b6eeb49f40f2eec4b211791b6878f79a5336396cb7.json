@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "317320005761",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:52:43.065336+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317320005761,
+        "rpid_str": "317320005761",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792217851,
+        "like": 1,
+        "rcount": 8,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_0b9e26b3b32a323c7afaf28c",
+        "content": {
+          "message": "日常管理，一个月给200，号上有大月卡，上學没空管理，接的关煮我，谢谢[捂眼][捂眼][捂眼]",
+          "emote": {
+            "[捂眼]": {
+              "id": 1939,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[捂眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/c5c6d6982e1e53e478daae554b239f2b227b172b.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "捂眼"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "c5beea3aaa2f5cf2ff68a47d1213516f7096c0d6af2e4ca9ad86d979bb087cad",
+  "original_bytes_sha256": "730482c2c6f1ca0279bd0bfb8ea0dc350ef763a06bf038c82990aaadb0d64d87",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

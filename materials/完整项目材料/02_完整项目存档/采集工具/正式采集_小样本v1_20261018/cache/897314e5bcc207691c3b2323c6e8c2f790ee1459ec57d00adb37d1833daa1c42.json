@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315060161601",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:01:06.302731+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315060161601,
+        "rpid_str": "315060161601",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790351626,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_b15a6f21f10c2e64d13a5df8",
+        "content": {
+          "message": "没奥黛塔，不知道N7稳不稳",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8b41fbd809c1ae19384e87bd84eef3db20702453.jpg",
+              "img_width": 1170,
+              "img_height": 16362,
+              "img_size": 4627
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c0f83a81b1c6ab81fe7ab186ecc08432d0e8152d12b2e781944f11275fc721f1",
+  "original_bytes_sha256": "8f3710133f0bb0b9ba1d14f867d3df7251b031832496b4f4011be20850a400d5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

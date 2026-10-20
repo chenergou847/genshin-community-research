@@ -1,0 +1,532 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315749358193",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:12:46.821874+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 14
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315751715569,
+          "rpid_str": "315751715569",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315749358193,
+          "parent_str": "315749358193",
+          "dialog": 315751715569,
+          "ctime": 1790922793,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_83866e133eff345433260e92",
+          "content": {
+            "message": "木偶拿火神专武就吃白值吗[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315751675041,
+          "rpid_str": "315751675041",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315751715569,
+          "parent_str": "315751715569",
+          "dialog": 315751715569,
+          "ctime": 1790922849,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f285704601debb1364002d4e",
+          "content": {
+            "message": "回复 @吾王saber最美啦 :能吃被动啊，专武之下最强啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315751864977,
+          "rpid_str": "315751864977",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315751675041,
+          "parent_str": "315751675041",
+          "dialog": 315751715569,
+          "ctime": 1790922909,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_83866e133eff345433260e92",
+          "content": {
+            "message": "回复 @飛萤泡芙 :哦这样啊，我一直拿着狼末，这样火神不上场可以换来用用[笑哭][笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315752187633,
+          "rpid_str": "315752187633",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315751864977,
+          "parent_str": "315751864977",
+          "dialog": 315751715569,
+          "ctime": 1790923068,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f285704601debb1364002d4e",
+          "content": {
+            "message": "回复 @吾王saber最美啦 :木偶带是20爆伤28攻击\n火神带是35爆伤49攻击"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315759773297,
+          "rpid_str": "315759773297",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315749358193,
+          "parent_str": "315749358193",
+          "dialog": 315759773297,
+          "ctime": 1790927957,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_59c34488e2f73dbd4e7ed4d7",
+          "content": {
+            "message": "糊涂啊，怎么不给薇抽2命，那才是质变命座啊[笑哭]，给薇2命或者给沃2命都比2个1命强啊",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315760026257,
+          "rpid_str": "315760026257",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315759773297,
+          "parent_str": "315759773297",
+          "dialog": 315759773297,
+          "ctime": 1790928136,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f285704601debb1364002d4e",
+          "content": {
+            "message": "回复 @有大就开_ :薇2命不强，没一命提升大，沃还可以去其他队比如木偶龙王丝柯克"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315760375121,
+          "rpid_str": "315760375121",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315759773297,
+          "parent_str": "315759773297",
+          "dialog": 315759773297,
+          "ctime": 1790928359,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f285704601debb1364002d4e",
+          "content": {
+            "message": "回复 @有大就开_ :补2命也准备补沃的，薇看女皇了，伤害已经够N6了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315760765617,
+          "rpid_str": "315760765617",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315760026257,
+          "parent_str": "315760026257",
+          "dialog": 315759773297,
+          "ctime": 1790928622,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_59c34488e2f73dbd4e7ed4d7",
+          "content": {
+            "message": "回复 @飛萤泡芙 :1命提升大，但是2命在一命的基础上还有16%的提升已经不低了[笑哭]不过的确沃2命更适配其他队伍，对了沃对龙王提升高吗？高的话我也抽一只给龙",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315761099377,
+          "rpid_str": "315761099377",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315760765617,
+          "parent_str": "315760765617",
+          "dialog": 315759773297,
+          "ctime": 1790928813,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f285704601debb1364002d4e",
+          "content": {
+            "message": "回复 @有大就开_ :我感觉挺高的，我现在11龙2芙11沃21希能打个17，8万DPS，11沃cos0命[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319347312160,
+          "rpid_str": "319347312160",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315749358193,
+          "parent_str": "315749358193",
+          "dialog": 319347312160,
+          "ctime": 1790937479,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c4106d5597762c43d120216d",
+          "content": {
+            "message": "怎么你评论被折叠了，是被人举报了吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315776485729,
+          "rpid_str": "315776485729",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 319347312160,
+          "parent_str": "319347312160",
+          "dialog": 319347312160,
+          "ctime": 1790937540,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f285704601debb1364002d4e",
+          "content": {
+            "message": "回复 @暮尘111 :不知道啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315778010497,
+          "rpid_str": "315778010497",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 319347312160,
+          "parent_str": "319347312160",
+          "dialog": 319347312160,
+          "ctime": 1790938260,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fcca172b7e3ca8a9dec3d015",
+          "content": {
+            "message": "回复 @暮尘111 :没折叠啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319369975472,
+          "rpid_str": "319369975472",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315749358193,
+          "parent_str": "315749358193",
+          "dialog": 319369975472,
+          "ctime": 1790948763,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_97e91a68cca7569d23454224",
+          "content": {
+            "message": "一点苦都不吃是吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315838515633,
+          "rpid_str": "315838515633",
+          "root": 315749358193,
+          "root_str": "315749358193",
+          "parent": 315760765617,
+          "parent_str": "315760765617",
+          "dialog": 315759773297,
+          "ctime": 1790991084,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d17af6f667fae1180681a0f5",
+          "content": {
+            "message": "回复 @有大就开_ :沃本体00对龙王提升最大 1命和专武都是加攻击的都没用 要给龙王抽的话抽00就行[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315749358193,
+        "rpid_str": "315749358193",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790921393,
+        "like": 3,
+        "rcount": 14,
+        "count": 15,
+        "state": 0,
+        "author_id": "U_f285704601debb1364002d4e",
+        "content": {
+          "message": "等冰皇",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c01e487fcbecacc25551d4cda03fbfff1427766582.jpg",
+              "img_width": 2403,
+              "img_height": 1500,
+              "img_size": 1511.84
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c63a4741b691ab3048531d9311215fad1427766582.jpg",
+              "img_width": 1220,
+              "img_height": 14157,
+              "img_size": 1801.89
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c2a3b6c8ded8f767afc7f472417e53f8af93230d576fac4bfa8b6fe08728e89d",
+  "original_bytes_sha256": "18a4325390daa52fd660cc55739b49fd494fd50a273dcc3110107217a1f78bc2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

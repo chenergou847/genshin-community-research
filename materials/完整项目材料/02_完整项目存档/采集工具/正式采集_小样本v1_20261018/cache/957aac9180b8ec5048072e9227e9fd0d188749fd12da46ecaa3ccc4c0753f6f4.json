@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315160088625",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:53:25.755623+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315160088625,
+        "rpid_str": "315160088625",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790431015,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_8ac3c0e87bca5c0935963a29",
+        "content": {
+          "message": "好家伙 梦见月一队 木偶一队 薇斯纳一队 齐活"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0cb93484e390f9e3999e21d7af19c32f84f34eb8af2c2867344a744b38403363",
+  "original_bytes_sha256": "af26da3cf8d302d69b283895ce0057f8c8ca8c89e4c6baecb25e00e98a4adbdc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

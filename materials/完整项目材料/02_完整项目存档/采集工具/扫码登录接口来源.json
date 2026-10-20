@@ -1,0 +1,10 @@
+{
+  "official_page": "https://passport.bilibili.com/login",
+  "url": "https://s1.hdslb.com/bfs/static/2233-monorepo/passport/static/js/async/630.88d25301.js",
+  "sha256": "8e73a4225698ef5f611a4dde61d5d0dd62d180fda2742248aeaf0a6f6e760f53",
+  "purpose": "核验B站正常扫码登录端点",
+  "endpoints": [
+    "/x/passport-login/web/qrcode/generate",
+    "/x/passport-login/web/qrcode/poll"
+  ]
+}

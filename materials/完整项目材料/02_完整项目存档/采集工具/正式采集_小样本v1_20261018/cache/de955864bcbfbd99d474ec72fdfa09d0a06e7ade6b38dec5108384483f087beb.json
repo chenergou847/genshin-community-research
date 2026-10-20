@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318547956688",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:06:30.250079+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315010590801,
+          "rpid_str": "315010590801",
+          "root": 318547956688,
+          "root_str": "318547956688",
+          "parent": 318547956688,
+          "parent_str": "318547956688",
+          "dialog": 315010590801,
+          "ctime": 1790323407,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "够了，2希提升也大。再上个万叶扩火。perfect"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315010542529,
+          "rpid_str": "315010542529",
+          "root": 318547956688,
+          "root_str": "318547956688",
+          "parent": 318547956688,
+          "parent_str": "318547956688",
+          "dialog": 315010542529,
+          "ctime": 1790323421,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318549124592,
+          "rpid_str": "318549124592",
+          "root": 318547956688,
+          "root_str": "318547956688",
+          "parent": 318547956688,
+          "parent_str": "318547956688",
+          "dialog": 318549124592,
+          "ctime": 1790323885,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_861c84eceef1b1b622877274",
+          "content": {
+            "message": "纯火直接双码头"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318547956688,
+        "rpid_str": "318547956688",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790323150,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_142e1cb115437a096637652b",
+        "content": {
+          "message": "01火神21希诺宁纯火能过n5冰棺吗？超载的四星没有一个是满的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2e4bcd3a9b15e9638b37385047dfd909a8ac6a22be78686bd2bbda5d6c339711",
+  "original_bytes_sha256": "c44252b22b9a34cdf38edadb5e48ec64b87710aee777d69deead9740c500e8cd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

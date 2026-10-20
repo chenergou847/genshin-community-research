@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315362694353",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:37:33.663006+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315365661617,
+          "rpid_str": "315365661617",
+          "root": 315362694353,
+          "root_str": "315362694353",
+          "parent": 315362694353,
+          "parent_str": "315362694353",
+          "dialog": 315365661617,
+          "ctime": 1790602976,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "火神带奥黛塔砂糖奶奶\n第二间龙芙万叶莱依拉等人\n第三间恰斯卡双火一雷，或者仆人超载"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315365737521,
+          "rpid_str": "315365737521",
+          "root": 315362694353,
+          "root_str": "315362694353",
+          "parent": 315362694353,
+          "parent_str": "315362694353",
+          "dialog": 315365737521,
+          "ctime": 1790602980,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色，你这配置已经够牛了。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315362694353,
+        "rpid_str": "315362694353",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790601218,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_015b590c49097aa8771f6091",
+        "content": {
+          "message": "@星光璀璨之时 up，我这n7有机会吗[大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/aea47234ae45ecfcfdf6fe2bd374de59146676478.jpg",
+              "img_width": 1260,
+              "img_height": 13748,
+              "img_size": 1757.17
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "eba4219f6200ef9aba571e2fa78488925c1ab6a7a5637fe419423a1b49b4f17e",
+  "original_bytes_sha256": "a5a7d8ac91656fedfa79641a31d1712a94d54e041b08849b890b3e370e03ae5b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315421802033",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:29:07.346642+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315421802033,
+        "rpid_str": "315421802033",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790661971,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_e1b63f049a0c27f997780911",
+        "content": {
+          "message": "大佬大佬，这个有希望可以过n5冰锅吗？QAQ",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3c392b5368b9ce8886c5def1b057718c594450482.jpg",
+              "img_width": 2800,
+              "img_height": 1280,
+              "img_size": 905.44
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4688d093f12e6bead169f164a490f41c28bdab999e00add249805ced8a5f0a37",
+  "original_bytes_sha256": "743972c70b07a0611dd9012e2305db7af519c505b1909a5d923a7b2f5eaff841",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,183 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315791874897",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:57:06.680988+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319422505120,
+          "rpid_str": "319422505120",
+          "root": 315791874897,
+          "root_str": "315791874897",
+          "parent": 315791874897,
+          "parent_str": "315791874897",
+          "dialog": 319422505120,
+          "ctime": 1790997032,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f6840557463fbca95bce95db",
+          "content": {
+            "message": "如果借恰斯卡的话可以打融化[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315848864513,
+          "rpid_str": "315848864513",
+          "root": 315791874897,
+          "root_str": "315791874897",
+          "parent": 319422505120,
+          "parent_str": "319422505120",
+          "dialog": 319422505120,
+          "ctime": 1790997897,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_90752d378fcb1841e7612168",
+          "content": {
+            "message": "回复 @随便就好了吧丶 :（叹气）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319468006080,
+          "rpid_str": "319468006080",
+          "root": 315791874897,
+          "root_str": "315791874897",
+          "parent": 315791874897,
+          "parent_str": "315791874897",
+          "dialog": 319468006080,
+          "ctime": 1791022387,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_244ccf8341b3337b84f9d661",
+          "content": {
+            "message": "给玛拉尼打用的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316103317217,
+          "rpid_str": "316103317217",
+          "root": 315791874897,
+          "root_str": "315791874897",
+          "parent": 315791874897,
+          "parent_str": "315791874897",
+          "dialog": 316103317217,
+          "ctime": 1791182999,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7aadf99e90d26f1145baabc9",
+          "content": {
+            "message": "我一命玛拉妮带托马爽飞了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315791874897,
+        "rpid_str": "315791874897",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790945512,
+        "like": 3,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_90752d378fcb1841e7612168",
+        "content": {
+          "message": "别的我不管，助演放个托马何意味？不放阿罗夏放托马？这期托马作用只有凑数了吧"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a6a7131f870f3d7d8bfbde6ee6fb78140bc72406f1bb76701100630e436c24e1",
+  "original_bytes_sha256": "1cbb0ab343ec8caf7e886b44cd93a84c1a12c566af8b17d3c19c7f78f9ccf6bf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

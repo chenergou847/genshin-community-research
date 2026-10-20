@@ -1,0 +1,51 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-18T05:51:22.630126+00:00",
+  "source_hash": "aa8854393d2da41eb3def2e39eda6c34b6a91fc48caade71cba6a1de0c386563",
+  "status": "FINISHED_WITH_UNRESOLVED_INTEGRITY_FAILURES",
+  "selection_hash": "4a22f96293600f69d116b49a8f01ec6ed751afb072d2615a29a0bd5eb1bec4f1",
+  "task": "Recover six parents and reconcile one inconsistent thread without changing locked sources/window or strict gate.",
+  "original_thread": {
+    "bvid": "BV1AQJU6hE93",
+    "root_id": "317186872241",
+    "declared": 17,
+    "enumerated": 17,
+    "status": "verified_equal_in_new_capture",
+    "evidence": "small_repair_004_verification.json"
+  },
+  "parents": {
+    "bvid": "BV12fJe6bEbz",
+    "required": 6,
+    "recovered": 0,
+    "status": "unresolved_no_actual_body_returned",
+    "evidence": "small_repair_parent_audit_002.json"
+  },
+  "source_total": {
+    "bvid": "BV1AQJU6hE93",
+    "saved_IDs": 1213,
+    "roots": 640,
+    "replies": 573,
+    "reported_total": 1214,
+    "gap": 1,
+    "status": "unresolved_after_full_capture_and_fresh_root_recheck",
+    "evidence": "small_repair_008_end_roots.json"
+  },
+  "active_collection": {
+    "sources_attempted": 17,
+    "sources_locked": 60,
+    "unique_IDs": 1525,
+    "roots": 738,
+    "replies": 787,
+    "changed": false
+  },
+  "candidate_recapture": {
+    "file": "small_repair_004_recapture.json",
+    "unique_IDs": 1213,
+    "promoted": false,
+    "reason": "Strict server-total equality failed."
+  },
+  "formal_random_comments_generated": 0,
+  "strict_gate_unchanged": true,
+  "tests_passed": 126,
+  "report": "32_两项评论完整性异常修复核验_20261018.md"
+}

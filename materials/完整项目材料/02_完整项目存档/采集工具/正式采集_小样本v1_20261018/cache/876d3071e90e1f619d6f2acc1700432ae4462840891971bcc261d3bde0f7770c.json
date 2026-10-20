@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318468248528",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:25:26.071068+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318468248528,
+        "rpid_str": "318468248528",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790257828,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9705877b2d69c752e200a783",
+        "content": {
+          "message": "打n6\n61丝2芙10爱00沃，01木偶00奥，21莱欧10神子\n第3间打算莱欧去打，必须要带奥黛塔，不然只能带冰主不知道伤害够不够；然后这样的话木偶打1可能伤害也不够，所以打算丝打1力大砖飞，2血量低01木偶应该够打？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fe8f3ed76f759a080009ab92cab23ea4613d39e2b2fdfc0953fa73b2238d6f5f",
+  "original_bytes_sha256": "b1e419dc2a07d1623924bf18cfa2675a66a4b63f24746796aec45fb7db47962d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

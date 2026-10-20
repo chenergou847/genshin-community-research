@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315503948017",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:17:54.852602+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315503948017,
+        "rpid_str": "315503948017",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790736313,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_2637e3c16b8b2b59b564406e",
+        "content": {
+          "message": "一开始看到冰盾只想着要火c纯火或者超载，提到一嘴怕黑男我就去试试，确实比火仆好打点",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5451c204439696baff9fce9d7e6f702b165916255.jpg",
+              "img_width": 1790,
+              "img_height": 800,
+              "img_size": 183.35,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2bc9209838a11519d9a65d393d29f7204b03f38d6b2ccabe2e6ba4ba0c2d2f49",
+  "original_bytes_sha256": "6b2d43557adbe7e8ab04763984384379c86e484ec505a5e3fadfdfbe70a57a03",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

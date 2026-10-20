@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316676436161",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:42:58.998767+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316710294065,
+          "rpid_str": "316710294065",
+          "root": 316676436161,
+          "root_str": "316676436161",
+          "parent": 316676436161,
+          "parent_str": "316676436161",
+          "dialog": 316710294065,
+          "ctime": 1791684453,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6ad6f0b4e85da24b62ecd887",
+          "content": {
+            "message": "可以吧  偶八一队  奥黛塔一队把上下路解决了  剩个冰锅不是随便打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316711946017,
+          "rpid_str": "316711946017",
+          "root": 316676436161,
+          "root_str": "316676436161",
+          "parent": 316706472977,
+          "parent_str": "316706472977",
+          "dialog": 316706472977,
+          "ctime": 1791685565,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db107b2ccd3f81033c3c87c7",
+          "content": {
+            "message": "回复 @升泷棠 :我过了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316712136673,
+          "rpid_str": "316712136673",
+          "root": 316676436161,
+          "root_str": "316676436161",
+          "parent": 316706472977,
+          "parent_str": "316706472977",
+          "dialog": 316706472977,
+          "ctime": 1791685766,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db107b2ccd3f81033c3c87c7",
+          "content": {
+            "message": "回复 @升泷棠 :木偶打第一间，梦见月打第二间，然后第三间是找这个up打的超载火神。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316676436161,
+        "rpid_str": "316676436161",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791643754,
+        "like": 4,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_db107b2ccd3f81033c3c87c7",
+        "content": {
+          "message": "我这个能n6吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d417a5f41eb2b41cd6dbede01ec47c2d555493182.jpg",
+              "img_width": 1440,
+              "img_height": 5771,
+              "img_size": 3687.12
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "20cfc359f998a3d4464cc1c8e0c241de11d7b9a05ae8df9792cb64b80acad5a9",
+  "original_bytes_sha256": "58513bb44c243dfe8ef365d5acb697aa5914ce2846614375ccbc888ac179454b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

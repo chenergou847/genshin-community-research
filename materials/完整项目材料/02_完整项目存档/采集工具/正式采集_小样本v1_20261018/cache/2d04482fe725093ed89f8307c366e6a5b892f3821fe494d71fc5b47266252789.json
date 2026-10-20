@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318509337248",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:17:10.790765+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314973683985,
+          "rpid_str": "314973683985",
+          "root": 318509337248,
+          "root_str": "318509337248",
+          "parent": 318509337248,
+          "parent_str": "318509337248",
+          "dialog": 314973683985,
+          "ctime": 1790300479,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "打老头，少女还得加金。打冰棺冰锅没问题"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314973703185,
+          "rpid_str": "314973703185",
+          "root": 318509337248,
+          "root_str": "318509337248",
+          "parent": 318509337248,
+          "parent_str": "318509337248",
+          "dialog": 314973703185,
+          "ctime": 1790300519,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶0命，视频说的是带2命奥黛塔。不然2命木偶和0奥黛塔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318509337248,
+        "rpid_str": "318509337248",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790300243,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b03ab64dc1097e7456ad2217",
+        "content": {
+          "message": "冰锅冰棺我都能打，请问一下21菲林斯月感电带00奥黛塔能打老头吗，虽然有00木偶但感觉不够用[笑哭]星超导只有2金，月感电四号位带奥黛塔有8金配置",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "64cb9c51cdacc1a5ce85947703ee66120a81696f79719b8309c36b0cc2bdfdcc",
+  "original_bytes_sha256": "e14773a18cfa6064e61687e8ec321f9f4038cf6a053202d1f50b822d2549adbf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

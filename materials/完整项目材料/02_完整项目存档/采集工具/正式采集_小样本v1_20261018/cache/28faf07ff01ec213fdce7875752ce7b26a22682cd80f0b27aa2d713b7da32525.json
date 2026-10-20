@@ -1,0 +1,669 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316019679729",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:45:50.867188+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316036344673,
+          "rpid_str": "316036344673",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316036344673,
+          "ctime": 1791123920,
+          "like": 73,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6e27ce90b5553433eb849dda",
+          "content": {
+            "message": "聊不下去，典型的融化思维[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316095642801,
+          "rpid_str": "316095642801",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316095642801,
+          "ctime": 1791178296,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b648261e81d3451dffbf9912",
+          "content": {
+            "message": "太典了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316160877793,
+          "rpid_str": "316160877793",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316160877793,
+          "ctime": 1791214479,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d2d2ba34071287cf5cd04b1",
+          "content": {
+            "message": "@丿空一 @青风kaer"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316190622241,
+          "rpid_str": "316190622241",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316190622241,
+          "ctime": 1791251976,
+          "like": 23,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f80fda567581bbbce92e7907",
+          "content": {
+            "message": "《跟你说不下去 典型的融火思维》[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316209788209,
+          "rpid_str": "316209788209",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316209788209,
+          "ctime": 1791263303,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1ae02263cf75204837b338de",
+          "content": {
+            "message": "无语，跟你聊不下去，典型的堆金数思维[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316283092289,
+          "rpid_str": "316283092289",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316283092289,
+          "ctime": 1791303058,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_30050bd8d1443f3fc68478b4",
+          "content": {
+            "message": "神了[笑哭]不过伊夏没6还真",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316369817297,
+          "rpid_str": "316369817297",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316369817297,
+          "ctime": 1791374152,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b40fd1b381f5b208ae660195",
+          "content": {
+            "message": "喜欢9融茜特菈莉吗，火神真是个完美挂火前台[笑哭][笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320009474608,
+          "rpid_str": "320009474608",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 320009474608,
+          "ctime": 1791399826,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a489639f4fce9be62b3b8a1",
+          "content": {
+            "message": "聊不下去，典型的娜塔战舰奶奶双枕头教学[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320011782064,
+          "rpid_str": "320011782064",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 320011782064,
+          "ctime": 1791404808,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1f1fc9271db6a49c8cd06b97",
+          "content": {
+            "message": "聊不下去，典型的融化思维[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316518869905,
+          "rpid_str": "316518869905",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316518869905,
+          "ctime": 1791517715,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c185c9129d07136a73e73e0d",
+          "content": {
+            "message": "融化又不是每段都能融，但超载的拐可是每段伤害都能拐到[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320286857264,
+          "rpid_str": "320286857264",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 320286857264,
+          "ctime": 1791638211,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_150a3964771f9faa02fcabb6",
+          "content": {
+            "message": "典型的瞧不起蕾神思维"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316680987409,
+          "rpid_str": "316680987409",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316680987409,
+          "ctime": 1791646394,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e2260d55dbf5afc5def62e90",
+          "content": {
+            "message": "火神，该走融化还是超载，我们这些年一直在讨论这个问题"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316705805777,
+          "rpid_str": "316705805777",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316705805777,
+          "ctime": 1791680904,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_41ad7bb789dd0d141940b353",
+          "content": {
+            "message": "火神8金以下都是走超载[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316914254097,
+          "rpid_str": "316914254097",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 316914254097,
+          "ctime": 1791862829,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d58d22680a50f8f03381099c",
+          "content": {
+            "message": "超载乱按还不怕乱反应"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321042569856,
+          "rpid_str": "321042569856",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 316019679729,
+          "parent_str": "316019679729",
+          "dialog": 321042569856,
+          "ctime": 1792254008,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c2c7b89a98ab7d5445e25d98",
+          "content": {
+            "message": "因为超载队友不算金数啊[呲牙]你看火神低金得分 几金 火神就是几个金",
+            "emote": {
+              "[呲牙]": {
+                "id": 1902,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[呲牙]",
+                "url": "https://i0.hdslb.com/bfs/emote/b5a5898491944a4268360f2e7a84623149672eb6.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "呲牙"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321042654000,
+          "rpid_str": "321042654000",
+          "root": 316019679729,
+          "root_str": "316019679729",
+          "parent": 321042569856,
+          "parent_str": "321042569856",
+          "dialog": 321042569856,
+          "ctime": 1792254040,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c2c7b89a98ab7d5445e25d98",
+          "content": {
+            "message": "回复 @米特奥拉在网上就是爹 :衡量成本吗 那你号里要是没有满夏满1不就老老实实打融化了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316019679729,
+        "rpid_str": "316019679729",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791115419,
+        "like": 45,
+        "rcount": 16,
+        "count": 18,
+        "state": 0,
+        "author_id": "U_1dcbaeb96b2a74483ef66b25",
+        "content": {
+          "message": "致敬还在坚持玩超载的版本逆行者[doge]反正有些人是这么认为的",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d782096944894533327a1da4d38ddd7c3461578831694782.jpg",
+              "img_width": 1408,
+              "img_height": 735,
+              "img_size": 278.19
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "dafa7c45521141ad3f084dd08403ed6f1ae431e07f46114160ff332cad2014ef",
+  "original_bytes_sha256": "1c5d57326781d7a740adfeb5cc8638cd1fe0f3ab334f994bc923b83b20fb80da",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

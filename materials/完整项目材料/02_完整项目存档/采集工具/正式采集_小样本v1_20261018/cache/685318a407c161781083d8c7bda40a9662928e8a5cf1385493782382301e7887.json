@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319158383920",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:10:09.178068+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319158400224,
+          "rpid_str": "319158400224",
+          "root": 319158383920,
+          "root_str": "319158383920",
+          "parent": 319158383920,
+          "parent_str": "319158383920",
+          "dialog": 319158400224,
+          "ctime": 1790796225,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e1e1d8044e785bee7402eb4f",
+          "content": {
+            "message": "没有瑞希，冰主还没练……"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319158383920,
+        "rpid_str": "319158383920",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790796166,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_e1e1d8044e785bee7402eb4f",
+        "content": {
+          "message": "拼命凹终于打过n5了，这期好吃力（）没有薇斯娜没有丝柯克没有纳塔角色也没有仆人……",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/eb9ddad848bde2391ee58ea2c2884b19160080934.png",
+              "img_width": 1270,
+              "img_height": 895,
+              "img_size": 1112.96
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9da3cf90b6cc2d7b339360f1d1f7e4782c93f3f2c78eac8a9827e528f43c4979",
+  "original_bytes_sha256": "6ee88be9a2b81945f27bbdbf2cb3b456ff8dcabe5ac0abd8eabb8258ad1d2f62",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

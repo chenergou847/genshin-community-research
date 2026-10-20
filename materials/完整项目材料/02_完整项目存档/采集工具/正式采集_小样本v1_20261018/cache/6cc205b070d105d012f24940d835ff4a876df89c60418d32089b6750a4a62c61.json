@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318527789600",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:10:53.039391+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318528142464,
+          "rpid_str": "318528142464",
+          "root": 318527789600,
+          "root_str": "318527789600",
+          "parent": 318527789600,
+          "parent_str": "318527789600",
+          "dialog": 318528142464,
+          "ctime": 1790311249,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c41c50db48b75402e3053126",
+          "content": {
+            "message": "摔门再现吗？[惊讶]",
+            "emote": {
+              "[惊讶]": {
+                "id": 13,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[惊讶]",
+                "url": "https://i0.hdslb.com/bfs/emote/f8e9a59cad52ae1a19622805696a35f0a0d853f3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "惊讶"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318529599872,
+          "rpid_str": "318529599872",
+          "root": 318527789600,
+          "root_str": "318527789600",
+          "parent": 318527789600,
+          "parent_str": "318527789600",
+          "dialog": 318529599872,
+          "ctime": 1790312084,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3b219c49df9f68d71307f35f",
+          "content": {
+            "message": "还是别做梦了，上期本来能摔的役人都加了防摔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318527789600,
+        "rpid_str": "318527789600",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790311039,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_4af3bf3455e33d248927edb3",
+        "content": {
+          "message": "老头能摔吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3474def3dc280afbd91eef3ad9ce547350b8b59f0fe6f82b356e141924e695a0",
+  "original_bytes_sha256": "927f748fdea04d270d6f7172720eadb9870844df1721a8e97fda64f7499f2b30",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

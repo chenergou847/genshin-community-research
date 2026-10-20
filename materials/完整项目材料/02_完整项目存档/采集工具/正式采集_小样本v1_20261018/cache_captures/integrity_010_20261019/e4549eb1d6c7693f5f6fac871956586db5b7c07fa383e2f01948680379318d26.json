@@ -1,0 +1,426 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "318915304256",
+    "ps": 20,
+    "next": 1
+  },
+  "captured_at": "2026-10-19T05:25:59.681749+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318915304256,
+        "rpid_str": "318915304256",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790599597,
+        "like": 2,
+        "rcount": 11,
+        "count": 15,
+        "state": 0,
+        "floor": 855,
+        "author_id": "U_083a1bb4430c8e3386b7a230",
+        "content": {
+          "message": "有n6风险吗[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5c8faaf211731ee4bf4101b2f1ec1a331938640909.jpg",
+              "img_width": 1080,
+              "img_height": 11239,
+              "img_size": 1376.31
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [
+          {
+            "rpid": 315366031681,
+            "rpid_str": "315366031681",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318915304256,
+            "parent_str": "318915304256",
+            "dialog": 315366031681,
+            "ctime": 1790603152,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 2,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "你兹白第三间都能打，带个火系工具人，"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315366041457,
+            "rpid_str": "315366041457",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318915304256,
+            "parent_str": "318915304256",
+            "dialog": 315366041457,
+            "ctime": 1790603169,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 3,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "中间娜维娅也行，带冰系压"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 318922503120,
+            "rpid_str": "318922503120",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 315365864721,
+            "parent_str": "315365864721",
+            "dialog": 315365864721,
+            "ctime": 1790603696,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 4,
+            "author_id": "U_083a1bb4430c8e3386b7a230",
+            "content": {
+              "message": "回复 @星光璀璨之时 :冰主能打吗，我瑞希的圣遗物实在太糟糕了"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315367294481,
+            "rpid_str": "315367294481",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318922503120,
+            "parent_str": "318922503120",
+            "dialog": 315365864721,
+            "ctime": 1790603845,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 5,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @玄黄-琉璃 :冰主N5就够[doge]。N6包你吃力。。本来是星扩散环境，减抗是星扩散有利。。星超导要加金，至少有个木偶",
+              "emote": {
+                "[doge]": {
+                  "id": 26,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[doge]",
+                  "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "doge"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315367480337,
+            "rpid_str": "315367480337",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318922503120,
+            "parent_str": "318922503120",
+            "dialog": 315365864721,
+            "ctime": 1790603998,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 8,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @玄黄-琉璃 :第二间用冰主奥黛塔星超导队"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315367571921,
+            "rpid_str": "315367571921",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318922503120,
+            "parent_str": "318922503120",
+            "dialog": 315365864721,
+            "ctime": 1790604042,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 9,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @玄黄-琉璃 :第一间兹白莉奈娅少女钟离，满命够了"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315367651761,
+            "rpid_str": "315367651761",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318922503120,
+            "parent_str": "318922503120",
+            "dialog": 315365864721,
+            "ctime": 1790604153,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 11,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @玄黄-琉璃 :第三间娜维娅希诺宁班尼特+香菱。你12金了，。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315367855025,
+            "rpid_str": "315367855025",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318915304256,
+            "parent_str": "318915304256",
+            "dialog": 315367855025,
+            "ctime": 1790604228,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 12,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "第三间双火还不够你破吗？娜维娅还是满命的，带希诺宁。班尼特香菱"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315367945169,
+            "rpid_str": "315367945169",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318915304256,
+            "parent_str": "318915304256",
+            "dialog": 315367945169,
+            "ctime": 1790604246,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 13,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "第二间冰主带奥黛塔打星超导就行了。二命奥黛塔够"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315368024065,
+            "rpid_str": "315368024065",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 318915304256,
+            "parent_str": "318915304256",
+            "dialog": 315368024065,
+            "ctime": 1790604263,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 14,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "第一间兹白满命的，那不是随便打。。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 318923914864,
+            "rpid_str": "318923914864",
+            "root": 318915304256,
+            "root_str": "318915304256",
+            "parent": 315367945169,
+            "parent_str": "315367945169",
+            "dialog": 315367945169,
+            "ctime": 1790604541,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 15,
+            "author_id": "U_083a1bb4430c8e3386b7a230",
+            "content": {
+              "message": "回复 @星光璀璨之时 :okok，谢谢思路，确实啊冰主不去打老头才知道外面根本没下雨，冰锅随便打啊[大哭][大哭]",
+              "emote": {
+                "[大哭]": {
+                  "id": 5,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[大哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "大哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "f3003dc8f60f18099f0a1450a602085ec4a5e1bca188b599dc6a7be6cbd2f812",
+  "original_bytes_sha256": "7283525ba1bc4b963c7f597fd53f7bec314c552b970f4bee53fd984333988898",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

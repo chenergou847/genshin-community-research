@@ -1,0 +1,312 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319332524208",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:12:04.503271+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319333139296,
+          "rpid_str": "319333139296",
+          "root": 319332524208,
+          "root_str": "319332524208",
+          "parent": 319332524208,
+          "parent_str": "319332524208",
+          "dialog": 319333139296,
+          "ctime": 1790929670,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4e6105489aedb3757a62b672",
+          "content": {
+            "message": "哈哈，卡一命了[灵魂出窍]",
+            "emote": {
+              "[灵魂出窍]": {
+                "id": 16,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[灵魂出窍]",
+                "url": "https://i0.hdslb.com/bfs/emote/43d3db7d97343c01b47e22cfabeca84b4251f35a.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "灵魂出窍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319333222672,
+          "rpid_str": "319333222672",
+          "root": 319332524208,
+          "root_str": "319332524208",
+          "parent": 319333139296,
+          "parent_str": "319333139296",
+          "dialog": 319333139296,
+          "ctime": 1790929726,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f484c632cbe28cc3665cd2c4",
+          "content": {
+            "message": "回复 @细胞仔 :我本来是能2命的，但还是决定留给薇斯纳命座了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315763213249,
+          "rpid_str": "315763213249",
+          "root": 319332524208,
+          "root_str": "319332524208",
+          "parent": 319333222672,
+          "parent_str": "319333222672",
+          "dialog": 319333139296,
+          "ctime": 1790930018,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9b530f1844ac8007676d6714",
+          "content": {
+            "message": "回复 @TF燕归来 :2奥＞2薇"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319334489744,
+          "rpid_str": "319334489744",
+          "root": 319332524208,
+          "root_str": "319332524208",
+          "parent": 315763213249,
+          "parent_str": "315763213249",
+          "dialog": 319333139296,
+          "ctime": 1790930451,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f484c632cbe28cc3665cd2c4",
+          "content": {
+            "message": "回复 @小熊又摊手 :和1薇比呢，抽不到2薇了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315765598705,
+          "rpid_str": "315765598705",
+          "root": 319332524208,
+          "root_str": "319332524208",
+          "parent": 319332524208,
+          "parent_str": "319332524208",
+          "dialog": 315765598705,
+          "ctime": 1790931549,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_329f557c8fbebb066e49b718",
+          "content": {
+            "message": "我就不一样了，直接一波捕获明光然后双金到3命，含泪上4命"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315770200625,
+          "rpid_str": "315770200625",
+          "root": 319332524208,
+          "root_str": "319332524208",
+          "parent": 319332524208,
+          "parent_str": "319332524208",
+          "dialog": 315770200625,
+          "ctime": 1790934205,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f8547487dc61e56a943f3c11",
+          "content": {
+            "message": "提前1命，所以抽了二命[笑哭]，现在看挺香的，也能低价造星扩体系。",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319341392160,
+          "rpid_str": "319341392160",
+          "root": 319332524208,
+          "root_str": "319332524208",
+          "parent": 319332524208,
+          "parent_str": "319332524208",
+          "dialog": 319341392160,
+          "ctime": 1790934460,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_684707fecc1b9986c2ab25fb",
+          "content": {
+            "message": "2奥＞2薇，01薇&gt;10薇&gt;1奥 看你几金预算"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319332524208,
+        "rpid_str": "319332524208",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790929323,
+        "like": 1,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_f484c632cbe28cc3665cd2c4",
+        "content": {
+          "message": "看来抽1命的基本都抽2命了[笑哭]，星扩散队里2命奥黛塔和1命薇斯纳对比上一个命座哪个提升更多一些",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a90ce963fa75b00ee442f634a6083f3fd668c5676619dd705102e43a8c05dc2d",
+  "original_bytes_sha256": "7c4b7e9ab825c41c13a58ed999cba0c6c57a66208662343529787ecdac96f9a1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

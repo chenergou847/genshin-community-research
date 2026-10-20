@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315323830369",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:41:38.019841+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315324027169,
+          "rpid_str": "315324027169",
+          "root": 315323830369,
+          "root_str": "315323830369",
+          "parent": 315323830369,
+          "parent_str": "315323830369",
+          "dialog": 315324027169,
+          "ctime": 1790574449,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔阿罗夏+砂糖/七七等都行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315324047601,
+          "rpid_str": "315324047601",
+          "root": 315323830369,
+          "root_str": "315323830369",
+          "parent": 315323830369,
+          "parent_str": "315323830369",
+          "dialog": 315324047601,
+          "ctime": 1790574500,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间龙芙+奶奶+夏洛蒂"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315324078177,
+          "rpid_str": "315324078177",
+          "root": 315323830369,
+          "root_str": "315323830369",
+          "parent": 315323830369,
+          "parent_str": "315323830369",
+          "dialog": 315324078177,
+          "ctime": 1790574579,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间仆人超载队，或者带万叶扩火配合班尼特这个强火破冰盾的纯火队。胡桃一命打N5也够，看你两个人选谁"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315324159697,
+          "rpid_str": "315324159697",
+          "root": 315323830369,
+          "root_str": "315323830369",
+          "parent": 315323830369,
+          "parent_str": "315323830369",
+          "dialog": 315324159697,
+          "ctime": 1790574601,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315323830369,
+        "rpid_str": "315323830369",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790574350,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_dc70873dd16861226f4531a6",
+        "content": {
+          "message": "能打n5吗[星星眼]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/906abb0e45baf47a86e2382de7e207341758226168.jpg",
+              "img_width": 1080,
+              "img_height": 10332,
+              "img_size": 1242.94
+            }
+          ],
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0b3922fa0a8917033d626a7771368970e8450c536f97166bceecfafba2f4d011",
+  "original_bytes_sha256": "f36cca185dc3829c6e1662fbb21f58ba36a366bd22fc0d92490eab593de52a3a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

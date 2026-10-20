@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315665378177",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:20:59.165527+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315667170913,
+          "rpid_str": "315667170913",
+          "root": 315665378177,
+          "root_str": "315665378177",
+          "parent": 315665378177,
+          "parent_str": "315665378177",
+          "dialog": 315667170913,
+          "ctime": 1790853528,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_38642461851ee9ea689878da",
+          "content": {
+            "message": "蹲，感觉有戏，2奶是100w，我0奶试了5级a65w，感觉可行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315667252209,
+          "rpid_str": "315667252209",
+          "root": 315665378177,
+          "root_str": "315665378177",
+          "parent": 315665378177,
+          "parent_str": "315665378177",
+          "dialog": 315667252209,
+          "ctime": 1790853557,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_38642461851ee9ea689878da",
+          "content": {
+            "message": "但是实战打不出那么多融，最多6融"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315774870369,
+          "rpid_str": "315774870369",
+          "root": 315665378177,
+          "root_str": "315665378177",
+          "parent": 315667252209,
+          "parent_str": "315667252209",
+          "dialog": 315667252209,
+          "ctime": 1790936777,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fe264ccc8a251b1be0d57df8",
+          "content": {
+            "message": "回复 @--SHIVERING-- :不太行，还差可能有1/8左右"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315665378177,
+        "rpid_str": "315665378177",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790852559,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_fe264ccc8a251b1be0d57df8",
+        "content": {
+          "message": "21闲00茜有机会过吗？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fa678d38cf6b7d2391daaf6fad556ab83724280bbaed3af831e3d1197fd0eacf",
+  "original_bytes_sha256": "150a04b29f1d3d97c04174eae1659c97726d94cefc426606f7d91bb466fa2b3d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

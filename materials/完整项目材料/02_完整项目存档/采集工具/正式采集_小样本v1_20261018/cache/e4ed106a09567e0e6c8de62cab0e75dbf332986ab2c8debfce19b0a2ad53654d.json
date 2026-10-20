@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319427666976",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:23.694334+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319449613728,
+          "rpid_str": "319449613728",
+          "root": 319427666976,
+          "root_str": "319427666976",
+          "parent": 319427666976,
+          "parent_str": "319427666976",
+          "dialog": 319449613728,
+          "ctime": 1791012025,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b74868fca580d4b66d2f2473",
+          "content": {
+            "message": "皇帝换月亮吗 我多一张皇帝"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319449595024,
+          "rpid_str": "319449595024",
+          "root": 319427666976,
+          "root_str": "319427666976",
+          "parent": 319427666976,
+          "parent_str": "319427666976",
+          "dialog": 319449595024,
+          "ctime": 1791012059,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b74868fca580d4b66d2f2473",
+          "content": {
+            "message": "uid 100639892"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319487659424,
+          "rpid_str": "319487659424",
+          "root": 319427666976,
+          "root_str": "319427666976",
+          "parent": 319449613728,
+          "parent_str": "319449613728",
+          "dialog": 319449613728,
+          "ctime": 1791032554,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_27dea83ffd4009a52800da5d",
+          "content": {
+            "message": "回复 @七泠鹤 :可换"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319427666976,
+        "rpid_str": "319427666976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790999870,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_27dea83ffd4009a52800da5d",
+        "content": {
+          "message": "有无换牌的",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/24547d5017b871e2fc1ba3a36088653471084800.jpg",
+              "img_width": 1080,
+              "img_height": 7613,
+              "img_size": 641.75
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e8f7f3e0814e60dfad0240d3679de1fe2dc3d26abc711287029b358d41ff182e",
+  "original_bytes_sha256": "1d6b146d9e563c614c01bdcb89df24e1fadaa756593ce1354147888aca13868b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

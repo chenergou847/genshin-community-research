@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318493297552",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:19:38.945986+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318495003664,
+          "rpid_str": "318495003664",
+          "root": 318493297552,
+          "root_str": "318493297552",
+          "parent": 318493297552,
+          "parent_str": "318493297552",
+          "dialog": 318495003664,
+          "ctime": 1790278866,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8b42e1f0bd7447f5a76f585",
+          "content": {
+            "message": "1风仙人鱼冰主珐姐。或者换猫猫。\n2skk队\n3木偶天鹅希诺宁阿罗夏"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318493297552,
+        "rpid_str": "318493297552",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790275865,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_49946a195f454ae78915613b",
+        "content": {
+          "message": "n5配队怎么凑",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d5d157cc8330bb57665c6a993c328315598701915.jpg",
+              "img_width": 1200,
+              "img_height": 12006,
+              "img_size": 1493.43
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6cc3afcd4c9b115fa342d4751660c17c25111c46dcddaaf17e2ff68faa4fd50b",
+  "original_bytes_sha256": "080b25830aa8ea4b21c9af1cfcfb6d69f96f211776d749ac34853bfaa979ec88",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

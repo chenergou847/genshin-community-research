@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315303465201",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:44:38.591704+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315303465201,
+        "rpid_str": "315303465201",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790558233,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_a97c5a66c0cb9a199d0544ab",
+        "content": {
+          "message": "第一间梦见月法姐奥黛塔猫猫 第二间木偶阿罗夏冰主七七 第三间仆人杜尼超载队 n5肯定能过的 n6有机会吗 感觉会卡在第一间dps上 第一间梦见月实战面板精通1500+ 双爆95/170（含双冰 不算法姐给的buff） 到时候砺行修远还能换一命",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/820028a9298014f5f817ebd5432e3d5b3493273240864773.jpg",
+              "img_width": 1080,
+              "img_height": 4503,
+              "img_size": 2423.71
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0c18f5bd09a04a4ac110aa2748e74b7fb58c1c4ca018d9a9eb5f52f8ec10c4c2",
+  "original_bytes_sha256": "9eb19f2fb8cb5a1dbcc60d5c7f11502b3f458468c5ef0a755f9dd308bda0a63d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

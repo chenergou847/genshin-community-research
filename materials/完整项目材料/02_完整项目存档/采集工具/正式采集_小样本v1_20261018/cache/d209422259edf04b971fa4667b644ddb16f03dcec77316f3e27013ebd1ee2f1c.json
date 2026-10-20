@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315579915009",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:38:13.529310+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315579915009,
+        "rpid_str": "315579915009",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790781582,
+        "like": 16,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_09465a3cf5a549dae8680d91",
+        "content": {
+          "message": "孩子们，星扩散牛福，1命8级天赋瑞希，全队0金都能打过n4[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4de01b5b0789c8390eb7938a4fc3d7a61910243296.jpg",
+              "img_width": 2800,
+              "img_height": 1260,
+              "img_size": 1445.84
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d34bcee4cc609a1847e0137511a3e68e4813f6206cd7686df722702424ecdbb7",
+  "original_bytes_sha256": "9371c733aaa6553412ed6406edde3cb74f90c60f09e2046f5f5e79df4bafc792",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

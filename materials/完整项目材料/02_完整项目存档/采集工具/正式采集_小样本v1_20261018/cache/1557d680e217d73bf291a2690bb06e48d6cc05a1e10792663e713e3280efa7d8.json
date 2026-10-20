@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315713565681",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:34:02.764631+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 22
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319469921696,
+          "rpid_str": "319469921696",
+          "root": 315713565681,
+          "root_str": "315713565681",
+          "parent": 319316429408,
+          "parent_str": "319316429408",
+          "dialog": 315716394913,
+          "ctime": 1791023385,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ff5a2399dd10eeacfc0c424f",
+          "content": {
+            "message": "回复 @小晓嘿呀 :我这期也遇到了，刚好就把龙王和梦见月给恢复了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319787357920,
+          "rpid_str": "319787357920",
+          "root": 315713565681,
+          "root_str": "315713565681",
+          "parent": 319333952320,
+          "parent_str": "319333952320",
+          "dialog": 315716394913,
+          "ctime": 1791253679,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_abdeadbf96451930a1144e32",
+          "content": {
+            "message": "回复 @灵活摸鱼 :上一期复活就精准命中了我队伍中唯一的边角料：卡维[热]",
+            "emote": {
+              "[热]": {
+                "id": 7647,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[热]",
+                "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "热"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315713565681,
+        "rpid_str": "315713565681",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790895036,
+        "like": 181,
+        "rcount": 22,
+        "count": 23,
+        "state": 0,
+        "author_id": "U_bf405d76e9283fa4e8e8f49e",
+        "content": {
+          "message": "龙王太赖了，一条龙打了四间。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4eb8a9e5592d41f833b5ab82d3fbe7c6a885dcc6acae3d5af2170e3a4daaa814",
+  "original_bytes_sha256": "4e7b3eea0c74e5b50242e0579c5ef4d2b41ed46bd5210092452d4d64ff7e5634",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

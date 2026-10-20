@@ -1,0 +1,79 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320926582240",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:05:40.946472+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320926582240,
+        "rpid_str": "320926582240",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792168115,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_75bab675c0f5a37983a2c523",
+        "content": {
+          "message": "孩子们3轮肘飞这玩意儿 尽力了[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/740121c2d45ee372df1f771a8789573f3546856476903740.jpg",
+              "img_width": 2510,
+              "img_height": 1156,
+              "img_size": 1804.47
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "70f421f9775755f136ec8fd73a33d21a601e4bbd7fc216e2b954cce050fed888",
+  "original_bytes_sha256": "1f38e0d03445bd95e2eef2d61f084f00ddc9fa0eb9afc4dea0738bd217cc46e0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

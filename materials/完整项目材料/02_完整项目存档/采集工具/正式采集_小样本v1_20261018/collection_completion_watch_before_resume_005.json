@@ -1,0 +1,46 @@
+{
+  "at": "2026-10-18T11:50:28.750210+00:00",
+  "automation_id": "b",
+  "status": "PAUSED",
+  "current_resume_checkpoint": "small_collection_resume_004.json",
+  "notified": true,
+  "known_holds": [
+    "missing_6_parents",
+    "one_unexplained_server_total_gap"
+  ],
+  "previous_watch_saved_as": "collection_completion_watch_before_resume_004.json",
+  "notification_event": "resume_004_stopped_new_total_mismatch",
+  "execution_at": "2026-10-18T11:46:19.924641+00:00",
+  "collection_hash": "947b61b1a0cc2fb6e104ef44d68e9ebb7551d9595b9542d22bf3aa9ea09eb016",
+  "summary": {
+    "videos_attempted": 42,
+    "videos_selected": 60,
+    "all_sources_attempted": false,
+    "statuses": {
+      "enumerated_pending_review": 39,
+      "incomplete": 3
+    },
+    "raw_unique_IDs_saved": 2755,
+    "roots": 1112,
+    "replies": 1643,
+    "missing_parent_rows": 6,
+    "sources_with_missing_parents": 1,
+    "failures": [
+      {
+        "bvid": "BV12fJe6bEbz",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1AQJU6hE93",
+        "reason": "root_rcount_vs_reply_count_mismatch"
+      },
+      {
+        "bvid": "BV1zLJv6mE8T",
+        "reason": "root_plus_reply_count_mismatch:154!=155"
+      }
+    ],
+    "reason": "入选视频未完整枚举；保留失败，不换来源、不从热评抽10条",
+    "formal_random_comments_drawn": 0
+  },
+  "notification": "Reported 42/60 processed, 2755 unique IDs (1112 roots/1643 replies), new 154!=155 source mismatch, existing holds retained; formal sample incomplete."
+}

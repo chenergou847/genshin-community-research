@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "320985661472",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:51:53.636055+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320985661472,
+        "rpid_str": "320985661472",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792222582,
+        "like": 4,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_aeb6faec31386f646a6f0346",
+        "content": {
+          "message": "梦见月加强挺不错的，垃圾练度带上冰主珐露珊猫猫能深渊满星。我们的瑕不掩疵的镜流不可多让，带上火刃水鸟风景跟空气大人打得有来有回。加强幅度都挺大的。[doge][doge][doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "6749e36f789e9823b97af8f59a7b5e3922e7dc6568c37ddba345d1bf200a4b04",
+  "original_bytes_sha256": "2f684926e3a478912532dfcea736281c44d7e08660f728bbb90d13d50a971722",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

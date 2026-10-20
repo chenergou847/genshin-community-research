@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315557423377",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:40:10.383604+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 13
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315557423377,
+        "rpid_str": "315557423377",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790769052,
+        "like": 34,
+        "rcount": 13,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_2cfe84251f7d56017a19ae3f",
+        "content": {
+          "message": "明天我的薇斯纳就能抽出来了，严肃大保底70抽了[星星眼]",
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bbb7bc7b0f9729e47c83d4888cec2f9aece1407a63850e2e6b2a047af9c1a59e",
+  "original_bytes_sha256": "d2bc519762a1d21adfb4a58b06fbea5e2a6a0e79766eee8cfcd9e4eea8c9dbad",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

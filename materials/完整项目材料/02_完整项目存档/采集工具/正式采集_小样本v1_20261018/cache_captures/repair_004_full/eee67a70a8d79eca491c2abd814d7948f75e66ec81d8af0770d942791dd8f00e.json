@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317218409537",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:40:29.585599+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317218409537,
+        "rpid_str": "317218409537",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792136095,
+        "like": 7,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_d7426e7799ccf4b6a0f98d98",
+        "content": {
+          "message": "甚至洛恩都打满了。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4ae10029ae749abe91253679cd0f132d15173160.jpg",
+              "img_width": 942,
+              "img_height": 2390,
+              "img_size": 982.31
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "ceabce6eb2d7f1b16538f8552fe3e5ad7aeb9749280446ef9725bdf530515e14",
+  "original_bytes_sha256": "0d2833d19c4b9e487d0ad2615585526978ca91ea6f1ecb642b4f27d2d65e374e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

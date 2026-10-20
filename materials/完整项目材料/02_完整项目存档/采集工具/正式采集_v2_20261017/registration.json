@@ -1,0 +1,44 @@
+{
+  "config_hash": "2537eb1aafca8a941f869406833f5288ac6f1934fddc2d7f083d93e11c30127c",
+  "registered_at": "2026-10-17T15:17:20.646872+00:00",
+  "t0": "2026-10-17T23:09:00+08:00",
+  "parent_registration_hash": "f48f45c97e71f443aeb4694045c3c5fd788a416fbe4064b9d3666f67ea213929",
+  "periods": {
+    "abyss": {
+      "period_id": "CN-7.1-abyss-20261016",
+      "start": "2026-10-16T04:00:00+08:00",
+      "characteristics": "骇星之月；第11层风/冰伤+60%；第12层上半星烁反应伤害+75%、下半冰伤+75%；11/12层当期阵容另随视频核验",
+      "evidence": "https://ys.mihoyo.com/main/news/detail/166392，九、深境螺旋（日期和祝福/地脉）；小时依据：用户本会话明确确认国服时刻；不冒称官网7.1正文写了04:00",
+      "verified_by": "AI读取官网日期与规则；用户确认国服刷新小时"
+    },
+    "theater": {
+      "period_id": "CN-7.1-theater-20261001",
+      "start": "2026-10-01T04:00:00+08:00",
+      "characteristics": "限定水、冰、风；开幕那维莱特、芭芭拉、茜特菈莉、凯亚、流浪者、布伦妮；特邀伊涅芙、八重神子、托马、千织",
+      "evidence": "https://ys.mihoyo.com/main/news/detail/166392，八、幻想真境剧诗第一期（日期/元素/开幕/特邀）；小时依据：用户本会话明确确认国服时刻；不冒称官网7.1正文写了04:00",
+      "verified_by": "AI读取官网日期与规则；用户确认国服刷新小时"
+    },
+    "stygian": {
+      "period_id": "CN-7.1-stygian-20260930",
+      "start": "2026-09-30T10:00:00+08:00",
+      "characteristics": "7.1活动区间9月30日至11月3日；紊乱爆发期9月30日至10月10日；三场当期敌人与难度随原视频实机内容核验，不凭7.1标题认定",
+      "evidence": "https://www.taptap.cn/moment/853584114496833713?group_id=201765 西风快报员活动公告；用户本会话确认国服10:00",
+      "verified_by": "AI读取官方运营账号公告；用户确认国服开放小时"
+    }
+  },
+  "date_partitioning": {
+    "begin_param": "pubtime_begin_s",
+    "end_param": "pubtime_end_s",
+    "result_cap": 1000,
+    "evidence": "正常B站搜索页最近一周控件生成秒时间戳；对应普通WBI搜索请求返回视频日期均在界内，见../接口核验_20261017_2300/日期筛选契约核验.json",
+    "algorithm": "每查询从[0,T0]开始；触及1000结果或50页上限则在整数秒中点二分；子区间[lo,mid]与[mid+1,hi]；每个未触顶叶区间完整分页；单秒仍触顶或任一缺页则失败",
+    "amendment_reason": "主查询真实遇到平台截断，按12-v1既定日期分箱规则落实，不调整关键词、相关性或样本目标"
+  },
+  "queries_hash": "cee96336298873807153dc3646e2e86fc4271e814bd4358c97f53d3a9467a9c5",
+  "targets": {
+    "main": 400,
+    "raw_audit": 200,
+    "coding_review": 100
+  },
+  "purpose": "正常网页接口及日期分箱技术修订；未冻结视频库，未产生正式样本"
+}

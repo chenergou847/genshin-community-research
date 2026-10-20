@@ -1,0 +1,190 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "317288005089",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:01:43.715392+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320946326576,
+          "rpid_str": "320946326576",
+          "root": 317288005089,
+          "root_str": "317288005089",
+          "parent": 317288005089,
+          "parent_str": "317288005089",
+          "ctime": 1792197802,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c92b18872d13b5f2a4cb11b0",
+          "content": {
+            "message": "赢不了全給配了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320948271392,
+          "rpid_str": "320948271392",
+          "root": 317288005089,
+          "root_str": "317288005089",
+          "parent": 317288005089,
+          "parent_str": "317288005089",
+          "ctime": 1792199527,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6a74ac0313f5eba05ac6404c",
+          "content": {
+            "message": "要是输了我把全图的盗宝团清了[生气]",
+            "emote": {
+              "[生气]": {
+                "id": 10,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[生气]",
+                "url": "https://i0.hdslb.com/bfs/emote/3195714219c4b582a4fb02033dd1519913d0246d.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "生气"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320957191088,
+          "rpid_str": "320957191088",
+          "root": 317288005089,
+          "root_str": "317288005089",
+          "parent": 317288005089,
+          "parent_str": "317288005089",
+          "ctime": 1792205828,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_268d127f4b48c936c6d91e60",
+          "content": {
+            "message": "意气风发啊，火瓶哥!"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320957937632,
+          "rpid_str": "320957937632",
+          "root": 317288005089,
+          "root_str": "317288005089",
+          "parent": 317288005089,
+          "parent_str": "317288005089",
+          "ctime": 1792206234,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fe6920d769a9f97f0ff1a046",
+          "content": {
+            "message": "现在知道为什么盗宝团能够纵横天下，而镀金旅团只能在沙漠里吃沙子了[笑哭][笑哭][笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317288005089,
+        "rpid_str": "317288005089",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792196468,
+        "like": 37,
+        "rcount": 4,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_ced443fe43264aaf80500214",
+        "content": {
+          "message": "孩子们十点等着我的好消息[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9f23dd49b384a2ebec3c9210d4a662803690991976450966.jpg",
+              "img_width": 1200,
+              "img_height": 830,
+              "img_size": 537.2
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "e320bbbceb2948c00ce132bb6efb057fcfa1cdfd80eda0a078d2ca65a5b45c1e",
+  "original_bytes_sha256": "532484b07acd0c9cc5e282478dca258c2347165aeec29f0c8d1ded17f0368468",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315181043457",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:51:47.442253+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315196560449,
+          "rpid_str": "315196560449",
+          "root": 315181043457,
+          "root_str": "315181043457",
+          "parent": 315181043457,
+          "parent_str": "315181043457",
+          "dialog": 315196560449,
+          "ctime": 1790471374,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "2+1肯定更快了。薇斯纳最低4金及以上有机会。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315181043457,
+        "rpid_str": "315181043457",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790443925,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_28cb346f58ed9fc300f42269",
+        "content": {
+          "message": "抽个21薇斯纳n6有梦吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e4362f011556ab6966841e97b4765aa9283880664.jpg",
+              "img_width": 1171,
+              "img_height": 15000,
+              "img_size": 8135.71,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c160d831c6bd17b74dfe3c5e79311662f1686dbd074493d3eda004d9b0ac174b",
+  "original_bytes_sha256": "39239f154359b0e5fa54164755f9cbe4de396a10a5d4d180949774d8a45d9c44",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

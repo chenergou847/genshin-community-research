@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363890455707",
+    "root": "319257217232",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:41:14.860013+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315726681969,
+          "rpid_str": "315726681969",
+          "root": 319257217232,
+          "root_str": "319257217232",
+          "parent": 319257217232,
+          "parent_str": "319257217232",
+          "dialog": 315726681969,
+          "ctime": 1790907962,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_89611279f2d753357a86456a",
+          "content": {
+            "message": "这些角色除了星体系啥都能打吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319325831232,
+          "rpid_str": "319325831232",
+          "root": 319257217232,
+          "root_str": "319257217232",
+          "parent": 315726681969,
+          "parent_str": "315726681969",
+          "dialog": 315726681969,
+          "ctime": 1790925277,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_799eae691e14e7102cd282e6",
+          "content": {
+            "message": "确实，但能再借个强C总归会舒适一些嘛"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320629095888,
+          "rpid_str": "320629095888",
+          "root": 319257217232,
+          "root_str": "319257217232",
+          "parent": 319257217232,
+          "parent_str": "319257217232",
+          "dialog": 320629095888,
+          "ctime": 1791918581,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_127bf006dfeab70e093045c7",
+          "content": {
+            "message": "主c钟离玩不玩（掏出自己唯一一个2命以上限五岩系）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319257217232,
+        "rpid_str": "319257217232",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790866291,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_799eae691e14e7102cd282e6",
+        "content": {
+          "message": "UID259358590，想找一个2命及以上风/岩/雷C好友，有加的吗[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/10b5e7279242b8c4241ee6a124797a403493132601657823.jpg",
+              "img_width": 1079,
+              "img_height": 2042,
+              "img_size": 665.67
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a4a413e8da6341df1dea92674f18f2d38ae667e875da3667ce236aede8cf376e",
+  "original_bytes_sha256": "4d797f18a5040c28f1d5e6d94a8c2bbd989332b96d3d4b942a3651f61b5653b9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

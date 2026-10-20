@@ -1,0 +1,158 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318623235920",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:57:34.511094+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315708272945,
+          "rpid_str": "315708272945",
+          "root": 318623235920,
+          "root_str": "318623235920",
+          "parent": 318623235920,
+          "parent_str": "318623235920",
+          "dialog": 315708272945,
+          "ctime": 1790880478,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_eb07c979f918b574d566b076",
+          "content": {
+            "message": "感觉可以第一间菲林斯队 第二间冰主 第三间火神队？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319316520496,
+          "rpid_str": "319316520496",
+          "root": 318623235920,
+          "root_str": "318623235920",
+          "parent": 318623235920,
+          "parent_str": "318623235920",
+          "dialog": 319316520496,
+          "ctime": 1790919640,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2575f8cdba005fd55f1200e8",
+          "content": {
+            "message": "火神好打，我n4的盾就是用1金超载队打破的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319423281136,
+          "rpid_str": "319423281136",
+          "root": 318623235920,
+          "root_str": "318623235920",
+          "parent": 318623235920,
+          "parent_str": "318623235920",
+          "dialog": 319423281136,
+          "ctime": 1790997453,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_328c28a2f3892fa914e3a17c",
+          "content": {
+            "message": "我过n5了，火神加迪奥娜和奶奶第二间，菲林斯带冰主第三间，梦见月第一间"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318623235920,
+        "rpid_str": "318623235920",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790383582,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_328c28a2f3892fa914e3a17c",
+        "content": {
+          "message": "n4求配队，一般把月感电拆两队",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2c27e21ab54fe21844f05e864d6c128044807024.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 953.54,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ce3490e2a8cac23ebe6fb417923fb1d544807024.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 925.13,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e9ae63ccfb46c67ce3d8e4c6b29dfa07efc86c79ce38ee2c40f0a2118c5b7b59",
+  "original_bytes_sha256": "fad142a42cd2ed5cb82dff8bfb15f47131865c524a9528379a4e93c2cb16ed49",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

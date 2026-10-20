@@ -1,0 +1,328 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317229612353",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:38:24.228252+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320910914592,
+          "rpid_str": "320910914592",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 317229612353,
+          "parent_str": "317229612353",
+          "ctime": 1792159110,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_081263f43e1a431a838d8af0",
+          "content": {
+            "message": "好奇问下最后一间你怎么破的机制[思考]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317258025505,
+          "rpid_str": "317258025505",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 320910914592,
+          "parent_str": "320910914592",
+          "ctime": 1792159965,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_acc0c4493b27862e6d125d1d",
+          "content": {
+            "message": "回复 @醉心问月-_- :冰锅冰主奥黛塔随便破"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317258047153,
+          "rpid_str": "317258047153",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 320910914592,
+          "parent_str": "320910914592",
+          "ctime": 1792159997,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_acc0c4493b27862e6d125d1d",
+          "content": {
+            "message": "回复 @醉心问月-_- :我七七在老奶奶那里献祭了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320912626880,
+          "rpid_str": "320912626880",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 317258025505,
+          "parent_str": "317258025505",
+          "ctime": 1792160084,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_081263f43e1a431a838d8af0",
+          "content": {
+            "message": "回复 @o嘟嘟大魔王 :啊，不是要冻结反应吗，还是我记错了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317258534881,
+          "rpid_str": "317258534881",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 320912626880,
+          "parent_str": "320912626880",
+          "ctime": 1792160263,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_18a46ba221f14fbfc919c981",
+          "content": {
+            "message": "回复 @醉心问月-_- :第二间才是要冻结，冰锅是需要一直挂冰压进度，不是触发冰反应"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320913391168,
+          "rpid_str": "320913391168",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 317258534881,
+          "parent_str": "317258534881",
+          "ctime": 1792160428,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_081263f43e1a431a838d8af0",
+          "content": {
+            "message": "回复 @簖璃云怡 :好的，我一直理解错了我去[笑哭]但是第二间老奶奶也不是刚需冻结啊，我用的冲刺无敌帧都是无伤过机制，就是考验手法",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317262284369,
+          "rpid_str": "317262284369",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 320913391168,
+          "parent_str": "320913391168",
+          "ctime": 1792162327,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_18a46ba221f14fbfc919c981",
+          "content": {
+            "message": "回复 @醉心问月-_- :有冻结就有机制扣血，还能降低生存压力，能用自然是最好，没有就靠身法躲了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320992382224,
+          "rpid_str": "320992382224",
+          "root": 317229612353,
+          "root_str": "317229612353",
+          "parent": 320912626880,
+          "parent_str": "320912626880",
+          "ctime": 1792226957,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_067bc236d537e976811cef10",
+          "content": {
+            "message": "回复 @醉心问月-_- :冰锅是boss 怎么冻结 只是需要冰附着压制[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317229612353,
+        "rpid_str": "317229612353",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792144103,
+        "like": 5,
+        "rcount": 8,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_acc0c4493b27862e6d125d1d",
+        "content": {
+          "message": "老深渊一点难度都没我这种几十天的号都能满[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/bb933713364f2bfd24386b93c1738c5c35043452.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1136.37
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "942113d6f184194e1d478b2e6fab5062f2e8c08bb26c79310f40dfb2e5f807e5",
+  "original_bytes_sha256": "3f94f6e038b019d76470ad49680b213aac5af58ca12489e9bf5ef684454ca207",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

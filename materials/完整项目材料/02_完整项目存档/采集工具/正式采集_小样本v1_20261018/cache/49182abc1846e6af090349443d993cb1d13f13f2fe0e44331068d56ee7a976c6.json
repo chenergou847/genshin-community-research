@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315926302049",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:01:55.420644+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315926302049,
+        "rpid_str": "315926302049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791041529,
+        "like": 16,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_ef26b8b0e4c8bc49fda2f3b8",
+        "content": {
+          "message": "拉完了，急需加强。\n建议把天赋改成:时间管理，奥黛塔可以同时出现在两支队伍中。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a640cac294b1996146715a2063b1f5528494cf6941a4472be75dd198165206a7",
+  "original_bytes_sha256": "297afe3c7621451068f9dd3691d518843040d4fb30ccd47e8854969858fca67b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

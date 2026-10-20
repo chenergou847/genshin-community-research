@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314946826721",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:22:23.104253+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318481974688,
+          "rpid_str": "318481974688",
+          "root": 314946826721,
+          "root_str": "314946826721",
+          "parent": 314946826721,
+          "parent_str": "314946826721",
+          "dialog": 318481974688,
+          "ctime": 1790265497,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_11c592034100ca294638f7ba",
+          "content": {
+            "message": "吐雪球那个可以打到空中的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314948571569,
+          "rpid_str": "314948571569",
+          "root": 314946826721,
+          "root_str": "314946826721",
+          "parent": 314946826721,
+          "parent_str": "314946826721",
+          "dialog": 314948571569,
+          "ctime": 1790266020,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dfb9069dd9eff91d1c48f793",
+          "content": {
+            "message": "打不到柱子，需要一点手法，我用恰斯卡打12-3，能打，有点难受，不过就是无伤，它根本打不到你。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314946826721,
+        "rpid_str": "314946826721",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790264837,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_654dc9a301897c37350e7af5",
+        "content": {
+          "message": "老头能防空吗？感觉恰斯卡不用走机制"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "91788209730899506035587c07a6af333d7f0080f7b9402f60baae5ce6a9aaad",
+  "original_bytes_sha256": "13a13485230e01be8d9fb52276adb6e3bf00370c54cd39d646a6c443ba6cf1b2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

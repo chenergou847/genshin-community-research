@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319067469536",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:17:17.430686+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319067605824,
+          "rpid_str": "319067605824",
+          "root": 319067469536,
+          "root_str": "319067469536",
+          "parent": 319067469536,
+          "parent_str": "319067469536",
+          "dialog": 319067605824,
+          "ctime": 1790737163,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e6b43ce8808f6dd828042c96",
+          "content": {
+            "message": "这次的n6冰锅有点说法，最后三分之一血的时候，我丝柯克队伍都没压住，被激光扫死了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319067469536,
+        "rpid_str": "319067469536",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790737055,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_0fb0b855c6195d9ecfc29212",
+        "content": {
+          "message": "火神双冰怎么压不住冰锅了？是我操作有问题还是暗改了啊"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e6b57af3df2869a62e6e8e7031b4947c4f2b9ed608adb34466ac62f25a2a2c9f",
+  "original_bytes_sha256": "9bc91257ee4337b6ea17e49ee3c978eabbb6c91df3cde289f18f93041b66e31c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

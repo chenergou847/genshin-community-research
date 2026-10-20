@@ -1,0 +1,85 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318468324112",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:25:17.213894+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318468324112,
+        "rpid_str": "318468324112",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790257886,
+        "like": 1,
+        "rcount": 8,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_8b1c4990f6f8ca6ebcf63d3e",
+        "content": {
+          "message": "我这个n5怎么配队。原本想的是薇1+1沃0+1打矮灵，冰主奥黛塔1+1的星超导打冰棺，但试了下感觉没合适的能打冰锅的。我是用仆人超载去打冰棺吗？仆人只有0+1。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/606d872cbb7762c62ac851b9cdaccac4321245736.png",
+              "img_width": 1080,
+              "img_height": 2340,
+              "img_size": 1717.22,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/cd66574fabc0ae0ea401c4e581e9b346321245736.png",
+              "img_width": 1080,
+              "img_height": 2340,
+              "img_size": 1709.25,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4324faae06231fcaeb6835787dd196c3f017bd5cb19210a85a99ed9bb072bea1",
+  "original_bytes_sha256": "4674710cddc98fde23eb16d3e2404415ecb772081782809e8e98fa53d6a0336d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

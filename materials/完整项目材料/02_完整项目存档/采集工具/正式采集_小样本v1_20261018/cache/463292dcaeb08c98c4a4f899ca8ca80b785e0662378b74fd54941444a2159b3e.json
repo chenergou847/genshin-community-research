@@ -1,0 +1,226 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315737396129",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:13:53.009157+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319321484832,
+          "rpid_str": "319321484832",
+          "root": 315737396129,
+          "root_str": "315737396129",
+          "parent": 315737396129,
+          "parent_str": "315737396129",
+          "dialog": 319321484832,
+          "ctime": 1790922571,
+          "like": 8,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1c2fea141ea893c737bffb36",
+          "content": {
+            "message": "奥黛塔强就是拉表拉的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315754906849,
+          "rpid_str": "315754906849",
+          "root": 315737396129,
+          "root_str": "315737396129",
+          "parent": 315737396129,
+          "parent_str": "315737396129",
+          "dialog": 315754906849,
+          "ctime": 1790924793,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3d6eb5c8eeade7d5609fb467",
+          "content": {
+            "message": "当初说奥黛塔不行的只是说了拐力提升不大，甚至都没有谈到拉表，如果真要拉表奥黛塔怎么可能区，更何况还是泛用性辅助"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315756468097,
+          "rpid_str": "315756468097",
+          "root": 315737396129,
+          "root_str": "315737396129",
+          "parent": 315754906849,
+          "parent_str": "315754906849",
+          "dialog": 315754906849,
+          "ctime": 1790925835,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a5da6b20544616cae1f6f9ea",
+          "content": {
+            "message": "回复 @Bosch液控 :既然是拉表，为什么没考虑长轴后台冰E启动脱手对整个输出轴的影响呢[doge_金箍]只看到纸面增益，没看见这些影响实战的因素，目前星体系除了前台冰C，不是很看重冰元素长轴附着，后面的雷C星超导喝薇斯纳都是很看重这个的，别的冰后台打一半掉附着了，直接炸裂，切人就掉DPS",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319330255312,
+          "rpid_str": "319330255312",
+          "root": 315737396129,
+          "root_str": "315737396129",
+          "parent": 315737396129,
+          "parent_str": "315737396129",
+          "dialog": 319330255312,
+          "ctime": 1790927968,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ecb5c174cef32cd56257fbbe",
+          "content": {
+            "message": "拉表的奥黛塔1金提升50%，所有csf拉表的都让你抽\n不让你抽的时脑测党，“60%增伤险胜圣遗物，后台伤害不如八重”得出拐力不高，输出不高的结论"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315861944609,
+          "rpid_str": "315861944609",
+          "root": 315737396129,
+          "root_str": "315737396129",
+          "parent": 319330255312,
+          "parent_str": "319330255312",
+          "dialog": 319330255312,
+          "ctime": 1791005062,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9d56a8ad7b84d7474d2098c8",
+          "content": {
+            "message": "回复 @吾皇-满穗 :实则50+60，外加14倍率"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315737396129,
+        "rpid_str": "315737396129",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790914444,
+        "like": 2,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_24ef7092d2b293be9e210031",
+        "content": {
+          "message": "信拉表战神的这辈子算是有了[妙啊]",
+          "emote": {
+            "[妙啊]": {
+              "id": 435,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[妙啊]",
+              "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "妙啊"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0c6bcafdcccd09ac02b2906daea7d2d8919ec75a5c952bca0c4cf3b4884a0f1c",
+  "original_bytes_sha256": "26bc89881293c1696ec01fa8887fe617f8aa73f5eb8ec4541c12cc6c84cb2cbe",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

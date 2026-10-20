@@ -1,0 +1,197 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315850242929",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:31.582427+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315861106401,
+          "rpid_str": "315861106401",
+          "root": 315850242929,
+          "root_str": "315850242929",
+          "parent": 315850242929,
+          "parent_str": "315850242929",
+          "dialog": 315861106401,
+          "ctime": 1791004646,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fdfa9c280914f0fb07632447",
+          "content": {
+            "message": "木偶也可以打星扩散啊[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315867826273,
+          "rpid_str": "315867826273",
+          "root": 315850242929,
+          "root_str": "315850242929",
+          "parent": 315861106401,
+          "parent_str": "315861106401",
+          "dialog": 315861106401,
+          "ctime": 1791008531,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_160678560a6dabb0a0373f30",
+          "content": {
+            "message": "回复 @卫泽光 :拿来配恰似卡打镇守关了跟放生有啥区别[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316369622849,
+          "rpid_str": "316369622849",
+          "root": 315850242929,
+          "root_str": "315850242929",
+          "parent": 315867826273,
+          "parent_str": "315867826273",
+          "dialog": 315861106401,
+          "ctime": 1791373999,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2b1171e259d48e0ca28bcd8a",
+          "content": {
+            "message": "回复 @喵喵喵咪喵吃渔 :又不是只有恰斯卡一个风"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315850242929,
+        "rpid_str": "315850242929",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790998600,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_160678560a6dabb0a0373f30",
+        "content": {
+          "message": "水冰元素挺多的[笑哭]上期拿不满这期拿满了 可惜好友没一个挂神子在外面的 把木偶放生了",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "036b988bf110e05cc4d5576e4ba6c9225f0243d3382085af78fc0cf245a923df",
+  "original_bytes_sha256": "90098d6b14b3f3cd1bc2c117c268692276526738eb0a5671e714277219514038",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315053684321",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:03:23.139581+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315053684321,
+        "rpid_str": "315053684321",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790347839,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_64f0cf3ce2280212741c821b",
+        "content": {
+          "message": "能过n6 吗，菲林斯队练度比较低",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/cdf67897635b56457749456ce2af88e7470447378.jpg",
+              "img_width": 1206,
+              "img_height": 14367,
+              "img_size": 3972
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b84a27c72a1766694dbd5822e843be289755c3e2f562009232e07ce6d63a37d2",
+  "original_bytes_sha256": "c4b46af57822d26ee6b31a322d42df228388e103f8420df77e140238f7eece21",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

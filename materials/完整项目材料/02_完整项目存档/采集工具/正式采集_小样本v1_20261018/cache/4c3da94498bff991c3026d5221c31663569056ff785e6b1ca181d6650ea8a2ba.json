@@ -1,0 +1,221 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319184889728",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:23:29.921712+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315623282833,
+          "rpid_str": "315623282833",
+          "root": 319184889728,
+          "root_str": "319184889728",
+          "parent": 319184889728,
+          "parent_str": "319184889728",
+          "dialog": 315623282833,
+          "ctime": 1790827006,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "天空书 没有天空书就带贝壳 证誓之明瞳 牛专也行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319187238176,
+          "rpid_str": "319187238176",
+          "root": 319184889728,
+          "root_str": "319184889728",
+          "parent": 315623282833,
+          "parent_str": "315623282833",
+          "dialog": 315623282833,
+          "ctime": 1790827049,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f8b9deda5a8e187b443597ab",
+          "content": {
+            "message": "回复 @Hamlat :ok有天空，复刻要补闲专吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319187726800,
+          "rpid_str": "319187726800",
+          "root": 319184889728,
+          "root_str": "319184889728",
+          "parent": 319187238176,
+          "parent_str": "319187238176",
+          "dialog": 315623282833,
+          "ctime": 1790827339,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8fb08c4a39ff9a272e0b3284",
+          "content": {
+            "message": "回复 @陈雨织 :闲专很强的[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319188042880,
+          "rpid_str": "319188042880",
+          "root": 319184889728,
+          "root_str": "319184889728",
+          "parent": 319187726800,
+          "parent_str": "319187726800",
+          "dialog": 315623282833,
+          "ctime": 1790827468,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f8b9deda5a8e187b443597ab",
+          "content": {
+            "message": "回复 @Lane____ :那还说啥[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319184889728,
+        "rpid_str": "319184889728",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790825659,
+        "like": 3,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_f8b9deda5a8e187b443597ab",
+        "content": {
+          "message": "闲没专武有下位吗少打几十秒没事[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "dc39462450d32628f55fd7ee07ec5115fe6e4d1838390f3ec6b559e75116fd2d",
+  "original_bytes_sha256": "8b615b83401218c9cd9cc586e8b4b43602f993dd2bbb33a2b47e246b8b01e27b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

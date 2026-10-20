@@ -1,0 +1,362 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316161627009",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:32:31.109446+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319790620672,
+          "rpid_str": "319790620672",
+          "root": 316161627009,
+          "root_str": "316161627009",
+          "parent": 316161627009,
+          "parent_str": "316161627009",
+          "dialog": 319790620672,
+          "ctime": 1791255721,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5d8bfce1fea9a58675911ce9",
+          "content": {
+            "message": "[酸了]",
+            "emote": {
+              "[酸了]": {
+                "id": 1273,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[酸了]",
+                "url": "https://i0.hdslb.com/bfs/emote/92b1c8cbceea3ae0e8e32253ea414783e8ba7806.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "酸了"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319805106352,
+          "rpid_str": "319805106352",
+          "root": 316161627009,
+          "root_str": "316161627009",
+          "parent": 316161627009,
+          "parent_str": "316161627009",
+          "dialog": 319805106352,
+          "ctime": 1791263458,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_90a51c7fa107e0b0b46523d5",
+          "content": {
+            "message": "我猜开局猫充能不够没满等了15秒，并且每轮吃满减速[doge]（我甚至怀疑他每轮都是短e，还吃不到奥黛塔e的球，得额外等个猫e的时间[笑哭]）",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319806016048,
+          "rpid_str": "319806016048",
+          "root": 316161627009,
+          "root_str": "316161627009",
+          "parent": 319805106352,
+          "parent_str": "319805106352",
+          "dialog": 319805106352,
+          "ctime": 1791263874,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_90a51c7fa107e0b0b46523d5",
+          "content": {
+            "message": "回复 @半晌清歡 :我没看到你说的那个评论啊，根据你的阵容猜的。因为我猫带精一柔风＋宗室260充能会卡一丝，只能换上终末。（这柔风比蝶变还难抽）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316225370689,
+          "rpid_str": "316225370689",
+          "root": 316161627009,
+          "root_str": "316161627009",
+          "parent": 319806016048,
+          "parent_str": "319806016048",
+          "dialog": 319805106352,
+          "ctime": 1791272752,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_812fad3a303b9b2929624c2f",
+          "content": {
+            "message": "回复 @半晌清歡 :我精1柔风宗室充能255我第一轮开不出来猫大，这样也能混个63s，那个白云他说他6薇不带沃连30万dps都没有，我真看傻眼，老头对于没减抗的来说开局众生平等没减抗和有减抗就是两个游戏没减抗谁来了都速推不了，但是他说他6薇1沃0奥打不进90s也太夸张了，因为我就是这配置想往上走确实很难但是打不进90已经不是角色的问题了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319830000944,
+          "rpid_str": "319830000944",
+          "root": 316161627009,
+          "root_str": "316161627009",
+          "parent": 316225370689,
+          "parent_str": "316225370689",
+          "dialog": 319805106352,
+          "ctime": 1791277689,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_90a51c7fa107e0b0b46523d5",
+          "content": {
+            "message": "回复 @无名情书本无名 :猫充能不够的话，奥黛塔带西风第一轮就能开出来了，沃开局原地往前冲一步再开e，之后切奥ee索敌过去就行（如果讨龙就是奥冲完ee开），秒切猫能吃到奥的所有球，凹一凹能60秒的[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319830185168,
+          "rpid_str": "319830185168",
+          "root": 316161627009,
+          "root_str": "316161627009",
+          "parent": 319830000944,
+          "parent_str": "319830000944",
+          "dialog": 319805106352,
+          "ctime": 1791277771,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_90a51c7fa107e0b0b46523d5",
+          "content": {
+            "message": "回复 @半晌清歡 :我一顿爆凹53秒，就是薇练度不够所以两轮斩不掉，第三轮得打到e3，给我个260分圣遗物我感觉两轮带走了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316235056817,
+          "rpid_str": "316235056817",
+          "root": 316161627009,
+          "root_str": "316161627009",
+          "parent": 319830000944,
+          "parent_str": "319830000944",
+          "dialog": 319805106352,
+          "ctime": 1791278588,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_812fad3a303b9b2929624c2f",
+          "content": {
+            "message": "回复 @半晌清歡 :无所谓了懒得凹[doge_金箍]我是大咸鱼",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316161627009,
+        "rpid_str": "316161627009",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791214846,
+        "like": 1,
+        "rcount": 7,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_812fad3a303b9b2929624c2f",
+        "content": {
+          "message": "上面打不进90s的我和你同配置你是咋打的能差这么多，这老头开局众生平等没减抗打的慢也正常，但是6薇0奥1沃你打不进90那是真的你的问题了，毕竟星扩可没有那么多手法能让你差30s的。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ef65ce791d41ad8b7a2c8258066ffcac33702867.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1321.31
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7d6d9a2ba39b89f1f884872a2b94a3bd33702867.png",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 754.29
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c1174027a505bcbdfa9d441cc8e9a9375d923445fe35b6442b04456722de605a",
+  "original_bytes_sha256": "c859b4d19d4e84d3c379dbc0a682c06895e5adc6de9d2bd63a330b4bc4bed139",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

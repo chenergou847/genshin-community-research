@@ -1,0 +1,138 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315806270705",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:31:13.832746+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315808677345,
+          "rpid_str": "315808677345",
+          "root": 315806270705,
+          "root_str": "315806270705",
+          "parent": 315806270705,
+          "parent_str": "315806270705",
+          "dialog": 315808677345,
+          "ctime": 1790954084,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_59d38a0ebc7c5960b2fb85a6",
+          "content": {
+            "message": "这两期对应c少，我都是看攻略精打细算打的满花，这期还凹了好久，这期反应弱，不如草反应强，还有之前少女加个雷能打两关，这期直接纯挂水，还好速拉了手瑞希星扩散队能打两关。最重要的还是刷到用过的重新进备战的牌了，随到龙王真救命了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315806270705,
+        "rpid_str": "315806270705",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790952764,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_bdc3adae8e4428812200d6cf",
+        "content": {
+          "message": "最近两期压力好大 凹了好久拉满了[笑哭][笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/de189e98fa7e835fb844382fb39ae62e311459399.jpg",
+              "img_width": 1651,
+              "img_height": 1500,
+              "img_size": 1377.97
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f821920b2cd4c1c9da2ef5cc7b833af32ce15733b6a45385e8dd888bf1fd56e0",
+  "original_bytes_sha256": "9cb7633d31c2edc7923dc8ce0683fb275d07f31878a8078040738855fed1abc5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

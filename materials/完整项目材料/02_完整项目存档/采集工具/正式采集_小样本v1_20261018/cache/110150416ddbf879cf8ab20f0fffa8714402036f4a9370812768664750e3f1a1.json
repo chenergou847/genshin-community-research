@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319799248384",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:32:11.456442+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319799248384,
+        "rpid_str": "319799248384",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791260454,
+        "like": 1,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_c222143382061939ed7c5084",
+        "content": {
+          "message": "这个联机n4也可以吗就是不匹配那种，朋友进我一起那种可以吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2886b3f47b44600e4941f780f666a19b5895b244064fd00a185f255c8c1da029",
+  "original_bytes_sha256": "5ce144a64a86f76fd3f92906b57590b408ad6d2ff6fbfef5ce1399e28b85cb28",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

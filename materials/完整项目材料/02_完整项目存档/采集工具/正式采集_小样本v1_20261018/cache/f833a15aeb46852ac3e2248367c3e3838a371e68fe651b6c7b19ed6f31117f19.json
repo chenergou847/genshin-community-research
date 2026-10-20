@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315006749489",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:07:14.686084+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315006749489,
+        "rpid_str": "315006749489",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790320814,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_11568b666871dd2a2c04eed0",
+        "content": {
+          "message": "N5能过吗？之前我冰锅n5拿的是仆人打的，现在还能打不？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/61a1b5c1bb721a803903a232d93d2c5d526288173.jpg",
+              "img_width": 1260,
+              "img_height": 14326,
+              "img_size": 1837.2
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2e80f342757ab7910389508a3afe5d01b2c2edfa39cee274ff8e8b75811d1489",
+  "original_bytes_sha256": "e18b6c548c16a155d437be2a50b192144407cad8d61c11cb3608e048610b7fa6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

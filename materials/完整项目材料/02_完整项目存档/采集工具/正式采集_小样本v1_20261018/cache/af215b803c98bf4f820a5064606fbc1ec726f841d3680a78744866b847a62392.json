@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319587163952",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:01:02.817690+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319587490192,
+          "rpid_str": "319587490192",
+          "root": 319587163952,
+          "root_str": "319587163952",
+          "parent": 319587163952,
+          "parent_str": "319587163952",
+          "dialog": 319587490192,
+          "ctime": 1791107298,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0e66203e2d828363c255692",
+          "content": {
+            "message": "我目前的队伍推测是\n木偶超导：奥黛塔/女皇+两个雷（我认为是阿罗夏与达妮卡）\n米提亚超导：奥黛塔+女皇+瓦列里\n女皇超导：奥黛塔+米提亚+达妮卡\n薇斯纳：奥黛塔+沃雅妮莎+女皇"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319589948128,
+          "rpid_str": "319589948128",
+          "root": 319587163952,
+          "root_str": "319587163952",
+          "parent": 319587490192,
+          "parent_str": "319587490192",
+          "dialog": 319587490192,
+          "ctime": 1791108590,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_10e8e8336cf9f133315820cc",
+          "content": {
+            "message": "回复 @纯色之忆 :你这个 就米提亚现在测试服里面的后台拐力感觉就不现实"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319598148176,
+          "rpid_str": "319598148176",
+          "root": 319587163952,
+          "root_str": "319587163952",
+          "parent": 319589948128,
+          "parent_str": "319589948128",
+          "dialog": 319587490192,
+          "ctime": 1791112665,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0e66203e2d828363c255692",
+          "content": {
+            "message": "回复 @二刺螈bot :要不然就还有别的新角色，或者用砂糖/阿罗夏，也可能就是单纯让小米去提供点精通然后顺便打点伤害\n假设原本自己没多少精通，然后又没有其他条件获取精通（如非米提亚的队友不提供精通）的话，少一点转化的增伤也不低了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319619163440,
+          "rpid_str": "319619163440",
+          "root": 319587163952,
+          "root_str": "319587163952",
+          "parent": 319587163952,
+          "parent_str": "319587163952",
+          "dialog": 319619163440,
+          "ctime": 1791123088,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bfca9bdb78c492489d78a316",
+          "content": {
+            "message": "就算是同赛道也不影响，一人一队再好不过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319587163952,
+        "rpid_str": "319587163952",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791107147,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_e0e66203e2d828363c255692",
+        "content": {
+          "message": "我是觉得，星体系起码也是冰辅助是通用辅吧，那这样的话就算女皇再牛逼，以原神策划的良心程度也不会去爆掉奥黛塔，肯定会分开赛道的\n\n而且双冰也基本上必凑，大概率是除了木偶队都要同时带奥黛塔与女皇，不然圣遗物相比月反应的少暴击率了，这个15%（双冰）+16%（星）=31%≈30%（月）我不信不是特意控制的好吧"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3784c98c2adde1898825dc940d8650490ba85b9a651d06a1f72957b6909b677b",
+  "original_bytes_sha256": "2bbe35f3dfa752bc31435fc8b47094a6c271bf43a342374badf50cdb86f3a403",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

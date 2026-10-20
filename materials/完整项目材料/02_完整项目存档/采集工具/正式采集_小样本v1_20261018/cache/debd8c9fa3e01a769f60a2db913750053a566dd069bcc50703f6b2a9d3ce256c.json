@@ -1,0 +1,183 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "320464269584",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:07:13.984818+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316984301841,
+          "rpid_str": "316984301841",
+          "root": 320464269584,
+          "root_str": "320464269584",
+          "parent": 320464269584,
+          "parent_str": "320464269584",
+          "dialog": 316984301841,
+          "ctime": 1791911522,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b25bf751c9978292641edef2",
+          "content": {
+            "message": "星扩散也能打，或者重云附个魔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320626345504,
+          "rpid_str": "320626345504",
+          "root": 320464269584,
+          "root_str": "320464269584",
+          "parent": 316984301841,
+          "parent_str": "316984301841",
+          "dialog": 316984301841,
+          "ctime": 1791913834,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b8eb6855ca58c16795433771",
+          "content": {
+            "message": "回复 @SOS团长凉宮春日 :回归号 没角色"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320851543120,
+          "rpid_str": "320851543120",
+          "root": 320464269584,
+          "root_str": "320464269584",
+          "parent": 320464269584,
+          "parent_str": "320464269584",
+          "dialog": 320851543120,
+          "ctime": 1792122206,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_88b0fb744def71150abcb72c",
+          "content": {
+            "message": "1怎么过的，我没新反应角色"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320856589696,
+          "rpid_str": "320856589696",
+          "root": 320464269584,
+          "root_str": "320464269584",
+          "parent": 320851543120,
+          "parent_str": "320851543120",
+          "dialog": 320851543120,
+          "ctime": 1792125290,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b8eb6855ca58c16795433771",
+          "content": {
+            "message": "回复 @坏事了啊 :我是新反应过的 我从4.3就断档没玩 6.7才回归"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320464269584,
+        "rpid_str": "320464269584",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791784734,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_b8eb6855ca58c16795433771",
+        "content": {
+          "message": "[辣眼睛]回归号 1和3都闭眼过 就那个2 死命过不去 毕竟没有丝柯克爱可菲 拿凌华申鹤想试试 打了一会发现完全拉完了",
+          "emote": {
+            "[辣眼睛]": {
+              "id": 2374,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[辣眼睛]",
+              "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "辣眼睛"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7140f94b921d64eb1a336d1954327c29227dd3d34cae9e6dea17dfc2cba9e9af",
+  "original_bytes_sha256": "0312ad634cae5d4df828bbfa16e6f71bb5d89bf4d066513726f54e8235abecb1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

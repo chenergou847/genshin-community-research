@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319408214864",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:09:01.491135+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319408214864,
+        "rpid_str": "319408214864",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790986998,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_208fc66e7b209e0bbed706fa",
+        "content": {
+          "message": "我这个n5怎么打?",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3dead2c70410712620d2174d91f0affd3546900485638442.jpg",
+              "img_width": 143,
+              "img_height": 1792,
+              "img_size": 65.91
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "52c5f392ccb8fb6d5079717d9e1041fd24fadfd62989a4234cda2c10bbaeb13f",
+  "original_bytes_sha256": "7ce0b99150cfcbcd16f821c9e2b08211e72ec6caf9e169ff14edcf2bdfcb180c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

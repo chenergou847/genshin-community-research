@@ -1,0 +1,59 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320894302224",
+    "pn": 4,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:38:04.412462+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 4,
+        "size": 20,
+        "count": 41
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320894302224,
+        "rpid_str": "320894302224",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792150100,
+        "like": 5,
+        "rcount": 41,
+        "count": 42,
+        "state": 0,
+        "author_id": "U_d51c975b30a9516a7985e36f",
+        "content": {
+          "message": "没抽丝柯克，那我就不打了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "24b7851ed67ef7023b443e8f6fbc0fd8ce105e8f41a05765bc449376a735c7d1",
+  "original_bytes_sha256": "16c2082f072de913a6a00d5e51332d3beba8f6409fba13c5f825656b26d6faeb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

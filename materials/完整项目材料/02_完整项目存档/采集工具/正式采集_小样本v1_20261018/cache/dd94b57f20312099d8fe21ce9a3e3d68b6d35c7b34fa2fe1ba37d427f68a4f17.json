@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319371035520",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:31:33.037243+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319371035520,
+        "rpid_str": "319371035520",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790949293,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_296c4f7da7e951eec9c5f37b",
+        "content": {
+          "message": "多一张正义和月亮有人和我换吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/441e73091c8d83d591c73ca63fea39a7364325844.jpg",
+              "img_width": 1272,
+              "img_height": 8950,
+              "img_size": 828.21
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "acace5915af10f4052476b680e2fd26658dfe89656618f53ae86b604f0adee2a",
+  "original_bytes_sha256": "004038a3ccf790607c9f1cf30c8b7adf16df4fde73b5c21b24fc340ea5c911e1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

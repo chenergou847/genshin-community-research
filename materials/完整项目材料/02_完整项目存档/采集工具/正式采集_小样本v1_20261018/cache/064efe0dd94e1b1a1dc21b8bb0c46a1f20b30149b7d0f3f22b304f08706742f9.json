@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319261174176",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:19:59.730230+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315698738177,
+          "rpid_str": "315698738177",
+          "root": 319261174176,
+          "root_str": "319261174176",
+          "parent": 319261174176,
+          "parent_str": "319261174176",
+          "dialog": 315698738177,
+          "ctime": 1790871047,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d79f883a24a06444fe5aceaa",
+          "content": {
+            "message": "很难"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319269358736,
+          "rpid_str": "319269358736",
+          "root": 319261174176,
+          "root_str": "319261174176",
+          "parent": 319261174176,
+          "parent_str": "319261174176",
+          "dialog": 319269358736,
+          "ctime": 1790873848,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_84dc0a05396b66ab6f1262e1",
+          "content": {
+            "message": "2闲很重要"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315707953889,
+          "rpid_str": "315707953889",
+          "root": 319261174176,
+          "root_str": "319261174176",
+          "parent": 319261174176,
+          "parent_str": "319261174176",
+          "dialog": 315707953889,
+          "ctime": 1790879982,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "鉴于今晚直播2闲带罗莎凹过了 理论1闲2茜上练度达标可过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319261174176,
+        "rpid_str": "319261174176",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790868526,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b64291d83f7d279e0a935d50",
+        "content": {
+          "message": "1 闲 2 茜能打 n6 吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "46835f51ac0eeaca9fd1d5435f41f0690416162de111f69277c4a55c749c72e9",
+  "original_bytes_sha256": "d6e97e00c53a8e60d9c783219f683012c1f5ba46477f7e1421354e31c879da35",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

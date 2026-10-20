@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318511261696",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:16:28.233020+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314975369441,
+          "rpid_str": "314975369441",
+          "root": 318511261696,
+          "root_str": "318511261696",
+          "parent": 318511261696,
+          "parent_str": "318511261696",
+          "dialog": 314975369441,
+          "ctime": 1790301687,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "N5可以。如果是第一间用木偶要么有个2命奥黛塔，要么自己2命"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314975347681,
+          "rpid_str": "314975347681",
+          "root": 318511261696,
+          "root_str": "318511261696",
+          "parent": 318511261696,
+          "parent_str": "318511261696",
+          "dialog": 314975347681,
+          "ctime": 1790301765,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "菲林斯第二间带个，冰系迪奥娜莱依拉等角色压。第三间四命兹白+莉奈娅+爱诺+一个火系或雷系辅助。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314975500241,
+          "rpid_str": "314975500241",
+          "root": 318511261696,
+          "root_str": "318511261696",
+          "parent": 318511261696,
+          "parent_str": "318511261696",
+          "dialog": 314975500241,
+          "ctime": 1790301833,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐，三间N5可以打。有帮助的话视频点赞推荐一下就行了。到点上班下线了，我做餐饮的哦。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318511261696,
+        "rpid_str": "318511261696",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790301491,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_0615371699d9886e26cf281e",
+        "content": {
+          "message": "问问我这个box能打吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d0efa2fcabba2487f7a39fc924128bd174211618.jpg",
+              "img_width": 1220,
+              "img_height": 12480,
+              "img_size": 1575.17
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e8ddac30058bc42e92c56470e23ea614735dd1aaacfb7c1bc9f1c43c8dcf0a7c",
+  "original_bytes_sha256": "f2c2850b1807801eb088b88c20e29e8fc33b192fd3da61b51fa150461cce7a65",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

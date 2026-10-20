@@ -1,0 +1,109 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318599208176",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:01:18.588102+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315060771585,
+          "rpid_str": "315060771585",
+          "root": 318599208176,
+          "root_str": "318599208176",
+          "parent": 318599208176,
+          "parent_str": "318599208176",
+          "dialog": 315060771585,
+          "ctime": 1790352037,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "凌华有爱可菲芙宁娜就行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318599208176,
+        "rpid_str": "318599208176",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790351207,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_160430c227cad6cfb470b1a1",
+        "content": {
+          "message": "8wdps的绫华够打n5冰锅吗[别当欧尼酱了表情包合集_疑问]",
+          "emote": {
+            "[别当欧尼酱了表情包合集_疑问]": {
+              "id": 92167,
+              "package_id": 6950,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[别当欧尼酱了表情包合集_疑问]",
+              "url": "https://i0.hdslb.com/bfs/garb/b0e67384c208f7305aba8f4e071839afa229e06a.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1729591260,
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=104320&hybrid_set_header=2&anchor_task=1&lottery_id=104321&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22104336%22%2C%22sub_id%22%3A%22%5B%E5%88%AB%E5%BD%93%E6%AC%A7%E5%B0%BC%E9%85%B1%E4%BA%86%E8%A1%A8%E6%83%85%E5%8C%85%E5%90%88%E9%9B%86_%E7%96%91%E9%97%AE%5D%22%7D",
+              "jump_title": "疑问"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "94b7449705301dc271f184db6c8d993a48d05e88f125000bfc3b28c2eca80451",
+  "original_bytes_sha256": "db974497cfe8c923c86628f7ca46e2d46aff8eba6fdab910b4364b5bf305ae28",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

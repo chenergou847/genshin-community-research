@@ -1,0 +1,656 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319446884368",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:04:17.167177+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 15
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319446878160,
+          "rpid_str": "319446878160",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 319446878160,
+          "ctime": 1791010415,
+          "like": 11,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7e5dd831affc1e67444b3a06",
+          "content": {
+            "message": "而且武器还能带免费的星锋剑，天赋只点E就得了，圣遗物炉火/千岩选一个主词条对了就行，而且完全不用堆充能，E启动就行。很难想象米哈游设计出来了这样的一个金[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315873269185,
+          "rpid_str": "315873269185",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446878160,
+          "parent_str": "319446878160",
+          "dialog": 319446878160,
+          "ctime": 1791011993,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dd16c2b2200618eca51b9e57",
+          "content": {
+            "message": "回复 @十二朝Asa :可以追求一下副词条，伤害很不错的[doge_金箍]当摔炮玩也很好",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319449726832,
+          "rpid_str": "319449726832",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 315873269185,
+          "parent_str": "315873269185",
+          "dialog": 319446878160,
+          "ctime": 1791012086,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7e5dd831affc1e67444b3a06",
+          "content": {
+            "message": "回复 @念念就忘了啊 :这倒也是，我剧诗00星锋剑小天鹅一个E打出40w吓哭了，大世界应该也有20w了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319451081696,
+          "rpid_str": "319451081696",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 319451081696,
+          "ctime": 1791012972,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0636e03e95ad975d506d11c7",
+          "content": {
+            "message": "四人联机不能挂buff[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315875136753,
+          "rpid_str": "315875136753",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319449726832,
+          "parent_str": "319449726832",
+          "dialog": 319446878160,
+          "ctime": 1791013118,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a810b02020290d1b46f7f317",
+          "content": {
+            "message": "回复 @十二朝Asa :小天鹅拿个精5银釭都能20w，星锋利更不用说了[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319451651728,
+          "rpid_str": "319451651728",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 315875136753,
+          "parent_str": "315875136753",
+          "dialog": 319446878160,
+          "ctime": 1791013325,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7e5dd831affc1e67444b3a06",
+          "content": {
+            "message": "回复 @蓝海嵐 :你这倒提醒我了，刷完危站紊乱要给活动武器拉满给天鹅用了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319453883648,
+          "rpid_str": "319453883648",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 319453883648,
+          "ctime": 1791014662,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_79d1eca207402481c9af68d7",
+          "content": {
+            "message": "《不能拆两半的》"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319454597072,
+          "rpid_str": "319454597072",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 319454597072,
+          "ctime": 1791015079,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a137a6c97bc842152eae6431",
+          "content": {
+            "message": "剧情在线但不够强力吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315878095857,
+          "rpid_str": "315878095857",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 315878095857,
+          "ctime": 1791015090,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3d7f38b3ce9c69d098014966",
+          "content": {
+            "message": "不能分成黑天鹅白天鹅"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315884378545,
+          "rpid_str": "315884378545",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 315884378545,
+          "ctime": 1791018868,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cb809eb2f4b4b4d17a439f44",
+          "content": {
+            "message": "缺点就是一个不能拆成两个用[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319465850560,
+          "rpid_str": "319465850560",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 319465850560,
+          "ctime": 1791021293,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_38cbba60ab595ea58e640c10",
+          "content": {
+            "message": "没有生存[生气][生气][生气]",
+            "emote": {
+              "[生气]": {
+                "id": 10,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[生气]",
+                "url": "https://i0.hdslb.com/bfs/emote/3195714219c4b582a4fb02033dd1519913d0246d.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "生气"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319472954176,
+          "rpid_str": "319472954176",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 319472954176,
+          "ctime": 1791025010,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a805a426b2fdf234b3b1f859",
+          "content": {
+            "message": "不能拐精通，被下个版本的精通模版米提亚斩杀[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315903790593,
+          "rpid_str": "315903790593",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 315884378545,
+          "parent_str": "315884378545",
+          "dialog": 315884378545,
+          "ctime": 1791029327,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ce5664375b938e926eae0465",
+          "content": {
+            "message": "回复 @可爱的小奈布呀 :給奧加一個虎符咒[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319598214656,
+          "rpid_str": "319598214656",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319446884368,
+          "parent_str": "319446884368",
+          "dialog": 319598214656,
+          "ctime": 1791112680,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5a9de540235bc5cca10c75ba",
+          "content": {
+            "message": "缺点是不能掰开两半用"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319638112320,
+          "rpid_str": "319638112320",
+          "root": 319446884368,
+          "root_str": "319446884368",
+          "parent": 319449726832,
+          "parent_str": "319449726832",
+          "dialog": 319446878160,
+          "ctime": 1791133741,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a1b8eb28a315d15436f57959",
+          "content": {
+            "message": "回复 @十二朝Asa :我01深渊一脚80w[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319446884368,
+        "rpid_str": "319446884368",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791010276,
+        "like": 63,
+        "rcount": 15,
+        "count": 16,
+        "state": 0,
+        "author_id": "U_7e5dd831affc1e67444b3a06",
+        "content": {
+          "message": "强度在线，建模颜值剧情也在线，鹅宝还有缺点吗[喜欢]",
+          "emote": {
+            "[喜欢]": {
+              "id": 3,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[喜欢]",
+              "url": "https://i0.hdslb.com/bfs/emote/8a10a4d73a89f665feff3d46ca56e83dc68f9eb8.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "喜欢"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "984476cb1b26b78a5cfba8849e2f22b8ccb0c34ffcb2e10b335e02ef8b88a9c3",
+  "original_bytes_sha256": "10272861de9a9c7d689a8cdd308e6538508ede727e2a870569bd33405bc3ca71",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

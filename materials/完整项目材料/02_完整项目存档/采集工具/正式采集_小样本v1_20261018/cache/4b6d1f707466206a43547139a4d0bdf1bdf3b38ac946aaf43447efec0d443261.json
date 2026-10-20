@@ -1,0 +1,81 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318897975136",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:39:12.633633+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318897975136,
+        "rpid_str": "318897975136",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790589566,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_1045366e9a9bfa5e3999379a",
+        "content": {
+          "message": "请问N6有机会吗？已三连",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/00b1b3ff2b75d792505af8715f3e9fd11302814918.png",
+              "img_width": 1179,
+              "img_height": 2556,
+              "img_size": 776
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0d2d465ae7da810c8070b9a46c29a76a1302814918.jpg",
+              "img_width": 1179,
+              "img_height": 10551,
+              "img_size": 2841
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f7847ef00dcbbfc9f81748654bf1fde2260503e05d529882ddc7c5f0b4af9b38",
+  "original_bytes_sha256": "e50f1ebe80e1681717b0bc315344d6017b20b8c03417ff70090eefbbbcbced22",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

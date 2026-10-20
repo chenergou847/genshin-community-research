@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319062556368",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:20:08.124987+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319062660688,
+          "rpid_str": "319062660688",
+          "root": 319062556368,
+          "root_str": "319062556368",
+          "parent": 319062556368,
+          "parent_str": "319062556368",
+          "dialog": 319062660688,
+          "ctime": 1790733146,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6ac05d7ee077149dbf8804e6",
+          "content": {
+            "message": "已点赞投币[保卫萝卜_哇]",
+            "emote": {
+              "[保卫萝卜_哇]": {
+                "id": 4946,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[保卫萝卜_哇]",
+                "url": "https://i0.hdslb.com/bfs/emote/5f2370e561c32d841245f7b1aab2eef43aeb9544.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    "哇"
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哇"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315500283201,
+          "rpid_str": "315500283201",
+          "root": 319062556368,
+          "root_str": "319062556368",
+          "parent": 319062556368,
+          "parent_str": "319062556368",
+          "dialog": 315500283201,
+          "ctime": 1790733182,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "随便打，还是满命的。\n木偶还有满命奥黛塔\n2.凌华\n3.火神，完事。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315500223345,
+          "rpid_str": "315500223345",
+          "root": 319062556368,
+          "root_str": "319062556368",
+          "parent": 319062556368,
+          "parent_str": "319062556368",
+          "dialog": 315500223345,
+          "ctime": 1790733240,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶奥黛塔尼可+七七\n第二间凌华芙宁娜爱可菲申鹤\n第三间火神战舰，满命够了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319063606576,
+          "rpid_str": "319063606576",
+          "root": 319062556368,
+          "root_str": "319062556368",
+          "parent": 315500223345,
+          "parent_str": "315500223345",
+          "dialog": 315500223345,
+          "ctime": 1790733929,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6ac05d7ee077149dbf8804e6",
+          "content": {
+            "message": "回复 @星光璀璨之时 :神里不太行，打冰锅要90s以上了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319062556368,
+        "rpid_str": "319062556368",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790733097,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_6ac05d7ee077149dbf8804e6",
+        "content": {
+          "message": "想打n7有过的风险吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6112a63a05f7233a8668d66045be17b4305741514.jpg",
+              "img_width": 1349,
+              "img_height": 15000,
+              "img_size": 8862.36
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5948b3600261bbf4169ce06f2bdbd94a91a6788bf7c937676ecc59d20cb816f6",
+  "original_bytes_sha256": "718406d9b0b5fd105ac61190812c9ff7905eb85e7ad294d9bd6bf68625bb7131",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

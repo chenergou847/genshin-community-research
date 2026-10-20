@@ -1,0 +1,93 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315071511297",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:58:33.770774+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315071511297,
+        "rpid_str": "315071511297",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790363233,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_0f39faa2a0c5a78458ec5619",
+        "content": {
+          "message": "upup，n5该怎么配队呀，n6有机会吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/74d505dd5b973c717757663d9998899a490884585.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1503.06,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4f3effb2d0d4af9f378ccfd5fb3baadd490884585.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1476.71,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/54ccbba7161f4d9444104f3f58507ff5490884585.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1483.92,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3cf075837aac08bb5ef4211bd43bade9b83f44e079a57f747606229dbad77968",
+  "original_bytes_sha256": "7c3cc2fe75a5b0e9f53b574e788d79c722e440a6da77eed3b65c75f3134be80e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

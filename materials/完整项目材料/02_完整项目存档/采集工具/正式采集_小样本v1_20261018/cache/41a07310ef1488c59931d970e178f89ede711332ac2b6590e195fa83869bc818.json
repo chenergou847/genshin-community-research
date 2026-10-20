@@ -1,0 +1,183 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "316432307617",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:55:28.036096+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320053354816,
+          "rpid_str": "320053354816",
+          "root": 316432307617,
+          "root_str": "316432307617",
+          "parent": 316432307617,
+          "parent_str": "316432307617",
+          "dialog": 320053354816,
+          "ctime": 1791447893,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d2bfdf5e387c67df4a05c453",
+          "content": {
+            "message": "真有那么轻松吗。满星徽感觉挺难的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316445868273,
+          "rpid_str": "316445868273",
+          "root": 316432307617,
+          "root_str": "316432307617",
+          "parent": 320053354816,
+          "parent_str": "320053354816",
+          "dialog": 320053354816,
+          "ctime": 1791448749,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_facc6ccd5dd19793fb547871",
+          "content": {
+            "message": "回复 @星辰の空梦 :剧诗满星是时间问题，我玩了两三年了，一堆角色，剧诗就是白给的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316447677601,
+          "rpid_str": "316447677601",
+          "root": 316432307617,
+          "root_str": "316432307617",
+          "parent": 320053354816,
+          "parent_str": "320053354816",
+          "dialog": 320053354816,
+          "ctime": 1791450210,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b7bb449c8df9c98bb765d6c",
+          "content": {
+            "message": "回复 @星辰の空梦 :角色练多点挺好打的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320462085520,
+          "rpid_str": "320462085520",
+          "root": 316432307617,
+          "root_str": "316432307617",
+          "parent": 320053354816,
+          "parent_str": "320053354816",
+          "dialog": 320053354816,
+          "ctime": 1791782980,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06c3ed6bd0882760f37e30d2",
+          "content": {
+            "message": "回复 @星辰の空梦 :强角多了几乎少谁都可以满"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316432307617,
+        "rpid_str": "316432307617",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791437046,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_facc6ccd5dd19793fb547871",
+        "content": {
+          "message": "剧诗就算没有龙王也是轻松满星，但是危战龙王打不了确是实打实的[吃瓜]",
+          "emote": {
+            "[吃瓜]": {
+              "id": 415,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[吃瓜]",
+              "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "吃瓜"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "dd66056174f70834c87ea67c34eef09e2d28be4336740ffd2babcfc81003032d",
+  "original_bytes_sha256": "d784d4a630b601d0d2ef4ce051fcf902f58040405cf6680293bddda2d3d9a9fc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

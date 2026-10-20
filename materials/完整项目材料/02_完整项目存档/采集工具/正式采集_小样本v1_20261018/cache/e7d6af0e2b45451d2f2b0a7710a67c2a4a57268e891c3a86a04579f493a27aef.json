@@ -1,0 +1,109 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318621354528",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:57:58.291602+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318644773456,
+          "rpid_str": "318644773456",
+          "root": 318621354528,
+          "root_str": "318621354528",
+          "parent": 318621354528,
+          "parent_str": "318621354528",
+          "dialog": 318644773456,
+          "ctime": 1790397204,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_67ba671db3d7cf3d68e58f5d",
+          "content": {
+            "message": "30号"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318621354528,
+        "rpid_str": "318621354528",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790381820,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_e006ee191f9b9359f3e0d6e2",
+        "content": {
+          "message": "什么时候开呀，想刷圣遗物和拿羽毛，薇斯纳沙漏差点意思看看能不能重塑好点[Floating Dream静态表情包_强颜欢笑]",
+          "emote": {
+            "[Floating Dream静态表情包_强颜欢笑]": {
+              "id": 118835,
+              "package_id": 8602,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[Floating Dream静态表情包_强颜欢笑]",
+              "url": "https://i0.hdslb.com/bfs/garb/2ba81d50eb11117e816c99f6cea42c15e79b1521.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1755856802,
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=105435&hybrid_set_header=2&anchor_task=1&lottery_id=105438&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109230%22%2C%22sub_id%22%3A%22%5BFloating%20Dream%E9%9D%99%E6%80%81%E8%A1%A8%E6%83%85%E5%8C%85_%E5%BC%BA%E9%A2%9C%E6%AC%A2%E7%AC%91%5D%22%7D",
+              "jump_title": "强颜欢笑"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ebe72d752be17c14f8d3d057339c7dba5a5633070866bd994337d7102a99616e",
+  "original_bytes_sha256": "4e43cf7debb9af20ca723eba52e72f853d7b8c3630e3d9de6d5f4d8d3955b683",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

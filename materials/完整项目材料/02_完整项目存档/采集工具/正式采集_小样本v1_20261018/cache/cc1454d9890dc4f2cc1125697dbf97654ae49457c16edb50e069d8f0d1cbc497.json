@@ -1,0 +1,416 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319127705840",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:11:31.059377+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319140503232,
+          "rpid_str": "319140503232",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 319127705840,
+          "parent_str": "319127705840",
+          "dialog": 319140503232,
+          "ctime": 1790781107,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_662285819996ca2ea6e8bb9c",
+          "content": {
+            "message": "N5都是60多秒，n6凹下应该也没问题"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319170752464,
+          "rpid_str": "319170752464",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 319140503232,
+          "parent_str": "319140503232",
+          "dialog": 319140503232,
+          "ctime": 1790816524,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8458c9758740725b5a809669",
+          "content": {
+            "message": "回复 @头都给你炸歪真君 :第一间过不去[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319188269152,
+          "rpid_str": "319188269152",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 319170752464,
+          "parent_str": "319170752464",
+          "dialog": 319140503232,
+          "ctime": 1790827571,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_662285819996ca2ea6e8bb9c",
+          "content": {
+            "message": "回复 @-侑_ :血量差多少？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319189431168,
+          "rpid_str": "319189431168",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 319188269152,
+          "parent_str": "319188269152",
+          "dialog": 319140503232,
+          "ctime": 1790828271,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8458c9758740725b5a809669",
+          "content": {
+            "message": "回复 @头都给你炸歪真君 :20%左右，周年刚领的0命梦见月，或许2命能蒸一蒸"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319228724400,
+          "rpid_str": "319228724400",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 319189431168,
+          "parent_str": "319189431168",
+          "dialog": 319140503232,
+          "ctime": 1790851331,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_662285819996ca2ea6e8bb9c",
+          "content": {
+            "message": "回复 @-侑_ :全程机制都破了吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319235074464,
+          "rpid_str": "319235074464",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 319127705840,
+          "parent_str": "319127705840",
+          "dialog": 319235074464,
+          "ctime": 1790854716,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8458c9758740725b5a809669",
+          "content": {
+            "message": "对啊，每次放造物都是梦见月战场。丘林n6加血太多了是n5二点五倍了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320305642080,
+          "rpid_str": "320305642080",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 319140503232,
+          "parent_str": "319140503232",
+          "dialog": 319140503232,
+          "ctime": 1791648567,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8458c9758740725b5a809669",
+          "content": {
+            "message": "回复 @头都给你炸歪真君 :过了过了[喜欢][喜欢][喜欢][喜欢]第一间108秒21火01茜6砂➕冰主 第二间丝柯克54秒 第三间1梦2奥6珐6猫118秒 一共282秒",
+            "emote": {
+              "[喜欢]": {
+                "id": 3,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜欢]",
+                "url": "https://i0.hdslb.com/bfs/emote/8a10a4d73a89f665feff3d46ca56e83dc68f9eb8.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜欢"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320497139264,
+          "rpid_str": "320497139264",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 320305642080,
+          "parent_str": "320305642080",
+          "dialog": 319140503232,
+          "ctime": 1791807691,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_662285819996ca2ea6e8bb9c",
+          "content": {
+            "message": "回复 @-侑_ :我猜你这次全程都破了机制吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320497497216,
+          "rpid_str": "320497497216",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 320305642080,
+          "parent_str": "320305642080",
+          "dialog": 319140503232,
+          "ctime": 1791807907,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_662285819996ca2ea6e8bb9c",
+          "content": {
+            "message": "看来你这还是有点手法，我61火、2+1奶、6砂、冰主第一间只打出了112秒的成绩"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320497627280,
+          "rpid_str": "320497627280",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 320497139264,
+          "parent_str": "320497139264",
+          "dialog": 319140503232,
+          "ctime": 1791807969,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8458c9758740725b5a809669",
+          "content": {
+            "message": "回复 @头都给你炸歪真君 :火冰双扩全程破机制是必要的，漏一次减抗立马断基本不可能过了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320497891088,
+          "rpid_str": "320497891088",
+          "root": 319127705840,
+          "root_str": "319127705840",
+          "parent": 320497497216,
+          "parent_str": "320497497216",
+          "dialog": 319140503232,
+          "ctime": 1791808143,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8458c9758740725b5a809669",
+          "content": {
+            "message": "回复 @头都给你炸歪真君 :[惊讶]",
+            "emote": {
+              "[惊讶]": {
+                "id": 13,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[惊讶]",
+                "url": "https://i0.hdslb.com/bfs/emote/f8e9a59cad52ae1a19622805696a35f0a0d853f3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "惊讶"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319127705840,
+        "rpid_str": "319127705840",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790774051,
+        "like": 6,
+        "rcount": 11,
+        "count": 11,
+        "state": 0,
+        "author_id": "U_8458c9758740725b5a809669",
+        "content": {
+          "message": "老头毁了我的n6梦[大哭][大哭][大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9e1f3479d5662d8f78e3d0bc47e19b1b272916032.jpg",
+              "img_width": 1992,
+              "img_height": 1500,
+              "img_size": 1797.34
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "caa5f4af7ad2687fb171c2f80cf3bac0e8c6b2e0b92a7acd7b0bf99c3d81f651",
+  "original_bytes_sha256": "8d50968b254284d59c436c23baed45406804e0c0e6aa941392abe0d3c2aaf22e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

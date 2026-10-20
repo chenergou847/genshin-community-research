@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316467847249",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:44:00.493120+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316467847249,
+        "rpid_str": "316467847249",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791462665,
+        "like": 0,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_17240db96c2ea6af9b3cc096",
+        "content": {
+          "message": "这夏沃蕾是怎么打出三枪的？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f7793ca69c92e0fbf95f9eb05afda799892cd091fbb82df2fe4e750a4b25d146",
+  "original_bytes_sha256": "d06c41b7be8978166e4c0c599a3ca8bd7b2c0f06e01a5b25e4df036dcf451c96",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

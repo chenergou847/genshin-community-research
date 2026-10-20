@@ -1,0 +1,336 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315785930129",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:32:08.519683+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319366711168,
+          "rpid_str": "319366711168",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 315785930129,
+          "parent_str": "315785930129",
+          "dialog": 319366711168,
+          "ctime": 1790947212,
+          "like": 7,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fe6920d769a9f97f0ff1a046",
+          "content": {
+            "message": "多练，巨诗本来就是利好老玩家的[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319406456400,
+          "rpid_str": "319406456400",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 315785930129,
+          "parent_str": "315785930129",
+          "dialog": 319406456400,
+          "ctime": 1790985065,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_342f06326f83bcd119f9587f",
+          "content": {
+            "message": "这期练个瑞希和冰主应该差不多[脱单doge]\n如果以前抽了月感电，少机凑一队也可以的",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319414652368,
+          "rpid_str": "319414652368",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 319366711168,
+          "parent_str": "319366711168",
+          "dialog": 319366711168,
+          "ctime": 1790992103,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5494be58428f23ea4f4a2db5",
+          "content": {
+            "message": "回复 @bili_50391635494 :利好在哪，老玩家打的也难受，三个号至少凹了3小时才打过去[滑稽]",
+            "emote": {
+              "[滑稽]": {
+                "id": 27,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[滑稽]",
+                "url": "https://i0.hdslb.com/bfs/emote/d15121545a99ac46774f1f4465b895fe2d1411c3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "滑稽"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319429520448,
+          "rpid_str": "319429520448",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 319414652368,
+          "parent_str": "319414652368",
+          "dialog": 319366711168,
+          "ctime": 1791000749,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fe6920d769a9f97f0ff1a046",
+          "content": {
+            "message": "回复 @bili_436636843 :你不能指望像我这样萌新n4三个队都拿不出来的去玩剧诗吧，这玩意特别看运气，运气上来了，连续恢复两下体力。直接就起飞了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315862003537,
+          "rpid_str": "315862003537",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 315785930129,
+          "parent_str": "315785930129",
+          "dialog": 315862003537,
+          "ctime": 1791005051,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_903934787371d20e763f5641",
+          "content": {
+            "message": "借个高命丝柯克吧，skk随便拉三个冰水就能打流血狗之外的任意两关"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315862265361,
+          "rpid_str": "315862265361",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 315785930129,
+          "parent_str": "315785930129",
+          "dialog": 315862265361,
+          "ctime": 1791005211,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_25a0f2ac847c159fc085fd81",
+          "content": {
+            "message": "没事，打过了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319448616768,
+          "rpid_str": "319448616768",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 319414652368,
+          "parent_str": "319414652368",
+          "dialog": 319366711168,
+          "ctime": 1791011458,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_37300f9aacbe8ca3ba96b29b",
+          "content": {
+            "message": "回复 @bili_436636843 : 不利好老玩家难不成利好没养角色的新人玩家嘛   我打两个老玩家的号都是全程只选角色不选buff就一路碾过去了   我自己的号更是选角色进剧诗都觉得坑位太少了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319525792144,
+          "rpid_str": "319525792144",
+          "root": 315785930129,
+          "root_str": "315785930129",
+          "parent": 315785930129,
+          "parent_str": "315785930129",
+          "dialog": 319525792144,
+          "ctime": 1791065811,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2eaa37c323670b6d5abfa77e",
+          "content": {
+            "message": "练梦见月和冰主。我这期主c就两个龙王和甘雨，练了冰主和梦见月能过两关"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315785930129,
+        "rpid_str": "315785930129",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790942310,
+        "like": 2,
+        "rcount": 8,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_25a0f2ac847c159fc085fd81",
+        "content": {
+          "message": "一共就三个队。散兵，龙王和木偶。两个成为开幕角色，这让我怎么玩？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e06d9a2c825a7403dcd4fe5582281a32efd99122a6cbed793b8c9bc6b7d1bbca",
+  "original_bytes_sha256": "ac742fb801056c37821e042b5e9fc81952f3f955e622f112554d3ac4732eeb96",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

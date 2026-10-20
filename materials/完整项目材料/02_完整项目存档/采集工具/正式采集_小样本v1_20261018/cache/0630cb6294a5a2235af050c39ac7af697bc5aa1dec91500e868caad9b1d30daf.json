@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315211003681",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:50:38.063624+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315211003681,
+        "rpid_str": "315211003681",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790481122,
+        "like": 3,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_5af9ef31be1b3739e8998a50",
+        "content": {
+          "message": "大佬们，N5能打吗[微笑]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/62fdeafd4d3ee9f92dcdb451bd095b7a68851682.jpg",
+              "img_width": 1264,
+              "img_height": 12922,
+              "img_size": 1640.64
+            }
+          ],
+          "emote": {
+            "[微笑]": {
+              "id": 1,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[微笑]",
+              "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "微笑"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5785a8f09d3c991e3a67b63b14e4f7fe73cd9500ce7b8d3808f0872ec7033bbd",
+  "original_bytes_sha256": "874c5d4e0662730d9da11b27e3861b83b4a041ddf3df829b990a56238d24e366",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

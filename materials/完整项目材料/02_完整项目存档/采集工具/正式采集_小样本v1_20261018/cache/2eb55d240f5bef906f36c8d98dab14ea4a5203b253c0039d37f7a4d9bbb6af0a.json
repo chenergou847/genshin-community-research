@@ -1,0 +1,258 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315839314049",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:54.631715+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315841244833,
+          "rpid_str": "315841244833",
+          "root": 315839314049,
+          "root_str": "315839314049",
+          "parent": 315839314049,
+          "parent_str": "315839314049",
+          "dialog": 315841244833,
+          "ctime": 1790993047,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_425df3fd729b42b53cc16bec",
+          "content": {
+            "message": "有星要换吗，186134373"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315842389649,
+          "rpid_str": "315842389649",
+          "root": 315839314049,
+          "root_str": "315839314049",
+          "parent": 315841244833,
+          "parent_str": "315841244833",
+          "dialog": 315841244833,
+          "ctime": 1790993833,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1adafc9f9ba4b14b61203178",
+          "content": {
+            "message": "回复 @小段一 :可以的，你加我吧313332599，啥时候上号叫我"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315842433345,
+          "rpid_str": "315842433345",
+          "root": 315839314049,
+          "root_str": "315839314049",
+          "parent": 315842389649,
+          "parent_str": "315842389649",
+          "dialog": 315841244833,
+          "ctime": 1790993869,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_425df3fd729b42b53cc16bec",
+          "content": {
+            "message": "回复 @灵起 :现在吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319423812432,
+          "rpid_str": "319423812432",
+          "root": 315839314049,
+          "root_str": "315839314049",
+          "parent": 315839314049,
+          "parent_str": "315839314049",
+          "dialog": 319423812432,
+          "ctime": 1790997792,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cf04c2d1656b1c5e4d7d9cda",
+          "content": {
+            "message": "牌子怎么拿呀？是要打越狱吗？[委屈]",
+            "emote": {
+              "[委屈]": {
+                "id": 8,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[委屈]",
+                "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "委屈"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315853758913,
+          "rpid_str": "315853758913",
+          "root": 315839314049,
+          "root_str": "315839314049",
+          "parent": 319423812432,
+          "parent_str": "319423812432",
+          "dialog": 319423812432,
+          "ctime": 1791000677,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9e0d63dbdf9877a9d0c5fbe8",
+          "content": {
+            "message": "回复 @是南栀不是南枳 :对呀"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319430773408,
+          "rpid_str": "319430773408",
+          "root": 315839314049,
+          "root_str": "315839314049",
+          "parent": 315853758913,
+          "parent_str": "315853758913",
+          "dialog": 319423812432,
+          "ctime": 1791001456,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cf04c2d1656b1c5e4d7d9cda",
+          "content": {
+            "message": "回复 @泠洺 :可恶啊，角色不够[热]",
+            "emote": {
+              "[热]": {
+                "id": 7647,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[热]",
+                "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "热"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315839314049,
+        "rpid_str": "315839314049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790991619,
+        "like": 0,
+        "rcount": 6,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_1adafc9f9ba4b14b61203178",
+        "content": {
+          "message": "恋人和正义有人要换吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2910daa7da61747dabd9ca7cd8f3add82134092682.jpg",
+              "img_width": 1080,
+              "img_height": 2460,
+              "img_size": 1631.92
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0c5d7c774923eac9c97557b4aecc4a84159fa56fc751d4540d03b2110bc88264",
+  "original_bytes_sha256": "b2981918c27b2ebccd800730e8c1fada983070084c1cb07c885c652d2c3926bb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,59 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317191953217",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:45:18.956747+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317191953217,
+        "rpid_str": "317191953217",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792116406,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_cc669d06dc4b15c49199589f",
+        "content": {
+          "message": "木偶+skk，一间超过一分半算炸单"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "7fec877c4a9155d8bb1d3917fa842dc75d58c9eb11c7457f57e50aa40dfd0678",
+  "original_bytes_sha256": "bcff7f41947b23f51291ffa6d2047757419c5b697abd6ca1b6fd33cef16f2f46",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

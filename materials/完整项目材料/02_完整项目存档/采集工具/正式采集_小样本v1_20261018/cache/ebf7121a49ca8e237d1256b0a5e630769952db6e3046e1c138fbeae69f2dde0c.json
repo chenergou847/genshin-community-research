@@ -1,0 +1,84 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318515526912",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:15:10.707824+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318515526912,
+        "rpid_str": "318515526912",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790304033,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_6e0b77d9b0581902d7e860c8",
+        "content": {
+          "message": "第一间21妮露21奈芙尔10菈乌玛21少女，35w的DPS强杀伤害够吗，生存可以凹[星绘·沐春灼华 应援装扮_铸币大头]",
+          "emote": {
+            "[星绘·沐春灼华 应援装扮_铸币大头]": {
+              "id": 130748,
+              "package_id": 9319,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[星绘·沐春灼华 应援装扮_铸币大头]",
+              "url": "https://i0.hdslb.com/bfs/garb/a6a99ce05bef84ef797f1b0150ef71bab8e58553.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1769399700,
+              "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=1768965138001&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+              "jump_title": "铸币大头"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3f590881c2454bcb76d0c4354b1f5bfd68ff76b969da6d4ed69c75a345834c4a",
+  "original_bytes_sha256": "779f0aef9457d666323338b7df3adb0e7becf794cd5b125cadc9824c570f3f58",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

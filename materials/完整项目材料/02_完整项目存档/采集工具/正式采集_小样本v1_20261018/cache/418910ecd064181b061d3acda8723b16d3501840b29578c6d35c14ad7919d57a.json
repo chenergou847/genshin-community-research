@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318645484208",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:56:11.208413+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318647333776,
+          "rpid_str": "318647333776",
+          "root": 318645484208,
+          "root_str": "318645484208",
+          "parent": 318645484208,
+          "parent_str": "318645484208",
+          "dialog": 318647333776,
+          "ctime": 1790398638,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4f166c820c4bb57d58546e6c",
+          "content": {
+            "message": "梦见月打一路，火神打一路，兹白打一路"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318645484208,
+        "rpid_str": "318645484208",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790397578,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a1e9e0fcfa1cee19a4f5c3ef",
+        "content": {
+          "message": "N5怎么打～求指教",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/58c451bf4f1f42b13be423dc69dca2bd354632212.jpg",
+              "img_width": 1179,
+              "img_height": 13521,
+              "img_size": 3701
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "64c04e2db78cdbcd131ef0f2fb8c01880102f8914df0086d206df26c67a2471f",
+  "original_bytes_sha256": "8dfebd13b216f5ecfa9d4e9b4675cd21d70cf6e025476b7814f40101697d7fed",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319078094448",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:14:26.539184+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319078566176,
+          "rpid_str": "319078566176",
+          "root": 319078094448,
+          "root_str": "319078094448",
+          "parent": 319078094448,
+          "parent_str": "319078094448",
+          "dialog": 319078566176,
+          "ctime": 1790744343,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a696ce1c875ed5e1bc085984",
+          "content": {
+            "message": "由于老头被吹的神乎其神，我根本没给木偶和冰水队上配置，最好的辅助全给了薇，结果老头竟然如此不堪一击...白凹了半天冰棺"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319078094448,
+        "rpid_str": "319078094448",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790744092,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a696ce1c875ed5e1bc085984",
+        "content": {
+          "message": "这次n5抢奥黛塔了，没有奥黛塔那一路只能用七七，木偶伤害暴跌，差点没打过冰棺。然后薇那边脸滚键盘...应该让木偶带奥黛塔的。冰锅落魄了，700w血量太不堪一击了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9ea438f53930f3b8e9d4569153e7994b89740b88dc563ea304850f5eadc090e0",
+  "original_bytes_sha256": "abe330df9270972500819df23dff3c914d353b82bf448c4a529de35d13dc039c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

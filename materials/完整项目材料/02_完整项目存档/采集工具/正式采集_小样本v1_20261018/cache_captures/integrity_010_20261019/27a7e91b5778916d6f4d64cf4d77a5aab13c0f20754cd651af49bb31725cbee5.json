@@ -1,0 +1,576 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "315061993377",
+    "ps": 20,
+    "next": 1
+  },
+  "captured_at": "2026-10-19T05:25:46.475941+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315061993377,
+        "rpid_str": "315061993377",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790352918,
+        "like": 1,
+        "rcount": 17,
+        "count": 20,
+        "state": 0,
+        "floor": 446,
+        "author_id": "U_678efb161d2d4bbbb942d709",
+        "content": {
+          "message": "有机会N6吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/224de43e8225402a346d9082e1ef0b7f552145288.jpg",
+              "img_width": 1399,
+              "img_height": 15000,
+              "img_size": 8883.8
+            }
+          ]
+        },
+        "replies": [
+          {
+            "rpid": 315062184337,
+            "rpid_str": "315062184337",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315061993377,
+            "parent_str": "315061993377",
+            "dialog": 315062184337,
+            "ctime": 1790352989,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 1,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "你应该补奥黛塔命座的。。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315062256657,
+            "rpid_str": "315062256657",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315061993377,
+            "parent_str": "315061993377",
+            "dialog": 315062256657,
+            "ctime": 1790353025,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 2,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "二火二奶+奥黛塔+砂糖，第一间可以打。建议是这样，视频也讲了"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315062261793,
+            "rpid_str": "315062261793",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315061993377,
+            "parent_str": "315061993377",
+            "dialog": 315062261793,
+            "ctime": 1790353035,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 3,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "第二间丝柯克专怪最好打"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315062237633,
+            "rpid_str": "315062237633",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315061993377,
+            "parent_str": "315061993377",
+            "dialog": 315062237633,
+            "ctime": 1790353108,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 4,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "第三间如果有二命尼可，克洛琳德都能打超载"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315062438929,
+            "rpid_str": "315062438929",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315062237633,
+            "parent_str": "315062237633",
+            "dialog": 315062237633,
+            "ctime": 1790353203,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 5,
+            "author_id": "U_678efb161d2d4bbbb942d709",
+            "content": {
+              "message": "回复 @星光璀璨之时 :没有2尼怎么办，只有0尼，还能打吗？"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315062614465,
+            "rpid_str": "315062614465",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315062438929,
+            "parent_str": "315062438929",
+            "dialog": 315062237633,
+            "ctime": 1790353365,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 6,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @欧皇柒玥 :没有二奥，梦见月第一间难搞。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315062636097,
+            "rpid_str": "315062636097",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315062438929,
+            "parent_str": "315062438929",
+            "dialog": 315062237633,
+            "ctime": 1790353412,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 8,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "你所有角色配置，目前看N5没问题。N6困难"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315062890385,
+            "rpid_str": "315062890385",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315062636097,
+            "parent_str": "315062636097",
+            "dialog": 315062237633,
+            "ctime": 1790353505,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 9,
+            "author_id": "U_678efb161d2d4bbbb942d709",
+            "content": {
+              "message": "回复 @星光璀璨之时 :丝柯克打丘林有希望吗？"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063210225,
+            "rpid_str": "315063210225",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315062952897,
+            "parent_str": "315062952897",
+            "dialog": 315062237633,
+            "ctime": 1790353688,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 11,
+            "author_id": "U_678efb161d2d4bbbb942d709",
+            "content": {
+              "message": "回复 @星光璀璨之时 :1丝3火，第二间可以拿冰主蠕动吧？"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063192337,
+            "rpid_str": "315063192337",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063210225,
+            "parent_str": "315063210225",
+            "dialog": 315062237633,
+            "ctime": 1790353796,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 13,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @欧皇柒玥 :木偶有机会。你怎么不抽。冰主压力肯定大，凹，奥黛塔二命都没有。。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063366081,
+            "rpid_str": "315063366081",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063210225,
+            "parent_str": "315063210225",
+            "dialog": 315062237633,
+            "ctime": 1790353826,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 14,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @欧皇柒玥 :后面还有雷系怪物，星超导还有环境"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063448385,
+            "rpid_str": "315063448385",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063192337,
+            "parent_str": "315063192337",
+            "dialog": 315062237633,
+            "ctime": 1790353871,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 15,
+            "author_id": "U_678efb161d2d4bbbb942d709",
+            "content": {
+              "message": "回复 @星光璀璨之时 :没办法，奥黛塔和沃雅妮莎卡池，3个限定金吃了3个大保底[委屈]",
+              "emote": {
+                "[委屈]": {
+                  "id": 8,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[委屈]",
+                  "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "委屈"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063334433,
+            "rpid_str": "315063334433",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063448385,
+            "parent_str": "315063448385",
+            "dialog": 315062237633,
+            "ctime": 1790353894,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 16,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @欧皇柒玥 :冰主压力大了😂"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063399505,
+            "rpid_str": "315063399505",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063366081,
+            "parent_str": "315063366081",
+            "dialog": 315062237633,
+            "ctime": 1790353896,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 17,
+            "author_id": "U_678efb161d2d4bbbb942d709",
+            "content": {
+              "message": "回复 @星光璀璨之时 :只能试试看冰主了，不知道能不能蠕动成功[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063518065,
+            "rpid_str": "315063518065",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063399505,
+            "parent_str": "315063399505",
+            "dialog": 315062237633,
+            "ctime": 1790354037,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 18,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @欧皇柒玥 :行吧。你想怎么搞你就凹下。正常情况丝柯克打第一间也要非力。火神牛逼啊，二命的，二奶，带奥黛塔砂糖，第一间都能打。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063686177,
+            "rpid_str": "315063686177",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063399505,
+            "parent_str": "315063399505",
+            "dialog": 315062237633,
+            "ctime": 1790354057,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 19,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @欧皇柒玥 :到时候再看吧。晚安💤"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315063662961,
+            "rpid_str": "315063662961",
+            "root": 315061993377,
+            "root_str": "315061993377",
+            "parent": 315063686177,
+            "parent_str": "315063686177",
+            "dialog": 315062237633,
+            "ctime": 1790354116,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 20,
+            "author_id": "U_678efb161d2d4bbbb942d709",
+            "content": {
+              "message": "回复 @星光璀璨之时 :晚安[给心心]",
+              "emote": {
+                "[给心心]": {
+                  "id": 3302,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[给心心]",
+                  "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "给心心"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "532e85d433024471da0f1c7c098c62ca72b3eae33c2655534d9e34893b0216d3",
+  "original_bytes_sha256": "cda0838ecf67a6e0280122f53bf22935ae23d9750e253a722c7509c467c4d4b9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "321050671120",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:39:10.852773+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321051012768,
+          "rpid_str": "321051012768",
+          "root": 321050671120,
+          "root_str": "321050671120",
+          "parent": 321050671120,
+          "parent_str": "321050671120",
+          "dialog": 321051012768,
+          "ctime": 1792261410,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b1f71a886e4dde30399f6a3d",
+          "content": {
+            "message": "身份证不见了请通过正规渠道补办"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321050671120,
+        "rpid_str": "321050671120",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792260865,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_36112d0e4671e9fff57915b7",
+        "content": {
+          "message": "你敢做一份糕黑/吹，火黑/吹成绩单吗。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2111c9fbd40e40ff892c32fce97485484b1b02a6f7b47282810db8084af06da6",
+  "original_bytes_sha256": "46d243f607968260a8c81bf95e7d29413d0d5e818006c53c2cae0ba61aec3f9d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319448207488",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:12.032555+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 28
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319448207488,
+        "rpid_str": "319448207488",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791011154,
+        "like": 44,
+        "rcount": 28,
+        "count": 28,
+        "state": 0,
+        "author_id": "U_06b208ba7970939838df55c1",
+        "content": {
+          "message": "枫丹退坑的，现在想回来玩，去卖号平台逛了一圈，号怎么这么贵啊！我记得我退坑的时候号价没这么夸张啊"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b624ae205ce89578625394b95c46962877458695682e9a87351eea87c1230004",
+  "original_bytes_sha256": "f440404fa2cbf08ace401e79a57f0ad100da7ce0404206d9dd695f8b51b1bdd9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315780068257",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:32:37.216035+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 26
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315780068257,
+        "rpid_str": "315780068257",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790939353,
+        "like": 0,
+        "rcount": 26,
+        "count": 31,
+        "state": 0,
+        "author_id": "U_bf21c3c2e0b8fd726fe7224d",
+        "content": {
+          "message": "多一张命运之轮、战车、太阳，谁和我换换",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1711aacfe8dc219a952c66ea71421033470460662.jpg",
+              "img_width": 1260,
+              "img_height": 8869,
+              "img_size": 797.85
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "876b7c4c321b09dbd9456218b335a09902c8478256891fb4e34b02d779e49e35",
+  "original_bytes_sha256": "16a4fbf3b3c77b359db7e8b26b27bd31f18ba3156ee5aa5eb3ee3e1900fdb658",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

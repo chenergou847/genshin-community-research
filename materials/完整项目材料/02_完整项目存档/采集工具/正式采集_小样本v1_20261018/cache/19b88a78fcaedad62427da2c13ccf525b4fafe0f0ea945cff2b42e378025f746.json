@@ -1,0 +1,90 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317278029121",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:05:21.378942+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317278486929,
+          "rpid_str": "317278486929",
+          "root": 317278029121,
+          "root_str": "317278029121",
+          "parent": 317278029121,
+          "parent_str": "317278029121",
+          "ctime": 1792175509,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f79f57d70280e1f607dfd99b",
+          "content": {
+            "message": "你好啊，在吗，能求你借点钱买个饭吃吗，真的遇到困难了"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317278029121,
+        "rpid_str": "317278029121",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792174760,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_e89ab8c54f7b14c1df64b750",
+        "content": {
+          "message": "上半1金梦见月奥黛塔冰主珐露珊被肘飞几次鼻青脸肿的过了\n下半8金丝柯克战舰进boss房十秒就结束了[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "62537d57542d5bc51880dda0210023bd3629bb07744df857fbf7918560664f6c",
+  "original_bytes_sha256": "7553f78e3a07a6d54dc1f72d1e46bfa99502dca5b85c680dbaf98b13052e7c19",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

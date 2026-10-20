@@ -1,0 +1,548 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T05:50:09.970691+00:00",
+  "source_hash": "bb7e747797f3945bf9c29fbfc3c37c1d70593d65b88e8e7aeff52f0b708fd9ef",
+  "rows": [
+    {
+      "bvid": "BV1jjJY6MEwP",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1jjJY6MEwP]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV14zJv6wEy9",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV14zJv6wEy9]；根评论7+回复7=唯一ID14；服务器all_count=14",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和10页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV12fJe6bEbz",
+      "status": "blocked_integrity",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV12fJe6bEbz]；根评论40+回复142=唯一ID182；服务器all_count=182",
+      "reconciliation": "未通过：missing_ancestor",
+      "pagination_evidence": "已核对2页根评论和31页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1r6JS6oEAp",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1r6JS6oEAp]；根评论18+回复18=唯一ID36；服务器all_count=36",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和12页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1F2JQ6aEsJ",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1F2JQ6aEsJ]；根评论6+回复10=唯一ID16；服务器all_count=16",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和12页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1uTJ86UEej",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1uTJ86UEej]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1CuJq68Ee1",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1CuJq68Ee1]；根评论1+回复0=唯一ID1；服务器all_count=1",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV174JD6xEuG",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV174JD6xEuG]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1TxJS6ME8g",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1TxJS6ME8g]；根评论1+回复5=唯一ID6；服务器all_count=6",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和2页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1yoJX6CEvn",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1yoJX6CEvn]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1UzJv6wEFw",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1UzJv6wEFw]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1hfJS6yEQ2",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1hfJS6yEQ2]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1fkJB6dERS",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1fkJB6dERS]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1ReJ86FECd",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1ReJ86FECd]；根评论1+回复1=唯一ID2；服务器all_count=2",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和2页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1iSJS6DEtJ",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1iSJS6DEtJ]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1CFJh6GEt6",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1CFJh6GEt6]；根评论25+回复41=唯一ID66；服务器all_count=66",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对2页根评论和24页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1AQJU6hE93",
+      "status": "blocked_integrity",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1AQJU6hE93]；根评论639+回复563=唯一ID1202；服务器all_count=1212",
+      "reconciliation": "未通过：global_server_total_disagrees;thread_inventory_incomplete;thread_declared_count_disagrees;cached_preview_IDs_not_in_inventory",
+      "pagination_evidence": "已核对32页根评论和193页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1pYJ46PEaX",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1pYJ46PEaX]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1SrJt62En3",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1SrJt62En3]；根评论5+回复5=唯一ID10；服务器all_count=10",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和8页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1Q9Ji66Eid",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1Q9Ji66Eid]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1iGHC6zE1w",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1iGHC6zE1w]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV19Gpw6HEfN",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV19Gpw6HEfN]；根评论2+回复0=唯一ID2；服务器all_count=2",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1dQJ66tEGz",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1dQJ66tEGz]；根评论1+回复0=唯一ID1；服务器all_count=1",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1ScpZ6TEZZ",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1ScpZ6TEZZ]；根评论1+回复0=唯一ID1；服务器all_count=1",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1DAYA6CEji",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1DAYA6CEji]；根评论1+回复0=唯一ID1；服务器all_count=1",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1fuYP6tEva",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1fuYP6tEva]；根评论241+回复553=唯一ID794；服务器all_count=794",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对13页根评论和163页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1s7YA6PEW9",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1s7YA6PEW9]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1ZgHa63Ezh",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1ZgHa63Ezh]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1qHao6TEYB",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1qHao6TEYB]；根评论51+回复143=唯一ID194；服务器all_count=194",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对3页根评论和52页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1jGpP6cEaG",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1jGpP6cEaG]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1nbak6KEBa",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1nbak6KEBa]；根评论1+回复0=唯一ID1；服务器all_count=1",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV13paD6GENC",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV13paD6GENC]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1CZa66qEwP",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1CZa66qEwP]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1Kiar6kE4i",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1Kiar6kE4i]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV168Hd61E3u",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV168Hd61E3u]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1UtYP6LEX5",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1UtYP6LEX5]；根评论21+回复13=唯一ID34；服务器all_count=34",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对2页根评论和8页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1g5Hj6WE67",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1g5Hj6WE67]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1PFYP6vEME",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1PFYP6vEME]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1ovak6cEwb",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1ovak6cEwb]；根评论2+回复0=唯一ID2；服务器all_count=2",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1RUaU61Eix",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1RUaU61Eix]；根评论1+回复1=唯一ID2；服务器all_count=2",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和2页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1myaB6BEm8",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1myaB6BEm8]；根评论16+回复18=唯一ID34；服务器all_count=34",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和20页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1zLJv6mE8T",
+      "status": "blocked_integrity",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1zLJv6mE8T]；根评论31+回复123=唯一ID154；服务器all_count=155",
+      "reconciliation": "未通过：global_server_total_disagrees",
+      "pagination_evidence": "已核对2页根评论和40页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV16caz6oEd9",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV16caz6oEd9]；根评论113+回复398=唯一ID511；服务器all_count=511",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对6页根评论和99页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1Bwpm6dEdc",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1Bwpm6dEdc]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "status": "blocked_integrity",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV137aA63EF6]；根评论1212+回复2218=唯一ID3430；服务器all_count=3434",
+      "reconciliation": "未通过：global_server_total_disagrees;missing_ancestor",
+      "pagination_evidence": "已核对61页根评论和1188页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1ZnHL68EAG",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1ZnHL68EAG]；根评论101+回复397=唯一ID498；服务器all_count=498",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对6页根评论和112页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1E9pM6UEuf",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1E9pM6UEuf]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1PwHe6xEpg",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1PwHe6xEpg]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1LBpz6FEJk",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1LBpz6FEJk]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1QGaZ6wEP8",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1QGaZ6wEP8]；根评论15+回复22=唯一ID37；服务器all_count=37",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和12页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1MXJa6dEuu",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1MXJa6dEuu]；根评论1+回复1=唯一ID2；服务器all_count=2",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和2页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1wBJB68EJV",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1wBJB68EJV]；根评论34+回复63=唯一ID97；服务器all_count=97",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对2页根评论和31页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1A5aB6FEuN",
+      "status": "blocked_integrity",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1A5aB6FEuN]；根评论123+回复330=唯一ID453；服务器all_count=453",
+      "reconciliation": "未通过：missing_ancestor",
+      "pagination_evidence": "已核对7页根评论和157页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1k6pK6UE9i",
+      "status": "blocked_integrity",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1k6pK6UE9i]；根评论15+回复14=唯一ID29；服务器all_count=30",
+      "reconciliation": "未通过：global_server_total_disagrees",
+      "pagination_evidence": "已核对1页根评论和14页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1BTJb6fEak",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1BTJb6fEak]；根评论1+回复0=唯一ID1；服务器all_count=1",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1EBaZ6VE29",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1EBaZ6VE29]；根评论70+回复253=唯一ID323；服务器all_count=323",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对4页根评论和63页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1B7a16gEXr",
+      "status": "blocked_integrity",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1B7a16gEXr]；根评论313+回复779=唯一ID1092；服务器all_count=1092",
+      "reconciliation": "未通过：missing_ancestor",
+      "pagination_evidence": "已核对16页根评论和231页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1LhYc62EWa",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1LhYc62EWa]；根评论139+回复224=唯一ID363；服务器all_count=363",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对7页根评论和122页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV1d5p76KEZp",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV1d5p76KEZp]；空游标明确begin/end且无总数；独立view元数据stat.reply=0，读取时点不同",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    },
+    {
+      "bvid": "BV14zJv6wEUY",
+      "status": "pending_independent_page_review",
+      "count_semantics_evidence": "small_integrity_audit_010.json sources[BV14zJv6wEUY]；根评论2+回复0=唯一ID2；服务器all_count=2",
+      "reconciliation": "本地技术核对一致；独立页面核验未完成",
+      "pagination_evidence": "已核对1页根评论和0页回复的原始响应、终点、页间衔接与ID；独立页面核验待完成",
+      "reviewer": "AI independent saved-response reconstruction; no independent human/page sign-off",
+      "final": "no"
+    }
+  ],
+  "collection_hash": "75becedfbda9cbde26931afe63888740cd63b383ca3e068b36a4651dcb1a0409"
+}

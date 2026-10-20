@@ -1,0 +1,248 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319018604992",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:26:24.650694+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315513590961,
+          "rpid_str": "315513590961",
+          "root": 319018604992,
+          "root_str": "319018604992",
+          "parent": 319018604992,
+          "parent_str": "319018604992",
+          "dialog": 315513590961,
+          "ctime": 1790743016,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf5d5648beb43f57c54a72eb",
+          "content": {
+            "message": "薇一队，木偶一队，丝一队"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319108931024,
+          "rpid_str": "319108931024",
+          "root": 319018604992,
+          "root_str": "319018604992",
+          "parent": 315513590961,
+          "parent_str": "315513590961",
+          "dialog": 315513590961,
+          "ctime": 1790764339,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5e1c4ca29f9c48be3c438fe9",
+          "content": {
+            "message": "回复 @130的凯撒 :早上活动刚开五分钟就打完了[星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320030446736,
+          "rpid_str": "320030446736",
+          "root": 319018604992,
+          "root_str": "319018604992",
+          "parent": 319018604992,
+          "parent_str": "319018604992",
+          "dialog": 320030446736,
+          "ctime": 1791430380,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9dbe1f8f3a2574402d3fde51",
+          "content": {
+            "message": "哥，你常驻怎么那么多6命[思考]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320034118416,
+          "rpid_str": "320034118416",
+          "root": 319018604992,
+          "root_str": "319018604992",
+          "parent": 320030446736,
+          "parent_str": "320030446736",
+          "dialog": 320030446736,
+          "ctime": 1791432983,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5e1c4ca29f9c48be3c438fe9",
+          "content": {
+            "message": "回复 @该用户已注销004 :非洲人，歪的多[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319018604992,
+        "rpid_str": "319018604992",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790686992,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_5e1c4ca29f9c48be3c438fe9",
+        "content": {
+          "message": "N5怎么搭配[星星眼]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/22cf33763ba855ff173a5448ab714c21390664818.jpg",
+              "img_width": 1139,
+              "img_height": 15000,
+              "img_size": 8294.56
+            }
+          ],
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4a79d720c19e6595bab30628afab21487b917c8122148b55d5072c55ac13f502",
+  "original_bytes_sha256": "e770498cbdcb0c74da229f72ce56a97825b117b66b281d36a81bb570c68c5d58",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318487277904",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:20:36.430755+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314955678481,
+          "rpid_str": "314955678481",
+          "root": 318487277904,
+          "root_str": "318487277904",
+          "parent": 318487277904,
+          "parent_str": "318487277904",
+          "dialog": 314955678481,
+          "ctime": 1790272371,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06f9274fb3c02d59156b8b11",
+          "content": {
+            "message": "N6第一间星扩散理论伤害全部打满都需要23万dps,你这五金的薇沃奥就算全大毕业都难打，还得加几金才行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318502074000,
+          "rpid_str": "318502074000",
+          "root": 318487277904,
+          "root_str": "318487277904",
+          "parent": 314955678481,
+          "parent_str": "314955678481",
+          "dialog": 314955678481,
+          "ctime": 1790294176,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4326a333860bee0634d88b59",
+          "content": {
+            "message": "回复 @阿良良木翼没能活下来 :要是理论伤害的话，毕业有23w还是挺轻松的，我这边模拟85/190的双爆，80级8级天赋能有20wdps，拉满了应该是23wdps，不过实战确实难搞一些"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318502364048,
+          "rpid_str": "318502364048",
+          "root": 318487277904,
+          "root_str": "318487277904",
+          "parent": 318487277904,
+          "parent_str": "318487277904",
+          "dialog": 318502364048,
+          "ctime": 1790294450,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4326a333860bee0634d88b59",
+          "content": {
+            "message": "上半还能攒一个小保底，到时候看看能不能补个一命。冰棺那间二火不知道能不能打得过，我双马头搓的不稳"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318487277904,
+        "rpid_str": "318487277904",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790269282,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_4326a333860bee0634d88b59",
+        "content": {
+          "message": "有n6的机会吗，感觉是几期下来最符合环境的一期了，薇还在练",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/40222dc48c9340369db0c37a1724c1a2377940102.jpg",
+              "img_width": 1220,
+              "img_height": 11229,
+              "img_size": 1391.62
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5acc4be2e5af6f6a727e833f2c1edb6fa4832617209c6c3b03232239e9d4d0ce",
+  "original_bytes_sha256": "bd0c79383f0836ff778c999ae0b5e51d4cd984be0170d2e6cadc68e0064ae413",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

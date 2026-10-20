@@ -1,0 +1,183 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315592302609",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:37:38.095399+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319161677520,
+          "rpid_str": "319161677520",
+          "root": 315592302609,
+          "root_str": "315592302609",
+          "parent": 315592302609,
+          "parent_str": "315592302609",
+          "dialog": 319161677520,
+          "ctime": 1790804124,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d460c36c68d3b49fe371ac1c",
+          "content": {
+            "message": "再抽一个薇吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315599248641,
+          "rpid_str": "315599248641",
+          "root": 315592302609,
+          "root_str": "315592302609",
+          "parent": 315592302609,
+          "parent_str": "315592302609",
+          "dialog": 315599248641,
+          "ctime": 1790804937,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3ed1c5b394890328a9ef0de3",
+          "content": {
+            "message": "专武都要等他队友补齐再抽"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319171497872,
+          "rpid_str": "319171497872",
+          "root": 315592302609,
+          "root_str": "315592302609",
+          "parent": 315592302609,
+          "parent_str": "315592302609",
+          "dialog": 319171497872,
+          "ctime": 1790817069,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bd8f220022c5c67a19c2a9db",
+          "content": {
+            "message": "要舒适度抽沃 要数值抽薇1命"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319185084672,
+          "rpid_str": "319185084672",
+          "root": 315592302609,
+          "root_str": "315592302609",
+          "parent": 315592302609,
+          "parent_str": "315592302609",
+          "dialog": 319185084672,
+          "ctime": 1790825780,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_63226e5133e5a8645ee53209",
+          "content": {
+            "message": "抽一命[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315592302609,
+        "rpid_str": "315592302609",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790790515,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_8a60bfa7e6a2b1aab9630ec4",
+        "content": {
+          "message": "回归号刚抽到薇，去抽沃好还是抽武器，现在有把赦罪可以用"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4ee477686397d0c11baa295ba50547c47e36aed62197038ffed111c3ecd27d33",
+  "original_bytes_sha256": "808928d64dc0a85935afd95f0e2a74fa283724cde5b89a9b05d93bc210f03d6a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319420806720",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:48:39.145916+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319430222784,
+          "rpid_str": "319430222784",
+          "root": 319420806720,
+          "root_str": "319420806720",
+          "parent": 319420806720,
+          "parent_str": "319420806720",
+          "dialog": 319430222784,
+          "ctime": 1791001207,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "补伤害"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319420806720,
+        "rpid_str": "319420806720",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790996057,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_ecee91a895dfc07e943c64f8",
+        "content": {
+          "message": "夏带决斗然后圣整那么高暴击是啥原理啊"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ff697f62852e94ec684ebfd1b71d1d2e2370008608d1c5156e606cc2371d56cb",
+  "original_bytes_sha256": "d3cda78f4dcb764f52f04bf4dd875effd4525ac473ded8436cd1b5bd6f178a9f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

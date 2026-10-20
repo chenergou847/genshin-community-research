@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319193009600",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:22:58.075306+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319193009600,
+        "rpid_str": "319193009600",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790830189,
+        "like": 1,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_8e1a1773d3623199b5456b39",
+        "content": {
+          "message": "01奶奶，30天空卷闲云，能过吗[星星眼]",
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ca0d7c7e7b5bb0a79cbfdca77e2998f06d12db64dae0deb39c30c18628151aad",
+  "original_bytes_sha256": "62aafc0ebbc2655fe6d009091ac6fe26bceb7fd239756c4a4fecbf2a503222d9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

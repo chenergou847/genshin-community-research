@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315091533105",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:56:43.123262+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315091533105,
+        "rpid_str": "315091533105",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790391006,
+        "like": 0,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_91ff8b706f5e126b327a6c75",
+        "content": {
+          "message": "这期有机会n6吗，感觉是离得最近的一次了[轻音少女第一季表情包_汗流浃背]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/cb8c3f173a52cc6ed41c09ec4b14ab8921698597.jpg",
+              "img_width": 1290,
+              "img_height": 16824,
+              "img_size": 4762,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[轻音少女第一季表情包_汗流浃背]": {
+              "id": 141551,
+              "package_id": 9989,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[轻音少女第一季表情包_汗流浃背]",
+              "url": "https://i0.hdslb.com/bfs/garb/55facb1758e9836ca99b7ca1a32e5b3e75ef9805.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1782381661,
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=113319&hybrid_set_header=2&anchor_task=1&lottery_id=113320&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22113330%22%2C%22sub_id%22%3A%22%5B%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%80%E5%AD%A3%E8%A1%A8%E6%83%85%E5%8C%85_%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%5D%22%7D",
+              "jump_title": "汗流浃背"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "efc206d8630e4b50a3209f38042f15dd33b51d116175e80c4fd2677123c9ef49",
+  "original_bytes_sha256": "fbc80867f1dfd8ce1b8e24238a8446de5900e313eb1eb0abbb9dba9ec64613fa",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

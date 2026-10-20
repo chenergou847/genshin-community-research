@@ -1,0 +1,188 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315570546641",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:38:17.361640+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315578006481,
+          "rpid_str": "315578006481",
+          "root": 315570546641,
+          "root_str": "315570546641",
+          "parent": 315570546641,
+          "parent_str": "315570546641",
+          "dialog": 315578006481,
+          "ctime": 1790780422,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2af042d7b6e5de469bdbfe0a",
+          "content": {
+            "message": "210217580"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315583422353,
+          "rpid_str": "315583422353",
+          "root": 315570546641,
+          "root_str": "315570546641",
+          "parent": 315570546641,
+          "parent_str": "315570546641",
+          "dialog": 315583422353,
+          "ctime": 1790783644,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_60593d08dff5eaa54bb80689",
+          "content": {
+            "message": "263459149"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315598764993,
+          "rpid_str": "315598764993",
+          "root": 315570546641,
+          "root_str": "315570546641",
+          "parent": 315570546641,
+          "parent_str": "315570546641",
+          "dialog": 315598764993,
+          "ctime": 1790803089,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_85361ce208162115caeb4fc7",
+          "content": {
+            "message": "333333333，全满"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315598928369,
+          "rpid_str": "315598928369",
+          "root": 315570546641,
+          "root_str": "315570546641",
+          "parent": 315598764993,
+          "parent_str": "315598764993",
+          "dialog": 315598764993,
+          "ctime": 1790803663,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7ad97c88392df6decab96418",
+          "content": {
+            "message": "回复 @你能有我做饭好吃 :我去这个UID"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315600891585,
+          "rpid_str": "315600891585",
+          "root": 315570546641,
+          "root_str": "315570546641",
+          "parent": 315583422353,
+          "parent_str": "315583422353",
+          "dialog": 315583422353,
+          "ctime": 1790808709,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5badb4351edcaa257054b65a",
+          "content": {
+            "message": "回复 @路过的芦毛帽 :谢谢大佬"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315570546641,
+        "rpid_str": "315570546641",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790776315,
+        "like": 0,
+        "rcount": 5,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_5badb4351edcaa257054b65a",
+        "content": {
+          "message": "有没有满命大佬给个好友位啊，没用过满命角色呢"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "15fd19e808785d6a6d6c0398ea24859513052a00fbffad64da073236dfb68866",
+  "original_bytes_sha256": "10555aad34986a4fb3464a2cbb0ca8f16d14df6763c14bc6a2c71d81e2a2c965",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

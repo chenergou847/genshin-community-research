@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318795056272",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:48:16.486647+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 13
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318795056272,
+        "rpid_str": "318795056272",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790502305,
+        "like": 2,
+        "rcount": 13,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_a71a587a4739109e6ecb4396",
+        "content": {
+          "message": "这个能过n6吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1009ea9cafec349b9fe70e9e93af600b488535847.jpg",
+              "img_width": 1080,
+              "img_height": 9518,
+              "img_size": 1131.52,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "75cee928e6bc4e8b5ede2df2a5842f997b34335025e9772a118dd95151663f18",
+  "original_bytes_sha256": "46e380d3515115d00f0f52f0d1786b12ce5f835bc1cc233dfc4f92e7fcfe3b70",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

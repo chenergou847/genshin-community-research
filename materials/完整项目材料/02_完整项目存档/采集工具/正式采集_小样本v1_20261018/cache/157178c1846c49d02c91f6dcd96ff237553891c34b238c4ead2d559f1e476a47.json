@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "315841439297",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:54:29.034156+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319420049120,
+          "rpid_str": "319420049120",
+          "root": 315841439297,
+          "root_str": "315841439297",
+          "parent": 315841439297,
+          "parent_str": "315841439297",
+          "dialog": 319420049120,
+          "ctime": 1790995586,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9dfe20766f6f42bb3d5b572b",
+          "content": {
+            "message": "不会有光主暗主的，主角用的元素力本身就是光界力，如果要出暗系的话，也应该是像光界力7元素一样，出7个新元素，组成新体系，而不是单出一个暗元素"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315983897601,
+          "rpid_str": "315983897601",
+          "root": 315841439297,
+          "root_str": "315841439297",
+          "parent": 315841439297,
+          "parent_str": "315841439297",
+          "dialog": 315983897601,
+          "ctime": 1791094977,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9f7873573fe46d0d25af673d",
+          "content": {
+            "message": "暗主应该叫深渊主"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315841439297,
+        "rpid_str": "315841439297",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790993213,
+        "like": 4,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_af85956106b93a3edf7ff2c0",
+        "content": {
+          "message": "我从未来回来的  光主+暗反主随便配2个四星轻松肘翻n6[doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "831451812bdb6428b7c0b079dddb368ea12a9b3eae540b95a9d0e5c3bf83b872",
+  "original_bytes_sha256": "e67f77c8464397dc9b6b738e39375aa7df76e0018b81ade4fc61996cb64bad80",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

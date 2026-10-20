@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317214291457",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:41:08.339955+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317214291457,
+        "rpid_str": "317214291457",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792132702,
+        "like": 10,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_c2e54466d4af5490d655b0c2",
+        "content": {
+          "message": "玩了这么就之后头一次满星呜呜",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e2c40fbc56bbde7396ab98d6d85733ef560698981.jpg",
+              "img_width": 1080,
+              "img_height": 2340,
+              "img_size": 959.62
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "3515a8b99a6dd312b20a576a368da21e8544757375cf71fa7c6402097217e508",
+  "original_bytes_sha256": "7023f5345b195c7ae80bf56243cba6b0c686f8553dfd80b879e995a8afdb2972",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

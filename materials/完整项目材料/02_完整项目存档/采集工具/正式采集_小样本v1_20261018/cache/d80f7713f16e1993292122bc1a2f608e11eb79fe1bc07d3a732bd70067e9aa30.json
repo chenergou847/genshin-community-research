@@ -1,0 +1,119 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315170459105",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:52:55.587621+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315708290945,
+          "rpid_str": "315708290945",
+          "root": 315170459105,
+          "root_str": "315170459105",
+          "parent": 315170459105,
+          "parent_str": "315170459105",
+          "dialog": 315708290945,
+          "ctime": 1790880586,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_812fae6d49134d9d7bf6fb81",
+          "content": {
+            "message": "上半赛诺超导随便打，中路只要会双丝头dps就够，下路可以试试草队+破盾位（班单人可以破）。或者下路玩赛诺上路玩扩散，这期n5老头机制可扣700w血dps要求很低。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315170459105,
+        "rpid_str": "315170459105",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790436429,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_5be0d0d7fac2b98412d1611e",
+        "content": {
+          "message": "n5怎么打，没思路，只能配的出两队[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/68c80b233c9e55b042d01f2c83d6448f1260287952.jpg",
+              "img_width": 1080,
+              "img_height": 11325,
+              "img_size": 1364.59
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cf673807f65a4c363679ed3645911c8d21cef1441e91e6d02198ca3420ed1eef",
+  "original_bytes_sha256": "bad1c2b0998a59fde57e9e179b97897d9b09acdd39873129ab2a65127fe92dcb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

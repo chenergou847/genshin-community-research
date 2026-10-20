@@ -1,0 +1,274 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117365148746080",
+    "type": 1,
+    "root": "316280823873",
+    "ps": 20,
+    "next": 1
+  },
+  "captured_at": "2026-10-19T05:26:12.303333+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316280823873,
+        "rpid_str": "316280823873",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791301751,
+        "like": 0,
+        "rcount": 6,
+        "count": 11,
+        "state": 0,
+        "floor": 88,
+        "author_id": "U_d960d2d4c19ea730fef00f43",
+        "content": {
+          "message": "我一直有个问题:为什么大部分时间都是eq而不是qe呢"
+        },
+        "replies": [
+          {
+            "rpid": 316283007345,
+            "rpid_str": "316283007345",
+            "root": 316280823873,
+            "root_str": "316280823873",
+            "parent": 316280823873,
+            "parent_str": "316280823873",
+            "dialog": 316283007345,
+            "ctime": 1791302989,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 1,
+            "author_id": "U_30050bd8d1443f3fc68478b4",
+            "content": {
+              "message": "谁啊[思考]但其实不管啥角色基本都是eq好一点，能吃自己的球，玛薇卡的话eq不会占大招输出时间",
+              "emote": {
+                "[思考]": {
+                  "id": 1941,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[思考]",
+                  "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "思考"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319896735392,
+            "rpid_str": "319896735392",
+            "root": 316280823873,
+            "root_str": "316280823873",
+            "parent": 316280823873,
+            "parent_str": "316280823873",
+            "dialog": 319896735392,
+            "ctime": 1791319729,
+            "like": 2,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 2,
+            "author_id": "U_062b2b2fe9a555071334bfd5",
+            "content": {
+              "message": "如果问的是大部分角色为什么eq的话，大招取消e后摇"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 320129691104,
+            "rpid_str": "320129691104",
+            "root": 316280823873,
+            "root_str": "316280823873",
+            "parent": 316280823873,
+            "parent_str": "316280823873",
+            "dialog": 320129691104,
+            "ctime": 1791516050,
+            "like": 1,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 3,
+            "author_id": "U_2edbb6b15868d930efd93735",
+            "content": {
+              "message": "大部分eq是吃自己的球  火神eq是为了保证触发圣遗物的40暴击"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316521282417,
+            "rpid_str": "316521282417",
+            "root": 316280823873,
+            "root_str": "316280823873",
+            "parent": 320129691104,
+            "parent_str": "320129691104",
+            "dialog": 320129691104,
+            "ctime": 1791519343,
+            "like": 1,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 4,
+            "author_id": "U_978a1de3e41ccce27a1ffd17",
+            "content": {
+              "message": "回复 @kadd- :火神直接q就能吃黑耀套，我没记错的话火神q会获得1点夜魂值[doge]",
+              "emote": {
+                "[doge]": {
+                  "id": 26,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[doge]",
+                  "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "doge"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316521975025,
+            "rpid_str": "316521975025",
+            "root": 316280823873,
+            "root_str": "316280823873",
+            "parent": 316280823873,
+            "parent_str": "316280823873",
+            "dialog": 316521975025,
+            "ctime": 1791519901,
+            "like": 1,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 7,
+            "author_id": "U_978a1de3e41ccce27a1ffd17",
+            "content": {
+              "message": "拿这队来说，夏得qeee来破盾，欧洛伦都可以，伊安珊要先e给自己充能，火神e需要在上buff前开是为了充战意\n如果是说其他角色的话，很多时候eq是拐力在q上的辅助，如果qe的话q持续时间会被e占用半秒一秒，也就意味着输出位吃的拐力就少了半秒一秒，就掉dps了"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 320529078272,
+            "rpid_str": "320529078272",
+            "root": 316280823873,
+            "root_str": "316280823873",
+            "parent": 316547634721,
+            "parent_str": "316547634721",
+            "dialog": 316547634721,
+            "ctime": 1791831785,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 11,
+            "author_id": "U_9d02bf24573b4f199d0d1521",
+            "content": {
+              "message": "回复 @沧笙踏歌の春 :你的意思是严格一金这个火神有火专（）"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "416bf38e3e8772c32eb8a3d37a2adfdb71f549ea7919a3b9fde5d63e3975cecf",
+  "original_bytes_sha256": "3b849fcef46270080a605de2fc96e097b10c98b124e5537f2a842636877dbd5d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

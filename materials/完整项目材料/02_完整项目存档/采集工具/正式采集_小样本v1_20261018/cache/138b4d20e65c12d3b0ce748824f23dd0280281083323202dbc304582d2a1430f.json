@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "321027095792",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:44:03.777136+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317385387201,
+          "rpid_str": "317385387201",
+          "root": 321027095792,
+          "root_str": "321027095792",
+          "parent": 321027095792,
+          "parent_str": "321027095792",
+          "dialog": 317385387201,
+          "ctime": 1792256917,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1f9e7180a6c75e45ff17b632",
+          "content": {
+            "message": "为啥要带个维斯娜"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321048750160,
+          "rpid_str": "321048750160",
+          "root": 321027095792,
+          "root_str": "321027095792",
+          "parent": 317385387201,
+          "parent_str": "317385387201",
+          "dialog": 317385387201,
+          "ctime": 1792258798,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_602a24d9656c8f7e196dbfdd",
+          "content": {
+            "message": "回复 @幻幻秃了也有猫了 :她的盾触发星烁反应的话可以转化，薇斯纳可以触发星烁反应"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317388168577,
+          "rpid_str": "317388168577",
+          "root": 321027095792,
+          "root_str": "321027095792",
+          "parent": 321048750160,
+          "parent_str": "321048750160",
+          "dialog": 317385387201,
+          "ctime": 1792259546,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1f9e7180a6c75e45ff17b632",
+          "content": {
+            "message": "回复 @hzj叶 : 哦，我光想着没冰咋触发， 忘了他自己就是冰"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321027095792,
+        "rpid_str": "321027095792",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792245507,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_8fc90dde46531fa86a9b8c93",
+        "content": {
+          "message": "板砖教官薇斯纳真的燃尽了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c7d5305118cfde8e068054bf884d97fd1749599627.jpg",
+              "img_width": 716,
+              "img_height": 1576,
+              "img_size": 527.51
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6b4c6d87781c4d17fe398fc41e1dafeeb95aefb179e21a2774c3f97c712da0da",
+  "original_bytes_sha256": "ec900f045f0e51a99bdb87285f81188c40e79ec8a35546e3871a67eea9925cce",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

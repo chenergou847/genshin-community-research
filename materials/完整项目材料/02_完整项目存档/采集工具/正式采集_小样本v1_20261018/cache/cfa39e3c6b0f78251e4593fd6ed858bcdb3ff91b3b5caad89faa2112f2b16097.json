@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315866864929",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:48:00.786868+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315866864929,
+        "rpid_str": "315866864929",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791007932,
+        "like": 1,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_f9527758987060ffc827c64e",
+        "content": {
+          "message": "11牛，00火，3伊，6夏，有机会打n5冰棺吗[热]",
+          "emote": {
+            "[热]": {
+              "id": 7647,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[热]",
+              "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "热"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6eabbe45f1d1a781d5a391b87c2e5b90ae6d02c940d3766bacc08bf214fa10b0",
+  "original_bytes_sha256": "76e4b993dcc6e1ce8bf8fe9fa0e4872c9543f974e105fb1d4f42d0857d52b836",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

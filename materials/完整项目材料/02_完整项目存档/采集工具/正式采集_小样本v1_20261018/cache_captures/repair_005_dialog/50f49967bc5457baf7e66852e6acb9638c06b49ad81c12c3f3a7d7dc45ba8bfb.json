@@ -1,0 +1,530 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117454739081849",
+    "type": 1,
+    "root": "320978740800",
+    "dialog": "320979074688",
+    "size": 20
+  },
+  "captured_at": "2026-10-18T05:32:53.556634+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 2,
+        "max_floor": 55,
+        "size": 14,
+        "next": 56,
+        "prev": 1,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":56}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 55
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320979074688,
+          "rpid_str": "320979074688",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320978740800,
+          "parent_str": "320978740800",
+          "dialog": 320979074688,
+          "ctime": 1792218293,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 2,
+          "author_id": "U_6721974bfa5f94556ff2d28f",
+          "content": {
+            "message": "满命水神还需要别人给建议才能打满吗？芙芙跟你确实遭老罪了[星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320979379840,
+          "rpid_str": "320979379840",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320979074688,
+          "parent_str": "320979074688",
+          "dialog": 320979074688,
+          "ctime": 1792218461,
+          "like": 15,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 4,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @浪的可悲 :老米可以听进去各位玩家们的声音，我身为老米的玩家我难道不能听正常玩家的声音吗？[汤圆][汤圆][汤圆]",
+            "emote": {
+              "[汤圆]": {
+                "id": 5936,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[汤圆]",
+                "url": "https://i0.hdslb.com/bfs/emote/93609633a9d194cf336687eb19c01dca95bde719.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    "汤圆",
+                    "元宵节",
+                    "汤团"
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "汤圆"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320979572640,
+          "rpid_str": "320979572640",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320979379840,
+          "parent_str": "320979379840",
+          "dialog": 320979074688,
+          "ctime": 1792218624,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 5,
+          "author_id": "U_6721974bfa5f94556ff2d28f",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :可你是正常玩家吗？满命水神打不满深渊的玩家请问是正常玩家吗？[呲牙]",
+            "emote": {
+              "[呲牙]": {
+                "id": 1902,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[呲牙]",
+                "url": "https://i0.hdslb.com/bfs/emote/b5a5898491944a4268360f2e7a84623149672eb6.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "呲牙"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320981168896,
+          "rpid_str": "320981168896",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320979572640,
+          "parent_str": "320979572640",
+          "dialog": 320979074688,
+          "ctime": 1792219672,
+          "like": 7,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 10,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @浪的可悲 :去攻击去攻击一位认可原神的原神玩家，请问你是原神正常玩家吗[汤圆][汤圆][汤圆]",
+            "emote": {
+              "[汤圆]": {
+                "id": 5936,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[汤圆]",
+                "url": "https://i0.hdslb.com/bfs/emote/93609633a9d194cf336687eb19c01dca95bde719.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    "汤圆",
+                    "元宵节",
+                    "汤团"
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "汤圆"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320982688608,
+          "rpid_str": "320982688608",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320982232208,
+          "parent_str": "320982232208",
+          "dialog": 320979074688,
+          "ctime": 1792220628,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 18,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @总要再见一面love :不然我说鸣潮就是个膨胀神游呢，冰属性大C居然无法逆环境执法冰抗怪真的是纯纯拉完了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320983441728,
+          "rpid_str": "320983441728",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 317324656433,
+          "parent_str": "317324656433",
+          "dialog": 320979074688,
+          "ctime": 1792221064,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 22,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @三玖の站国 :我只知道我视频在宣传原神现在水温低无压力建议老玩家回坑[星星眼][星星眼][星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320983359392,
+          "rpid_str": "320983359392",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320983001584,
+          "parent_str": "320983001584",
+          "dialog": 320979074688,
+          "ctime": 1792221106,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 23,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @总要再见一面love :鸣潮纯纯路边，老米不学好的学路边干啥？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320983791168,
+          "rpid_str": "320983791168",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320983359392,
+          "parent_str": "320983359392",
+          "dialog": 320979074688,
+          "ctime": 1792221319,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 27,
+          "author_id": "U_0ecdbb39509d0b3e2134c03f",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :跟我一起喊库洛拯救人类！！！"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320985037840,
+          "rpid_str": "320985037840",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320984707840,
+          "parent_str": "320984707840",
+          "dialog": 320979074688,
+          "ctime": 1792222203,
+          "like": 10,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 41,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @总要再见一面love :能不能不要搞错？没有老米拯救宅男哪来的什么库洛？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320985520496,
+          "rpid_str": "320985520496",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320985183568,
+          "parent_str": "320985183568",
+          "dialog": 320979074688,
+          "ctime": 1792222398,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 45,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @总要再见一面love :我就问你一句，如果没有老米拯救宅男，库洛能从哪个石头缝蹦出来？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320985530640,
+          "rpid_str": "320985530640",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320985037840,
+          "parent_str": "320985037840",
+          "dialog": 320979074688,
+          "ctime": 1792222418,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 46,
+          "author_id": "U_0ecdbb39509d0b3e2134c03f",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :让我们跟随库洛一起，来我们一起喊库洛拯救人类"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320985491904,
+          "rpid_str": "320985491904",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320985385296,
+          "parent_str": "320985385296",
+          "dialog": 320979074688,
+          "ctime": 1792222446,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 48,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @总要再见一面love :老米拯救宅男的时候库洛在哪儿发财呢？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317327419729,
+          "rpid_str": "317327419729",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 320979074688,
+          "parent_str": "320979074688",
+          "dialog": 320979074688,
+          "ctime": 1792222965,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 51,
+          "author_id": "U_518f3e6a89ef65819403c3a2",
+          "content": {
+            "message": "回复 @浪的可悲 :你有满命芙宁娜么"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320992406000,
+          "rpid_str": "320992406000",
+          "root": 320978740800,
+          "root_str": "320978740800",
+          "parent": 317327419729,
+          "parent_str": "317327419729",
+          "dialog": 320979074688,
+          "ctime": 1792226854,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 55,
+          "author_id": "U_6721974bfa5f94556ff2d28f",
+          "content": {
+            "message": "回复 @一个大咸鱼 :我没有啊，但你不会觉得满命芙宁娜是牢角色吧？[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "message": "OK",
+    "source_data_was_null": false,
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "6a3576146f0d34a19562fc3b244ce6d47065cda7a5a2ac52282f8e3ea787c412",
+  "original_bytes_sha256": "4a1b9184f56569cafb3b3d711364fd8c63207eda791c0c8171d46ef876a68159",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_005_dialog"
+}

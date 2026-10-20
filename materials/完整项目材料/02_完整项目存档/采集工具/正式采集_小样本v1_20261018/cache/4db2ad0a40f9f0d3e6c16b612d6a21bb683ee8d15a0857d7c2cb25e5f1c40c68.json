@@ -1,0 +1,166 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319012263520",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:26:40.525450+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319163231840,
+          "rpid_str": "319163231840",
+          "root": 319012263520,
+          "root_str": "319012263520",
+          "parent": 319012263520,
+          "parent_str": "319012263520",
+          "dialog": 319163231840,
+          "ctime": 1790808070,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_902195bb4caa6fa66b6a0dbb",
+          "content": {
+            "message": "第二间用skk好像伤害不够"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319169619888,
+          "rpid_str": "319169619888",
+          "root": 319012263520,
+          "root_str": "319012263520",
+          "parent": 319012263520,
+          "parent_str": "319012263520",
+          "dialog": 319169619888,
+          "ctime": 1790815598,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7199a6b743d6f6f1d282b66f",
+          "content": {
+            "message": "给你个参考，第一间 我是 木 七 八 奥 26W DPS ，第二间，skk 爱 鹤 沃 13W dps ，第三间 火 牛 夏 123 26W DPS 。N6都是踩边过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319012263520,
+        "rpid_str": "319012263520",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790683334,
+        "like": 1,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_a14cf6f36d95683f41f69df0",
+        "content": {
+          "message": "已三连，我这个n6有戏吗吗[辣眼睛][辣眼睛]火神双码头打桩大概40wdps，薇打桩23万wdps，菲打桩也是23wdps左右[辣眼睛][辣眼睛][辣眼睛]我感觉薇打不过第一间[大哭][大哭][大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/58c2c0c4c5d12b0c87a1003bd1e368d83461573452499406.jpg",
+              "img_width": 1260,
+              "img_height": 12744,
+              "img_size": 1569.77
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7e4e7481c3fd6f93879712a2d936eb463461573452499406.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 974.05
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            },
+            "[辣眼睛]": {
+              "id": 2374,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[辣眼睛]",
+              "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "辣眼睛"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1606eca4596332dfc2000a8a9804e947c2f7bc31efa47caaf3d275aa1b9bb02e",
+  "original_bytes_sha256": "179d9b676d6baf4add55f5a1c4b871b94ddd8d8f43b9f4faaab2215d28e9afd1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315181592081",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:51:43.588402+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315181592081,
+        "rpid_str": "315181592081",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790444578,
+        "like": 0,
+        "rcount": 7,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_e33b8c20bf8b9aac8641dd90",
+        "content": {
+          "message": "老师们有希望N6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4a297fd74d7114704452967e76cf299230707685.jpg",
+              "img_width": 1179,
+              "img_height": 12441,
+              "img_size": 3377
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "daea021d3f64425bc638ec5703d65a5e978e0c2daced8988e73414dcb40b86e2",
+  "original_bytes_sha256": "5ec84a9a94ecca4c0a6461f8710d881467e201b18c8e28edff54626edb7ba2bd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

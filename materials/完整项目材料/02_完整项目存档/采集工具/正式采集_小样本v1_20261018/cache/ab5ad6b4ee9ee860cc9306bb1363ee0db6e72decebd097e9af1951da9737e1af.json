@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319047699344",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:23:04.364977+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319055527232,
+          "rpid_str": "319055527232",
+          "root": 319047699344,
+          "root_str": "319047699344",
+          "parent": 319047699344,
+          "parent_str": "319047699344",
+          "dialog": 319055527232,
+          "ctime": 1790725832,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_05e0a64fdca4da688036d225",
+          "content": {
+            "message": "如果你问的是幽战的原石，那你选个奶妈进n3匹配都能拿满"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319065648768,
+          "rpid_str": "319065648768",
+          "root": 319047699344,
+          "root_str": "319047699344",
+          "parent": 319047699344,
+          "parent_str": "319047699344",
+          "dialog": 319065648768,
+          "ctime": 1790735650,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c387f1dd7e84696ecf61e8be",
+          "content": {
+            "message": "拿满原石可以联机N3，找个大佬带带N4还可以拿一根羽毛"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319047699344,
+        "rpid_str": "319047699344",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790708256,
+        "like": 3,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_dedf9ad3aaca835249f9e9f2",
+        "content": {
+          "message": "刚回坑，我这个box能拿满原石吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/20296a536286a9a11f4c7c121ffc6a463493144115022344.jpg",
+              "img_width": 1440,
+              "img_height": 900,
+              "img_size": 145.85
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7cbca1584661547e4b42e2ab6e86cf04452c59e723b9415ef9fbc52c5d2fd3b0",
+  "original_bytes_sha256": "e9f5903a6f0f23195fb29a458a83e359aa04d66dfb5b2e6684b901ddf0bb0656",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

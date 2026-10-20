@@ -1,0 +1,404 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117453329801174",
+    "type": "1",
+    "mode": "2",
+    "next": "6",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzMTQ4MDExMjYyMTcaADICCAY=\"}"
+  },
+  "captured_at": "2026-10-18T05:00:13.880744+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 7,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {
+          "prev_offset": "CAISEDE4MzUzMTQ4MDExMjYyMTcaADICCAc="
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 66,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317288619201,
+          "rpid_str": "317288619201",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792197189,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_f409866602dc4221d65d8012",
+          "content": {
+            "message": "老深渊比拼舒适度，论舒适度谁能在冰水环境和同时有抗打断加奶，同时1.5秒一次的沃沃头比[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/364fabe30e7d5833e5583a4697722840397481857.jpg",
+                "img_width": 1220,
+                "img_height": 1215,
+                "img_size": 757.18,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 321063068864,
+              "rpid_str": "321063068864",
+              "root": 317288619201,
+              "root_str": "317288619201",
+              "parent": 317288619201,
+              "parent_str": "317288619201",
+              "ctime": 1792283927,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_9ebb674e87247e7847c95f56",
+              "content": {
+                "message": "冰猫[doge]",
+                "emote": {
+                  "[doge]": {
+                    "id": 26,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "doge"
+                  }
+                }
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317288490001,
+          "rpid_str": "317288490001",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792196971,
+          "like": 37,
+          "rcount": 4,
+          "count": 4,
+          "state": 0,
+          "author_id": "U_8835f82a81f8c39104836d31",
+          "content": {
+            "message": "这个叫原神的游戏为什么里面这么多人长得像科比[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317294516913,
+              "rpid_str": "317294516913",
+              "root": 317288490001,
+              "root_str": "317288490001",
+              "parent": 317288490001,
+              "parent_str": "317288490001",
+              "ctime": 1792202184,
+              "like": 3,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_cef9a2fbedb7eedfee9aa703",
+              "content": {
+                "message": "别笑等牢渊出来你也要当，boss小怪npc一个也跑不了[生气]",
+                "emote": {
+                  "[生气]": {
+                    "id": 10,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[生气]",
+                    "url": "https://i0.hdslb.com/bfs/emote/3195714219c4b582a4fb02033dd1519913d0246d.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "生气"
+                  }
+                }
+              },
+              "replies": []
+            },
+            {
+              "rpid": 320945947840,
+              "rpid_str": "320945947840",
+              "root": 317288490001,
+              "root_str": "317288490001",
+              "parent": 317288490001,
+              "parent_str": "317288490001",
+              "ctime": 1792197573,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_c92b18872d13b5f2a4cb11b0",
+              "content": {
+                "message": "万牢之主呗"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 320945390752,
+          "rpid_str": "320945390752",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792196968,
+          "like": 4,
+          "rcount": 3,
+          "count": 3,
+          "state": 0,
+          "author_id": "U_b6911990726f024faf74b4e5",
+          "content": {
+            "message": "我们路边偶怎会如此[笑哭]女皇大人和达尼卡快来救救吧",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317293829905,
+              "rpid_str": "317293829905",
+              "root": 320945390752,
+              "root_str": "320945390752",
+              "parent": 320945390752,
+              "parent_str": "320945390752",
+              "ctime": 1792201711,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_3d6eb5c8eeade7d5609fb467",
+              "content": {
+                "message": "这期环境只看无脑程度的话，木偶和薇打上半感觉差不多，都很简单，下半三间连打也就丝柯克最简单，木偶也不难，但差点意思，薇斯纳不清楚，所以这个使用率还算正常"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 320945008464,
+          "rpid_str": "320945008464",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792196592,
+          "like": 4,
+          "rcount": 0,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_cec7237916b7370956ec31fb",
+          "content": {
+            "message": "薇偶互相分流了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317288005089,
+          "rpid_str": "317288005089",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792196468,
+          "like": 37,
+          "rcount": 4,
+          "count": 8,
+          "state": 0,
+          "author_id": "U_ced443fe43264aaf80500214",
+          "content": {
+            "message": "孩子们十点等着我的好消息[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/9f23dd49b384a2ebec3c9210d4a662803690991976450966.jpg",
+                "img_width": 1200,
+                "img_height": 830,
+                "img_size": 537.2
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 320946326576,
+              "rpid_str": "320946326576",
+              "root": 317288005089,
+              "root_str": "317288005089",
+              "parent": 317288005089,
+              "parent_str": "317288005089",
+              "ctime": 1792197802,
+              "like": 5,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_c92b18872d13b5f2a4cb11b0",
+              "content": {
+                "message": "赢不了全給配了"
+              },
+              "replies": []
+            },
+            {
+              "rpid": 320957191088,
+              "rpid_str": "320957191088",
+              "root": 317288005089,
+              "root_str": "317288005089",
+              "parent": 317288005089,
+              "parent_str": "317288005089",
+              "ctime": 1792205828,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_268d127f4b48c936c6d91e60",
+              "content": {
+                "message": "意气风发啊，火瓶哥!"
+              },
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "response_hash": "d6b26c887fcd095ab52099515f5d8be5fa77a0cf5ac0366e8cfd23e019c27377",
+  "original_bytes_sha256": "049a63ffd474123cf25d47d295f5f569bb5953974ef2e9504db5a447054f4c5e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

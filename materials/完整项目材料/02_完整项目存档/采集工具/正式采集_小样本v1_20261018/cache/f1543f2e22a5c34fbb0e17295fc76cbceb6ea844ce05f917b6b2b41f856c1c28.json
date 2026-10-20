@@ -1,0 +1,162 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319067484640",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:17:01.536022+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319068094016,
+          "rpid_str": "319068094016",
+          "root": 319067484640,
+          "root_str": "319067484640",
+          "parent": 319067484640,
+          "parent_str": "319067484640",
+          "dialog": 319068094016,
+          "ctime": 1790737511,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e6b43ce8808f6dd828042c96",
+          "content": {
+            "message": "你这角色池可以这样：\n木偶＋奥黛塔＋八重＋七七打老头。\n双冰角色＋龙王＋芙宁娜打冰锅。\n仆人＋妮可＋冰主＋皇女打雪精。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315506914817,
+          "rpid_str": "315506914817",
+          "root": 319067484640,
+          "root_str": "319067484640",
+          "parent": 319067484640,
+          "parent_str": "319067484640",
+          "dialog": 315506914817,
+          "ctime": 1790738750,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5b3164436418dabdb365a7ef",
+          "content": {
+            "message": "想不到不过 n5 的可能[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319067484640,
+        "rpid_str": "319067484640",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790737084,
+        "like": 0,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_1ffe20b6d84abeed216b79f0",
+        "content": {
+          "message": "我这N5有机会吗[辣眼睛]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dded669d1a8e1f3499ff535af2c35390407988248.jpg",
+              "img_width": 1284,
+              "img_height": 13809,
+              "img_size": 3886
+            }
+          ],
+          "emote": {
+            "[辣眼睛]": {
+              "id": 2374,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[辣眼睛]",
+              "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "辣眼睛"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3085053a64570df06764887932c8e224601cd4f472215c3f19db9551385028bd",
+  "original_bytes_sha256": "d0c7fb1676795fc38ce4269fc6277d3c2380faf650027f110382119f16b2746f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

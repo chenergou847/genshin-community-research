@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318532746960",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:10:12.077129+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314997543137,
+          "rpid_str": "314997543137",
+          "root": 318532746960,
+          "root_str": "318532746960",
+          "parent": 318532746960,
+          "parent_str": "318532746960",
+          "dialog": 314997543137,
+          "ctime": 1790314904,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "薇斯纳n6，3金没机会。4金及以上"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318532746960,
+        "rpid_str": "318532746960",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790313802,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9b2ffd3109e22c48e03416ec",
+        "content": {
+          "message": "[嗑瓜子]我只想说矮人适合风仙打，冰女不适合风仙打，多动症不说还没盾，风仙硬直大站桩输出，珐露姗有时候打不到小技能空了",
+          "emote": {
+            "[嗑瓜子]": {
+              "id": 3223,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[嗑瓜子]",
+              "url": "https://i0.hdslb.com/bfs/emote/28a91da1685d90124cfeead74622e1ebb417c0eb.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "嗑瓜子"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "836ca591c0868914c76256f56cb3644ab2ca1d1d68ab22826d7842d3a6c66ce1",
+  "original_bytes_sha256": "fcac2940ed3309e3fb757567acb66fbb8abf407274fdec25e13f30aa981d8d75",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

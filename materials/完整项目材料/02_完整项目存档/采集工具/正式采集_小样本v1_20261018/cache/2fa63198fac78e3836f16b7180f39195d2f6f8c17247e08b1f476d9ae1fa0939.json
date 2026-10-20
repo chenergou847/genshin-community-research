@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319369804240",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:09:22.257534+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319369804240,
+        "rpid_str": "319369804240",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790948703,
+        "like": 5,
+        "rcount": 16,
+        "count": 17,
+        "state": 0,
+        "author_id": "U_77f87aaf9087847d8802076d",
+        "content": {
+          "message": "在0命没专武平民玩家情况下，先不算炉火套圣遗物加成\n辅助：60+14星烁增伤，\n功能机制：后台无缝挂冰\n数值：一段高倍率爆发，大招增幅伤害\n\n77也有一样机制和辅助，增幅没6命情况下少24，6命迪奥娜仅有的40星增伤加200精通的增伤可能比奥多一些，但80能量充能有压力和画地为牢，如果有终末弓就舒服多"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1708f1ec469c31e41ec2700fcd16a432cb30e623b11bef3a72324c328fc97594",
+  "original_bytes_sha256": "1befd1a2573fe100834c235dc1a50099bfc7addb4b2d5d252a9a9e0db5f46236",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

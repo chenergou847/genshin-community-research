@@ -1,0 +1,267 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315569211697",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:38:45.904913+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315574285025,
+          "rpid_str": "315574285025",
+          "root": 315569211697,
+          "root_str": "315569211697",
+          "parent": 315569211697,
+          "parent_str": "315569211697",
+          "dialog": 315574285025,
+          "ctime": 1790778342,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_418915d27038b16cc76b1d92",
+          "content": {
+            "message": "话说有没有试过把班尼特换成冰主？打血量盾应该更快一点吧[思考]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319141714992,
+          "rpid_str": "319141714992",
+          "root": 315569211697,
+          "root_str": "315569211697",
+          "parent": 315569211697,
+          "parent_str": "315569211697",
+          "dialog": 319141714992,
+          "ctime": 1790781779,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7316f246596796d9f116ccff",
+          "content": {
+            "message": "牛逼，压线过[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319158203408,
+          "rpid_str": "319158203408",
+          "root": 315569211697,
+          "root_str": "315569211697",
+          "parent": 315569211697,
+          "parent_str": "315569211697",
+          "dialog": 319158203408,
+          "ctime": 1790795794,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_72bb5932b9fc477aa04c314c",
+          "content": {
+            "message": "带个0奶怎么不用超载呢[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315597144145,
+          "rpid_str": "315597144145",
+          "root": 315569211697,
+          "root_str": "315569211697",
+          "parent": 319158203408,
+          "parent_str": "319158203408",
+          "dialog": 319158203408,
+          "ctime": 1790798201,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d28b84eedd4694e4e7d014db",
+          "content": {
+            "message": "回复 @秋雨急急 :5夏[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315569211697,
+        "rpid_str": "315569211697",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790775464,
+        "like": 4,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d28b84eedd4694e4e7d014db",
+        "content": {
+          "message": "第三间打了5个多小时力竭了[辣眼睛]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a54fc36ebd816d225c8fbc00aeaad7de526658204.jpg",
+              "img_width": 1620,
+              "img_height": 1080,
+              "img_size": 193.058
+            }
+          ],
+          "emote": {
+            "[辣眼睛]": {
+              "id": 2374,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[辣眼睛]",
+              "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "辣眼睛"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "95bc43b0ada8fcef926ba3909e79b8db5bcb107813a101b98e26843754a62268",
+  "original_bytes_sha256": "bdef10824616038a755303450f95f85bf7936fdc99a7ebfa7b60d5c86f4aadb7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

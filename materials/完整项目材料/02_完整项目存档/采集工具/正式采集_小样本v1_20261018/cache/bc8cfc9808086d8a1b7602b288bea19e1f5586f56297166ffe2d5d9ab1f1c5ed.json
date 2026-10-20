@@ -1,0 +1,169 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318603894464",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:59:32.217652+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315064152401,
+          "rpid_str": "315064152401",
+          "root": 318603894464,
+          "root_str": "318603894464",
+          "parent": 318603894464,
+          "parent_str": "318603894464",
+          "dialog": 315064152401,
+          "ctime": 1790354488,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间丝柯克队够了。第三间有二命菲林斯就行，不需要少女命座，带机器人+冰主破机制就行了，转伤害盾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315064076049,
+          "rpid_str": "315064076049",
+          "root": 318603894464,
+          "root_str": "318603894464",
+          "parent": 318603894464,
+          "parent_str": "318603894464",
+          "dialog": 315064076049,
+          "ctime": 1790354509,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔神子 + 迪奥娜/七七/砂糖等等"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315064245329,
+          "rpid_str": "315064245329",
+          "root": 318603894464,
+          "root_str": "318603894464",
+          "parent": 318603894464,
+          "parent_str": "318603894464",
+          "dialog": 315064245329,
+          "ctime": 1790354517,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐，视频也可以看看配队，都有讲你的角色。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318603894464,
+        "rpid_str": "318603894464",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790354315,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_2fb5157310fa148414ac21a6",
+        "content": {
+          "message": "n5应该没问题吧[脸红][脸红]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f0b81ed97818aabce1964ada42e93278485204638.jpg",
+              "img_width": 1440,
+              "img_height": 4741,
+              "img_size": 3922.99,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[脸红]": {
+              "id": 5406,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[脸红]",
+              "url": "https://i0.hdslb.com/bfs/emote/0922c375da40e6b69002bd89b858572f424dcfca.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "脸红"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "535e1f3a42bf378172706453bff2c1375bdf0bb5739a1dcc6b3147e86e150568",
+  "original_bytes_sha256": "d5f07e9cfbd99dbde4846459f4ff5231f64d99a7d28ed8d38f89c071df287e57",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

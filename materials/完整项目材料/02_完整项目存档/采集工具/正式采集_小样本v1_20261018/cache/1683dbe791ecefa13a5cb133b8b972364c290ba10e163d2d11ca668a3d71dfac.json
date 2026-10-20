@@ -1,0 +1,186 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319271634704",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:50:09.430666+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319272793472,
+          "rpid_str": "319272793472",
+          "root": 319271634704,
+          "root_str": "319271634704",
+          "parent": 319271634704,
+          "parent_str": "319271634704",
+          "dialog": 319272793472,
+          "ctime": 1790876959,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e8ee305c0be8285ed3837232",
+          "content": {
+            "message": "有点难 打超载精通无用词条"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316051342145,
+          "rpid_str": "316051342145",
+          "root": 319271634704,
+          "root_str": "319271634704",
+          "parent": 319271634704,
+          "parent_str": "319271634704",
+          "dialog": 316051342145,
+          "ctime": 1791132693,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_444b17fe7f40cf2b84c5ec78",
+          "content": {
+            "message": "他这280爆伤都这么极限感觉你这差的有点远[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320247739520,
+          "rpid_str": "320247739520",
+          "root": 319271634704,
+          "root_str": "319271634704",
+          "parent": 319271634704,
+          "parent_str": "319271634704",
+          "dialog": 320247739520,
+          "ctime": 1791614783,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_01c2d2389d062bde8e4229ad",
+          "content": {
+            "message": "洗洗睡吧。这给谁都无。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319271634704,
+        "rpid_str": "319271634704",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790875747,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_92d4e6616c26cbd02718ffcf",
+        "content": {
+          "message": "有过的风险吗[捂脸]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a178e3b5c8a94b668786681915c278463546787199584600.jpg",
+              "img_width": 1080,
+              "img_height": 2309,
+              "img_size": 1205
+            }
+          ],
+          "emote": {
+            "[捂脸]": {
+              "id": 15,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[捂脸]",
+              "url": "https://i0.hdslb.com/bfs/emote/6921bb43f0c634870b92f4a8ad41dada94a5296d.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "捂脸"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "db5585a1613a45992cbeab539a7fd5caae59dbd025f346929c6a57e30a091877",
+  "original_bytes_sha256": "c58d5459af23e9e9c6597619d89d28462775267b3be1571106b10c6786edb307",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,181 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319063243376",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:19:27.263600+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315501067329,
+          "rpid_str": "315501067329",
+          "root": 319063243376,
+          "root_str": "319063243376",
+          "parent": 319063243376,
+          "parent_str": "319063243376",
+          "dialog": 315501067329,
+          "ctime": 1790733836,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔阿罗夏砂糖\n第二间兹白队带冰系\n第三间菲林斯队带班尼特就能破冰盾，或者冰主转伤害盾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319063775440,
+          "rpid_str": "319063775440",
+          "root": 319063243376,
+          "root_str": "319063243376",
+          "parent": 315501067329,
+          "parent_str": "315501067329",
+          "dialog": 315501067329,
+          "ctime": 1790734068,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dc8b2f13f9553a536db283db",
+          "content": {
+            "message": "回复 @星光璀璨之时 :感谢up[给心心]晚点去试试看能不能行",
+            "emote": {
+              "[给心心]": {
+                "id": 3302,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[给心心]",
+                "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "给心心"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319063243376,
+        "rpid_str": "319063243376",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790733680,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_dc8b2f13f9553a536db283db",
+        "content": {
+          "message": "有打N5的风险吗[保卫萝卜_哭哭]上期刚好对上box了N5打了个296s，感觉这期N4都有点没希望了，现在缺摩拉缺经验书总之就是什么都缺，等梦见月珐姐养好估计这期幽境都结束了[热]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ab8e80ac922211f4586fc565c49123e53461576222837717.jpg",
+              "img_width": 1080,
+              "img_height": 7207,
+              "img_size": 1779.87,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[保卫萝卜_哭哭]": {
+              "id": 4945,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[保卫萝卜_哭哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/7d249f7c990111d3e2982f7477af15b7eb29cbd9.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  "哭哭"
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哭哭"
+            },
+            "[热]": {
+              "id": 7647,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[热]",
+              "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "热"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d1ae22af1a0b18ca8b581842b2cea95fba1ae6ef29cda3958783f7c7609d2010",
+  "original_bytes_sha256": "f1d984c9700b0db15c3770890a9b1612e9234741ae2f2b5edcddc8ab9459bf0b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318766440432",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:49:50.390279+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315220184449,
+          "rpid_str": "315220184449",
+          "root": 318766440432,
+          "root_str": "318766440432",
+          "parent": 318766440432,
+          "parent_str": "318766440432",
+          "dialog": 315220184449,
+          "ctime": 1790486238,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔星超导，火神第一间也够了，，你都满命的。丝柯克第二间专怪。第三间木偶队，火神队，也行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318786870560,
+          "rpid_str": "318786870560",
+          "root": 318766440432,
+          "root_str": "318766440432",
+          "parent": 315220184449,
+          "parent_str": "315220184449",
+          "dialog": 315220184449,
+          "ctime": 1790497347,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9ea3448a79659c8e2a868c09",
+          "content": {
+            "message": "回复 @星光璀璨之时 : skk没爱可菲打得过冰锅嘛"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318806068592,
+          "rpid_str": "318806068592",
+          "root": 318766440432,
+          "root_str": "318766440432",
+          "parent": 318786870560,
+          "parent_str": "318786870560",
+          "dialog": 315220184449,
+          "ctime": 1790508749,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_56a3c5c5a7aece9027bdbaec",
+          "content": {
+            "message": "回复 @青木寿水 :很难"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318766440432,
+        "rpid_str": "318766440432",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790484837,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_9ea3448a79659c8e2a868c09",
+        "content": {
+          "message": "有通过的风险吗[MyGO_注视]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/481fb4b11b094330dd89d978b81a8e97198778343.jpg",
+              "img_width": 1260,
+              "img_height": 12369,
+              "img_size": 1551.47,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[MyGO_注视]": {
+              "id": 120939,
+              "package_id": 8722,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[MyGO_注视]",
+              "url": "https://i0.hdslb.com/bfs/garb/6a2d502281fa903ce7e0fa23bf2e9114f214130a.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1757926802,
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=109568&hybrid_set_header=2&anchor_task=1&lottery_id=109576&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109641%22%2C%22sub_id%22%3A%22%5BMyGO_%E6%B3%A8%E8%A7%86%5D%22%7D",
+              "jump_title": "注视"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "718f8e2e0c6a171da3fdac4398c7636cdb8f52d6aca63efbd0ad45b410279334",
+  "original_bytes_sha256": "2b711313f8c1df4bd9fc2050090585552e76b3c704fa67696b000227eeb87251",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

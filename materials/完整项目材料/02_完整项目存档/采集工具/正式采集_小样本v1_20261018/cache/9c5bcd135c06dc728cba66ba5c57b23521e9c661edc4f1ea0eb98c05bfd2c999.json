@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315398252561",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:32:46.756054+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315398252561,
+        "rpid_str": "315398252561",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790643481,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_25c755d47a0d81b00eac36a0",
+        "content": {
+          "message": "木偶，奥黛塔，阿罗夏。我在想第一间四号位到底是带谁好，第二间丝柯克有完整队伍不是问题，第三间仆人超载应该也不难",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2bb14dd78ce0e46ef0d128b9641ea290100916069.jpg",
+              "img_width": 2700,
+              "img_height": 1224,
+              "img_size": 999.9,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cfb544569bd9b4f6003088cc319e6d6d00cb5017486602acd8ce14bdfe4e412d",
+  "original_bytes_sha256": "7b742c8fcd72c380c4e33f84a75fcbb7349b757534f63b92ad1142ff7477e178",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

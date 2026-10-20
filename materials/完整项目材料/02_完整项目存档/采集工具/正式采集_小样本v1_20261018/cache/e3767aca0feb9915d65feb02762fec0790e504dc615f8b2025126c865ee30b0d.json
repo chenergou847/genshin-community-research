@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315168532337",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:53:07.178994+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315168532337,
+        "rpid_str": "315168532337",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790435344,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_abf539f65bdb23788fa2af2b",
+        "content": {
+          "message": "n6有机会吗，下半抽个一爱",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b5a3a764879bfbbc60410578a09fd1ba1745432289.jpg",
+              "img_width": 1280,
+              "img_height": 14851,
+              "img_size": 1895.96
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d95f2f79c84794bd06ab0d2f33bfa6f1c43df9ffefac344c3660c2982f8c6ed0",
+  "original_bytes_sha256": "09db6f0dd8f6ef97dba59d05c98c2b07f823d919f5962f31db3a8c9294637cc9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

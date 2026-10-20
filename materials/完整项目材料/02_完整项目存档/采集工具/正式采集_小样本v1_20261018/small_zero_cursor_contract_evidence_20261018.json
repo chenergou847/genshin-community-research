@@ -1,0 +1,30 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-18T04:50:49.288344+00:00",
+  "source_hash": "6aa48e5f559aee19777e503cb58607adc6ffbb043be0f388fd737c73dc10b4a5",
+  "bvid": "BV1jjJY6MEwP",
+  "normal_root_response_hash": "7d12b397159a34d79552d1bd5cfbd2c7f9030940572eae066722d7ff99d2ff1b",
+  "cursor": {
+    "is_begin": true,
+    "prev": 0,
+    "next": 0,
+    "is_end": true,
+    "pagination_reply": {},
+    "session_id": "",
+    "mode": 2,
+    "mode_text": "",
+    "support_mode": [
+      2,
+      3
+    ],
+    "name": "最新评论"
+  },
+  "observed_UI": "评论0；没有更多评论",
+  "UI_method": "CUA_rendered_same_BVID_comment_section",
+  "UI_screenshot_path": "LOCAL_USER_HOME\\Desktop\\cx原神产品运营\\B站高难副本社区观察_20261017\\采集工具\\正式采集_小样本v1_20261018\\collection_evidence\\BV1jjJY6MEwP_zero_comments.png",
+  "UI_screenshot_sha256": "a8608ef3a3a32cc85ae270521680a5c2146648e1b68683035183011ed4cb7f74",
+  "metadata_reply_count": 0,
+  "metadata_response_hash": "4afd1a7d1e364bb382d554c63074a40350f491ec4645418124f6b4109a8952ef",
+  "evidence_limitation": "单例格式核验；每视频仍需核对独立数量口径与终点，缺失总数不补写为服务端返回0。",
+  "offline_regression_tests": 108
+}

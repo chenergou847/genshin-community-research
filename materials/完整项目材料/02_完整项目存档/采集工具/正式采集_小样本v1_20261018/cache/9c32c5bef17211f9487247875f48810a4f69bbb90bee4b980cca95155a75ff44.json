@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "317309300785",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:00:21.792579+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317309300785,
+        "rpid_str": "317309300785",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792211509,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_375ecb97151c69fe464d3304",
+        "content": {
+          "message": "灯哥依旧星爷和冰系下第一c，虽然使用率不大好看[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "2a3b393fb27935c3b3cf38334daf006b475c29e552c324c4dd14150dc552ea65",
+  "original_bytes_sha256": "4e6b8a467f972534474d03197b9a1b28589c62a3e54f0e069b1a955b4e2c46e3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "320945390752",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:01:39.896089+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320945390752,
+        "rpid_str": "320945390752",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792196968,
+        "like": 4,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b6911990726f024faf74b4e5",
+        "content": {
+          "message": "我们路边偶怎会如此[笑哭]女皇大人和达尼卡快来救救吧",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "a9192b6a196760f1aa0ecbaccac9db52f77bc5fb02343e0d6ae679361fc4c872",
+  "original_bytes_sha256": "47efe50fc48952ad686d833fad09246785cb1cf8864b6f1176e8e334fdb5b315",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

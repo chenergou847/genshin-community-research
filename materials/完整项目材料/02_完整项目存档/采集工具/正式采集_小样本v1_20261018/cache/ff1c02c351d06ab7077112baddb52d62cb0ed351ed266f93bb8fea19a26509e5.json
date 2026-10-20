@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320889528480",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:07:59.224263+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317239149265,
+          "rpid_str": "317239149265",
+          "root": 320889528480,
+          "root_str": "320889528480",
+          "parent": 320889528480,
+          "parent_str": "320889528480",
+          "ctime": 1792149299,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_59b57b781477389767c1b8d7",
+          "content": {
+            "message": "上半：梦见月 冰主 七七 沃雅妮莎\n下半 菲少带个后台雷，再带个莱伊拉/迪奥娜"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320908524912,
+          "rpid_str": "320908524912",
+          "root": 320889528480,
+          "root_str": "320889528480",
+          "parent": 317239149265,
+          "parent_str": "317239149265",
+          "ctime": 1792157865,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3061736114748c0caa6b72e0",
+          "content": {
+            "message": "回复 @SchweigenderFisch :谢谢～[害羞]",
+            "emote": {
+              "[害羞]": {
+                "id": 6,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[害羞]",
+                "url": "https://i0.hdslb.com/bfs/emote/9d2ec4e1fbd6cb1b4d12d2bbbdd124ccb83ddfda.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "害羞"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320889528480,
+        "rpid_str": "320889528480",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792147564,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_3061736114748c0caa6b72e0",
+        "content": {
+          "message": "求配队🥺",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/884f3c21f118cf36555258c622440dca445925845.jpg",
+              "img_width": 1076,
+              "img_height": 6468,
+              "img_size": 4159.3
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "3ac9f6d4ed716c5f5647e920cf0fa547344bdf8f44e55d9ac8ecb7f75d4995b3",
+  "original_bytes_sha256": "4b3c59f7fbc7832936d73e72a07cbfbed05b53e9c25caa976b6dded08c76f955",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

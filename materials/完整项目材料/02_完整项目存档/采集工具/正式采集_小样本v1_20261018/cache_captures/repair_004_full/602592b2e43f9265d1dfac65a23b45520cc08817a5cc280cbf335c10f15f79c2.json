@@ -1,0 +1,110 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320925986192",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:35:53.223245+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320931613792,
+          "rpid_str": "320931613792",
+          "root": 320925986192,
+          "root_str": "320925986192",
+          "parent": 320925986192,
+          "parent_str": "320925986192",
+          "ctime": 1792172265,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1f36eecd26d4b5b9b73446f0",
+          "content": {
+            "message": "恢复三点还是打慢了（"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320925986192,
+        "rpid_str": "320925986192",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792167729,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9d9ac24b8c3909ee7488dc37",
+        "content": {
+          "message": "想给自己上点难度都没用木偶和丝柯克结果还是如大运般碾过去了[笑哭]三间加起来都没三分半，老深渊太路边了吧我本来后台挂着其他游戏想说打个深渊等体力回复一下结果十一十二全打完了总共回复了三点体力",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/03d2af6e6ed12f21485b3a1a0b77335c314137211.jpg",
+              "img_width": 1080,
+              "img_height": 2373,
+              "img_size": 335.974
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "0451c1ca9b586a714526e4f60728b7b8583dc0015bfb157b9e83135fc470313c",
+  "original_bytes_sha256": "0e46c4e4dbb06d341ffed7c037895162d269d780e89e9012c7ec46af372b174b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

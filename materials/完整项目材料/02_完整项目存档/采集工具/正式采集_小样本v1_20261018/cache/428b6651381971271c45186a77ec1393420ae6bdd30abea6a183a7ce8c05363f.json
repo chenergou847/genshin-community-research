@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319061901232",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:20:29.259220+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319061901232,
+        "rpid_str": "319061901232",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790732567,
+        "like": 0,
+        "rcount": 5,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_9f6345ecf4bbd37b8b76082b",
+        "content": {
+          "message": "抽个沃n5可以吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7264be687aa8bfdac8af1f83492ff5bb351606627.jpg",
+              "img_width": 1156,
+              "img_height": 12369,
+              "img_size": 1510.52,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "132de07826bd6dffd2eebfc2c1fa5c19a29151b8b9c44629c4e2e0cf135717bc",
+  "original_bytes_sha256": "14d547c9f21b070942ffb52c30f57b494e43722fb99a6ca0532fb2c7af2104e4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

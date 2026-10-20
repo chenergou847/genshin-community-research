@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "315558156369",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:56:09.823544+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319129202064,
+          "rpid_str": "319129202064",
+          "root": 315558156369,
+          "root_str": "315558156369",
+          "parent": 315558156369,
+          "parent_str": "315558156369",
+          "dialog": 319129202064,
+          "ctime": 1790774845,
+          "like": 9,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a9e73816e971f0dd32097786",
+          "content": {
+            "message": "孩子们这是n6不是n5[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315581355633,
+          "rpid_str": "315581355633",
+          "root": 315558156369,
+          "root_str": "315558156369",
+          "parent": 315558156369,
+          "parent_str": "315558156369",
+          "dialog": 315581355633,
+          "ctime": 1790782453,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_111b18669a86e1dbe5c6bf03",
+          "content": {
+            "message": "反正能过就是轻取[墨镜]",
+            "emote": {
+              "[墨镜]": {
+                "id": 1953,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[墨镜]",
+                "url": "https://i0.hdslb.com/bfs/emote/3a03aebfc06339d86a68c2d893303b46f4b85771.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "墨镜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315769994353,
+          "rpid_str": "315769994353",
+          "root": 315558156369,
+          "root_str": "315558156369",
+          "parent": 315558156369,
+          "parent_str": "315558156369",
+          "dialog": 315769994353,
+          "ctime": 1790934125,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_84acaf2c859b84eabd5afa83",
+          "content": {
+            "message": "反正金数在那摆着"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315558156369,
+        "rpid_str": "315558156369",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790769450,
+        "like": 6,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_8cfa01e80f081f1d1544ccd4",
+        "content": {
+          "message": "轻取？呵呵，也就冰锅可以说轻取，其他两间肉眼可见的膨胀哪间可以说轻取的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "553c48316d905f1e776da18407d4d2f57450c48f6a77c8dab0d8c4289577c1a1",
+  "original_bytes_sha256": "3388a9012e0113ecb94a7aa22838b7eb30bae8747847ae1b9650d96114ce3b2c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,79 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317187498177",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:16:30.216439+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 12
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317187498177,
+        "rpid_str": "317187498177",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792112343,
+        "like": 106,
+        "rcount": 12,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_cf3e45ad0ae78a0a93ed0817",
+        "content": {
+          "message": "肥肠煎蛋[脱单doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/38fa58104f231b43b7f6ee2c9e2b10241898647863.jpg",
+              "img_width": 2832,
+              "img_height": 1316,
+              "img_size": 362.46
+            }
+          ],
+          "emote": {
+            "[脱单doge]": {
+              "id": 3301,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[脱单doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "脱单doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "5dfe22648614847fe82e8192627ae02380274db9e074d21d629aab4884c3847f",
+  "original_bytes_sha256": "e90fb7b5176777060d9f5fc5c232dfb0e72c021c3aa2768c72e925b00bbf9bf1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

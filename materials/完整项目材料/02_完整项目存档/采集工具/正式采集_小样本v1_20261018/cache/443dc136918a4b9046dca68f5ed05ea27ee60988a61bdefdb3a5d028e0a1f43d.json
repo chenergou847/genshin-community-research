@@ -1,0 +1,657 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319309533328",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:33:20.817165+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 27
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315744252721,
+          "rpid_str": "315744252721",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319309533328,
+          "parent_str": "319309533328",
+          "dialog": 315744252721,
+          "ctime": 1790918264,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6a9302633267305da659e9ff",
+          "content": {
+            "message": "打过正常啊[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319314947792,
+          "rpid_str": "319314947792",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 315744252721,
+          "parent_str": "315744252721",
+          "dialog": 315744252721,
+          "ctime": 1790918761,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @Yueye_sama :你确定我这个算正常？没几关是能打动的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319316334176,
+          "rpid_str": "319316334176",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319314947792,
+          "parent_str": "319314947792",
+          "dialog": 315744252721,
+          "ctime": 1790919494,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b7094440a6cee8c757374283",
+          "content": {
+            "message": "回复 @逆倒尘光ZYM :这不是乱肘，冰主，梦见月，奥黛塔，木偶能拆出来高强度三队打六间，开幕还有龙王散兵"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319317855040,
+          "rpid_str": "319317855040",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319316334176,
+          "parent_str": "319316334176",
+          "dialog": 315744252721,
+          "ctime": 1790920362,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @换个名字改改运- :冰主，奥黛塔，梦见月都只有散件用"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319318585840,
+          "rpid_str": "319318585840",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319309533328,
+          "parent_str": "319309533328",
+          "dialog": 319318585840,
+          "ctime": 1790920836,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b7094440a6cee8c757374283",
+          "content": {
+            "message": "散件打剧诗完全够用了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319321659424,
+          "rpid_str": "319321659424",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319318585840,
+          "parent_str": "319318585840",
+          "dialog": 319318585840,
+          "ctime": 1790922700,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @换个名字改改运- :词条都不对"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315752168449,
+          "rpid_str": "315752168449",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319309533328,
+          "parent_str": "319309533328",
+          "dialog": 315752168449,
+          "ctime": 1790923033,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6a9302633267305da659e9ff",
+          "content": {
+            "message": "第一，你的满命少女基本当挂件用掉了，我觉得搭神子应该可以做主C通关两间，因为我没满命少女所以对这个存疑。第二，你说你没借角色，那你随便借一个机娘，那第一点就没问题了，再者，你借一个高命薇斯纳或者恰斯卡是可以随便通关其中两间。\n你自己已经证明你的box是可以满花了，我说的两点就是你富余的资源，那不就是正常满花的账号吗？资源再多就可以用脚打了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315752290625,
+          "rpid_str": "315752290625",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319309533328,
+          "parent_str": "319309533328",
+          "dialog": 315752290625,
+          "ctime": 1790923133,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6a9302633267305da659e9ff",
+          "content": {
+            "message": "有冰风buff的，奥黛塔加梦见月不弱的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319334916640,
+          "rpid_str": "319334916640",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 315752168449,
+          "parent_str": "315752168449",
+          "dialog": 315752168449,
+          "ctime": 1790930768,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @Yueye_sama :神子到结束都抽不到"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319335127280,
+          "rpid_str": "319335127280",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 315752168449,
+          "parent_str": "315752168449",
+          "dialog": 315752168449,
+          "ctime": 1790930854,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @Yueye_sama :本来就是不借角色打，要是借角色的话我升四星的意义在哪？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319335369488,
+          "rpid_str": "319335369488",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 315752290625,
+          "parent_str": "315752290625",
+          "dialog": 315752290625,
+          "ctime": 1790930990,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @Yueye_sama :奥黛塔得给木偶啊，给梦见月的话损失使用次数"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319336613664,
+          "rpid_str": "319336613664",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319309533328,
+          "parent_str": "319309533328",
+          "dialog": 319336613664,
+          "ctime": 1790931726,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_27f3afa5235af276b2b591c6",
+          "content": {
+            "message": "[笑哭]厉害，我凹了半天最终选择放过自己，不拿星章",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319336858592,
+          "rpid_str": "319336858592",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319336613664,
+          "parent_str": "319336613664",
+          "dialog": 319336613664,
+          "ctime": 1790931862,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @煞球球 :多选buff试试，还有看看能不能选到恢复耐力的祝福"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319340317856,
+          "rpid_str": "319340317856",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319309533328,
+          "parent_str": "319309533328",
+          "dialog": 319340317856,
+          "ctime": 1790933881,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "我零命甘雨已经完全成挂件了[热]",
+            "emote": {
+              "[热]": {
+                "id": 7647,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[热]",
+                "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "热"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319354465264,
+          "rpid_str": "319354465264",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319340317856,
+          "parent_str": "319340317856",
+          "dialog": 319340317856,
+          "ctime": 1790940945,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @狗fei老母鸡 :甘雨其实还能打，但是要冰风buff"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319355009712,
+          "rpid_str": "319355009712",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319354465264,
+          "parent_str": "319354465264",
+          "dialog": 319340317856,
+          "ctime": 1790941227,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "回复 @逆倒尘光ZYM :冰风buff上了，我直接给月瑞希打工的[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319362370048,
+          "rpid_str": "319362370048",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319355009712,
+          "parent_str": "319355009712",
+          "dialog": 319340317856,
+          "ctime": 1790944974,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @狗fei老母鸡 :那就没办法了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319362542512,
+          "rpid_str": "319362542512",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319355009712,
+          "parent_str": "319355009712",
+          "dialog": 319340317856,
+          "ctime": 1790945032,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82130cbebec1c0924db40ec8",
+          "content": {
+            "message": "回复 @狗fei老母鸡 :我是用甘雨吃冰风buff打融化，倒数第二关。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315828181297,
+          "rpid_str": "315828181297",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 315744252721,
+          "parent_str": "315744252721",
+          "dialog": 315744252721,
+          "ctime": 1790975159,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ca3940ce23877d837eaeb477",
+          "content": {
+            "message": "回复 @Yueye_sama :说一句厉害很难？满星不是随便说说就能过。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319447195968,
+          "rpid_str": "319447195968",
+          "root": 319309533328,
+          "root_str": "319309533328",
+          "parent": 319309533328,
+          "parent_str": "319309533328",
+          "dialog": 319447195968,
+          "ctime": 1791010568,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_02841047bc616868677a6176",
+          "content": {
+            "message": "刚把沃雅妮莎抽出来，第1次能打困难，结果昨天刚把朋友的六命芙宁娜在中的难度用了😱"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319309533328,
+        "rpid_str": "319309533328",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790915830,
+        "like": 22,
+        "rcount": 27,
+        "count": 28,
+        "state": 0,
+        "author_id": "U_82130cbebec1c0924db40ec8",
+        "content": {
+          "message": "请输入文本，主c就木偶，丝柯克，甘雨，没借角色，八重神子都没用上，我都不知道自己怎么打过去的。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b2c314e8cdc4628615bdb9b7afc96941430198849.jpg",
+              "img_width": 1344,
+              "img_height": 13727,
+              "img_size": 1799.58
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1feade4f898c2e2a8fd5f4dc2699d7b6430198849.jpg",
+              "img_width": 1344,
+              "img_height": 22036,
+              "img_size": 4555.85
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "191269ff8497083db2f77aa58dd26481de363f16a66df4b6a8b7728d0afa7d34",
+  "original_bytes_sha256": "2b8a0d2021c546d01661746cafb0acba74f6d93850b519854ed386528781afe2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

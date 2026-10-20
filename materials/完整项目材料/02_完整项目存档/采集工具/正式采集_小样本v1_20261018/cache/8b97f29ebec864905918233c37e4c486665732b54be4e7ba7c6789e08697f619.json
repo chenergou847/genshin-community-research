@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318889993040",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:40:07.615421+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315345946225,
+          "rpid_str": "315345946225",
+          "root": 318889993040,
+          "root_str": "318889993040",
+          "parent": 318889993040,
+          "parent_str": "318889993040",
+          "dialog": 315345946225,
+          "ctime": 1790591138,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9f480a53e24cd4abf537238d",
+          "content": {
+            "message": "难度5难度6"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318889993040,
+        "rpid_str": "318889993040",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790583882,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_608f835812bb508a94b02e81",
+        "content": {
+          "message": "什么是N5N6？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7844a400f705188252657d711d7868ed3cbed3a4cfd1ebd777989b14768d714f",
+  "original_bytes_sha256": "748a6626ab58ca4a0fb3c5648aaf37873d8694345d56420be76dcc7ca734ab78",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

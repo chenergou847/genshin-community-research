@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "319711173024",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:55:40.176259+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319711173024,
+        "rpid_str": "319711173024",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791193931,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a436d1d746320ca31ffffbac",
+        "content": {
+          "message": "老东西刚回来抽了个薇，后面丝爱还抽不抽还是继续等新体系补强",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/587432683e7665ba32646ba496d05185475298304.jpg",
+              "img_width": 1440,
+              "img_height": 9013,
+              "img_size": 2421.61
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ad07270c04bf0fbf2afad3bbed20366c0035da4f602e086062c63965626dd1dd",
+  "original_bytes_sha256": "5852d9aa2694220e310fbc8c6357c930bd2b24df86d78363d24bb308c7e53885",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

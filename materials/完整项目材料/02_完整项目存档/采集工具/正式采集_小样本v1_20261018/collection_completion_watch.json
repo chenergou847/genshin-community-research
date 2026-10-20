@@ -1,0 +1,62 @@
+{
+  "at": "2026-10-18T15:27:05.705709+00:00",
+  "automation_id": "b",
+  "status": "PAUSED",
+  "current_resume_checkpoint": "small_collection_resume_005.json",
+  "notified": true,
+  "previous_watch_saved_as": "collection_completion_watch_before_resume_005.json",
+  "known_holds": 3,
+  "notified_at": "2026-10-18T15:27:05.705709+00:00",
+  "notified_resume_checkpoint": "small_collection_resume_005.json",
+  "execution_at": "2026-10-18T15:25:28.203198+00:00",
+  "execution_status": "ENUMERATION_RUN_ENDED_WITH_INTEGRITY_HOLDS",
+  "comments_hash": "aed2898041b0539c584afc11a90a9a32fe9ddc48d95accb7bedd1158a428a6f1",
+  "summary": {
+    "videos_attempted": 60,
+    "videos_selected": 60,
+    "all_sources_attempted": true,
+    "statuses": {
+      "enumerated_pending_review": 53,
+      "incomplete": 7
+    },
+    "raw_unique_IDs_saved": 9593,
+    "roots": 3251,
+    "replies": 6342,
+    "missing_parent_rows": 27,
+    "sources_with_missing_parents": 4,
+    "failures": [
+      {
+        "bvid": "BV12fJe6bEbz",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1AQJU6hE93",
+        "reason": "root_rcount_vs_reply_count_mismatch"
+      },
+      {
+        "bvid": "BV1zLJv6mE8T",
+        "reason": "root_plus_reply_count_mismatch:154!=155"
+      },
+      {
+        "bvid": "BV137aA63EF6",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1A5aB6FEuN",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1k6pK6UE9i",
+        "reason": "root_plus_reply_count_mismatch:29!=30"
+      },
+      {
+        "bvid": "BV1B7a16gEXr",
+        "reason": "missing_ancestor"
+      }
+    ],
+    "reason": "既有未通过来源或缺失父评论仍待解决；其余来源采集已保存，但不能冻结统计清单",
+    "formal_random_comments_drawn": 0
+  },
+  "notification_event": "all_60_sources_attempted_integrity_holds_formal_sample_not_generated",
+  "research_record": "31_评论采集最新状态_20261018.md"
+}

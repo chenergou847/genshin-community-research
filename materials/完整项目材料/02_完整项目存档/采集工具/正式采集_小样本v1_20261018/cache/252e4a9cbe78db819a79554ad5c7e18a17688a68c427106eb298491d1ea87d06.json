@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314980316241",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:14:35.010602+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315006972257,
+          "rpid_str": "315006972257",
+          "root": 314980316241,
+          "root_str": "314980316241",
+          "parent": 314980316241,
+          "parent_str": "314980316241",
+          "dialog": 315006972257,
+          "ctime": 1790320937,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶第一间。第二间仆人希诺宁奶奶+迪奥娜等冰系，双冰压。第三间瓦蕾莎超载也行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315006977665,
+          "rpid_str": "315006977665",
+          "root": 314980316241,
+          "root_str": "314980316241",
+          "parent": 314980316241,
+          "parent_str": "314980316241",
+          "dialog": 315006977665,
+          "ctime": 1790320948,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315007375985,
+          "rpid_str": "315007375985",
+          "root": 314980316241,
+          "root_str": "314980316241",
+          "parent": 315006972257,
+          "parent_str": "315006972257",
+          "dialog": 315006972257,
+          "ctime": 1790321263,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db8c63dfe61b8769a696ef66",
+          "content": {
+            "message": "丝柯克第二间仆人第三间可以么"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314980316241,
+        "rpid_str": "314980316241",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790304969,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_db8c63dfe61b8769a696ef66",
+        "content": {
+          "message": "这个可以凹一下n6么",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dd2c6f9cccf6568f5ddf33efe28173b2627578261.jpg",
+              "img_width": 1080,
+              "img_height": 3434,
+              "img_size": 1900.91
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5fe5624efce8ea62efbab1827ad83bf724c632ff31f30e8b63decea35c1a88c8",
+  "original_bytes_sha256": "e8b6e54e96cb4b46da0bd39fa6f8dff6e95e724078fda1bfd5b1edbba5454f18",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

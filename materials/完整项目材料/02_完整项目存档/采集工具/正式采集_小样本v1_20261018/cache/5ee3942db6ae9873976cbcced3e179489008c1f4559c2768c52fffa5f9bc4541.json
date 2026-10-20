@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314934062897",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:25:30.982947+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318468652848,
+          "rpid_str": "318468652848",
+          "root": 314934062897,
+          "root_str": "314934062897",
+          "parent": 314934062897,
+          "parent_str": "314934062897",
+          "dialog": 318468652848,
+          "ctime": 1790258074,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3d56ed2d1b823821a23459f6",
+          "content": {
+            "message": "说极限点就是差一间冰棺n6，超载队四星都满命就有机会。这个配置的木偶过老头很难很难"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314935406673,
+          "rpid_str": "314935406673",
+          "root": 314934062897,
+          "root_str": "314934062897",
+          "parent": 314934062897,
+          "parent_str": "314934062897",
+          "dialog": 314935406673,
+          "ctime": 1790258419,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0ddf1012c830a5397553c399",
+          "content": {
+            "message": "难五去吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314944769521,
+          "rpid_str": "314944769521",
+          "root": 314934062897,
+          "root_str": "314934062897",
+          "parent": 314934062897,
+          "parent_str": "314934062897",
+          "dialog": 314944769521,
+          "ctime": 1790263618,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9215ffba302a58babde2f204",
+          "content": {
+            "message": "3金老头太极限，能过就能6"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314934062897,
+        "rpid_str": "314934062897",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790257751,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_45f2731bcf0b705c9e4bb9e1",
+        "content": {
+          "message": "孩子们极限能到N几",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e43f46bb3c7c0ccdf7b644547bc6b676491849471.jpg",
+              "img_width": 1260,
+              "img_height": 13468,
+              "img_size": 1736.61
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "741270837bb6429191bc8960d33b290661ef15713b86b047c7f67feed8a85154",
+  "original_bytes_sha256": "b45898a050844d6bd12ceb8784925cb21fd198dd7e041f12b900ea16f4fc0507",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

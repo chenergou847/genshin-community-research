@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315756936817",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:49:26.200651+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319333564544,
+          "rpid_str": "319333564544",
+          "root": 315756936817,
+          "root_str": "315756936817",
+          "parent": 315756936817,
+          "parent_str": "315756936817",
+          "dialog": 319333564544,
+          "ctime": 1790929953,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "难说，可以试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315756936817,
+        "rpid_str": "315756936817",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790926119,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_0370430a5b25f0962ca85b3c",
+        "content": {
+          "message": "只差冰棺了，这个能过吗？6夏6欧4伊，其他的还有冰主6砂6班0奶0希0尼",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e6b79fe76cf4f0505ec2c683e8d85f5485961960.jpg",
+              "img_width": 1080,
+              "img_height": 4121,
+              "img_size": 726.41
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c1b279d36e614859558eb28c8067575ad5f758b4585c81d1e926e6ac7e3f1a63",
+  "original_bytes_sha256": "e221a2c12c2a85b16d9481175e194d81437fcc5c7fd99f8b4ef09952329bc6d6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

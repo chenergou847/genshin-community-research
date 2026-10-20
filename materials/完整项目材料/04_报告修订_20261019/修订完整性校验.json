@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "checked_at_bjt": "2026-10-20T00:01:08.958672+08:00",
+  "baseline_files": 4608,
+  "intentionally_changed_files": [
+    "00_从这里开始.md",
+    "01_当前交付/04_社区观察分析报告.md",
+    "02_完整项目存档/全量编码_20261019/04_社区观察分析报告.md",
+    "02_完整项目存档/采集工具/write_full_corpus_report.py",
+    "03_岗位与接续资料/下一对话直接发送.txt",
+    "03_岗位与接续资料/接续状态.json",
+    "03_岗位与接续资料/检索规则与脚本分工.md",
+    "03_岗位与接续资料/项目接续说明.md"
+  ],
+  "unchanged_existing_files": 4600,
+  "unexpected_changes": [],
+  "deleted_existing_files": [],
+  "original_data_csv_json_and_responses_unchanged": true,
+  "historical_backups_verified": 7,
+  "local_report_links_checked": 18,
+  "evidence_and_readable_ancestors_match_saved_raw": true,
+  "no_new_collection_sampling_or_coding": true,
+  "independent_human_validation_remains_waived": true,
+  "report_checks": {
+    "coded_rows": 6526,
+    "metrics_recalculated": 66,
+    "quote_excerpts_checked": 18,
+    "evidence_rows_checked": 26,
+    "discovery_checked": [
+      {
+        "group": "main",
+        "queries_pages_hits_new": [
+          54,
+          157,
+          3118,
+          1381
+        ]
+      },
+      {
+        "group": "audit_a",
+        "queries_pages_hits_new": [
+          18,
+          18,
+          320,
+          100
+        ]
+      },
+      {
+        "group": "audit_b",
+        "queries_pages_hits_new": [
+          18,
+          18,
+          360,
+          92
+        ]
+      }
+    ],
+    "no_network_requests": true,
+    "raw_data_written": false,
+    "input_sha256": "ace1a5a511a6c16be2f8c95532e49e551eb08f8a10aa222bfde72130ff0e5acc"
+  },
+  "data_quality_limitations_unchanged": [
+    "strict collection gate not passed",
+    "source concentration",
+    "missing ancestors and unread images",
+    "no independent semantic accuracy measurement"
+  ]
+}

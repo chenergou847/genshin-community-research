@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319447449504",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:15.848202+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319450373632,
+          "rpid_str": "319450373632",
+          "root": 319447449504,
+          "root_str": "319447449504",
+          "parent": 319447449504,
+          "parent_str": "319447449504",
+          "dialog": 319450373632,
+          "ctime": 1791012542,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ba14fcaa5de7caba2f26ec4b",
+          "content": {
+            "message": "如果现在重新开局的话，吸取经验仔细分配星烁前置天赋角色，配出更多星反应队，再把这版本刚领取的1命梦见月拉起来，应该能打得顺利一些，不过过了就好了。虽然挺难的，但剧诗毕竟是当前原神唯一有挑战性的长期奖励玩法了，一个月玩一次也挺好。\n至冬的影域枪战副本最高难度也挺有挑战性的，我全打满了，但只是拿主要奖励不用打满，而且只是一次性奖励。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319447449504,
+        "rpid_str": "319447449504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791010655,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_ba14fcaa5de7caba2f26ec4b",
+        "content": {
+          "message": "没抽龙王恰斯卡散兵，试用的打的挺勉强，我水冰风的主C也少，能打的就丝薇桑，跟好友借了个2+1的恰斯卡以为能轻松过，带6珐加两个辅助buff全开结果附加关打不满，只能借星扩散但是前置天赋的队友太少，结果还是靠回溯拿回了主角，靠星扩散过的，我打剧诗都是点数尽量换角色，祝福基本就用的上的点个一级不知是否和此有关，不太清楚祝福影响大不大，毕竟凑不出队友更致命\n风光时差不多是11分钟左右，而实际花了我两个小时该有的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3dc7a00402e43c9830094190d03ec0c4bb5d61e1698c445a0ef97d0f604211bd",
+  "original_bytes_sha256": "2a0d37089428e163bedda69d7d9a774532295612f9a365346b372154670020f7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

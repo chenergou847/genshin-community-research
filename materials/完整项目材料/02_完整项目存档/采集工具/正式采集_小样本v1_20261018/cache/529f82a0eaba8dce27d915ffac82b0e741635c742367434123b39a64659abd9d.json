@@ -1,0 +1,97 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315174816513",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:52:16.380150+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315174816513,
+        "rpid_str": "315174816513",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790438967,
+        "like": 1,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_920d4bb7d471e5c297b78c02",
+        "content": {
+          "message": "求大佬配队[蛆音娘_哭泣][蛆音娘_哭泣]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c5018ea579d4fd9deb14dbc6b584d53d493319794.jpg",
+              "img_width": 1179,
+              "img_height": 11631,
+              "img_size": 3124,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[蛆音娘_哭泣]": {
+              "id": 159,
+              "package_id": 7,
+              "state": 0,
+              "type": 2,
+              "attr": 0,
+              "text": "[蛆音娘_哭泣]",
+              "url": "http://i0.hdslb.com/bfs/emote/a23055546c19eba663b16370b8e072394d87ff53.png",
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1628587380,
+              "jump_url": "https://www.bilibili.com/h5/mall/equity-link/home?navhide=1&item_id=964&part=emoji_package&chargeplus=1&f_source=garb&from=emoji",
+              "jump_title": "哭泣"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "10ace0838fc6344f8753cc08aa45b97e34f738f199b49595d892b80de3e188f7",
+  "original_bytes_sha256": "c371a06628bf905ba5da67bed9f4ef6d368e7d1619adb6cd9c9c543264274d38",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

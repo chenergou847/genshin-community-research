@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318511679952",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:16:24.370419+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318511679952,
+        "rpid_str": "318511679952",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790301817,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b247812d4282628a78ef09dd",
+        "content": {
+          "message": "有n5的风险吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3cdb37a4b5fa8e627331f70b6a10053c3546915679504831.jpg",
+              "img_width": 1264,
+              "img_height": 13988,
+              "img_size": 1808.24
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e6bec15dd59c9c6510751d7688a089f846a24fb44581670812a816e30fee67b0",
+  "original_bytes_sha256": "a281aac53f9c3fe254fa8b211e5af4e4c02ebb7a3f1f3af9489c486d0335c6db",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

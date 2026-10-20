@@ -1,0 +1,104 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319462888144",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:03:47.787890+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319462888144,
+        "rpid_str": "319462888144",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791019720,
+        "like": 29,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_8c8713f4bc46a98d49b2a815",
+        "content": {
+          "message": "我推荐所有人至少抽一只奥黛塔，太好用了[笑哭]薇斯纳木偶抽不抽都无所谓，但奥黛塔绝对要抽一只[原神_鸽子]",
+          "emote": {
+            "[原神_鸽子]": {
+              "id": 2738,
+              "package_id": 139,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[原神_鸽子]",
+              "url": "http://i0.hdslb.com/bfs/emote/d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png",
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1605699452,
+              "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=3148&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+              "jump_title": "鸽子"
+            },
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "040ba95ec96fb6d09e1eddc36b987f15c732aca50ff2a3fd2dac7d144b9c780b",
+  "original_bytes_sha256": "658788b38f883608fbf61a26f6c62b6f2fc29a8a463fbc36712963e4b043e163",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

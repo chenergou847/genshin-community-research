@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315172848049",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:52:20.436456+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315196632289,
+          "rpid_str": "315196632289",
+          "root": 315172848049,
+          "root_str": "315172848049",
+          "parent": 315172848049,
+          "parent_str": "315172848049",
+          "dialog": 315196632289,
+          "ctime": 1790471540,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间后面就讲了，法尔伽也要有命座。第三间不也写了法尔伽，至少1+1。都是讲恰斯卡就说了的，你没看吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315197115361,
+          "rpid_str": "315197115361",
+          "root": 315172848049,
+          "root_str": "315172848049",
+          "parent": 315196632289,
+          "parent_str": "315196632289",
+          "dialog": 315196632289,
+          "ctime": 1790471915,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_35354a2d29701b4a6bd68139",
+          "content": {
+            "message": "回复 @星光璀璨之时 :我这是在哭弱啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315172848049,
+        "rpid_str": "315172848049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790437817,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_35354a2d29701b4a6bd68139",
+        "content": {
+          "message": "法尔伽都不配上桌了吗？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "949a68e154ae5c9e50b2329f09e26bdbb9eeac3daf1439e8b9a466d2af787274",
+  "original_bytes_sha256": "f318537206833080b95b79212802f849105831dac97aac61ef14fd6b507a75af",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

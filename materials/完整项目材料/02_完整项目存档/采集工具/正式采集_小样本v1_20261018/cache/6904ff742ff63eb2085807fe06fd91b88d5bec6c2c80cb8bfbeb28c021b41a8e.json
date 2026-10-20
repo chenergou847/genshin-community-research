@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "321048109520",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:39:45.233312+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321056806480,
+          "rpid_str": "321056806480",
+          "root": 321048109520,
+          "root_str": "321048109520",
+          "parent": 321048109520,
+          "parent_str": "321048109520",
+          "dialog": 321056806480,
+          "ctime": 1792273803,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bd07e2fb109aefb0393ce5e5",
+          "content": {
+            "message": "主播是玩蛇鹿少龙的纯良龙u"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321048109520,
+        "rpid_str": "321048109520",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792258216,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_32cc17dd3396fbbda526a7f1",
+        "content": {
+          "message": "主播到底是什么成分[思考]",
+          "emote": {
+            "[思考]": {
+              "id": 1941,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[思考]",
+              "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "思考"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "baef7cd81ac37e74f9905346da7882ebeacfe4633c8ba860616e441690839504",
+  "original_bytes_sha256": "cec72c3331c4aa33c5adaa86a98aee59d61daba0414141ae42be3ddeec416183",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,117 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315048845425",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:04:27.819968+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315048845425,
+        "rpid_str": "315048845425",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790345245,
+        "like": 1,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_e57d5a796a3e426fc3f55daa",
+        "content": {
+          "message": "上期n5勉强过，下期能过吗[原神_哇][原神_欸嘿]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/85f0e944f91e1d09eca4a388839df4903461577950890758.jpg",
+              "img_width": 720,
+              "img_height": 1600,
+              "img_size": 649.06
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dd4db1c9478432747dc507dfa8ee97b53461577950890758.jpg",
+              "img_width": 720,
+              "img_height": 1600,
+              "img_size": 664.93
+            }
+          ],
+          "emote": {
+            "[原神_哇]": {
+              "id": 4259,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[原神_哇]",
+              "url": "https://i0.hdslb.com/bfs/emote/8188ddf95bace929d382c7a83214afde79d83bfc.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哇"
+            },
+            "[原神_欸嘿]": {
+              "id": 4262,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[原神_欸嘿]",
+              "url": "https://i0.hdslb.com/bfs/emote/8fba438fcbe0550877b04efd768d857082307c5e.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "欸嘿"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "70f245b2cf55d40787e55fd9e4d6d7024ea7fc7725bb54a8d81b10426f58e2a7",
+  "original_bytes_sha256": "b74a46ca71746e35c823806548354d0c73382aee7fbe4798d4a38f74ebaa2da0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

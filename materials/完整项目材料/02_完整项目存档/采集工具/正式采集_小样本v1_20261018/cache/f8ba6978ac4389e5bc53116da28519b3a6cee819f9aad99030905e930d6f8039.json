@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315839314049",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:58.652237+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315839314049,
+        "rpid_str": "315839314049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790991619,
+        "like": 0,
+        "rcount": 6,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_1adafc9f9ba4b14b61203178",
+        "content": {
+          "message": "恋人和正义有人要换吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2910daa7da61747dabd9ca7cd8f3add82134092682.jpg",
+              "img_width": 1080,
+              "img_height": 2460,
+              "img_size": 1631.92
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b53d778e03b27de435744e4efa2ec385c1e38e5f1dc2c9f381113ae14e3d2447",
+  "original_bytes_sha256": "ef088c4ddf5381783acc526e1d478b109a1860761b85634b4d5a233c7f352c69",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

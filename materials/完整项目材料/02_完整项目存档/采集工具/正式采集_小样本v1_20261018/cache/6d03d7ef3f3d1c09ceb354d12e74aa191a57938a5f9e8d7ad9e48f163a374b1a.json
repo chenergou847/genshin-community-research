@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117448078596976",
+    "root": "317381534449",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:58:26.456961+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317413338337,
+          "rpid_str": "317413338337",
+          "root": 317381534449,
+          "root_str": "317381534449",
+          "parent": 317381534449,
+          "parent_str": "317381534449",
+          "ctime": 1792293017,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d8a6003211d1d6a4486e1717",
+          "content": {
+            "message": "不会，种子伤害吃久的精通"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317381534449,
+        "rpid_str": "317381534449",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792253905,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_20aecb7b025230b92f404a86",
+        "content": {
+          "message": "莱伊拉等级会影响种子伤害吗"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "66bbbeb753e94aaeb464e149e8bef2dafd7b1962ee78fcbe366e1b4355801073",
+  "original_bytes_sha256": "9561b9149ddd8b43408aa9d422621b3d56ec240ee48d2e3dd0165c75ddb8863c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

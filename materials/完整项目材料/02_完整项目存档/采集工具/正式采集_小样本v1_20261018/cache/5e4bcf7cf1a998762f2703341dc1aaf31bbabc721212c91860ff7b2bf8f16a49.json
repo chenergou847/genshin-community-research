@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318786670208",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:48:32.477394+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318786670208,
+        "rpid_str": "318786670208",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790497217,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_ee9e9463879c9182a258e151",
+        "content": {
+          "message": "俺能摸n6吗[doge_金箍]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5595d2fd4c0d6f0e64b55a19036e2a881369181705.jpg",
+              "img_width": 1080,
+              "img_height": 12223,
+              "img_size": 1505.86
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5edc5f92a5541e6d32c34df946eab8d9456b7ed5bb69b7e2da9c551931ec6671",
+  "original_bytes_sha256": "cb85ab443d4c325d7983141943ba8913899b25d31a98ad3872128b0e16c0ea71",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

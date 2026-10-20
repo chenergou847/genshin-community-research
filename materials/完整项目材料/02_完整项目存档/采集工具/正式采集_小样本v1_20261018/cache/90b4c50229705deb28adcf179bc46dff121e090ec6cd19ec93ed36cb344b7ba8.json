@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318520232464",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:12:34.256751+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318520232464,
+        "rpid_str": "318520232464",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790306935,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_1aea12e60061cf65f97f7d96",
+        "content": {
+          "message": "我怎么感觉n5都有点打不了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ca8ee5428980adf5172dec75396d65d8520111497.jpg",
+              "img_width": 1179,
+              "img_height": 9741,
+              "img_size": 2579
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "77d368d2a83f6a48bfb5b81dc84e5e4576ff0009f8ab58cf96574d053976fbb8",
+  "original_bytes_sha256": "ef2163b031740720243875f60ebe52187b7d15d3c44991aa3abe5496a4a3ef80",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

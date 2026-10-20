@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315871945393",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:47:49.041126+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319451018528,
+          "rpid_str": "319451018528",
+          "root": 315871945393,
+          "root_str": "315871945393",
+          "parent": 315871945393,
+          "parent_str": "315871945393",
+          "dialog": 319451018528,
+          "ctime": 1791012906,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "可以过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315904463345,
+          "rpid_str": "315904463345",
+          "root": 315871945393,
+          "root_str": "315871945393",
+          "parent": 319451018528,
+          "parent_str": "319451018528",
+          "dialog": 319451018528,
+          "ctime": 1791029751,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_76dcd128bc6ae590b1d33eca",
+          "content": {
+            "message": "回复 @夜星Wetchin :115秒过了，凹了4个小时，才发现夏是治疗头，换了生命头30分钟过了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315871945393,
+        "rpid_str": "315871945393",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791011108,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_76dcd128bc6ae590b1d33eca",
+        "content": {
+          "message": "20火，满夏满欧5伊可以过吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6890d8beac7a53accd3653c229bbac04c2901a335483875d1c92868bd4c5fe4e",
+  "original_bytes_sha256": "0d0446a898b0e80173a4784ae2ac3971c24d807b9036f95f18488b1b331295c5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

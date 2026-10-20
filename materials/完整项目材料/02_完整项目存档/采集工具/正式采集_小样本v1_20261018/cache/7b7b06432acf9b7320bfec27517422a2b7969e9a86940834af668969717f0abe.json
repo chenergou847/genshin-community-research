@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319378961168",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:08:38.450642+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319378961168,
+        "rpid_str": "319378961168",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790952983,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a927c702bec2584cd3c2729c",
+        "content": {
+          "message": "奥黛塔本体确实值得一个金，二命我当时的选择是观望，后面的角色太多，不能把鸡蛋放在同一个篮子里"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "166a37cc3093df690cb52be67f897a9843eb178d991f1ee701277853afbd31bc",
+  "original_bytes_sha256": "cef9926122b71213b3f323c06db059110f0efbfb8f119ec53826c92aa7da7243",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

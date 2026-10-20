@@ -1,0 +1,183 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315704640017",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:34:12.409999+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319271871216,
+          "rpid_str": "319271871216",
+          "root": 315704640017,
+          "root_str": "315704640017",
+          "parent": 315704640017,
+          "parent_str": "315704640017",
+          "dialog": 319271871216,
+          "ctime": 1790876026,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5d13fbd2dc8623f0d0450c61",
+          "content": {
+            "message": "大佬，能加个好友借角色吗[给心心]",
+            "emote": {
+              "[给心心]": {
+                "id": 3302,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[给心心]",
+                "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "给心心"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319341524816,
+          "rpid_str": "319341524816",
+          "root": 315704640017,
+          "root_str": "315704640017",
+          "parent": 315704640017,
+          "parent_str": "315704640017",
+          "dialog": 319341524816,
+          "ctime": 1790934444,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "还有好友位没[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315704640017,
+        "rpid_str": "315704640017",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790875819,
+        "like": 5,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_bfa204a2912eae98afe9f44e",
+        "content": {
+          "message": "[doge]未至极限等我再找找更好的配队",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6a914f8c1edd35cce0a2472e0f9d8969276086594.png",
+              "img_width": 1919,
+              "img_height": 1079,
+              "img_size": 229.85,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b45dd8daa0b0a13fcff22b983ca29b629e1b05381d10536788d12c9cf2b0a99e",
+  "original_bytes_sha256": "485e3590145ca9f6824b02c3ae10dd65d506cd96c56982632fa91df4e7f8e2eb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

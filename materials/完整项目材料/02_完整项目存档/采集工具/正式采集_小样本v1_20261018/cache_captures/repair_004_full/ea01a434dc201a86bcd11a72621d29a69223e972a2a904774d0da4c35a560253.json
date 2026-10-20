@@ -1,0 +1,200 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320845810128",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:44:54.726906+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317223539633,
+          "rpid_str": "317223539633",
+          "root": 320845810128,
+          "root_str": "320845810128",
+          "parent": 320845810128,
+          "parent_str": "320845810128",
+          "ctime": 1792140165,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a77cf0fc295bad074e764d0",
+          "content": {
+            "message": "五元素的来了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317223698513,
+          "rpid_str": "317223698513",
+          "root": 320845810128,
+          "root_str": "320845810128",
+          "parent": 320845810128,
+          "parent_str": "320845810128",
+          "ctime": 1792140240,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3c1c0cda29802c5d27b1ca96",
+          "content": {
+            "message": "五灵王来了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320881160016,
+          "rpid_str": "320881160016",
+          "root": 320845810128,
+          "root_str": "320845810128",
+          "parent": 320845810128,
+          "parent_str": "320845810128",
+          "ctime": 1792143051,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b6c25d5ba78494cfc38d5cb",
+          "content": {
+            "message": "我拿他打的冰锅，2分钟过去的，就那个恰杜茜尼全00"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317233122225,
+          "rpid_str": "317233122225",
+          "root": 320845810128,
+          "root_str": "320845810128",
+          "parent": 320881160016,
+          "parent_str": "320881160016",
+          "ctime": 1792146063,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c85c6cc6773fc6f09a39213f",
+          "content": {
+            "message": "回复 @芃蕤_ :说实话00恰强度一般。只适合大世界超爽跑图刷怪"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320845810128,
+        "rpid_str": "320845810128",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792117916,
+        "like": 41,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_804006494e1fd45be706afeb",
+        "content": {
+          "message": "别逗你恰姐笑了[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/46109dcba05fe855ddfadb548d779b88383287416.jpg",
+              "img_width": 1008,
+              "img_height": 864,
+              "img_size": 236.88,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "888f0b2b368cd5534fcec3ef14b25c6133946df4054d8cadb3b4d89947f254e7",
+  "original_bytes_sha256": "3d7671217993596127d5cf7db8b1572d1bbaa9d7ac941618b5af5381a1f71b7a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

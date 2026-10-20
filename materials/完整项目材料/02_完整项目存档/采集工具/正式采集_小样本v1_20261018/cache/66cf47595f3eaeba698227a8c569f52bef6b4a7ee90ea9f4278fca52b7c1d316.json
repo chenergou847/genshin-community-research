@@ -1,0 +1,108 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117451467524677",
+    "root": "317273261073",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:59:57.809065+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320929118128,
+          "rpid_str": "320929118128",
+          "root": 317273261073,
+          "root_str": "317273261073",
+          "parent": 317273261073,
+          "parent_str": "317273261073",
+          "ctime": 1792170073,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c607b36559cd57e7469fcaab",
+          "content": {
+            "message": "[崩坏3_划水]",
+            "emote": {
+              "[崩坏3_划水]": {
+                "id": 5829,
+                "package_id": 354,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[崩坏3_划水]",
+                "url": "https://i0.hdslb.com/bfs/emote/ca78a5f023a95f6abaf67898eaae697a08792ce8.png",
+                "meta": {
+                  "size": 2,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1673599205,
+                "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=34072&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+                "jump_title": "划水"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317273261073,
+        "rpid_str": "317273261073",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792169579,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_18039f69f1c5aabb0a4a4eb2",
+        "content": {
+          "message": "沃超威优派[艾尔莎-楚楚可艾-表情包_哈哈]",
+          "emote": {
+            "[艾尔莎-楚楚可艾-表情包_哈哈]": {
+              "id": 85219,
+              "package_id": 5784,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[艾尔莎-楚楚可艾-表情包_哈哈]",
+              "url": "https://i0.hdslb.com/bfs/garb/92e712633d94f9327937054f1dfc32075596fbcf.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1725530460,
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=103539&hybrid_set_header=2&anchor_task=1&lottery_id=103540&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22103541%22%2C%22sub_id%22%3A%22%5B%E8%89%BE%E5%B0%94%E8%8E%8E-%E6%A5%9A%E6%A5%9A%E5%8F%AF%E8%89%BE-%E8%A1%A8%E6%83%85%E5%8C%85_%E5%93%88%E5%93%88%5D%22%7D",
+              "jump_title": "哈哈"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "92e430287e742f5fd89db2f38ba63c725437db50f58c8d440619a6c2735e48b8",
+  "original_bytes_sha256": "d5ce03928e4d64a87b588b785e9faae0f4aab98e22346b1cbe250b8360c1da2d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

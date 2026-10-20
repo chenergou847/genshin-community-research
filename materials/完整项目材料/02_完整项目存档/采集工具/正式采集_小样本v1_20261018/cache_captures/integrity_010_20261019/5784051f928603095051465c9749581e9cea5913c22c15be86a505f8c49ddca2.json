@@ -1,0 +1,740 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117369108174481",
+    "type": 1,
+    "root": "319347514112",
+    "ps": 20,
+    "next": 1
+  },
+  "captured_at": "2026-10-19T05:26:20.187381+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": true,
+        "prev": 0,
+        "next": 28,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzU0MDQ4ODM5NzM4NzkaADICCBw="
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319347514112,
+        "rpid_str": "319347514112",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790937587,
+        "like": 109,
+        "rcount": 39,
+        "count": 48,
+        "state": 0,
+        "floor": 75,
+        "author_id": "U_ff4afe596429b403bfd46c03",
+        "content": {
+          "message": "看远在哪我寻思，雷公电母的教训还没吃饱吗[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [
+          {
+            "rpid": 319347747696,
+            "rpid_str": "319347747696",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 319347747696,
+            "ctime": 1790937687,
+            "like": 327,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 1,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "先苦不一定后甜，但先甜一定是甜的，等苦了就换成甜的，职业都不是干一辈子玩游戏还追求上永恒了[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315791690465,
+            "rpid_str": "315791690465",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 315791690465,
+            "ctime": 1790945373,
+            "like": 35,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 2,
+            "author_id": "U_66d8121ca2c1adb71fbee070",
+            "content": {
+              "message": "菲林斯别串了[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319403162368,
+            "rpid_str": "319403162368",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 319403162368,
+            "ctime": 1790978549,
+            "like": 118,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 3,
+            "author_id": "U_690faa1a6b5bcf54ae999ddd",
+            "content": {
+              "message": "玩了一年轮椅结果领到残疾人补贴了[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319418763536,
+            "rpid_str": "319418763536",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 319418763536,
+            "ctime": 1790994837,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 4,
+            "author_id": "U_60991ab80687f178be608442",
+            "content": {
+              "message": "啥雷公电母？"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315844881761,
+            "rpid_str": "315844881761",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319418763536,
+            "parent_str": "319418763536",
+            "dialog": 319418763536,
+            "ctime": 1790995438,
+            "like": 6,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 5,
+            "author_id": "U_f6422004f14418b7398b296f",
+            "content": {
+              "message": "回复 @独孤夕静雪 :菲林斯和人机"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319422174464,
+            "rpid_str": "319422174464",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 319422174464,
+            "ctime": 1790996838,
+            "like": 17,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 7,
+            "author_id": "U_36127ecb5768b2b708e89709",
+            "content": {
+              "message": "雷公电母的教训是指月反应体系性价比最高的队伍吗"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319422439424,
+            "rpid_str": "319422439424",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315846741329,
+            "parent_str": "315846741329",
+            "dialog": 315846741329,
+            "ctime": 1790997031,
+            "like": 1,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 8,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @狐狐鴨 :我没说是抽了雷公电母的教训啊"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319422750080,
+            "rpid_str": "319422750080",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319422174464,
+            "parent_str": "319422174464",
+            "dialog": 319422174464,
+            "ctime": 1790997175,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 9,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @小小小小卤蛋呀 :一部分的原因吧，主要抽完有很充分的时间和空间给你规划下一步"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319422967904,
+            "rpid_str": "319422967904",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319422174464,
+            "parent_str": "319422174464",
+            "dialog": 319422174464,
+            "ctime": 1790997269,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 10,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @小小小小卤蛋呀 :月绽我感觉蛮需要月神的，相对而言月感电感觉没那么卡手"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319426522576,
+            "rpid_str": "319426522576",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 319426522576,
+            "ctime": 1790999203,
+            "like": 1,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 11,
+            "author_id": "U_2f8d44d72975c2e90bb0091c",
+            "content": {
+              "message": "教训是指吃了整整一个大版本的环境给自己吃成良子了吗"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315854858529,
+            "rpid_str": "315854858529",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319422967904,
+            "parent_str": "319422967904",
+            "dialog": 319422174464,
+            "ctime": 1791001219,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 15,
+            "author_id": "U_eb7d89dfe37949d59020cab6",
+            "content": {
+              "message": "回复 @zhuai_hao :一个队伍的保质期就两三年，挪德卡莱开始就全是定制环境，没数值多环境，有数值就少环境，得逆环境打，抽这么多不就是为了实战服务，有环境实战强就是强，时代变了，不是通用就等于保值，有环境打得顺才是硬道理"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319431280400,
+            "rpid_str": "319431280400",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315854858529,
+            "parent_str": "315854858529",
+            "dialog": 319422174464,
+            "ctime": 1791001721,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 16,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @bili_13355277747 :嗯，这种模式有利有弊吧，主要还是要控制投入的门槛和保值时间；要么就把全部体系都提升到差不多的水平，这种对于策划的要求感觉更高，更多是pvp游戏要考虑这事"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315857633153,
+            "rpid_str": "315857633153",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347747696,
+            "parent_str": "319347747696",
+            "dialog": 319347747696,
+            "ctime": 1791002729,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 17,
+            "author_id": "U_e521250ff691c82fe17c8db1",
+            "content": {
+              "message": "回复 @zhuai_hao :那龙王又轮椅又给补贴为啥还有这么多人踩头？说白了定制环境定制队伍闹麻了，感觉不如游戏最后再抽角色最保值说不定还能送粉球[嗑瓜子]",
+              "emote": {
+                "[嗑瓜子]": {
+                  "id": 3223,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[嗑瓜子]",
+                  "url": "https://i0.hdslb.com/bfs/emote/28a91da1685d90124cfeead74622e1ebb417c0eb.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "嗑瓜子"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319439357424,
+            "rpid_str": "319439357424",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315854766225,
+            "parent_str": "315854766225",
+            "dialog": 319426522576,
+            "ctime": 1791006028,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 20,
+            "author_id": "U_2f8d44d72975c2e90bb0091c",
+            "content": {
+              "message": "回复 @Lthozes :我把你拉黑了，和你说话浪费精力"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319439467072,
+            "rpid_str": "319439467072",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315854766225,
+            "parent_str": "315854766225",
+            "dialog": 319426522576,
+            "ctime": 1791006044,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 21,
+            "author_id": "U_2f8d44d72975c2e90bb0091c",
+            "content": {
+              "message": "回复 @Lthozes :你觉得是啥就是啥吧"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315866356849,
+            "rpid_str": "315866356849",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315854774113,
+            "parent_str": "315854774113",
+            "dialog": 315846741329,
+            "ctime": 1791007590,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 23,
+            "author_id": "U_37245e290d9143ab27d2c79e",
+            "content": {
+              "message": "回复 @Lthozes :不愧是肚子里的蛔虫[喜极而泣]，描述的模棱两可都能猜对",
+              "emote": {
+                "[喜极而泣]": {
+                  "id": 791,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[喜极而泣]",
+                  "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "喜极而泣"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315866563985,
+            "rpid_str": "315866563985",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319422439424,
+            "parent_str": "319422439424",
+            "dialog": 315846741329,
+            "ctime": 1791007674,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 24,
+            "author_id": "U_37245e290d9143ab27d2c79e",
+            "content": {
+              "message": "回复 @zhuai_hao :那就是我理解错了[鸭科夫_流汗鸭]",
+              "emote": {
+                "[鸭科夫_流汗鸭]": {
+                  "id": 124985,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[鸭科夫_流汗鸭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/b49b325224cef1ef8313728022aa86e93e65bd08.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1762163627,
+                  "jump_title": "流汗鸭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319444410000,
+            "rpid_str": "319444410000",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 319444410000,
+            "ctime": 1791008821,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 25,
+            "author_id": "U_bbd854e4afe8778eb8dce603",
+            "content": {
+              "message": "抽到二命一个e就是牢雷的一套循环了"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315869252417,
+            "rpid_str": "315869252417",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 315869252417,
+            "ctime": 1791009418,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 26,
+            "author_id": "U_5627c62b69ac639883535aa7",
+            "content": {
+              "message": "奥黛塔比雷公电母还强，主打冰系反应的大版本，奥黛塔这样一个有星反应增伤的后台辅C怎么想都不可能没有环境的[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315871602353,
+            "rpid_str": "315871602353",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347747696,
+            "parent_str": "319347747696",
+            "dialog": 319347747696,
+            "ctime": 1791010814,
+            "like": 1,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 27,
+            "author_id": "U_499b8e96e648d5d0f5a2be2f",
+            "content": {
+              "message": "回复 @zhuai_hao :可奥黛塔是月神位置啊"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "99f488a533938103f5fc12f0a88ec818d4d6776af7ed4c852150ff10d77c22ce",
+  "original_bytes_sha256": "037623f79608e441c01ecf222ce0293eb681bfc50427d8b341c0e0c02b62e385",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

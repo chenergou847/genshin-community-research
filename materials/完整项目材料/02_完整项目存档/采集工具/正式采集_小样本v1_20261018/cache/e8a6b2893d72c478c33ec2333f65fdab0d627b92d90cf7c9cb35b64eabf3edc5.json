@@ -1,0 +1,205 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315565190529",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:39:02.388102+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319127272720,
+          "rpid_str": "319127272720",
+          "root": 315565190529,
+          "root_str": "315565190529",
+          "parent": 315565190529,
+          "parent_str": "315565190529",
+          "dialog": 319127272720,
+          "ctime": 1790773861,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e4f3443c3e492d1049044afe",
+          "content": {
+            "message": "我草压线[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315570629937,
+          "rpid_str": "315570629937",
+          "root": 315565190529,
+          "root_str": "315565190529",
+          "parent": 315565190529,
+          "parent_str": "315565190529",
+          "dialog": 315570629937,
+          "ctime": 1790776353,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8e203d0e6d0f1c6006189d6e",
+          "content": {
+            "message": "毕竟奥黛塔分出去了，这期真想把奥掰两半用[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315576872161,
+          "rpid_str": "315576872161",
+          "root": 315565190529,
+          "root_str": "315565190529",
+          "parent": 315565190529,
+          "parent_str": "315565190529",
+          "dialog": 315576872161,
+          "ctime": 1790779858,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b46ca9cae2a3d1bcbf5c04e7",
+          "content": {
+            "message": "成长这么快？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315565190529,
+        "rpid_str": "315565190529",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790773247,
+        "like": 3,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_157cc328279ac31c2cc5187b",
+        "content": {
+          "message": "孩子们N6老头是真的难[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/bfee4f403a393c6ff9e0a6d5d86d913b3707029382236795.jpg",
+              "img_width": 3168,
+              "img_height": 1440,
+              "img_size": 1576.21
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4d7216bd39694791f0ffaf6ba9627b5e94507ec66e4ab3e6dcaa5f85db00b696",
+  "original_bytes_sha256": "4cb581297809cb3ab842f5ee7d1a4aaa112cca315ccc385d039fa58585f8d0a9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

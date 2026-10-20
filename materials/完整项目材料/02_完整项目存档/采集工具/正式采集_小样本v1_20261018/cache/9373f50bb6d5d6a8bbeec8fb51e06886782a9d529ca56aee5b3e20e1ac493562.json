@@ -1,0 +1,96 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315781599217",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:32:25.243935+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 33
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315781599217,
+        "rpid_str": "315781599217",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790940142,
+        "like": 948,
+        "rcount": 33,
+        "count": 37,
+        "state": 0,
+        "author_id": "U_f931a2c0df5958cb31bfef91",
+        "content": {
+          "message": "省了半天就为了在最后一关玩到这个阵容[歪嘴]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a6ea5a1215b9601e1fc5e6725f56c9d0381915968.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 178.55,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[歪嘴]": {
+              "id": 2373,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[歪嘴]",
+              "url": "https://i0.hdslb.com/bfs/emote/4384050fbab0586259acdd170b510fe262f08a17.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "歪嘴"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bef0d3982d1414fbd2e63c9dcc05cac9697ad3776bfab2045d067ab5300cefc1",
+  "original_bytes_sha256": "42cb112bbf5104fe01967439808310783cf3334e4bed2ea557d2eb5f746ff3ae",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

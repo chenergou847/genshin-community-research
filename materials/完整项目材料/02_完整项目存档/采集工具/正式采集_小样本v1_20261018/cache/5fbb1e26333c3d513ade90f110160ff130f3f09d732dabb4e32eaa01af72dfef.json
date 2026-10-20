@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315762665441",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:49:18.499721+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319333537456,
+          "rpid_str": "319333537456",
+          "root": 315762665441,
+          "root_str": "315762665441",
+          "parent": 315762665441,
+          "parent_str": "315762665441",
+          "dialog": 319333537456,
+          "ctime": 1790929905,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "私我"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315762665441,
+        "rpid_str": "315762665441",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790929738,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a4d9f6a9b4cde08fdd3cbe34",
+        "content": {
+          "message": "主包接单吗21火神没手法打不了四星充能都够的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5c7993fd936a3a11a921d98115f0722432365b98bfb0b6b438cbffb4018abe52",
+  "original_bytes_sha256": "e4d18825f0d4b92f416a3ba319450bc8a9d356575a95be45f85438db3c2c57eb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

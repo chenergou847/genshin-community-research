@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315370239025",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:36:49.363920+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315370239025,
+        "rpid_str": "315370239025",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790605650,
+        "like": 1,
+        "rcount": 4,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_7959ce4cc77d8b73c4dcde01",
+        "content": {
+          "message": "upup，n6有机会吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/02aa68a27dd7c8efbd64d7701d976b5828680574.jpg",
+              "img_width": 1216,
+              "img_height": 15262,
+              "img_size": 1929.32
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3034a03b3337dd4c062a4c387be92a9bdb38c1e16794b6b073b5fb5d83cc395a",
+  "original_bytes_sha256": "96fe4b974e710f8a115aa18127cc9bbad543f6821a9cc2bcae56d1b94f75e393",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

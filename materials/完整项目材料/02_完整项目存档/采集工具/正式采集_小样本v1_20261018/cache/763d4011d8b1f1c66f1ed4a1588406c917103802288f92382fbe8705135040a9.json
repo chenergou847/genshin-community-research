@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315732129505",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:15:27.781943+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 14
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315732129505,
+        "rpid_str": "315732129505",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790911418,
+        "like": 88,
+        "rcount": 14,
+        "count": 15,
+        "state": 0,
+        "author_id": "U_1a69a15307fb38d4674e8962",
+        "content": {
+          "message": "这群人拉表不考虑实战，自然会得出错误结论。当年的万叶，去年的少女，今年的天鹅。0命五星和四星拉表没有差距，但怪物会帮角色拉开50％的数值差距。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c54a87a22ee95010426ab65078a55b8525b05496f076765da8b2c89a985fd032",
+  "original_bytes_sha256": "d33b36c3fdd5f2f2697f83c61c625d2bc81887217cf956372ee61f9f8d5785ab",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

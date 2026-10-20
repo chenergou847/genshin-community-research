@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319384623664",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:54.526439+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319384623664,
+        "rpid_str": "319384623664",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790956095,
+        "like": 25,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_265aeb0fa8444455a228f322",
+        "content": {
+          "message": "剧诗最阴的是凹开局和不重复的月谕牌"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a42e4d397eb48cb852d49b0abd81bb987fc0749ba9d049c47d6d0281f5313fe2",
+  "original_bytes_sha256": "e789ec88236718d2aa3345d2273b8c9fb072a7a9c89fe7b671e465d0b0e1ed2d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

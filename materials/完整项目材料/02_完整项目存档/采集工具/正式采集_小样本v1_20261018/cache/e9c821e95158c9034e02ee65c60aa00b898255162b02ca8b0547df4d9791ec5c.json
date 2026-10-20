@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318487320480",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:20:44.670320+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318494662080,
+          "rpid_str": "318494662080",
+          "root": 318487320480,
+          "root_str": "318487320480",
+          "parent": 318487320480,
+          "parent_str": "318487320480",
+          "dialog": 318494662080,
+          "ctime": 1790278249,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8b42e1f0bd7447f5a76f585",
+          "content": {
+            "message": "你这n5不随便打。你瑞希队伍不齐倒是。第一间木偶天鹅砂糖阿罗夏打1随便打（我感觉排好轴至少剩20s以上。2命瑞希带天鹅和满命珐露珊猫猫也是随便打。（这个我测了，正常毕业的冷启动打桩120秒差不多1400-1500w，全抗10。更别说老头带高额减风抗和机制伤害，估计会剩很多时间）。第二间你2芙的完整skk队包能打过n5锅。第三间2+1火神打冰棺也是随便打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318501715920,
+          "rpid_str": "318501715920",
+          "root": 318487320480,
+          "root_str": "318487320480",
+          "parent": 318487320480,
+          "parent_str": "318487320480",
+          "dialog": 318501715920,
+          "ctime": 1790293674,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5eb919e6f6d089d330dd7705",
+          "content": {
+            "message": "你这随便打啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318487320480,
+        "rpid_str": "318487320480",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790269268,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_9f580559cabc85a3c0be010e",
+        "content": {
+          "message": "打n5用木偶还是梦见月啊，感觉伤害都不太够",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f468f171379225062db83230f0c2b988674381518.jpg",
+              "img_width": 1080,
+              "img_height": 10830,
+              "img_size": 1303.76
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f1a6c98e6929d006e197308dded7ef141a1c55be3985db235174d9b7610aa6df",
+  "original_bytes_sha256": "7be1e5ccccc52cdbfd5721874fb2d2fe8c90bac2489a67610ac3d6ab5303cd57",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

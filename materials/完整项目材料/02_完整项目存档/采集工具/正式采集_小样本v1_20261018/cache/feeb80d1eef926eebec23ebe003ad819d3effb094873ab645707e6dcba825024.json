@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319780365168",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:32:15.313774+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319786457456,
+          "rpid_str": "319786457456",
+          "root": 319780365168,
+          "root_str": "319780365168",
+          "parent": 319780365168,
+          "parent_str": "319780365168",
+          "dialog": 319786457456,
+          "ctime": 1791253025,
+          "like": 13,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_56e434bc8d05d51f7a7f7374",
+          "content": {
+            "message": "因为文本描述是为队伍中自己的当前场上角色恢复生命值，所有这种描述的联机都是不能奶队友的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319794802656,
+          "rpid_str": "319794802656",
+          "root": 319780365168,
+          "root_str": "319780365168",
+          "parent": 319786457456,
+          "parent_str": "319786457456",
+          "dialog": 319786457456,
+          "ctime": 1791258030,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c6889e6baa765be8489a97ca",
+          "content": {
+            "message": "回复 @777Yoroko :为啥希诺宁前台奶但是也能联机奶队友"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316201840241,
+          "rpid_str": "316201840241",
+          "root": 319780365168,
+          "root_str": "319780365168",
+          "parent": 319794802656,
+          "parent_str": "319794802656",
+          "dialog": 319786457456,
+          "ctime": 1791259022,
+          "like": 13,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1bbd45731b6242be3294c7f0",
+          "content": {
+            "message": "回复 @沥心 :希诺宁文案描述是：附近当前场上角色，联机肯定能奶啊，沃是自己角色，所以联机奶不了队友"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319812960064,
+          "rpid_str": "319812960064",
+          "root": 319780365168,
+          "root_str": "319780365168",
+          "parent": 319794802656,
+          "parent_str": "319794802656",
+          "dialog": 319786457456,
+          "ctime": 1791267677,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_56e434bc8d05d51f7a7f7374",
+          "content": {
+            "message": "回复 @沥心 : 希诺宁是“附近”不是“队伍中”，“前台奶”和我描述的文本不是强相关的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319780365168,
+        "rpid_str": "319780365168",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791248581,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_c328fb4d4b1a319f895b7a6b",
+        "content": {
+          "message": "沃联机e为啥奶不了队友？观赏鱼都可以"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ae718b4c895144b3ccc356649a9f92c1c67f0b4f50d2a44d5f4f379b7d63b176",
+  "original_bytes_sha256": "f5f4c72028c63c77c3cac1b35626e084dcbd39acaf3fe162d31e3199e4ca5088",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

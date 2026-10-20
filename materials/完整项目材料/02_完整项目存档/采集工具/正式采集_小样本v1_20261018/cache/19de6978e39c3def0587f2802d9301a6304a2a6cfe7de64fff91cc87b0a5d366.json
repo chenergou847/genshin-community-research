@@ -1,0 +1,130 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315693690289",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:59:16.506407+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315706881457,
+          "rpid_str": "315706881457",
+          "root": 315693690289,
+          "root_str": "315693690289",
+          "parent": 315693690289,
+          "parent_str": "315693690289",
+          "dialog": 315706881457,
+          "ctime": 1790878374,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e74f20e996887ea753a9f2e2",
+          "content": {
+            "message": "我的天啊，绝望中诞生的奇迹[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315693690289,
+        "rpid_str": "315693690289",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790867912,
+        "like": 8,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_fcf1b88400b2a188ef5fe136",
+        "content": {
+          "message": "龙王出场三次，在我绝望的时候我抽中了龙王转为待命角色[打call]",
+          "emote": {
+            "[打call]": {
+              "id": 510,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[打call]",
+              "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "打call"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6db33eb1b20d3d8f59163273be7c67decfd3c8644bc2c4d4637e606762073409",
+  "original_bytes_sha256": "334727f21fed6b6e49c20eb98df70bd0528677b1f4bc9ca1825cfe211fbc7e5f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

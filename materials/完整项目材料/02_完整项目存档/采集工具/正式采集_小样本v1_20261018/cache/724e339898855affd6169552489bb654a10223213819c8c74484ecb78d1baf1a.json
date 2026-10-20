@@ -1,0 +1,85 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317189739121",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:15:26.617285+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 18
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317189739121,
+        "rpid_str": "317189739121",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792114520,
+        "like": 3,
+        "rcount": 18,
+        "count": 19,
+        "state": 0,
+        "author_id": "U_85218353f578f3120523ac9d",
+        "content": {
+          "message": "[笑哭]还有救吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/38a2fb448d0262b8a4020001d95351012117675488.jpg",
+              "img_width": 2408,
+              "img_height": 1080,
+              "img_size": 1134.65
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6ad3e39fdef05c818e6760a71487213e2117675488.jpg",
+              "img_width": 2408,
+              "img_height": 1080,
+              "img_size": 822.1
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "116d84f64be097662d57e144eef4d3d1ef16e3a942128511f66b89abf95d9749",
+  "original_bytes_sha256": "e60eedbcc5e007addb69f1964570e56ec538038d1892801849eb1747805eeaa3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

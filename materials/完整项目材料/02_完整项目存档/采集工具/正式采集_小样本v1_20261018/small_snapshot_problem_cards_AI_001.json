@@ -1,0 +1,358 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T10:14:30.618327+00:00",
+  "source_hash": "819cfa0f2be9a6cb10a33bacb12670dc0f20cb3d419a54f529d52c6a2ddab8ab",
+  "review_hash": "b15adb57778f95d0f04b1e546efe46b943a7f551ed0f7604ce96b716e798f757",
+  "cards": [
+    {
+      "id": "P1",
+      "name": "深渊：处理机制前提不清，难以解释失败",
+      "modes": [
+        "abyss"
+      ],
+      "cases": [
+        82,
+        93,
+        129,
+        130,
+        142,
+        184
+      ],
+      "counter": [
+        147,
+        161,
+        183
+      ],
+      "condition": "遇到元素盾、冻结/挂冰条件或阶段机制，需要把反应体系和敌人状态对应起来。",
+      "impact": "有发言自述一早上重试、当时未想到解法，或同一反应队在不同半间均遇盾受阻。",
+      "interpretation": "值得核对信息是否便于转成操作判断；不能把“没理解”直接解释为机制错误，也不能据此排除练度因素。",
+      "operation": "制作本期敌人“现象→所需条件→可替代角色/操作→不生效时先查什么”FAQ，附失败与成功片段，先经实测核对。",
+      "validation": "用可比配置回放核对敌方状态、元素附着和操作；再观察新/回归玩家能否正确说明触发条件及失败原因。",
+      "priority": "先做机制问答与反馈分诊",
+      "limitation": "核心机制疑问集中在一个大来源；两条来自同作者同线程，不能当独立验证。",
+      "evidence_IDs": [
+        "320892587088",
+        "320893031248",
+        "320944403040",
+        "320913391168",
+        "320856874272",
+        "317209117249"
+      ],
+      "counterexample_IDs": [
+        "320865195392",
+        "317224109281",
+        "317287772497"
+      ],
+      "evidence_utterances": 6,
+      "different_videos": 1,
+      "different_authors": 5,
+      "different_threads": 5,
+      "prevalence_estimated_for_this_card": false,
+      "human_confirmed": false,
+      "mechanism_causality_verified": false
+    },
+    {
+      "id": "P2",
+      "name": "剧诗：想保留的角色与实际可用时点错位",
+      "modes": [
+        "theater"
+      ],
+      "cases": [
+        224,
+        231,
+        236,
+        239,
+        242,
+        267,
+        270,
+        279,
+        291,
+        304,
+        308,
+        312,
+        338,
+        375
+      ],
+      "counter": [
+        239,
+        323,
+        375
+      ],
+      "condition": "要兼顾前关可通关、后关元素/队伍需求、借角次数和角色抽取/复活。",
+      "impact": "出现最后关无冰、借来的角色始终没抽到、雷队友争用，以及中途重开的自述。",
+      "interpretation": "角色池宽度、主动规划和抽取结果可能共同作用；目前不能把全部重开归咎随机，也未核验抽取概率。",
+      "operation": "提供终局需求提示与“建议保留的元素/主C/队友”规划模板；FAQ先说明借角何时锁定、回溯能改什么，避免未经核验的概率说法。",
+      "validation": "记录每幕可用角色、选择、剩余出战次数、回溯和失败原因；比较“总池不足”“留人决策失误”“获取时点不合”三种情况。",
+      "priority": "先做出战规划与借角/回溯说明",
+      "limitation": "这些细节全部来自同一个剧诗视频，且有同线程互动，不能证明跨UP普遍存在。",
+      "evidence_IDs": [
+        "319446714176",
+        "316813359873",
+        "319447195968",
+        "315767429713",
+        "315713410369",
+        "319440272864",
+        "315977044369",
+        "315759673361",
+        "319495376368",
+        "319265544992",
+        "316023602753",
+        "319336375232",
+        "319707228784",
+        "316016378337"
+      ],
+      "counterexample_IDs": [
+        "315767429713",
+        "315649589281",
+        "316016378337"
+      ],
+      "evidence_utterances": 14,
+      "different_videos": 1,
+      "different_authors": 14,
+      "different_threads": 11,
+      "prevalence_estimated_for_this_card": false,
+      "human_confirmed": false,
+      "mechanism_causality_verified": false
+    },
+    {
+      "id": "P3",
+      "name": "剧诗：奖励已拿到，满花或集牌仍带来较高重试成本",
+      "modes": [
+        "theater"
+      ],
+      "cases": [
+        226,
+        227,
+        231,
+        258,
+        272,
+        275,
+        277,
+        294,
+        307,
+        312,
+        327,
+        330,
+        344,
+        346,
+        350,
+        360
+      ],
+      "counter": [
+        239,
+        240,
+        289,
+        340,
+        354
+      ],
+      "condition": "玩家目标可能是原石、满花、理想终局队或不重复的牌；这些目标不能混成一个通关目标。",
+      "impact": "有人拿满原石后放弃更高目标，也有人为角色顺序、满花或新牌持续重开数小时。",
+      "interpretation": "反馈更像目标层次与额外投入的取舍；耗时自述不等于平均时长，跨日也不等于连续游玩。",
+      "operation": "把攻略按“拿主要奖励 / 满花 / 集牌或挑战偏好”分层，说明额外要求和可选性；为高成本玩家提供停止点和回溯检查项。",
+      "validation": "分别测量目标识别正确率、达到各目标的耗时/重开数、停止原因和主观负担，同时保留“重开仍有趣”的玩家。",
+      "priority": "先改目标分级表达，后验证流程改动",
+      "limitation": "直接耗时自述集中在同一来源；这是选定评论中的表述，不是玩法平均完成时长。",
+      "evidence_IDs": [
+        "315765909169",
+        "315820225201",
+        "316813359873",
+        "315800364897",
+        "315891630753",
+        "319350876192",
+        "319437456448",
+        "315920810193",
+        "315843763473",
+        "319336375232",
+        "316378625713",
+        "316075409249",
+        "315751105345",
+        "315865434513",
+        "316376939137",
+        "315738950977"
+      ],
+      "counterexample_IDs": [
+        "315767429713",
+        "319397781728",
+        "319302120096",
+        "316012506593",
+        "319303295168"
+      ],
+      "evidence_utterances": 16,
+      "different_videos": 1,
+      "different_authors": 15,
+      "different_threads": 12,
+      "prevalence_estimated_for_this_card": false,
+      "human_confirmed": false,
+      "mechanism_causality_verified": false
+    },
+    {
+      "id": "P4",
+      "name": "幽境：挂雷、转盾和破机制的条件难以核对",
+      "modes": [
+        "stygian"
+      ],
+      "cases": [
+        405,
+        441,
+        449,
+        463,
+        464
+      ],
+      "counter": [
+        441,
+        445,
+        446,
+        492
+      ],
+      "condition": "玩家期待技能挂元素或转盾，但当前敌人状态、伤害/命中条件与角色技能触发前提可能不同。",
+      "impact": "出现“不索敌”“不转伤害盾”的提问；也有跟攻略过关后仍不能解释组合差异的自述。",
+      "interpretation": "存在可追踪的理解或反馈线索；现有评论不能证明索敌系统有BUG，也不能据此确定哪条前提未满足。",
+      "operation": "将这些反馈分为“技能是否触发—是否命中—是否附着—敌方是否接受机制”几个排查节点，建立带前提的FAQ与反馈模板。",
+      "validation": "收集带敌人状态和技能触发画面的短回放，按固定组合复现；核对难度、技能触发前提与机制提示，再确认是否需研发排查。",
+      "priority": "优先收集可复现回放并核查机制解释",
+      "limitation": "跨两个来源有相似疑问，但没有同条件实测；“相似表述”不等于同一故障。",
+      "evidence_IDs": [
+        "319323262976",
+        "315531075713",
+        "319074180480",
+        "315502915409",
+        "319107526224"
+      ],
+      "counterexample_IDs": [
+        "315531075713",
+        "315522586593",
+        "319090161824",
+        "319101861808"
+      ],
+      "evidence_utterances": 5,
+      "different_videos": 2,
+      "different_authors": 5,
+      "different_threads": 5,
+      "prevalence_estimated_for_this_card": false,
+      "human_confirmed": false,
+      "mechanism_causality_verified": false
+    },
+    {
+      "id": "P5",
+      "name": "幽境：攻略复现受配装、能量和敌人动作影响",
+      "modes": [
+        "stygian"
+      ],
+      "cases": [
+        560,
+        589,
+        593,
+        597
+      ],
+      "counter": [
+        560,
+        571,
+        492
+      ],
+      "condition": "需要重复循环或特定轴，玩家自述充能、元素底和站位与预期不一致。",
+      "impact": "详细案例包含风场、敌人后跳、额外E吃球和多轮轴失配；另有人反复调装备或十小时尝试后才完成。",
+      "interpretation": "先比对完整配置与操作前提，再讨论容错或机制问题；自称“一样的配置”不能视作已经验证等同。",
+      "operation": "攻略附上等级/命座/武器及精炼/套装/充能/队友配置/能量来源/起手状态/站位/关键动作检查表；把理想轴与可容错替代轴分开。",
+      "validation": "对照同一配置与不同充能、站位、敌方动作的回放；记录每轮能量、技能命中和失败节点，先验证可复现性。",
+      "priority": "先做攻略前提表与排错回放",
+      "limitation": "完整“风场+后跳+充能”组合只有一个详细案例，不能称为普遍缺陷；其他案例只是相关线索。",
+      "evidence_IDs": [
+        "316048840321",
+        "319300162848",
+        "315863381297",
+        "319258388128"
+      ],
+      "counterexample_IDs": [
+        "316048840321",
+        "315837509713",
+        "319101861808"
+      ],
+      "evidence_utterances": 4,
+      "different_videos": 2,
+      "different_authors": 4,
+      "different_threads": 4,
+      "prevalence_estimated_for_this_card": false,
+      "human_confirmed": false,
+      "mechanism_causality_verified": false
+    },
+    {
+      "id": "P6",
+      "name": "多副本：关键辅助在多队之间争用",
+      "modes": [
+        "abyss",
+        "theater",
+        "stygian"
+      ],
+      "cases": [
+        10,
+        105,
+        224,
+        267,
+        555
+      ],
+      "counter": [
+        183,
+        323,
+        445,
+        553
+      ],
+      "condition": "需要同时组多队，玩家希望同一辅助服务不同主C/反应体系。",
+      "impact": "出现“拆成两份/三份”、两队争一个雷队友等表述；有人通过替代配置完成，有人只能舍弃原组合。",
+      "interpretation": "是配队资源分配约束的证据，尚不能推出该角色必抽、所有队伍必须绑定或应该直接降低难度。",
+      "operation": "补充按“缺关键辅助/缺后台元素/缺主C”区分的替代队伍矩阵，说明最低前提及牺牲项；避免一句“随便过”代替可比配置。",
+      "validation": "用明确角色池分层核对替代队是否能达到相同目标，统计可行队数量和首次独立配队成功情况。",
+      "priority": "和机制/攻略内容一起处理",
+      "limitation": "跨副本有不同来源，但各窗口与评论主题不同，不能合并成全体玩家的争用比例。",
+      "evidence_IDs": [
+        "317342978161",
+        "320877361568",
+        "319446714176",
+        "319440272864",
+        "315915805073"
+      ],
+      "counterexample_IDs": [
+        "317287772497",
+        "315649589281",
+        "315522586593",
+        "319501379264"
+      ],
+      "evidence_utterances": 5,
+      "different_videos": 4,
+      "different_authors": 5,
+      "different_threads": 4,
+      "prevalence_estimated_for_this_card": false,
+      "human_confirmed": false,
+      "mechanism_causality_verified": false
+    },
+    {
+      "id": "E1",
+      "name": "拓展观察：寻求代打后的沟通不适",
+      "modes": [
+        "theater"
+      ],
+      "cases": [
+        293
+      ],
+      "counter": [],
+      "condition": "玩家因早关烦躁寻求代打，对方持续评价其账号选择。",
+      "impact": "玩家自述不舒服并拉黑对方。",
+      "interpretation": "这是帮助过程中的沟通线索，不是游戏内联机机制缺陷。",
+      "operation": "若运营互助栏目，可设定尊重账号选择、先确认目标与配置、避免羞辱性归因的沟通模板。",
+      "validation": "核对双方上下文并寻找更多独立案例；当前不能推断代打群体行为。",
+      "priority": "补充记录，暂不列核心产品改动",
+      "limitation": "只有一名作者的单次自述，证据很弱。",
+      "evidence_IDs": [
+        "319785566944"
+      ],
+      "counterexample_IDs": [],
+      "evidence_utterances": 1,
+      "different_videos": 1,
+      "different_authors": 1,
+      "different_threads": 1,
+      "prevalence_estimated_for_this_card": false,
+      "human_confirmed": false,
+      "mechanism_causality_verified": false
+    }
+  ],
+  "categories_not_new_exhaustive_statistical_codes": true
+}

@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319084262336",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:14:03.074508+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319085718928,
+          "rpid_str": "319085718928",
+          "root": 319084262336,
+          "root_str": "319084262336",
+          "parent": 319084262336,
+          "parent_str": "319084262336",
+          "dialog": 319085718928,
+          "ctime": 1790749383,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_09debf67c40d8fee3a61b464",
+          "content": {
+            "message": "可以试试第一间用炉火套冰主，奥和木偶第三间"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319085647856,
+          "rpid_str": "319085647856",
+          "root": 319084262336,
+          "root_str": "319084262336",
+          "parent": 319085718928,
+          "parent_str": "319085718928",
+          "dialog": 319085718928,
+          "ctime": 1790749435,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_459cd712eb0f2bfaf28cd538",
+          "content": {
+            "message": "回复 @哈哈哈哈哈好哦 : 七七不如冰主吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319100533024,
+          "rpid_str": "319100533024",
+          "root": 319084262336,
+          "root_str": "319084262336",
+          "parent": 319085647856,
+          "parent_str": "319085647856",
+          "dialog": 319085718928,
+          "ctime": 1790759815,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_09debf67c40d8fee3a61b464",
+          "content": {
+            "message": "回复 @鱿鱼粥也洋裙碍 :有专武的冰主是个很强的副C，而且提供120前台精通差不多有34的星烁增伤，七七就是单纯给50星烁增伤"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319135074144,
+          "rpid_str": "319135074144",
+          "root": 319084262336,
+          "root_str": "319084262336",
+          "parent": 319100533024,
+          "parent_str": "319100533024",
+          "dialog": 319085718928,
+          "ctime": 1790778129,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_459cd712eb0f2bfaf28cd538",
+          "content": {
+            "message": "回复 @哈哈哈哈哈好哦 : 没招了，全都试过了，没有奥黛塔就是打不过[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319084262336,
+        "rpid_str": "319084262336",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790748232,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_459cd712eb0f2bfaf28cd538",
+        "content": {
+          "message": "就差一间了啊怎么破？两边抢奥黛塔",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b51f80d7da6dc7c79baf62bab563a4f0244812704.png",
+              "img_width": 2560,
+              "img_height": 1404,
+              "img_size": 4761.23
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "20e61ad9768ec96b656483d5b973a384a03e3e2aec8222de1dda80ec958bdb34",
+  "original_bytes_sha256": "3a75a9cd1c78f978b41714d30c49fe17f5c3519ccb2d48e25028592ff62773fd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

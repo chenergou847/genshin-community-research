@@ -1,0 +1,150 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315453186433",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:26:32.588219+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315457127057,
+          "rpid_str": "315457127057",
+          "root": 315453186433,
+          "root_str": "315453186433",
+          "parent": 315453186433,
+          "parent_str": "315453186433",
+          "dialog": 315457127057,
+          "ctime": 1790685933,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5bd45891963140cdc4b5a733",
+          "content": {
+            "message": "练度高一点可以去n6了，菲带冰主去打冰棺，偶奥去打老头，丝爱芙去攻略冰锅"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315458714417,
+          "rpid_str": "315458714417",
+          "root": 315453186433,
+          "root_str": "315453186433",
+          "parent": 315457127057,
+          "parent_str": "315457127057",
+          "dialog": 315457127057,
+          "ctime": 1790686928,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ce592d89d1924479fec5d072",
+          "content": {
+            "message": "回复 @1Roadside :佬，我的丝上次打n5都打不过，怎么办😭"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315460304497,
+          "rpid_str": "315460304497",
+          "root": 315453186433,
+          "root_str": "315453186433",
+          "parent": 315458714417,
+          "parent_str": "315458714417",
+          "dialog": 315457127057,
+          "ctime": 1790687906,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5bd45891963140cdc4b5a733",
+          "content": {
+            "message": "回复 @未曾预料的明天 : 有点难以置信。。你看看装备什么的带对了没，芙芙千岩，爱可菲勇者，莫娜的充能能多高就多高（6命的比申鹤强一点），大招天赋也拉上去，不行就真是手法问题了，你拿6恰辗个n5也能过吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315453186433,
+        "rpid_str": "315453186433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790683676,
+        "like": 2,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_ce592d89d1924479fec5d072",
+        "content": {
+          "message": "ww，我这个能打n5吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/29ca9036685b5acc0e4b3c1d21a99077421337157.jpg",
+              "img_width": 1117,
+              "img_height": 15000,
+              "img_size": 8160.56,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6e8dd7c77306e48bf3347f1621f995331dc23093d528d22b7986b01223194b06",
+  "original_bytes_sha256": "03828cce3904599df985da89c6092ee43b250a2bb26990c60fa60a795875c18a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

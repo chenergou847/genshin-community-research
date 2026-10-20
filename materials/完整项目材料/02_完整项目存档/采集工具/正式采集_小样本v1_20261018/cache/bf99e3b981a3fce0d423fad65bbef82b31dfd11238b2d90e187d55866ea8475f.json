@@ -1,0 +1,169 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319426634352",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:18:00.296196+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315859342593,
+          "rpid_str": "315859342593",
+          "root": 319426634352,
+          "root_str": "319426634352",
+          "parent": 319426634352,
+          "parent_str": "319426634352",
+          "dialog": 315859342593,
+          "ctime": 1791003695,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3d1619450882ef9edda9ef55",
+          "content": {
+            "message": "我跟你就差个2鹿居然差了将近50s"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319511587392,
+          "rpid_str": "319511587392",
+          "root": 319426634352,
+          "root_str": "319426634352",
+          "parent": 319426634352,
+          "parent_str": "319426634352",
+          "dialog": 319511587392,
+          "ctime": 1791045493,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7d8369e33dc4115069b86d7f",
+          "content": {
+            "message": "我6菈乌玛4少女 2命奈芙尔下了换板砖主角和终末菲谢尔 能到74"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315963251073,
+          "rpid_str": "315963251073",
+          "root": 319426634352,
+          "root_str": "319426634352",
+          "parent": 319426634352,
+          "parent_str": "319426634352",
+          "dialog": 315963251073,
+          "ctime": 1791083413,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a5da6b20544616cae1f6f9ea",
+          "content": {
+            "message": "莫得办法咯，逆环境就是这样的[doge_金箍]虽然冰主也没多顺",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319426634352,
+        "rpid_str": "319426634352",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790999374,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_66dac96fae6890ea436f28c2",
+        "content": {
+          "message": "什么叫主角比我少10金只比我慢1秒？！",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/690ec6612e04ad77b75e08c7fffbca1f5494444.jpg",
+              "img_width": 1316,
+              "img_height": 2832,
+              "img_size": 1802.56,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ed7e52a5dabcdbbb520308687cd5bd362ccfa6e2bb416328c1e31bfb7b176b88",
+  "original_bytes_sha256": "86ff21c1a5061e1ccf9582562df54747c803a02e424d077a5e6f463df9dba5dd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

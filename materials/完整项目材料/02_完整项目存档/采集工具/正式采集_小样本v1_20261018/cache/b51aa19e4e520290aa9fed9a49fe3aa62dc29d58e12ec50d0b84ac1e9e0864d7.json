@@ -1,0 +1,150 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315500471601",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:19:42.903839+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315500776369,
+          "rpid_str": "315500776369",
+          "root": 315500471601,
+          "root_str": "315500471601",
+          "parent": 315500471601,
+          "parent_str": "315500471601",
+          "dialog": 315500776369,
+          "ctime": 1790733674,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "0木偶至少2命奥黛塔打N6第一间。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315500858385,
+          "rpid_str": "315500858385",
+          "root": 315500471601,
+          "root_str": "315500471601",
+          "parent": 315500471601,
+          "parent_str": "315500471601",
+          "dialog": 315500858385,
+          "ctime": 1790733695,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间丝柯克。第三间火神。配队是这样。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315500977489,
+          "rpid_str": "315500977489",
+          "root": 315500471601,
+          "root_str": "315500471601",
+          "parent": 315500776369,
+          "parent_str": "315500776369",
+          "dialog": 315500776369,
+          "ctime": 1790733798,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_425145add2e2f23457d6bc56",
+          "content": {
+            "message": "回复 @星光璀璨之时 :奥黛塔是0+0😭"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315500471601,
+        "rpid_str": "315500471601",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790733483,
+        "like": 5,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_425145add2e2f23457d6bc56",
+        "content": {
+          "message": "想过n6。。。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0bcd8bae59891308f1193221b1b1a9b8285765762.jpg",
+              "img_width": 1224,
+              "img_height": 12814,
+              "img_size": 1593.51,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fd383adaa4f8083252787a94ba20fc90c2aeb4444f70dd589ca4c861a9fab694",
+  "original_bytes_sha256": "4645da17665b3cb1cc0859ee6ae64497cbdb80daf8c1948da3723490372d4489",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

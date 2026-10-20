@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318910923408",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:37:54.950298+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318910923408,
+        "rpid_str": "318910923408",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790597154,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_92d4e6616c26cbd02718ffcf",
+        "content": {
+          "message": "第三间00火满精螭骨剑2000攻击满爆243爆伤 磐岩套21希 2奶 297充能天空刃6班有机会吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/13b77fe71f488891f7a94a851e7fed303546787199584600.jpg",
+              "img_width": 1080,
+              "img_height": 2309,
+              "img_size": 1205.35
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "094c0bab52dfa2899d366e797002ec52adf03e2ba7ca20e6e61e8a670199876a",
+  "original_bytes_sha256": "56e064329241cab0c28431f30c49650f16d18cf1d6a2f46b34e1cb41ff7eb914",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

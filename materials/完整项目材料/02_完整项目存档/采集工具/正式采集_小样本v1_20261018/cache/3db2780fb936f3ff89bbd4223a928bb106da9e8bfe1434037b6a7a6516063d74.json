@@ -1,0 +1,131 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "319514296080",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:56:00.072779+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316286445585,
+          "rpid_str": "316286445585",
+          "root": 319514296080,
+          "root_str": "319514296080",
+          "parent": 319514296080,
+          "parent_str": "319514296080",
+          "dialog": 316286445585,
+          "ctime": 1791305372,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d4665d76c8fa62467dcfbf7e",
+          "content": {
+            "message": "不算"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319514296080,
+        "rpid_str": "319514296080",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791047404,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_b533eceb3fbb13f48596f121",
+        "content": {
+          "message": "我是高玩吗孩子们[热]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/56cb3b2c9d8f4664bff4b54f427f4c871672035313.jpg",
+              "img_width": 924,
+              "img_height": 15000,
+              "img_size": 4611.2
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2f893dbde89022153b92a569690284961672035313.jpg",
+              "img_width": 1080,
+              "img_height": 1431,
+              "img_size": 877.03
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b903b95f00eb1aa89fe5651c74dfaf151672035313.jpg",
+              "img_width": 1046,
+              "img_height": 1504,
+              "img_size": 166.35
+            }
+          ],
+          "emote": {
+            "[热]": {
+              "id": 7647,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[热]",
+              "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "热"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bf0c9003827e096811bccbdc4f29802ad09c681987e14bedacbf45f5758082e6",
+  "original_bytes_sha256": "597f5d036be31ed22ae7d36d6e3331345f7123926ff0949056f755fa9d54a0ea",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

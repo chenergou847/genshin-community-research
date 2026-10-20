@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319275952064",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:49:50.996744+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319275990256,
+          "rpid_str": "319275990256",
+          "root": 319275952064,
+          "root_str": "319275952064",
+          "parent": 319275952064,
+          "parent_str": "319275952064",
+          "dialog": 319275990256,
+          "ctime": 1790881057,
+          "like": 14,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "天赋是这么写的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319276921984,
+          "rpid_str": "319276921984",
+          "root": 319275952064,
+          "root_str": "319275952064",
+          "parent": 319275990256,
+          "parent_str": "319275990256",
+          "dialog": 319275990256,
+          "ctime": 1790882387,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_883fab0952082d655a1c9d3a",
+          "content": {
+            "message": "回复 @夜星Wetchin :我查了下是4命，以前从来没管过，没想到还有这种妙用，是我见识浅薄了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319278435856,
+          "rpid_str": "319278435856",
+          "root": 319275952064,
+          "root_str": "319275952064",
+          "parent": 319275952064,
+          "parent_str": "319275952064",
+          "dialog": 319278435856,
+          "ctime": 1790885561,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_52cf9f6cdda86ca62affb87c",
+          "content": {
+            "message": "开大后可以多打俩次"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319275952064,
+        "rpid_str": "319275952064",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790880886,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_883fab0952082d655a1c9d3a",
+        "content": {
+          "message": "为啥夏沃蕾破盾的时候能开3次E"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b8582275388d233454ca87581e3aa43be499e3588823b8756cd3bd4b18ec06ac",
+  "original_bytes_sha256": "bcf7194ffc3865ede78609d67e9eb53a22d073e7ac820369a4b691231a092fef",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

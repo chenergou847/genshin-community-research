@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315385861489",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:34:43.453607+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315385861489,
+        "rpid_str": "315385861489",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790617399,
+        "like": 0,
+        "rcount": 8,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_a0340e3913057e698a60ba78",
+        "content": {
+          "message": "upup这期n6有希望吗 从来没打过n6",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/569b88ddfeb30885943c1a97069b830a674542363.jpg",
+              "img_width": 1080,
+              "img_height": 13059,
+              "img_size": 1593.33
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5c1c1b822021fb347e78616e899db2e2aada67c951b1eb0c86537fd8195940cf",
+  "original_bytes_sha256": "a61c646190fa9f7eb038adbb193759c861071fd6b9160e2e4695b20a77328724",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

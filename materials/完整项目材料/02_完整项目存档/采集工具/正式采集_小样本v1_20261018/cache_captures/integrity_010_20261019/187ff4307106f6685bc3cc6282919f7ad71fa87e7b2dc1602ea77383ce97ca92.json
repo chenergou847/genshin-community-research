@@ -1,0 +1,751 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117369108174481",
+    "type": 1,
+    "root": "319347514112",
+    "ps": 20,
+    "next": 28
+  },
+  "captured_at": "2026-10-19T05:26:24.409373+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": false,
+        "prev": 27,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {
+          "prev_offset": "CAISEDE4MzU0MDQ4ODgzNjIzODIaCAoGkbujgJkJMgIIGw=="
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": [
+        "315949112721"
+      ],
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319347514112,
+        "rpid_str": "319347514112",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790937587,
+        "like": 109,
+        "rcount": 39,
+        "count": 48,
+        "state": 0,
+        "floor": 75,
+        "author_id": "U_ff4afe596429b403bfd46c03",
+        "content": {
+          "message": "看远在哪我寻思，雷公电母的教训还没吃饱吗[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [
+          {
+            "rpid": 319449349792,
+            "rpid_str": "319449349792",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315869252417,
+            "parent_str": "315869252417",
+            "dialog": 315869252417,
+            "ctime": 1791011908,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 28,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @shadow爻 :确实，而且是当时卡池内就很超模的一张卡了，星超导狠狠耍起[无限暖暖_毛线汪汪]",
+              "emote": {
+                "[无限暖暖_毛线汪汪]": {
+                  "id": 87171,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[无限暖暖_毛线汪汪]",
+                  "url": "https://i0.hdslb.com/bfs/emote/06c38ae541b44aa640e152fb97966ca35442a0d2.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1728359942,
+                  "jump_title": "毛线汪汪"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319449766784,
+            "rpid_str": "319449766784",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315871602353,
+            "parent_str": "315871602353",
+            "dialog": 319347747696,
+            "ctime": 1791012080,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 29,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @轻月卿 :不知道，至冬现在的强度体系感觉比挪国要复杂一些，体系和体系之间还没那么泾渭分明的感觉[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319449926416,
+            "rpid_str": "319449926416",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319444410000,
+            "parent_str": "319444410000",
+            "dialog": 319444410000,
+            "ctime": 1791012168,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 30,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @真步真步王国国王 :我当时只弄了个1+0，抽2的时候歪了，当时又没预算急哭了[鸭科夫_流汗鸭]",
+              "emote": {
+                "[鸭科夫_流汗鸭]": {
+                  "id": 124985,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[鸭科夫_流汗鸭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/b49b325224cef1ef8313728022aa86e93e65bd08.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1762163627,
+                  "jump_title": "流汗鸭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315873798113,
+            "rpid_str": "315873798113",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319449766784,
+            "parent_str": "319449766784",
+            "dialog": 319347747696,
+            "ctime": 1791012266,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 31,
+            "author_id": "U_499b8e96e648d5d0f5a2be2f",
+            "content": {
+              "message": "回复 @zhuai_hao :不分明，是因为奥黛塔先出，也是月神位置。星超导星扩散两主c都很强而不像挪的后面还能出一个体系"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315875287313,
+            "rpid_str": "315875287313",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319422967904,
+            "parent_str": "319422967904",
+            "dialog": 319422174464,
+            "ctime": 1791013253,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 32,
+            "author_id": "U_45aad80fd20f82b84cc3965b",
+            "content": {
+              "message": "回复 @zhuai_hao :打直伤就是比别人高贵，机制上面一滴水就能打伤害，和星反应一样。星扩散就是月感电剧本。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319451885392,
+            "rpid_str": "319451885392",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315875287313,
+            "parent_str": "315875287313",
+            "dialog": 319422174464,
+            "ctime": 1791013456,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 33,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @时流 :你觉得星超导是什么剧本"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315886854305,
+            "rpid_str": "315886854305",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 315886854305,
+            "ctime": 1791020268,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 35,
+            "author_id": "U_bdd0521beb57b06ebce6324b",
+            "content": {
+              "message": "你等到法涅斯进池算了[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319466286720,
+            "rpid_str": "319466286720",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315886854305,
+            "parent_str": "315886854305",
+            "dialog": 315886854305,
+            "ctime": 1791021585,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 36,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @弦月-耻烟 :打到友军了[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319468372752,
+            "rpid_str": "319468372752",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 319468372752,
+            "ctime": 1791022666,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 37,
+            "author_id": "U_7064a47c7abbd0454ccded72",
+            "content": {
+              "message": "哦吼吼我连雷公都没抽，抽个少机混了一整年[汤圆]",
+              "emote": {
+                "[汤圆]": {
+                  "id": 5936,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[汤圆]",
+                  "url": "https://i0.hdslb.com/bfs/emote/93609633a9d194cf336687eb19c01dca95bde719.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      "汤圆",
+                      "元宵节",
+                      "汤团"
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "汤圆"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315891547489,
+            "rpid_str": "315891547489",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319451885392,
+            "parent_str": "319451885392",
+            "dialog": 319422174464,
+            "ctime": 1791022836,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 38,
+            "author_id": "U_45aad80fd20f82b84cc3965b",
+            "content": {
+              "message": "回复 @zhuai_hao :星超导目前一眼到头对位月结晶吧，低金战神。未来版本还有个星激化或者冰草反应。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319471345872,
+            "rpid_str": "319471345872",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319468372752,
+            "parent_str": "319468372752",
+            "dialog": 319468372752,
+            "ctime": 1791024174,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 39,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @幽溟归心 :一样，我5.8抽机娘就是为了带克姐玩的有人懂吗[无限暖暖_毛线汪汪]",
+              "emote": {
+                "[无限暖暖_毛线汪汪]": {
+                  "id": 87171,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[无限暖暖_毛线汪汪]",
+                  "url": "https://i0.hdslb.com/bfs/emote/06c38ae541b44aa640e152fb97966ca35442a0d2.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1728359942,
+                  "jump_title": "毛线汪汪"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315925716417,
+            "rpid_str": "315925716417",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319422967904,
+            "parent_str": "319422967904",
+            "dialog": 319422174464,
+            "ctime": 1791041192,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 40,
+            "author_id": "U_83c5e5c6eb70ccd668353111",
+            "content": {
+              "message": "回复 @zhuai_hao :月绽放伤害很高，是三个体系中最不吃少女的"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319509364880,
+            "rpid_str": "319509364880",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 315925716417,
+            "parent_str": "315925716417",
+            "dialog": 319422174464,
+            "ctime": 1791043962,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 41,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @残心沐 :你说的应该是高配不吃吧，我01蛇，21鹿，31草，除了月神其他人的水不够解渴[笑哭]",
+              "emote": {
+                "[笑哭]": {
+                  "id": 509,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[笑哭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "笑哭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316020689041,
+            "rpid_str": "316020689041",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319422967904,
+            "parent_str": "319422967904",
+            "dialog": 319422174464,
+            "ctime": 1791115890,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 44,
+            "author_id": "U_71c76a65ad7f630f2ab0cc74",
+            "content": {
+              "message": "回复 @zhuai_hao :作为真同时有两个队伍的，月感电没了月神是真的掉一截DPS，月绽控好资源前期伤害不错的"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316059023841,
+            "rpid_str": "316059023841",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 316059023841,
+            "ctime": 1791141156,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 45,
+            "author_id": "U_a1ab4595df88a45392158b09",
+            "content": {
+              "message": "奥目前是星体系的第二人，只要玩星体系必抽的卡，哪菲林斯和机娘比未免有点太可笑了"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319651669280,
+            "rpid_str": "319651669280",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 316059023841,
+            "parent_str": "316059023841",
+            "dialog": 316059023841,
+            "ctime": 1791155733,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 46,
+            "author_id": "U_ff4afe596429b403bfd46c03",
+            "content": {
+              "message": "回复 @绯彤o :都是抽了本体就能玩着舒服的卡我类比一下咋还能不让的呢[鸭科夫_流汗鸭]",
+              "emote": {
+                "[鸭科夫_流汗鸭]": {
+                  "id": 124985,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[鸭科夫_流汗鸭]",
+                  "url": "https://i0.hdslb.com/bfs/emote/b49b325224cef1ef8313728022aa86e93e65bd08.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1762163627,
+                  "jump_title": "流汗鸭"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316089364385,
+            "rpid_str": "316089364385",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319651669280,
+            "parent_str": "319651669280",
+            "dialog": 316059023841,
+            "ctime": 1791174771,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 47,
+            "author_id": "U_a1ab4595df88a45392158b09",
+            "content": {
+              "message": "回复 @zhuai_hao :定位都完全不一样[藏狐]奥差不多等于星体系的门票了，机娘算啥，插件和好用的后台雷盾而已，没有也只影响月感电",
+              "emote": {
+                "[藏狐]": {
+                  "id": 4000,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[藏狐]",
+                  "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "藏狐"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 320860368480,
+            "rpid_str": "320860368480",
+            "root": 319347514112,
+            "root_str": "319347514112",
+            "parent": 319347514112,
+            "parent_str": "319347514112",
+            "dialog": 320860368480,
+            "ctime": 1792127562,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 48,
+            "author_id": "U_4ceb7fe959c3006144e0f24f",
+            "content": {
+              "message": "月体系有三个体系电母只能在一个地方就业，星超导两个体系全都刚需奥黛塔这还不远"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "94fc83befdacbd683e394acb61698e9d8ecf557ef35e91330aaccc8dbe295b8d",
+  "original_bytes_sha256": "0d46f4b027c2b20757d23114e444a2054e69f57a05f52cc031475d6ba6a56406",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

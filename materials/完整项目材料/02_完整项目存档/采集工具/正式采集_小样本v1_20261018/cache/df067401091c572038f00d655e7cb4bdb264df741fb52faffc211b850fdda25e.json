@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314959941361",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:19:18.414218+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314959941361,
+        "rpid_str": "314959941361",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790279487,
+        "like": 0,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_e498376ecb01689b706d3d6e",
+        "content": {
+          "message": "老头星扩散dps要求是多少？打桩的24万够吗？薇沃四个金已经花了我400来抽了，再打不过就太不值，反正我没抽木偶等扩散现在已经后悔死了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2b177fb38796e028a5ea1d293d410596fbf3c460cd79592bdd8b733e8addea94",
+  "original_bytes_sha256": "16d6c4d48e8c43b69fcce9d321ed2d02334f0bcb81acf16525cbaf8df01b4498",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

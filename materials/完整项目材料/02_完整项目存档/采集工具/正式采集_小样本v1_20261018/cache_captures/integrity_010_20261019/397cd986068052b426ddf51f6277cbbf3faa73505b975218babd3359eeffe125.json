@@ -1,0 +1,68 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117397109343468",
+    "root": "319910876192",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-19T05:30:06.376577+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319910876192,
+        "rpid_str": "319910876192",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791338162,
+        "like": 61,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_0c2515081ad3a16908bd3cad",
+        "content": {
+          "message": "1金有通关风险，过几天开播打\n如果过了那将会是1金魈拿下的第11个N5boss，感谢大家的支持"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fc16e135574b72db1e0e79d2d7de5b4d1af0dc22ca9dd30cad322871e8ed210e",
+  "original_bytes_sha256": "dabbf70d0b6afdfc477c9f5364898343c5c1d462689f8416c1db380633aefe59",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

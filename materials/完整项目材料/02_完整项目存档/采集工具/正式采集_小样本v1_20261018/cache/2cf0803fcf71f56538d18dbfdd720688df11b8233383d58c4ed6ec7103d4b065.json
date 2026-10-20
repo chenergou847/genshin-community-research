@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319375960560",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:49:10.803891+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315804682945,
+          "rpid_str": "315804682945",
+          "root": 319375960560,
+          "root_str": "319375960560",
+          "parent": 319375960560,
+          "parent_str": "319375960560",
+          "dialog": 315804682945,
+          "ctime": 1790951976,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f6ea89f266d436794651eb53",
+          "content": {
+            "message": "过不了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319375960560,
+        "rpid_str": "319375960560",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790951556,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_4b3c5e32d4f3c8365bec5f4b",
+        "content": {
+          "message": "这个练度，外加只有6夏，其他两位没满命能过吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7efbb3ee9f316ffc2fd1b3fb7d943862168181129.jpg",
+              "img_width": 1080,
+              "img_height": 2338,
+              "img_size": 1118.01
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "36c2f8305a1653aa10394753299ccd9e6a5b5097585048275f429fb8a76fb2c3",
+  "original_bytes_sha256": "97b3e795dc4e97e147853e7de1e0d4962fb9c7bf568d76296887c180c0cd9a5a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

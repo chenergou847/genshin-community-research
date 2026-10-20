@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314989027681",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:11:45.278992+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314989027681,
+        "rpid_str": "314989027681",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790310030,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_8d635db040b7dcb18b0d3da4",
+        "content": {
+          "message": "求一个n5配队，谢谢大佬",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/36d21ecfc86a327cd1e5c4135afa19ee1179761358.jpg",
+              "img_width": 986,
+              "img_height": 10800,
+              "img_size": 5386.3
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "735f920498cf3e88992999f05761fbe8ed04e56fca3a785a68f97680fb3e7b98",
+  "original_bytes_sha256": "57f5326d5e01508e83784527f3cc626a4ccadac2c87283c3197e2238021be223",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

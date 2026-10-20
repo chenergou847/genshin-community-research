@@ -1,0 +1,126 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314928172705",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:26:15.232882+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318463504848,
+          "rpid_str": "318463504848",
+          "root": 314928172705,
+          "root_str": "314928172705",
+          "parent": 314928172705,
+          "parent_str": "314928172705",
+          "dialog": 318463504848,
+          "ctime": 1790255295,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_870daf0f63fae7461e2196b0",
+          "content": {
+            "message": "赛诺打老头，火神处理冰锅，月感电打冰棺可以试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314930774321,
+          "rpid_str": "314930774321",
+          "root": 314928172705,
+          "root_str": "314928172705",
+          "parent": 314928172705,
+          "parent_str": "314928172705",
+          "dialog": 314930774321,
+          "ctime": 1790255834,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "菲林斯带冰主过机制，2命菲林斯就够，少女不需要2命。2火神+奶奶+尼可+绫华，双冰压。赛诺星超导打老头"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314928172705,
+        "rpid_str": "314928172705",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790254264,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_439254145eeb9373581edbea",
+        "content": {
+          "message": "上一期N5满了，我感觉这一期N5还有机会",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/da3226d4df1578578ec82a13ee1210ac292044398.jpg",
+              "img_width": 1080,
+              "img_height": 11574,
+              "img_size": 1387.67,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "64042c4f1e8dc3fbdd4421057b8db1c7ca767cf5da67aa99b29a4e93b4540036",
+  "original_bytes_sha256": "9f3445d4fc7b1f19b700ed91fda34e062971126b2a9910c5589f78fe39dad290",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

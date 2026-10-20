@@ -1,0 +1,127 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320838730336",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:16:42.068374+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320838908944,
+          "rpid_str": "320838908944",
+          "root": 320838730336,
+          "root_str": "320838730336",
+          "parent": 320838730336,
+          "parent_str": "320838730336",
+          "ctime": 1792111898,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1aac4826488d88e4f4b2d374",
+          "content": {
+            "message": "月感电打这玩意儿没什么抗性啊，回不了血是扣暴击率。这个怪可以开局往前走一步勾引它往前冲一下，然后直接往前跑到头可以跑出它的那个上debuff的技能范围，再回头把它杀了就行了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320839041728,
+          "rpid_str": "320839041728",
+          "root": 320838730336,
+          "root_str": "320838730336",
+          "parent": 320838730336,
+          "parent_str": "320838730336",
+          "ctime": 1792112025,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6b7f54663ca6c09ab2093461",
+          "content": {
+            "message": "那个怪不是火草抗吗"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320838730336,
+        "rpid_str": "320838730336",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792111705,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_714f0c6ab666af34f2db1ee0",
+        "content": {
+          "message": "那个需要加血的怪直接顶着抗性月感电战舰碾过去了[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "c94fb4862033d6b2c545f4f47315fd9fde1e3a65215dc839a2b26f33a7e900a4",
+  "original_bytes_sha256": "0ad43640a793ab30d707124e472ec29d3a0146857f016bf400a7be6a7a61a1e4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

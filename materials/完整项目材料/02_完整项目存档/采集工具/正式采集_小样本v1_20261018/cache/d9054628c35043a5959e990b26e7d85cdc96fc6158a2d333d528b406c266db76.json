@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315434203521",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:27:47.138575+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315434203521,
+        "rpid_str": "315434203521",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790671918,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_2fb04282f95dc5a1be5f82ab",
+        "content": {
+          "message": "第一间:2菲2少1机+奥黛塔\n第三间2火2奶    \n能稳过N6吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "92dcf24007423f108dfb4083d1f2b98a20815b3436f8bdb9e85bbc1334dc0fe6",
+  "original_bytes_sha256": "90bf63692bf7dc79c0ed733380ed28ce46139eb8fc3c7bb253e5ec8388b47c84",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

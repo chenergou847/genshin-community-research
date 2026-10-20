@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317297299009",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:04:42.231500+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320956781584,
+          "rpid_str": "320956781584",
+          "root": 317297299009,
+          "root_str": "317297299009",
+          "parent": 317297299009,
+          "parent_str": "317297299009",
+          "ctime": 1792205568,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8a7f4b7b50fd0b8c8fabbfcd",
+          "content": {
+            "message": "同样，下半月感电怎么都打不过去，把上下顺序一换一遍过[打call][打call][打call]",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320960164448,
+          "rpid_str": "320960164448",
+          "root": 317297299009,
+          "root_str": "317297299009",
+          "parent": 317297299009,
+          "parent_str": "317297299009",
+          "ctime": 1792207502,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc15e5bc7dac3596d9bfd062",
+          "content": {
+            "message": "冰锅是我见过最恶心的怪了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317306813793,
+          "rpid_str": "317306813793",
+          "root": 317297299009,
+          "root_str": "317297299009",
+          "parent": 320960164448,
+          "parent_str": "320960164448",
+          "ctime": 1792210118,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_89b7987505ece9371dfdd0ec",
+          "content": {
+            "message": "回复 @逆水赛艇 :那还是月绽放蕈兽比较恶心[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317297299009,
+        "rpid_str": "317297299009",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792204122,
+        "like": 6,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_49fc20049ec82e3c3689e3c1",
+        "content": {
+          "message": "上半月感电硬推，下半冰主星超导借过[doge]为什么冰主不打上半年，因为打上半就没有冰打冰锅了[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/fb962a527eb7a1eed304230874b151ac1908884163.jpg",
+              "img_width": 2776,
+              "img_height": 1224,
+              "img_size": 346.38
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "e3f2a0d4e292c8a2e285385c1837e06447d6eecd8f78de311fded140760b5364",
+  "original_bytes_sha256": "a03e66f0fbe983c22383c83701039b22c0e5494259bd4c3a6aa913356734fed2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

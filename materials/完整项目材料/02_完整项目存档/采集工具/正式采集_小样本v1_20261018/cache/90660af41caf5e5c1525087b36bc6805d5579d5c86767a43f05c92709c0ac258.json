@@ -1,0 +1,144 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315887590609",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:28:15.718769+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315887864449,
+          "rpid_str": "315887864449",
+          "root": 315887590609,
+          "root_str": "315887590609",
+          "parent": 315887590609,
+          "parent_str": "315887590609",
+          "dialog": 315887864449,
+          "ctime": 1791020829,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f42eddacacb1b1b66578b455",
+          "content": {
+            "message": "最好笑的是拿了好友的3+1神子，直到最后才选到。。木偶都用完了[笑哭]拿琳妮特扩散雷深渊咏者的雷来打的",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315887590609,
+        "rpid_str": "315887590609",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791020701,
+        "like": 3,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_f42eddacacb1b1b66578b455",
+        "content": {
+          "message": "第一次打月谕，拿到了第一张牌。都没啥C[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f67e65eb4dcdc537f8569abf847965f71984452572.jpg",
+              "img_width": 2340,
+              "img_height": 1080,
+              "img_size": 222.01
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dcf0dfe5f7a6b153d6c8fd05e24974aa1984452572.jpg",
+              "img_width": 2340,
+              "img_height": 1080,
+              "img_size": 838.91
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "73ee024f09e857cbf7368daef4acbc835349eb7460992056ffa9b3c508388d22",
+  "original_bytes_sha256": "26b6d2c51f646d2ad4526f40bdd366ae0d51b9183d755da92e0445c383898769",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

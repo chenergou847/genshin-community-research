@@ -1,0 +1,97 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315861333377",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:05:18.002482+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315861333377,
+        "rpid_str": "315861333377",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791004750,
+        "like": 3,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_6caad463a3d514d1197f8dbd",
+        "content": {
+          "message": "天鹅还是太好用了[原神·枫丹_自信出发]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ae8b6b8cfcafb3d683283a0f97e902c497144588.png",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 1325.14,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[原神·枫丹_自信出发]": {
+              "id": 60180,
+              "package_id": 4228,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[原神·枫丹_自信出发]",
+              "url": "https://i0.hdslb.com/bfs/emote/a5f050c9d726205f6f9bd9d2efac1eb8f8f10145.png",
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1706164157,
+              "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=66331&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+              "jump_title": "自信出发"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6deedbad4528430b34394c2c9ad584c0e296adfabe567d5f5caa140219e03a7d",
+  "original_bytes_sha256": "05a33fe7ab013021a1de16f24178f308c875208b20151faefa0df03b4e7f2925",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

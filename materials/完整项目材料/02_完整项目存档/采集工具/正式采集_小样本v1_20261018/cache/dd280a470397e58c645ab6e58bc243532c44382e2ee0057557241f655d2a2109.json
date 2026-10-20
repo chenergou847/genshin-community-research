@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318520232464",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:12:30.342558+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315003864641,
+          "rpid_str": "315003864641",
+          "root": 318520232464,
+          "root_str": "318520232464",
+          "parent": 318520232464,
+          "parent_str": "318520232464",
+          "dialog": 315003864641,
+          "ctime": 1790318922,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶0+1"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315003755745,
+          "rpid_str": "315003755745",
+          "root": 318520232464,
+          "root_str": "318520232464",
+          "parent": 318520232464,
+          "parent_str": "318520232464",
+          "dialog": 315003755745,
+          "ctime": 1790318953,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "火神要2奶有机会。或者3火0奶极限"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315004033457,
+          "rpid_str": "315004033457",
+          "root": 318520232464,
+          "root_str": "318520232464",
+          "parent": 318520232464,
+          "parent_str": "318520232464",
+          "dialog": 315004033457,
+          "ctime": 1790319066,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶，第三间兹白带冰系或者火系。第二间火神奶奶+迪奥娜，最好双冰压。第三间火神纯火超载队也行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315051974801,
+          "rpid_str": "315051974801",
+          "root": 318520232464,
+          "root_str": "318520232464",
+          "parent": 315004033457,
+          "parent_str": "315004033457",
+          "dialog": 315004033457,
+          "ctime": 1790346984,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1aea12e60061cf65f97f7d96",
+          "content": {
+            "message": "回复 @星光璀璨之时 :出来我去试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318520232464,
+        "rpid_str": "318520232464",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790306935,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_1aea12e60061cf65f97f7d96",
+        "content": {
+          "message": "我怎么感觉n5都有点打不了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ca8ee5428980adf5172dec75396d65d8520111497.jpg",
+              "img_width": 1179,
+              "img_height": 9741,
+              "img_size": 2579
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2782d95ae3c87bb431c11d3dd8f5f5b411a0d9d7b53c2fd40be0f7fcfb1e6e34",
+  "original_bytes_sha256": "68ee85e9b16875dff2f3bc59a4e7dc018d47d1d5466591145ba64294c9f8e3ab",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

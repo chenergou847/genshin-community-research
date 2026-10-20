@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319332524208",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:12:08.611823+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319332524208,
+        "rpid_str": "319332524208",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790929323,
+        "like": 1,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_f484c632cbe28cc3665cd2c4",
+        "content": {
+          "message": "看来抽1命的基本都抽2命了[笑哭]，星扩散队里2命奥黛塔和1命薇斯纳对比上一个命座哪个提升更多一些",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6c5ca21b97e72145e1871ae8bde3e3e100dcde26ab6445e907d6ebeecd97dac5",
+  "original_bytes_sha256": "3ac507250f52f3f492c199d55d2f3eba805744143d5a6e5a19947d58f2a5a693",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

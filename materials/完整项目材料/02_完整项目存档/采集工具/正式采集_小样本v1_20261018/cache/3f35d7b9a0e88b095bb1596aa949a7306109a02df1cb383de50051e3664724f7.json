@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319430976784",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:48:35.004924+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 14
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319430976784,
+        "rpid_str": "319430976784",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791001521,
+        "like": 15,
+        "rcount": 14,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_80d9a9b0933fa95f0754b2c0",
+        "content": {
+          "message": "为什么看你们的双码头转这么快啊，我转这么快就容易丢伤害是什么原因，帧率原因吗[灵魂出窍]",
+          "emote": {
+            "[灵魂出窍]": {
+              "id": 16,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[灵魂出窍]",
+              "url": "https://i0.hdslb.com/bfs/emote/43d3db7d97343c01b47e22cfabeca84b4251f35a.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "灵魂出窍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2c1b009f520caae34b360a99b108077ba2a269ee517bc9448c56f73b45cb7ec7",
+  "original_bytes_sha256": "538c596427178e434eeab29fb80cbfe69d818f9fed7027532ccbb7ea52a0ab09",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

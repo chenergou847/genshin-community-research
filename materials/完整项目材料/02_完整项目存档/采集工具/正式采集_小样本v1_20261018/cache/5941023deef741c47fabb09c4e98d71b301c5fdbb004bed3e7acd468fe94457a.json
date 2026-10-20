@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117397109343468",
+    "root": "316310231665",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:52:58.610489+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316330654145,
+          "rpid_str": "316330654145",
+          "root": 316310231665,
+          "root_str": "316310231665",
+          "parent": 316310231665,
+          "parent_str": "316310231665",
+          "dialog": 316330654145,
+          "ctime": 1791350413,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_90ef7d2c34ed8aab13c2a9a7",
+          "content": {
+            "message": "顶配都打不过，低配差距更大了，起码牢菈那个命座是真有提升[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316310231665,
+        "rpid_str": "316310231665",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791338619,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_3b83e59e2c4baea4ab25d17e",
+        "content": {
+          "message": "？强😭 魈还是＞菈"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "40c854ae31fd9d7ace3728c90c158c2537aade810c75d60cdd7dadbb1a8ee996",
+  "original_bytes_sha256": "eebabf16999b338f7e5d7fcce3c2b1f27b53939417e9e0b910e6928fede43af9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

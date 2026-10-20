@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318731901152",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:51:26.721357+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318731901152,
+        "rpid_str": "318731901152",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790450805,
+        "like": 0,
+        "rcount": 7,
+        "count": 9,
+        "state": 0,
+        "author_id": "U_0b61cd98e40a5326a2cda32f",
+        "content": {
+          "message": "n5有希望吗，目前想的是月感电带冰主或木偶打老头、然后火神或者仆人打冰棺",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a2cc1ea2791baeb52f457f9661962b811313836.jpg",
+              "img_width": 1080,
+              "img_height": 11486,
+              "img_size": 1391.3
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "75c93f3cdee9c0cd68897e9c9f2b50e64a6c5a3f71fe5bc3c6be3aca77042f86",
+  "original_bytes_sha256": "27071c0f80e473af60b859e95d79f00525d84f1e405e28589185e4d5a6d05df0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

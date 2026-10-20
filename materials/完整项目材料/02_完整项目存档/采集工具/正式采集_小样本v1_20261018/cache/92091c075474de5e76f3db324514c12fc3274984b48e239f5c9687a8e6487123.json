@@ -1,0 +1,108 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "321018729648",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:51:05.644491+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317371709313,
+          "rpid_str": "317371709313",
+          "root": 321018729648,
+          "root_str": "321018729648",
+          "parent": 321018729648,
+          "parent_str": "321018729648",
+          "ctime": 1792248248,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cbc546d1376477edcb0802bc",
+          "content": {
+            "message": "我不一样\n我跑地图的时候就开始诅咒大伟亲妈\n过剧情的时候诅咒大伟亲妈\n抽卡大保底更加诅咒\n打深渊过的短短五分钟不够大伟亲妈返航的"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321080601040,
+          "rpid_str": "321080601040",
+          "root": 321018729648,
+          "root_str": "321018729648",
+          "parent": 321018729648,
+          "parent_str": "321018729648",
+          "ctime": 1792295534,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d3ed5b90f6cc8148bf2d36e",
+          "content": {
+            "message": "深渊大部分人都是能过的，过不了肯定是哪里有问题[笑哭]。",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321018729648,
+        "rpid_str": "321018729648",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792240987,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_9f1edcac87f5f6596103003c",
+        "content": {
+          "message": "这个标题我懂，以前打不过深渊的时候天天在评论区阴阳，练度上来之后再看那些话，自己都觉得脸红。我这号也是熬了两年才凑出两套能打的队，现在12层能稳过，回头看那些卡关的夜晚还挺怀念。中间有段时间实在打不动，动过换号的念头，在氪金兽上翻过几个成品号，最后还是没换，换来的号再强也不是自己一步步打上来的。"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "51b8a5745732c5ca52c1e17fb730ec8f28088ad280c59d8da7a93c057b107fb2",
+  "original_bytes_sha256": "03df19837d8399a1ae64ea9279cc8e18fe188e5aca943a21bceaefd68753285f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,117 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319953744608",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:44:16.661370+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319953744608,
+        "rpid_str": "319953744608",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791362720,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_9b48e574e741a5253d8538b7",
+        "content": {
+          "message": "火神大人[打call]想知道下次火神复刻还值不值得补，目前的规划是抽2冰神0达妮卡，这样偶打一间，冰神打一间，还缺一队n6，这期比较运，完全顺环境蹭了个n6。下期就算抽了米提亚估计也要坠机了，月守宫01火再想出分就难了[呆]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/925530d647d162f8b5b0ac39b4f57f81519386804.jpg",
+              "img_width": 1430,
+              "img_height": 15000,
+              "img_size": 9042.3
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ca62557b729234be2b56930cb7838d0e519386804.jpg",
+              "img_width": 2000,
+              "img_height": 1500,
+              "img_size": 2108.73
+            }
+          ],
+          "emote": {
+            "[呆]": {
+              "id": 4,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[呆]",
+              "url": "https://i0.hdslb.com/bfs/emote/33ad6000d9f9f168a0976bc60937786f239e5d8c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "呆"
+            },
+            "[打call]": {
+              "id": 510,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[打call]",
+              "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "打call"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "79c9beb8a8a0de6e5ce5f20aae80997cf8584480f7990575177f10ed74b7638c",
+  "original_bytes_sha256": "7a8b1b87f5c61702bb4a2ad7ed32f07c71bdea83e05e0f1c5ff41b21c855267d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

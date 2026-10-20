@@ -1,0 +1,78 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320918946416",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:36:20.405852+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320918946416,
+        "rpid_str": "320918946416",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792163512,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d1d8a2db5652f0c6ee418212",
+        "content": {
+          "message": "评论区那么多下半是绫华打过去的，我10绫华申鹤00沃（80级）和00爱（70级）老差一点，这显得我手法好烂啊[藏狐]",
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "eaeb8027618241f034e7604d24cc51fcbce1a5dd5479b876e4fd857d56951088",
+  "original_bytes_sha256": "91e1195520617f906f28d5e49141fbd8b3d79ea0bcc3d0407456917ee35fecc3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

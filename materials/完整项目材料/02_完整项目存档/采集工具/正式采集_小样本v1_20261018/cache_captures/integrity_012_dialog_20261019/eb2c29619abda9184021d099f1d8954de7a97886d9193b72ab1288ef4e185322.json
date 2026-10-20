@@ -1,0 +1,106 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "315055702433",
+    "dialog": "315055890289",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:38:19.310585+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 5,
+        "max_floor": 5,
+        "size": 1,
+        "next": 6,
+        "prev": 4,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":6}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 5
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315056173585,
+          "rpid_str": "315056173585",
+          "root": 315055702433,
+          "root_str": "315055702433",
+          "parent": 315055890289,
+          "parent_str": "315055890289",
+          "dialog": 315055890289,
+          "ctime": 1790349209,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 5,
+          "author_id": "U_fc5b952e1203b7c8886ad85d",
+          "content": {
+            "message": "回复 @星光璀璨之时 :n5不重要，我只是想看看n6有没有办法[无语]",
+            "emote": {
+              "[无语]": {
+                "id": 7,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[无语]",
+                "url": "https://i0.hdslb.com/bfs/emote/44667b7d9349957e903b1b62cb91fb9b13720f04.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "无语"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "aec7794139f94381c0caba0497a6c098495a7efb8ad33685ffb8072c7e3c3a63",
+  "original_bytes_sha256": "d2245afa2716e4c214d48419686673dd91990021e4359414bd752f2d53b13bcf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

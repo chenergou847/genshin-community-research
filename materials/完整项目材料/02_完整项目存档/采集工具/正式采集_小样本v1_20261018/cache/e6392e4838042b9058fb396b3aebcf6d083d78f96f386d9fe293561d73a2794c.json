@@ -1,0 +1,212 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319067711312",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:16:52.251291+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319357427664,
+          "rpid_str": "319357427664",
+          "root": 319067711312,
+          "root_str": "319067711312",
+          "parent": 319067711312,
+          "parent_str": "319067711312",
+          "dialog": 319357427664,
+          "ctime": 1790942476,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b375cc4ca53876e953d0f363",
+          "content": {
+            "message": "能打把，这配置只要循环正确练度正常应该是能碰n5的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315786506977,
+          "rpid_str": "315786506977",
+          "root": 319067711312,
+          "root_str": "319067711312",
+          "parent": 319067711312,
+          "parent_str": "319067711312",
+          "dialog": 315786506977,
+          "ctime": 1790942653,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4dcd78debfb566c167c0134b",
+          "content": {
+            "message": "随便打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315786479745,
+          "rpid_str": "315786479745",
+          "root": 319067711312,
+          "root_str": "319067711312",
+          "parent": 319067711312,
+          "parent_str": "319067711312",
+          "dialog": 315786479745,
+          "ctime": 1790942683,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4dcd78debfb566c167c0134b",
+          "content": {
+            "message": "n6有点难"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319365421008,
+          "rpid_str": "319365421008",
+          "root": 319067711312,
+          "root_str": "319067711312",
+          "parent": 319067711312,
+          "parent_str": "319067711312",
+          "dialog": 319365421008,
+          "ctime": 1790946563,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1eec567890585c0a7e8a8928",
+          "content": {
+            "message": "已经60s轻松过n5了，n6不准备打了，谢谢大家[少女乐团派对_派对][少女乐团派对_派对]",
+            "emote": {
+              "[少女乐团派对_派对]": {
+                "id": 72802,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[少女乐团派对_派对]",
+                "url": "https://i0.hdslb.com/bfs/emote/b3ea2c80fdd3b4db112c659e08416f987467d4b9.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1716526721,
+                "jump_title": "派对"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319067711312,
+        "rpid_str": "319067711312",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790737329,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_1eec567890585c0a7e8a8928",
+        "content": {
+          "message": "手残党 有没有N5风险[大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9e14c8febd8e481d5d49ecd48892b7db509454945.jpg",
+              "img_width": 1240,
+              "img_height": 2772,
+              "img_size": 1569.67,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "18e00af779717c22dda4021dfd17fae5a7c176d6d0ede8bb17f084b47e7c6311",
+  "original_bytes_sha256": "2d658075b5d0ddcccf1fc9152aa06b3adeb6bd63737f8c698ed77b795ad5d1d1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

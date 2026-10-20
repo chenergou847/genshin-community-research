@@ -1,0 +1,145 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318842637920",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:45:23.092605+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315306065969,
+          "rpid_str": "315306065969",
+          "root": 318842637920,
+          "root_str": "318842637920",
+          "parent": 318842637920,
+          "parent_str": "318842637920",
+          "dialog": 315306065969,
+          "ctime": 1790560897,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你打N5。\n第一间薇斯纳沃雅妮莎珐露珊+冰主或者奥黛塔\n第二间龙芙艾可菲奶奶。\n第三间 木偶神子 + 奥黛塔或者冰主 + 砂糖/迪奥娜/七七等"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315306140657,
+          "rpid_str": "315306140657",
+          "root": 318842637920,
+          "root_str": "318842637920",
+          "parent": 318842637920,
+          "parent_str": "318842637920",
+          "dialog": 315306140657,
+          "ctime": 1790560906,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318842637920,
+        "rpid_str": "318842637920",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790532139,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_4093f58ff0b3194ce0ec2bea",
+        "content": {
+          "message": "有希望吗[笑哭][笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4001c1d4c567287e4209b22750175ee1502738532.jpg",
+              "img_width": 1372,
+              "img_height": 15000,
+              "img_size": 8790.44,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cca9027b6efbd6ae202c5f5e52c61840b57d9aefa57ec36289c744ba799ff675",
+  "original_bytes_sha256": "fe026fd0b6358597c5f1aac1da08bf61d7b723d62f8c68063e108f0a0489f3cb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

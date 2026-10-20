@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319219513232",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:21:47.215627+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315656953153,
+          "rpid_str": "315656953153",
+          "root": 319219513232,
+          "root_str": "319219513232",
+          "parent": 319219513232,
+          "parent_str": "319219513232",
+          "dialog": 315656953153,
+          "ctime": 1790847796,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "过不了(  下期月守宫可以打[颂乐人偶_眯眼笑]",
+            "emote": {
+              "[颂乐人偶_眯眼笑]": {
+                "id": 105211,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[颂乐人偶_眯眼笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/6087f6b3919b915c8922e608cfde147dd5ece43b.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1740045752,
+                "jump_title": "眯眼笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319223454112,
+          "rpid_str": "319223454112",
+          "root": 319219513232,
+          "root_str": "319219513232",
+          "parent": 315656953153,
+          "parent_str": "315656953153",
+          "dialog": 315656953153,
+          "ctime": 1790848483,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d437259f79ae5c4b3ed955c2",
+          "content": {
+            "message": "回复 @Hamlat :[蹲蹲]",
+            "emote": {
+              "[蹲蹲]": {
+                "id": 91170,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[蹲蹲]",
+                "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1730108348,
+                "jump_title": "蹲蹲"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315660199073,
+          "rpid_str": "315660199073",
+          "root": 319219513232,
+          "root_str": "319219513232",
+          "parent": 315656953153,
+          "parent_str": "315656953153",
+          "dialog": 315656953153,
+          "ctime": 1790849671,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_47f483912a340429dc5d7967",
+          "content": {
+            "message": "回复 @Hamlat :这期冰女跟冰锅应该可以肘吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319219513232,
+        "rpid_str": "319219513232",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790846225,
+        "like": 1,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d437259f79ae5c4b3ed955c2",
+        "content": {
+          "message": "老师我卢呢"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7633cef2e23c805cb7c69085a3227e4fb608623be3d725e3f25da78d72b781a9",
+  "original_bytes_sha256": "a55815c88df2f43761bd2164341d67d564ef20bb1b1a1186b1def127181e2383",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

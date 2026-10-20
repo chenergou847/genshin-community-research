@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "316388268113",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:07:45.283991+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316462383041,
+          "rpid_str": "316462383041",
+          "root": 316388268113,
+          "root_str": "316388268113",
+          "parent": 316388268113,
+          "parent_str": "316388268113",
+          "dialog": 316462383041,
+          "ctime": 1791459410,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bbf698026b51de888780e767",
+          "content": {
+            "message": "拿夜魂直接打吗，那很勇敢了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320107703152,
+          "rpid_str": "320107703152",
+          "root": 316388268113,
+          "root_str": "316388268113",
+          "parent": 316388268113,
+          "parent_str": "316388268113",
+          "dialog": 320107703152,
+          "ctime": 1791484650,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8f4af1c4962e8153b8aa5bfd",
+          "content": {
+            "message": "这什么配队"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316388268113,
+        "rpid_str": "316388268113",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791384958,
+        "like": 3,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_d038d914939a86dfac4eafdb",
+        "content": {
+          "message": "给我打笑了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0ab5be9b8e53d6776e5a3a45de380749358283464.jpg",
+              "img_width": 2376,
+              "img_height": 1080,
+              "img_size": 1244.25
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b8b3f979e10635b564c799e2205cd6241331f0e81f19ab8cce001a4bac8de87f",
+  "original_bytes_sha256": "fc203951ae3abc551e5419f22a989262f990bde1725b7b68a80e3773e6aa7bd6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

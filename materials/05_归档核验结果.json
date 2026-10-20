@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "created_at_bjt": "2026-10-20T14:00:28.554589+08:00",
+  "copied_material_files": 4625,
+  "copied_material_bytes": 228858395,
+  "origin_eligible_files_covered": 4588,
+  "missing_origin_material_files": [],
+  "copy_hash_mismatches": [],
+  "source_bundle_unchanged": true,
+  "original_project_unchanged": true,
+  "version_differences_explained_and_backed_up": [
+    {
+      "origin_path": "全量编码_20261019/04_社区观察分析报告.md",
+      "current_archive_sha256": "bdd5c7cbc33890a66b4d5aa2b22a7d138c3e0de6a1fcfadc79d0b38cbfc8a970",
+      "original_version_sha256": "6f833e9cc878b9b000457d0bba13ff3f6272bcfc518ac2e75d004cbe4c63d6f5",
+      "original_version_backup": "04_报告修订_20261019/历史原稿/04_社区观察分析报告_修订前.md"
+    },
+    {
+      "origin_path": "采集工具/write_full_corpus_report.py",
+      "current_archive_sha256": "9fa35ab5963e38e8d5c5397e9dcbfe4f18867d0d4269d4c9b20e151495f5a942",
+      "original_version_sha256": "0965fc51dfa91ba8ede095d67cb1fa476b017372d7257b841e7c70c76365980f",
+      "original_version_backup": "04_报告修订_20261019/历史原稿/write_full_corpus_report_修订前.py"
+    }
+  ],
+  "coded_rows_unchanged": 6526,
+  "independent_human_validation_remains_waived": true,
+  "network_requests": 0,
+  "collection_or_sampling_or_recoding_run": false,
+  "scope": "项目内已保存研究材料及过程记录；不声称恢复未保存内容或包含完整原始聊天导出",
+  "manifest": "04_全部文件清单_SHA256.csv",
+  "manifest_excludes_only_itself": true
+}

@@ -1,0 +1,68 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117397109343468",
+    "root": "316310231665",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-19T05:29:43.037434+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316310231665,
+        "rpid_str": "316310231665",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791338619,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_3b83e59e2c4baea4ab25d17e",
+        "content": {
+          "message": "？强😭 魈还是＞菈"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "95fdebf31a09b38304efc1421712b901462f35860a3123b06997667353215f7b",
+  "original_bytes_sha256": "927b6b7ebc569d1c3ddfea4a04863f6b4006fb4080207f1749c20c7039d32c5b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

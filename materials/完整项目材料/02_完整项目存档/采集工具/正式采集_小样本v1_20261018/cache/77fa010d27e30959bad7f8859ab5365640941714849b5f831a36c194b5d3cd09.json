@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315276392017",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:47:11.882394+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315276392017,
+        "rpid_str": "315276392017",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790520798,
+        "like": 0,
+        "rcount": 6,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_9b08ef3d6eaac5e0e8a55586",
+        "content": {
+          "message": "这个好像可以打n5吧，手残党",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/04eaddc3e7864975339d7bdca0a56efb1583683981.jpg",
+              "img_width": 1080,
+              "img_height": 9591,
+              "img_size": 1161.47,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f65e2bb46c79e047c1dd758b4ea1db82350328a9dd8f5a10d76763eaa0e80b67",
+  "original_bytes_sha256": "6ba5d12b08ba1f4e8ca2753580892aaa61ee2675a497c30a84cb32efb7d83b3c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

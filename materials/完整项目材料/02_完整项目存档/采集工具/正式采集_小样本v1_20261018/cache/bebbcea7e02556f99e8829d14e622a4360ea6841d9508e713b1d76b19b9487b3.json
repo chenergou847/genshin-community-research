@@ -1,0 +1,181 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316108403697",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:33:04.658610+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319953961024,
+          "rpid_str": "319953961024",
+          "root": 316108403697,
+          "root_str": "316108403697",
+          "parent": 316108403697,
+          "parent_str": "316108403697",
+          "dialog": 319953961024,
+          "ctime": 1791362819,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "兄弟还有没好友位，想借角色打真镜剧诗[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317266010657,
+          "rpid_str": "317266010657",
+          "root": 316108403697,
+          "root_str": "316108403697",
+          "parent": 316108403697,
+          "parent_str": "316108403697",
+          "dialog": 317266010657,
+          "ctime": 1792164479,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fdda4b0d853bf0d3d56dedca",
+          "content": {
+            "message": "贷款一手薇小妹风辅助。法有点牢了[脱单doge]",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316108403697,
+        "rpid_str": "316108403697",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791186223,
+        "like": 6,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_4bb847acf242b4abd7533e35",
+        "content": {
+          "message": "四人联机牢底坐穿，你是说初始90抗，5000w血的同时还不让用奥黛塔吗[藏狐]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7bc9e767098af71649123f5adcbf0ec07954982.png",
+              "img_width": 1750,
+              "img_height": 328,
+              "img_size": 609.72
+            }
+          ],
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1d7f571d53928115fe656f6d8a7c88dc3a34a07280c87131c1ae908f607ae12a",
+  "original_bytes_sha256": "aa852f9ee8b016bc5082a680a4f8802494f8738594b342b5e8e1428235f48cec",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

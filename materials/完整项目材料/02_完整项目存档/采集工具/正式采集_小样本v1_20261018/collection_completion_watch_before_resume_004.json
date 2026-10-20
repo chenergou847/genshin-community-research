@@ -1,0 +1,50 @@
+{
+  "at": "2026-10-18T05:01:57.287876+00:00",
+  "automation_id": "b",
+  "requested_by": "所以样本采集地怎么样了，完成了告诉我",
+  "known_hold": "BV12fJe6bEbz_missing_6_parents_strict_freeze_gate",
+  "baseline": {
+    "sources_processed": 16,
+    "statuses": {
+      "enumerated_pending_review": 15,
+      "incomplete": 1
+    },
+    "raw_unique_IDs": 323,
+    "roots": 99,
+    "replies": 224,
+    "formal_comment_frame_exists": false,
+    "formal_comment_draw_exists": false
+  },
+  "notify_on": "collection_run_end_or_new_stop",
+  "avoid_claim": "run_ended_does_not_mean_formal_sample_complete",
+  "notification_recorded_at": "2026-10-18T05:18:14.735827+00:00",
+  "notification_event": "new_stop_root_rcount_vs_reply_count_mismatch",
+  "automation_status": "PAUSED",
+  "result_status": "STOPPED_WITH_PARTIAL_COLLECTION",
+  "result_summary": {
+    "videos_attempted": 17,
+    "videos_selected": 60,
+    "all_sources_attempted": false,
+    "statuses": {
+      "enumerated_pending_review": 15,
+      "incomplete": 2
+    },
+    "raw_unique_IDs_saved": 1525,
+    "roots": 738,
+    "replies": 787,
+    "missing_parent_rows": 6,
+    "sources_with_missing_parents": 1,
+    "failures": [
+      {
+        "bvid": "BV12fJe6bEbz",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1AQJU6hE93",
+        "reason": "root_rcount_vs_reply_count_mismatch"
+      }
+    ],
+    "reason": "入选视频未完整枚举；保留失败，不换来源、不从热评抽10条",
+    "formal_random_comments_drawn": 0
+  }
+}

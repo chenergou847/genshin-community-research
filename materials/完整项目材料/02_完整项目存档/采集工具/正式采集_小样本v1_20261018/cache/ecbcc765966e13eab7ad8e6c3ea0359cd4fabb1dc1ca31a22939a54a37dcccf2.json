@@ -1,0 +1,81 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315749358193",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:12:53.312459+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 14
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315749358193,
+        "rpid_str": "315749358193",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790921393,
+        "like": 3,
+        "rcount": 14,
+        "count": 15,
+        "state": 0,
+        "author_id": "U_f285704601debb1364002d4e",
+        "content": {
+          "message": "等冰皇",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c01e487fcbecacc25551d4cda03fbfff1427766582.jpg",
+              "img_width": 2403,
+              "img_height": 1500,
+              "img_size": 1511.84
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c63a4741b691ab3048531d9311215fad1427766582.jpg",
+              "img_width": 1220,
+              "img_height": 14157,
+              "img_size": 1801.89
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f9561a201fa51f5e4b55ee59876d8bb7fb87f896e87794fc1ebefea65e56e1ad",
+  "original_bytes_sha256": "bcd0d82c9d5c35f012458ffe6821776ac5fee75fc2c000cf9e024935eebf2348",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

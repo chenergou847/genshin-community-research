@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314949870593",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:21:31.730865+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 12
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314949870593,
+        "rpid_str": "314949870593",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790266924,
+        "like": 0,
+        "rcount": 12,
+        "count": 12,
+        "state": 0,
+        "author_id": "U_01708b682909b2f5ebebc157",
+        "content": {
+          "message": "有 N5 的风险吗🤔",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e4a7fe7b0d3b4354f8d8fd1be68b8c04421679564.jpg",
+              "img_width": 1200,
+              "img_height": 12006,
+              "img_size": 1475.3,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "60f672dc020d67d536fb194287d8ffd8f59b6e7efe42519ac9c11f96dd8a508d",
+  "original_bytes_sha256": "3a28e6e2d82a03e343d2ba6bbd1a7b3e7b6dad5882de80970fd42b2c1354ac2f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

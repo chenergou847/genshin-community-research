@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315785930129",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:32:12.584810+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315785930129,
+        "rpid_str": "315785930129",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790942310,
+        "like": 2,
+        "rcount": 8,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_25a0f2ac847c159fc085fd81",
+        "content": {
+          "message": "一共就三个队。散兵，龙王和木偶。两个成为开幕角色，这让我怎么玩？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ed5e7e9257c010c660961db5b6b11af501d96733f82fac94cfea8603ed8b77c3",
+  "original_bytes_sha256": "de602158cc44c9af868f5a2c8040c8c2234a6f721a1f9a308e4f36a3cdb7a2d4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

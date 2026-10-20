@@ -1,0 +1,96 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319678236400",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:33:50.939174+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319678236400,
+        "rpid_str": "319678236400",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791174975,
+        "like": 57,
+        "rcount": 16,
+        "count": 17,
+        "state": 0,
+        "author_id": "U_68b16b4cc9abf001d8412a58",
+        "content": {
+          "message": "薇斯纳让我决定不再摆烂[Floating Dream动态表情包_吨吨吨]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e2df52dcef59b96569588d38a208a9081754072927.png",
+              "img_width": 2388,
+              "img_height": 1668,
+              "img_size": 3087,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[Floating Dream动态表情包_吨吨吨]": {
+              "id": 119126,
+              "package_id": 8618,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[Floating Dream动态表情包_吨吨吨]",
+              "url": "https://i0.hdslb.com/bfs/garb/50928545c11815cd3461815603a94ff3579ad849.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1756202402,
+              "gif_url": "https://i0.hdslb.com/bfs/garb/bc0683371b539d2949f7ed1337167ff7094282f0.gif",
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=105435&hybrid_set_header=2&anchor_task=1&lottery_id=105438&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109300%22%2C%22sub_id%22%3A%22%5BFloating%20Dream%E5%8A%A8%E6%80%81%E8%A1%A8%E6%83%85%E5%8C%85_%E5%90%A8%E5%90%A8%E5%90%A8%5D%22%7D",
+              "jump_title": "吨吨吨",
+              "webp_url": "https://i0.hdslb.com/bfs/garb/74c3e2bab1054225efc394486d50a6fe016b9a58.webp"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ca6b58566c15eeec71ea0da07e7c9258a77b231ba33dbb002585dc8b1eafe666",
+  "original_bytes_sha256": "9b80fa6031772d231e19e966f1a43f1e6b769d62c682be1c37884742c91c5fb4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

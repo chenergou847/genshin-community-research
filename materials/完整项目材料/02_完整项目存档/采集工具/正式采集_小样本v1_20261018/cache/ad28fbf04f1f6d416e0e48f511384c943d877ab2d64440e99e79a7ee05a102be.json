@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319449425360",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:28:55.830481+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319525857440,
+          "rpid_str": "319525857440",
+          "root": 319449425360,
+          "root_str": "319449425360",
+          "parent": 319449425360,
+          "parent_str": "319449425360",
+          "dialog": 319525857440,
+          "ctime": 1791065715,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2eaa37c323670b6d5abfa77e",
+          "content": {
+            "message": "确实，体系化时代，剧诗要改良降低下难度了，我感觉打深渊和幽境危战都没这么累（幽静只打难5）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316107525729,
+          "rpid_str": "316107525729",
+          "root": 319449425360,
+          "root_str": "319449425360",
+          "parent": 319449425360,
+          "parent_str": "319449425360",
+          "dialog": 316107525729,
+          "ctime": 1791185627,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1440403a75d8969bfee562fb",
+          "content": {
+            "message": "这个模式太史了，强拆配队，沉没成本也高"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319449425360,
+        "rpid_str": "319449425360",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791011969,
+        "like": 7,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b3f6d08b7f368b836937e789",
+        "content": {
+          "message": "原神现在越来越强调体系，剧诗现在还挺烧脑的，很需要你的规划，像这一期我感觉尤为明显，对我来说，少机两个搭配两个挂件角色可以轻松刷掉大部分关卡。梦见月，奥黛塔，木偶，七七等组成基本可以通刷这期。还有玉米大队，永冻队。但是都需要至少两人甚至三人乘体系才能比较容易刷过去关卡，所以我在开始的时候就得规划好，抽到哪些怎么用。论趣味性，说实话比幽境强，我幽境通过n6。但是有时候就是感觉玩的累，抽不到想要的。或者规划出了些失误，没什么回转余地，重开的代价太高了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "58a45db7241e8ffd03ae6992b45bb48a4924d697300e2a9d2a0f8d023b5a4c64",
+  "original_bytes_sha256": "12328a7cf46830296918648ad4cd443b4107bc7cc694f501b53338c70dcf8617",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

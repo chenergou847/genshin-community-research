@@ -1,0 +1,162 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "320360645168",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:42:51.191864+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320368976560,
+          "rpid_str": "320368976560",
+          "root": 320360645168,
+          "root_str": "320360645168",
+          "parent": 320360645168,
+          "parent_str": "320360645168",
+          "dialog": 320368976560,
+          "ctime": 1791704977,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "暴击搞满有机会"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320515591584,
+          "rpid_str": "320515591584",
+          "root": 320360645168,
+          "root_str": "320360645168",
+          "parent": 320368976560,
+          "parent_str": "320368976560",
+          "dialog": 320368976560,
+          "ctime": 1791818563,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9422e24ecd8ad293aed3c323",
+          "content": {
+            "message": "回复 @夜星Wetchin :主播，还接单吗，就差第三间了[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320360645168,
+        "rpid_str": "320360645168",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791699756,
+        "like": 3,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_9422e24ecd8ad293aed3c323",
+        "content": {
+          "message": "6伊6夏0欧有机会吗[辣眼睛]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/feb37c6dab2a59d9eb0928c8facfa4761750488501.jpg",
+              "img_width": 1080,
+              "img_height": 2009,
+              "img_size": 312.293
+            }
+          ],
+          "emote": {
+            "[辣眼睛]": {
+              "id": 2374,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[辣眼睛]",
+              "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "辣眼睛"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "85cb154c9695abd95a1fe663d3dc1bb645a1903d393319131ff698b75127fadf",
+  "original_bytes_sha256": "ce2bb979c1605224f4788fde9e2f694ba83c1d72cc5bc173d83a3283393e8910",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

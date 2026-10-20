@@ -1,0 +1,112 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117365148746080",
+    "type": 1,
+    "root": "316676436161",
+    "dialog": "316706472977",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:39:22.615990+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 3,
+        "max_floor": 4,
+        "size": 2,
+        "next": 5,
+        "prev": 2,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":5}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 4
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316711946017,
+          "rpid_str": "316711946017",
+          "root": 316676436161,
+          "root_str": "316676436161",
+          "parent": 316706472977,
+          "parent_str": "316706472977",
+          "dialog": 316706472977,
+          "ctime": 1791685565,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 3,
+          "author_id": "U_db107b2ccd3f81033c3c87c7",
+          "content": {
+            "message": "回复 @升泷棠 :我过了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316712136673,
+          "rpid_str": "316712136673",
+          "root": 316676436161,
+          "root_str": "316676436161",
+          "parent": 316706472977,
+          "parent_str": "316706472977",
+          "dialog": 316706472977,
+          "ctime": 1791685766,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 4,
+          "author_id": "U_db107b2ccd3f81033c3c87c7",
+          "content": {
+            "message": "回复 @升泷棠 :木偶打第一间，梦见月打第二间，然后第三间是找这个up打的超载火神。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "650e0faf571e069eededce5962845dfdee3d54f91c00ece87c5dd9b1afc3e124",
+  "original_bytes_sha256": "9929563aa56f50589150c52886def191095c406ac8bd8bd395fa0153b89d99d4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315756145713",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:33:08.908205+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315756145713,
+        "rpid_str": "315756145713",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790925657,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_3f46cf21eeebeb8c95cafc68",
+        "content": {
+          "message": "月亮换其他\n已有:女祭司皇帝恋人力量隐者倒吊人魔鬼星\n月亮审判求换官服"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "30e36fdee1b536fe97199385376585aeace388d0eebece42570579f76b8c9e85",
+  "original_bytes_sha256": "8d18ff3e8078325ba3afe9a8a2f7cdaa5f0a20cdd2b9e06b5074b486340293cf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

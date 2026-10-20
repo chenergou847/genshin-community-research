@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "316170694433",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:08:18.433881+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316170909313,
+          "rpid_str": "316170909313",
+          "root": 316170694433,
+          "root_str": "316170694433",
+          "parent": 316170694433,
+          "parent_str": "316170694433",
+          "dialog": 316170909313,
+          "ctime": 1791221570,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9647ace0ec6d61d9fb5aaabd",
+          "content": {
+            "message": "1.3牢玩家，3.4就退了直到木偶池回坑"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319766668640,
+          "rpid_str": "319766668640",
+          "root": 316170694433,
+          "root_str": "316170694433",
+          "parent": 316170694433,
+          "parent_str": "316170694433",
+          "dialog": 319766668640,
+          "ctime": 1791225353,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e9c54f72ba755753127cc4e8",
+          "content": {
+            "message": "上西风夜兰，西风小记者试试？小记者堆充能"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319767122928,
+          "rpid_str": "319767122928",
+          "root": 316170694433,
+          "root_str": "316170694433",
+          "parent": 316170694433,
+          "parent_str": "316170694433",
+          "dialog": 319767122928,
+          "ctime": 1791225934,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e9c54f72ba755753127cc4e8",
+          "content": {
+            "message": "或者你第一间用瑞希➕奥➕七七➕珐打星扩散走机制，第二间木偶➕神子➕冰猫➕阿罗夏"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316170694433,
+        "rpid_str": "316170694433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791221436,
+        "like": 2,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_9647ace0ec6d61d9fb5aaabd",
+        "content": {
+          "message": "求助 打不过n5第二间，我0+1skk没爱芙，队友是奶奶莫娜行秋 沃塞给第三间薇斯纳用了腾不出来",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/64aba6ba6c23b50d5ee61ba0b5407ac2583510666.jpg",
+              "img_width": 1290,
+              "img_height": 12987,
+              "img_size": 3635
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "699ad74fd162a0564fc1d5c1e89fffc4cabb4ce154874e36c4bf5378c58e3ee0",
+  "original_bytes_sha256": "7dbd23d0896b22cb23152899efe02013f890f61af11a021a3e356111dcc27237",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

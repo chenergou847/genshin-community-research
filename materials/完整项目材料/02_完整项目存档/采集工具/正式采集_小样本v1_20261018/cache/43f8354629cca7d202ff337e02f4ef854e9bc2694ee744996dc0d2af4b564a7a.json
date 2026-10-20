@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315873658737",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:17:31.581080+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315873658737,
+        "rpid_str": "315873658737",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791012244,
+        "like": 0,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_f9e94a3bd467b309e5519d8f",
+        "content": {
+          "message": "下落两下就变成火底了，为什么呢~"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bf0ec6576f1accb3cd56b2b8d0cc27d73cee5f0f5f7a90ce1c6b06ff3cda435c",
+  "original_bytes_sha256": "5f266fc027cb43e031a3710b093644561f44ffdda59f031b3febfc11456a9401",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,138 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316036725841",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:45:43.146178+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316037006849,
+          "rpid_str": "316037006849",
+          "root": 316036725841,
+          "root_str": "316036725841",
+          "parent": 316036725841,
+          "parent_str": "316036725841",
+          "dialog": 316037006849,
+          "ctime": 1791124227,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_10bcce7b9019812b0b1b0791",
+          "content": {
+            "message": "我00火4夏2伊2欧过的n5[笑哭]给我凹麻了",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316036725841,
+        "rpid_str": "316036725841",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791124042,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_6e27ce90b5553433eb849dda",
+        "content": {
+          "message": "0+1火神，伊安珊欧洛伦都只有2命，打n5都费劲，所以这期没玩火神[哈欠]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/132065ccdfb6e7145cb66c17b224a72b510462179.jpg",
+              "img_width": 1440,
+              "img_height": 3213,
+              "img_size": 311.71
+            }
+          ],
+          "emote": {
+            "[哈欠]": {
+              "id": 1951,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[哈欠]",
+              "url": "https://i0.hdslb.com/bfs/emote/888d877729cbec444ddbd1cf4c9af155a7a06086.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哈欠"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "98f5573320fe14b581d86952495a028917895f5aad60e04bde6d766d89d1f88f",
+  "original_bytes_sha256": "c27a662cd730d19d76f06a7e4db9c6740471e9dc2b54ae119cb383bcdd811c70",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

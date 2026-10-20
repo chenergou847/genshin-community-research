@@ -1,0 +1,181 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "316737871729",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:00:29.794137+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316738063281,
+          "rpid_str": "316738063281",
+          "root": 316737871729,
+          "root_str": "316737871729",
+          "parent": 316737871729,
+          "parent_str": "316737871729",
+          "dialog": 316738063281,
+          "ctime": 1791701821,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a13096debda3bea7056016c0",
+          "content": {
+            "message": "冰主奥黛塔的超导队，薇斯纳沃雅妮莎的扩散队让我拿下了原神在线天数300天的第一次深渊12满星[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320419329856,
+          "rpid_str": "320419329856",
+          "root": 316737871729,
+          "root_str": "316737871729",
+          "parent": 316737871729,
+          "parent_str": "316737871729",
+          "dialog": 320419329856,
+          "ctime": 1791734928,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_17a348a875e1101247c881bd",
+          "content": {
+            "message": "我也差不多，看到原神终于出了一个符合我xp的角色，退坑一年的号直接回坑，11天给奥黛塔肝了1+1，现在版本又抽了一个薇斯纳，终于轮到我享受版本红利了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316737871729,
+        "rpid_str": "316737871729",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791701697,
+        "like": 3,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_a13096debda3bea7056016c0",
+        "content": {
+          "message": "感觉4.4退坑做的最幸运的选项是7.0灵机一动想回坑。\n做的最正确的选项是上学期间当时玩原神一直佛系玩，从来不主动刷探索度肝原石。\n我啥攻略啥原神视频都没看，下回来觉得小天鹅好看就抽了，反正回坑资源多想抽啥抽啥，孩子们牢了一年的号终于能轮到我爽了吗[doge_金箍]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/24b2d3746bbe70adfec3d3fa352bda73426185570.jpg",
+              "img_width": 1080,
+              "img_height": 5497,
+              "img_size": 2766.32
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6dc7c6342f7c6d327cda2deae54fdc644eae1234628243161ac5f0905f703dd2",
+  "original_bytes_sha256": "9b9a1df820a0bfc172aa49a386d4f47d5536f45660a517a63095a56a2ed5fb88",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318593419632",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:03:10.452678+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315055062257,
+          "rpid_str": "315055062257",
+          "root": 318593419632,
+          "root_str": "318593419632",
+          "parent": 318593419632,
+          "parent_str": "318593419632",
+          "dialog": 315055062257,
+          "ctime": 1790348617,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "N5吗？第三间法尔伽魔导。第二间菲林斯带个冰系压，超导就能打。第一间木偶奥黛塔星超导"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318595193376,
+          "rpid_str": "318595193376",
+          "root": 318593419632,
+          "root_str": "318593419632",
+          "parent": 315055062257,
+          "parent_str": "315055062257",
+          "dialog": 315055062257,
+          "ctime": 1790349003,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b8eee810a716c7504fe52d29",
+          "content": {
+            "message": "回复 @星光璀璨之时 :打打n5，n6不敢想，菲林斯带冰到时候我带爱可菲试试，谢谢up"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318593419632,
+        "rpid_str": "318593419632",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790348078,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b8eee810a716c7504fe52d29",
+        "content": {
+          "message": "我这号冰锅怎么打呀，记得上次好像是冰法尔伽拼命凹过的，还有其他什么能打的吗[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e874ec2169a0590956ffd8efc18261c19854317.jpg",
+              "img_width": 1256,
+              "img_height": 15000,
+              "img_size": 8367.82
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ddab9457319baa75c6919efbde25b5d6025ddc4e543a932b83a7caa73cb6b8bd",
+  "original_bytes_sha256": "42fd3b6de0500a1a6b2324e3933f30d75df0f0d40fa13db2d4163b11daeec287",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

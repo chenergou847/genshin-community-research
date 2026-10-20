@@ -1,0 +1,226 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315671142545",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:20:33.796423+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315706706641,
+          "rpid_str": "315706706641",
+          "root": 315671142545,
+          "root_str": "315671142545",
+          "parent": 315671142545,
+          "parent_str": "315671142545",
+          "dialog": 315706706641,
+          "ctime": 1790878391,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "有戏 随便过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315706905601,
+          "rpid_str": "315706905601",
+          "root": 315671142545,
+          "root_str": "315671142545",
+          "parent": 315671142545,
+          "parent_str": "315671142545",
+          "dialog": 315706905601,
+          "ctime": 1790878454,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "只要能循环 每轮8融这个配置是一定能过的 除非圣遗物烂到家里去了 我今晚直播没带2茜带罗莎110开通关n6了 你想想2茜和罗莎差距"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315813296001,
+          "rpid_str": "315813296001",
+          "root": 315671142545,
+          "root_str": "315671142545",
+          "parent": 315706905601,
+          "parent_str": "315706905601",
+          "dialog": 315706905601,
+          "ctime": 1790956719,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_386413f4d5bcf0f6c433a81d",
+          "content": {
+            "message": "回复 @Hamlat :茜祭礼没触发能开q补救吗？但是感觉后面几刀挂冰对不上，不像双ea一下错开"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315880572353,
+          "rpid_str": "315880572353",
+          "root": 315671142545,
+          "root_str": "315671142545",
+          "parent": 315706706641,
+          "parent_str": "315706706641",
+          "dialog": 315706706641,
+          "ctime": 1791016556,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8506a145304fb3f617e0b1e8",
+          "content": {
+            "message": "回复 @Hamlat :没鹤专真行吗，我这20闲20奶235双爆80暴击下落套，打丘林一落最大值才65w，再加上刚开始练找不到节奏，为啥视频挂冰这么稳，我自己摸必须降速buff都掉完了[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315880705521,
+          "rpid_str": "315880705521",
+          "root": 315671142545,
+          "root_str": "315671142545",
+          "parent": 315706905601,
+          "parent_str": "315706905601",
+          "dialog": 315706905601,
+          "ctime": 1791016736,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8506a145304fb3f617e0b1e8",
+          "content": {
+            "message": "回复 @Hamlat :或许是帧率问题，解了120而且电脑跑游戏不稳"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315671142545,
+        "rpid_str": "315671142545",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790855648,
+        "like": 0,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_386413f4d5bcf0f6c433a81d",
+        "content": {
+          "message": "双2但是只有贝壳，圣遗物差几个双爆有希望么[大哭]\n下落套太难顶了，冰主暴击太容易溢出要多凹爆伤，攻击太多稀释",
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6aef85a51f6cbe3734327eb7f2c4cf302ca8ca6c0764dd1a44e8ebc7411bb60c",
+  "original_bytes_sha256": "24898db10917264bfbd02e521f1c4931931fd964db17c4214d62590945c10765",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

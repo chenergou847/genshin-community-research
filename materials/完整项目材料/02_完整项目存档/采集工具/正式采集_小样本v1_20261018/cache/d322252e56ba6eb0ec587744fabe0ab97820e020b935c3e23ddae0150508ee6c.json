@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "319207926112",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:37:07.161001+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320077258512,
+          "rpid_str": "320077258512",
+          "root": 319207926112,
+          "root_str": "319207926112",
+          "parent": 319207926112,
+          "parent_str": "319207926112",
+          "dialog": 320077258512,
+          "ctime": 1791462827,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a249933bcb0c47c45364d507",
+          "content": {
+            "message": "55抽没有一把新枝"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319207926112,
+        "rpid_str": "319207926112",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790838912,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_f9bc3b83359d29482acbbd4e",
+        "content": {
+          "message": "40抽没一把新枝"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "be9ad1de4f5759d61041658141123eb8f33313368d17a147bb7a85ae782f5f3c",
+  "original_bytes_sha256": "2a0331d3ee58b6851984874e06f102a07c6501a7388b0307bcf03758987e0acc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

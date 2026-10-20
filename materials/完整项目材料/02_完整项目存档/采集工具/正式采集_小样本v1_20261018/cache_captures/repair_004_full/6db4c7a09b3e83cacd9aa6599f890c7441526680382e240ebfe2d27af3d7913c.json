@@ -1,0 +1,465 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320841401648",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:45:43.761013+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320841426512,
+          "rpid_str": "320841426512",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841401648,
+          "parent_str": "320841401648",
+          "ctime": 1792114303,
+          "like": 42,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_68bbd1c95109734973405742",
+          "content": {
+            "message": "现在这年头怪都能上网了[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317189424145,
+          "rpid_str": "317189424145",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841401648,
+          "parent_str": "320841401648",
+          "ctime": 1792114312,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_108ca76e09ffe93e1a9d4e95",
+          "content": {
+            "message": "镜大人什么鬼"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320841278784,
+          "rpid_str": "320841278784",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 317189424145,
+          "parent_str": "317189424145",
+          "ctime": 1792114344,
+          "like": 9,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42add1d2146e01b7d34ba82a",
+          "content": {
+            "message": "回复 @delicious团子 :丝柯克和王者荣耀的镜是一个配音，这俩还都是强度顶级的角色[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317189781873,
+          "rpid_str": "317189781873",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841401648,
+          "parent_str": "320841401648",
+          "ctime": 1792114453,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_85218353f578f3120523ac9d",
+          "content": {
+            "message": "上半没奶？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320841590976,
+          "rpid_str": "320841590976",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 317189781873,
+          "parent_str": "317189781873",
+          "ctime": 1792114491,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42add1d2146e01b7d34ba82a",
+          "content": {
+            "message": "回复 @梚绘洢夭夭 :莱欧为啥带奶啊？[疑惑]",
+            "emote": {
+              "[疑惑]": {
+                "id": 1938,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[疑惑]",
+                "url": "https://i0.hdslb.com/bfs/emote/b7840db4b1f9f4726b7cb23c0972720c1698d661.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "疑惑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320841800352,
+          "rpid_str": "320841800352",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841590976,
+          "parent_str": "320841590976",
+          "ctime": 1792114603,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_217eafb93f53b2de68a5aa72",
+          "content": {
+            "message": "回复 @Dr天泽 :因为第二间要加满血解除buff"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320841887664,
+          "rpid_str": "320841887664",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841800352,
+          "parent_str": "320841800352",
+          "ctime": 1792114681,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9d64dadec7ea0d07273f6eaa",
+          "content": {
+            "message": "回复 @ハルマサ :莱欧特殊重击不是能自回血吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320842042960,
+          "rpid_str": "320842042960",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841800352,
+          "parent_str": "320841800352",
+          "ctime": 1792114785,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42add1d2146e01b7d34ba82a",
+          "content": {
+            "message": "回复 @ハルマサ :六，没事问题不大，要冰雷混合才能进星超导的，上去先空a四下，冲刺5a把常态被动打出来。然后进行超导流程，莱欧上场一个重击就满血了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320842468608,
+          "rpid_str": "320842468608",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841887664,
+          "parent_str": "320841887664",
+          "ctime": 1792115199,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42add1d2146e01b7d34ba82a",
+          "content": {
+            "message": "回复 @尹觉梚 :只有常态莱欧才可以做到满血，星超导，是低于60%才给你特殊重击，但特殊重击又不会给你回40%多的血，导致没有队友奶的话莱欧斯利就一直做不到满血[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320844373104,
+          "rpid_str": "320844373104",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 317189781873,
+          "parent_str": "317189781873",
+          "ctime": 1792116714,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42add1d2146e01b7d34ba82a",
+          "content": {
+            "message": "回复 @梚绘洢夭夭 :我回来了，多虑了，他还没进机制就被我打的剩10%的血了，太脆了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320844294608,
+          "rpid_str": "320844294608",
+          "root": 320841401648,
+          "root_str": "320841401648",
+          "parent": 320841800352,
+          "parent_str": "320841800352",
+          "ctime": 1792116719,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42add1d2146e01b7d34ba82a",
+          "content": {
+            "message": "回复 @ハルマサ :我回来了，多虑了，他还没进机制就被我打的剩10%的血了，太脆了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320841401648,
+        "rpid_str": "320841401648",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792114248,
+        "like": 33,
+        "rcount": 11,
+        "count": 13,
+        "state": 0,
+        "author_id": "U_42add1d2146e01b7d34ba82a",
+        "content": {
+          "message": "上半00千岩雷神，10奥黛塔，4命讨龙风套蓝砚，2+1牢大\n下半水神，爱可菲，沃雅妮莎，雾切镜大人\n好绝望啊孩子们[大哭]",
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "9909deff22da06a1b9144bdf6c6342d6021378befc834adc9cf110097fade80c",
+  "original_bytes_sha256": "95af57f80938430a9c891a91e43be81e11acfbd1f59075dbf7a71cdaabdc0804",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

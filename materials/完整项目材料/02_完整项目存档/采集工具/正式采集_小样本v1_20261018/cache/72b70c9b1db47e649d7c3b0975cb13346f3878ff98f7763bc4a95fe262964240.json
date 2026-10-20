@@ -1,0 +1,126 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318513292672",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:15:38.728029+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315006119233,
+          "rpid_str": "315006119233",
+          "root": 318513292672,
+          "root_str": "318513292672",
+          "parent": 318513292672,
+          "parent_str": "318513292672",
+          "dialog": 315006119233,
+          "ctime": 1790320455,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶不够。0+1木偶，2奥。或者20木偶，0奥"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318660978912,
+          "rpid_str": "318660978912",
+          "root": 318513292672,
+          "root_str": "318513292672",
+          "parent": 315006119233,
+          "parent_str": "315006119233",
+          "dialog": 315006119233,
+          "ctime": 1790406794,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9fe8697385c94b17956b8b0",
+          "content": {
+            "message": "回复 @星光璀璨之时 : 丘林3200w 星扩散 星超导等效2700w血 星超导30抗 常规dps需要27w左右 星扩散24w所有 都不是00木偶和薇丝娜能碰瓷的 想打必须2+1 ，2奥的提升不如主c"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318513292672,
+        "rpid_str": "318513292672",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790302719,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_39d5773cd8db0464cdb5b796",
+        "content": {
+          "message": "n6 有机会吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/22e36e004ac7f55093f7d60847a7fb4751389834.jpg",
+              "img_width": 821,
+              "img_height": 10800,
+              "img_size": 4948.73,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7921a4ababcd5438ca6cc040347a0ebd91e6e2fde37832e99b1af96aee19bfcd",
+  "original_bytes_sha256": "f802132d155e9503a7aeda417b402af287368e7b1bd2583b2818f79b30ecd2dd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

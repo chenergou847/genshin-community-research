@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318729308064",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:51:30.561199+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318734495568,
+          "rpid_str": "318734495568",
+          "root": 318729308064,
+          "root_str": "318729308064",
+          "parent": 318729308064,
+          "parent_str": "318729308064",
+          "dialog": 318734495568,
+          "ctime": 1790456454,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d87821b7d0612d4025c915db",
+          "content": {
+            "message": "n5随便过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318737708624,
+          "rpid_str": "318737708624",
+          "root": 318729308064,
+          "root_str": "318729308064",
+          "parent": 318729308064,
+          "parent_str": "318729308064",
+          "dialog": 318737708624,
+          "ctime": 1790464583,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e867ae114ae7bff91769fb94",
+          "content": {
+            "message": "n5随便过，n6起码18.5万。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315197147201,
+          "rpid_str": "315197147201",
+          "root": 318729308064,
+          "root_str": "318729308064",
+          "parent": 318729308064,
+          "parent_str": "318729308064",
+          "dialog": 315197147201,
+          "ctime": 1790471895,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "超载纯火都行。视频演示破盾也弄了超载的。13wdps，打N5"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318729308064,
+        "rpid_str": "318729308064",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790446843,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_0f4597fec276d0376b491124",
+        "content": {
+          "message": "13WDPS超载仆人能过冰馆不"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e7fac59e6f650794f0093dd603d83190b0254dbc41afcd8083f4026dd69acca3",
+  "original_bytes_sha256": "dd9e2c89286ac440888aec172c17d548475c6497b97133465ce57b57f9fc9383",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,263 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "319098520496",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:57:56.508732+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315557937617,
+          "rpid_str": "315557937617",
+          "root": 319098520496,
+          "root_str": "319098520496",
+          "parent": 319098520496,
+          "parent_str": "319098520496",
+          "dialog": 315557937617,
+          "ctime": 1790769233,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f66be9d8b349976f04588b25",
+          "content": {
+            "message": "这第一间怎么打的？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315559072273,
+          "rpid_str": "315559072273",
+          "root": 319098520496,
+          "root_str": "319098520496",
+          "parent": 315557937617,
+          "parent_str": "315557937617",
+          "dialog": 315557937617,
+          "ctime": 1790769877,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fe521075cc2748f81acf421f",
+          "content": {
+            "message": "回复 @bili_21373906108 :这个秒数一眼2+奥，2+神[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315574844545,
+          "rpid_str": "315574844545",
+          "root": 319098520496,
+          "root_str": "319098520496",
+          "parent": 315559072273,
+          "parent_str": "315559072273",
+          "dialog": 315557937617,
+          "ctime": 1790778678,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_df78ff726826a8a2cb64f343",
+          "content": {
+            "message": "回复 @乘舟梦日的蔚封岚 :一眼4+3冰主"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315655832881,
+          "rpid_str": "315655832881",
+          "root": 319098520496,
+          "root_str": "319098520496",
+          "parent": 315574844545,
+          "parent_str": "315574844545",
+          "dialog": 315557937617,
+          "ctime": 1790847196,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fe521075cc2748f81acf421f",
+          "content": {
+            "message": "回复 @魔幻森林高血压 :我去不早说([doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315772953937,
+          "rpid_str": "315772953937",
+          "root": 319098520496,
+          "root_str": "319098520496",
+          "parent": 319098520496,
+          "parent_str": "319098520496",
+          "dialog": 315772953937,
+          "ctime": 1790935728,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4f6ac28481c3957d93c80d3b",
+          "content": {
+            "message": "火神拉了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319098520496,
+        "rpid_str": "319098520496",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790758558,
+        "like": 57,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_63ffffc3259c9b88d9ce3655",
+        "content": {
+          "message": "降临者大人[大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/314d8a990dd60ce4b648412eecc69059243685205.jpg",
+              "img_width": 2800,
+              "img_height": 1260,
+              "img_size": 1671.98,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1346d916b7d6fbf4ff21a3720c82e1b2243685205.jpg",
+              "img_width": 1273,
+              "img_height": 1248,
+              "img_size": 653.29,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8b83f624a839e59439e900b98b8349ede6261505d80e59437f20aec5ca8fe069",
+  "original_bytes_sha256": "5024339e3824a749e1a930ebce020d821dfb58104d71a7051ac172893bf49da4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

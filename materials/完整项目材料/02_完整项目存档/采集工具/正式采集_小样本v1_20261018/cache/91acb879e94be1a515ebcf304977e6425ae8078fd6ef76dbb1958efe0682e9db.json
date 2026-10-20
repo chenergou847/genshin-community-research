@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319674274224",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:34:04.748735+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316088631841,
+          "rpid_str": "316088631841",
+          "root": 319674274224,
+          "root_str": "319674274224",
+          "parent": 319674274224,
+          "parent_str": "319674274224",
+          "dialog": 316088631841,
+          "ctime": 1791174405,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ee17da6590b20ea95daa55ef",
+          "content": {
+            "message": "任何难度都可以联机，直接N4以上联机没奖励而已"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316147896273,
+          "rpid_str": "316147896273",
+          "root": 319674274224,
+          "root_str": "319674274224",
+          "parent": 319674274224,
+          "parent_str": "319674274224",
+          "dialog": 316147896273,
+          "ctime": 1791207692,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_563863d3c4a603c91578ad8f",
+          "content": {
+            "message": "选择n3匹配等人进来，正式挑战前可以调难度，然后拉其它人进去打。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317266140449,
+          "rpid_str": "317266140449",
+          "root": 319674274224,
+          "root_str": "319674274224",
+          "parent": 319674274224,
+          "parent_str": "319674274224",
+          "dialog": 317266140449,
+          "ctime": 1792164592,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fdda4b0d853bf0d3d56dedca",
+          "content": {
+            "message": "没奖励，但玩什么都为了奖励奖励。还不如找个班上得了。玩游戏不就是开心娱乐吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319674274224,
+        "rpid_str": "319674274224",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791172860,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_37577013c5766bd2508b93f7",
+        "content": {
+          "message": "為什麼N6可以聯機打?"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "972e931e882675d4d2d9e7a3a2be954400db8126480bc2e49c9379248cae4105",
+  "original_bytes_sha256": "4c975970288737db200e85fb2d78ba0723a6e9f67f51221eeb98dadde35fbb89",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315479774257",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:24:04.409210+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315479774257,
+        "rpid_str": "315479774257",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790699985,
+        "like": 0,
+        "rcount": 6,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_c55ee25b9e4bce3451b8071e",
+        "content": {
+          "message": "求推荐一下n5一三间配队[蹲蹲]，冰锅肯定是skk",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f8a4cdd97f332e096110ee6e3797d05b588154858.jpg",
+              "img_width": 1260,
+              "img_height": 13461,
+              "img_size": 1713.65
+            }
+          ],
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ab6d0b0b310c26acc291d7d91c50dfc0d7e316b31708c0c2496c0afb890ae82f",
+  "original_bytes_sha256": "1479885170d55f2c137c344214f1189455de5a0fff28cca74962c670b58dcd0c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

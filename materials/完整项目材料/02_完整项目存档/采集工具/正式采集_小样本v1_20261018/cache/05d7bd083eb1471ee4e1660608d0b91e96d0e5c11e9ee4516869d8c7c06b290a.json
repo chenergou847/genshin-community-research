@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "320091286160",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:43:39.588127+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320101315136,
+          "rpid_str": "320101315136",
+          "root": 320091286160,
+          "root_str": "320091286160",
+          "parent": 320091286160,
+          "parent_str": "320091286160",
+          "dialog": 320101315136,
+          "ctime": 1791477334,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "绝不至于这个耗时"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320118922368,
+          "rpid_str": "320118922368",
+          "root": 320091286160,
+          "root_str": "320091286160",
+          "parent": 320101315136,
+          "parent_str": "320101315136",
+          "dialog": 320101315136,
+          "ctime": 1791506826,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e39105be8bccea2a666655b8",
+          "content": {
+            "message": "回复 @夜星Wetchin :我还凹了差不多一周，后面没再成功过，夏沃蕾带的是餐叉。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320119018480,
+          "rpid_str": "320119018480",
+          "root": 320091286160,
+          "root_str": "320091286160",
+          "parent": 320101315136,
+          "parent_str": "320101315136",
+          "dialog": 320101315136,
+          "ctime": 1791506927,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e39105be8bccea2a666655b8",
+          "content": {
+            "message": "回复 @夜星Wetchin :手机端的双码头不好学，我现在还没入门"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316507576945,
+          "rpid_str": "316507576945",
+          "root": 320091286160,
+          "root_str": "320091286160",
+          "parent": 320091286160,
+          "parent_str": "320091286160",
+          "dialog": 316507576945,
+          "ctime": 1791507919,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_66d46536c52dd0e87d951d1b",
+          "content": {
+            "message": "这个180有说法的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320091286160,
+        "rpid_str": "320091286160",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791470733,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_e39105be8bccea2a666655b8",
+        "content": {
+          "message": "一样的队伍，差距怎么这么大？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1076661e610e9db8eea97bf1bb9e8a10521171809.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1355.5
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4bc865d897d2b5cbda472ee8a66e55134f7b53292ff80993dc809b358338bd74",
+  "original_bytes_sha256": "640d317882784da6c0b83837f31b789adccc8a99b2ae2a72b24f5ac7e92abfc6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

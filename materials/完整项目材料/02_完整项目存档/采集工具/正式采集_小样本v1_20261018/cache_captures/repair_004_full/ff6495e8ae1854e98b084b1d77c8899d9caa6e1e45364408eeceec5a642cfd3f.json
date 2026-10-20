@@ -1,0 +1,179 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317259332369",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:36:24.660974+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317268944481,
+          "rpid_str": "317268944481",
+          "root": 317259332369,
+          "root_str": "317259332369",
+          "parent": 317259332369,
+          "parent_str": "317259332369",
+          "ctime": 1792166410,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9c37bc68be396cfd70b0541b",
+          "content": {
+            "message": "我1+1菲林斯一样能打\n也就那个雷盾要磨一下，盾掉了随便打[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317269037697,
+          "rpid_str": "317269037697",
+          "root": 317259332369,
+          "root_str": "317259332369",
+          "parent": 317259332369,
+          "parent_str": "317259332369",
+          "ctime": 1792166428,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9c37bc68be396cfd70b0541b",
+          "content": {
+            "message": "而且我还没伊涅芙"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320925248512,
+          "rpid_str": "320925248512",
+          "root": 317259332369,
+          "root_str": "317259332369",
+          "parent": 317259332369,
+          "parent_str": "317259332369",
+          "ctime": 1792167249,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5a35bf77c3e74b0b497dd795",
+          "content": {
+            "message": "木偶吃环境buff了怎么能叫力大砖飞"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320931338832,
+          "rpid_str": "320931338832",
+          "root": 317259332369,
+          "root_str": "317259332369",
+          "parent": 317259332369,
+          "parent_str": "317259332369",
+          "ctime": 1792172140,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_37a8437f8639b0073820f3cf",
+          "content": {
+            "message": "我也是月感电打上半了，忘记了后面那个狮子有雷遁，只能少女慢慢磨，磨破之后三个q完事"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317259332369,
+        "rpid_str": "317259332369",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792160703,
+        "like": 2,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_048c8a00fdaf1ea8bbd28bdb",
+        "content": {
+          "message": "上半菲林斯力大砖飞，下半木偶大力飞砖……但我菲林斯是21，好像不具备什么参考价值",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8237fb30340c734abb8362a1f366ef9b622827774.jpg",
+              "img_width": 1200,
+              "img_height": 2670,
+              "img_size": 1262.25
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "cdfc4c39fbe9213c2b063d00c2497855b44da88c6e540a6fe95ff63c08fb1d7b",
+  "original_bytes_sha256": "40691bc7a19190d21912e3e28a6c494c3c3ff330fd96e950237119610a85c41c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

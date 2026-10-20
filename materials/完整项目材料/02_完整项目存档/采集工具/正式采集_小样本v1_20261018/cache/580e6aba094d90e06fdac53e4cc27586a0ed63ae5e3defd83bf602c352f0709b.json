@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "316170694433",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:08:22.333169+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316170694433,
+        "rpid_str": "316170694433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791221436,
+        "like": 2,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_9647ace0ec6d61d9fb5aaabd",
+        "content": {
+          "message": "求助 打不过n5第二间，我0+1skk没爱芙，队友是奶奶莫娜行秋 沃塞给第三间薇斯纳用了腾不出来",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/64aba6ba6c23b50d5ee61ba0b5407ac2583510666.jpg",
+              "img_width": 1290,
+              "img_height": 12987,
+              "img_size": 3635
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f66a1293dbb499bd7d40620981eaa5c67efb1fab065676bde68e12dfdbf1eb1b",
+  "original_bytes_sha256": "aee5d7f9948302e9b735fdd28156af675d649b3149771c5de2e364c25d7a0aff",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

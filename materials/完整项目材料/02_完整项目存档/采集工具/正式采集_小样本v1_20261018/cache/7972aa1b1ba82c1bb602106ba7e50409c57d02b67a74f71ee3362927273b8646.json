@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315055702433",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:02:10.299414+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315055702433,
+        "rpid_str": "315055702433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790348953,
+        "like": 0,
+        "rcount": 8,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_fc5b952e1203b7c8886ad85d",
+        "content": {
+          "message": "各位，我这个打六会很难吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5a2f8a8cab93c12812b1def4b16f32f01168413574.jpg",
+              "img_width": 1440,
+              "img_height": 14359,
+              "img_size": 1957.59
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "dab4ab9fb90609fd277c44cdbe3d11af4a818f416edf269c96c1aef29b8e3d14",
+  "original_bytes_sha256": "e1781f10edd2448bed75018a849b11bded758bd3962ebc0ee48b5743c8bdd530",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

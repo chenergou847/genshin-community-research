@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117397109343468",
+    "root": "319910876192",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:53:23.335010+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319910934112,
+          "rpid_str": "319910934112",
+          "root": 319910876192,
+          "root_str": "319910876192",
+          "parent": 319910876192,
+          "parent_str": "319910876192",
+          "dialog": 319910934112,
+          "ctime": 1791338206,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0c2515081ad3a16908bd3cad",
+          "content": {
+            "message": "8000粉抽奖最迟这周末抽，然后发新的抽奖，最近有点忙在做千星"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320092252672,
+          "rpid_str": "320092252672",
+          "root": 319910876192,
+          "root_str": "319910876192",
+          "parent": 319910876192,
+          "parent_str": "319910876192",
+          "dialog": 320092252672,
+          "ctime": 1791471314,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_024d932574c895a9ebb8bcea",
+          "content": {
+            "message": "老大是在这个号直播还是风扬轻语的号直播呀"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319910876192,
+        "rpid_str": "319910876192",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791338162,
+        "like": 61,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_0c2515081ad3a16908bd3cad",
+        "content": {
+          "message": "1金有通关风险，过几天开播打\n如果过了那将会是1金魈拿下的第11个N5boss，感谢大家的支持"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4588f50f9e3103704b490c7aa410b13d2acf56470de70cc6a4b05eb242ff454e",
+  "original_bytes_sha256": "c7730ac1dbfffb749bfc30ea5775f27658b3491e2fbaf6af892cf0df4fe9f77d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

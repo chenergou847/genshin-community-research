@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314966752049",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:18:16.079978+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314970129505,
+          "rpid_str": "314970129505",
+          "root": 314966752049,
+          "root_str": "314966752049",
+          "parent": 314966752049,
+          "parent_str": "314966752049",
+          "dialog": 314970129505,
+          "ctime": 1790297895,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间满命火神战舰直接砍完事。第二间木偶星超导打冰锅她也能压，第三间法尔伽魔导队破冰棺也快，你都满命的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314970060545,
+          "rpid_str": "314970060545",
+          "root": 314966752049,
+          "root_str": "314966752049",
+          "parent": 314966752049,
+          "parent_str": "314966752049",
+          "dialog": 314970060545,
+          "ctime": 1790297915,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "有帮助的话视频点赞推荐一下就行了，帮助更多人看到配队。上班前在看。祝中秋快乐"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314973384513,
+          "rpid_str": "314973384513",
+          "root": 314966752049,
+          "root_str": "314966752049",
+          "parent": 314966752049,
+          "parent_str": "314966752049",
+          "dialog": 314973384513,
+          "ctime": 1790300340,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_def4409cf2af2a04c06d4cc5",
+          "content": {
+            "message": "要多少分自己填"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314966752049,
+        "rpid_str": "314966752049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790294745,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_7438fdf06f627901b86c719a",
+        "content": {
+          "message": "我这能n6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/bfaf824d751f6c98f1b50d191afe8539408802866.jpg",
+              "img_width": 1280,
+              "img_height": 7955,
+              "img_size": 4800.45
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "67136322c01453574783cf1c9f5ef048c3d74cad9268211f785da27b7e485674",
+  "original_bytes_sha256": "1cdcd2296976b6cca4902ae16f40c93d07706c4e8a581446a9495c2dd9db0d4c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

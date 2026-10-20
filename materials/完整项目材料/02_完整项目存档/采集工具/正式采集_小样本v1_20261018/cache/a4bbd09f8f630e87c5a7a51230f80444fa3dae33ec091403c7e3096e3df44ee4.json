@@ -1,0 +1,188 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314956933921",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:20:05.087357+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314960328033,
+          "rpid_str": "314960328033",
+          "root": 314956933921,
+          "root_str": "314956933921",
+          "parent": 314956933921,
+          "parent_str": "314956933921",
+          "dialog": 314960328033,
+          "ctime": 1790280403,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7b4a6296a63bc8819216631a",
+          "content": {
+            "message": "没机会，10抗极限25万"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314961219857,
+          "rpid_str": "314961219857",
+          "root": 314956933921,
+          "root_str": "314956933921",
+          "parent": 314960328033,
+          "parent_str": "314960328033",
+          "dialog": 314960328033,
+          "ctime": 1790283331,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3deae4818a386cf80739a71a",
+          "content": {
+            "message": "已经安心睡着了[黑眼圈_金箍]",
+            "emote": {
+              "[黑眼圈_金箍]": {
+                "id": 83965,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[黑眼圈_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/3d8edacc6efa4bc397642ee2bdc688c2eb976b4f.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724918325,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318501376176,
+          "rpid_str": "318501376176",
+          "root": 314956933921,
+          "root_str": "314956933921",
+          "parent": 314956933921,
+          "parent_str": "314956933921",
+          "dialog": 318501376176,
+          "ctime": 1790293247,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5eb919e6f6d089d330dd7705",
+          "content": {
+            "message": "没有机会"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314956933921,
+        "rpid_str": "314956933921",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790273928,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_3deae4818a386cf80739a71a",
+        "content": {
+          "message": "这个有机会过丘林吗，能过就能拿皮肤[星星眼]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5c6c7bee15496d9f35be74ac9eece521269916781.jpg",
+              "img_width": 3200,
+              "img_height": 1440,
+              "img_size": 2130.88,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "441b21384c7524e435fe333dfc91e78c385923f121a8ff4582dfb4231d9a06c6",
+  "original_bytes_sha256": "aa7c31d18faed5a8ec44bda08aea118fc2b0d3f643e7fc467ad3d9de87a1518a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

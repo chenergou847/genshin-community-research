@@ -1,0 +1,416 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316047679585",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:35:18.983575+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319633363472,
+          "rpid_str": "319633363472",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 316047679585,
+          "parent_str": "316047679585",
+          "dialog": 319633363472,
+          "ctime": 1791130476,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_76c3297589daad2eaced9dd9",
+          "content": {
+            "message": "怎么有两个冰主？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316048408417,
+          "rpid_str": "316048408417",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 316047679585,
+          "parent_str": "316047679585",
+          "dialog": 316048408417,
+          "ctime": 1791130519,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7f42a7def87df9ecc23dae2a",
+          "content": {
+            "message": "实锤了，6杜6尼带头牛都能赢[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316053443905,
+          "rpid_str": "316053443905",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 319633363472,
+          "parent_str": "319633363472",
+          "dialog": 319633363472,
+          "ctime": 1791134298,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7a88b955080d276810d4d7da",
+          "content": {
+            "message": "回复 @美游的安东星红色征程 :组队的吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319640719104,
+          "rpid_str": "319640719104",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 316053443905,
+          "parent_str": "316053443905",
+          "dialog": 319633363472,
+          "ctime": 1791135969,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_76c3297589daad2eaced9dd9",
+          "content": {
+            "message": "回复 @Melfina :会冲突啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316055713201,
+          "rpid_str": "316055713201",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 319640719104,
+          "parent_str": "319640719104",
+          "dialog": 319633363472,
+          "ctime": 1791136590,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_96f0d3c9760bec78c7658dd0",
+          "content": {
+            "message": "回复 @美游的安东星红色征程 :一个空一个荧吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319641391872,
+          "rpid_str": "319641391872",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 316055713201,
+          "parent_str": "316055713201",
+          "dialog": 319633363472,
+          "ctime": 1791136610,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_76c3297589daad2eaced9dd9",
+          "content": {
+            "message": "回复 @伊藤诚是乖孩子 :不是哥们，还能这样的吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316055878657,
+          "rpid_str": "316055878657",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 319641391872,
+          "parent_str": "319641391872",
+          "dialog": 319633363472,
+          "ctime": 1791136839,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_96f0d3c9760bec78c7658dd0",
+          "content": {
+            "message": "回复 @美游的安东星红色征程 :毕竟空荧不算同角色"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316056900305,
+          "rpid_str": "316056900305",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 319641391872,
+          "parent_str": "319641391872",
+          "dialog": 319633363472,
+          "ctime": 1791137955,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7a88b955080d276810d4d7da",
+          "content": {
+            "message": "回复 @美游的安东星红色征程 :空和莹好像有数值差距"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316065579825,
+          "rpid_str": "316065579825",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 319641391872,
+          "parent_str": "319641391872",
+          "dialog": 319633363472,
+          "ctime": 1791157611,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_40ddbeb0234815302e6ca392",
+          "content": {
+            "message": "回复 @美游的安东星红色征程 :哥哥和妹妹是两个人，而且数值面板有一点点差距。哥哥跑得快，妹妹暴伤倍率高，家庭地位一目了然[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316071212657,
+          "rpid_str": "316071212657",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 316065579825,
+          "parent_str": "316065579825",
+          "dialog": 319633363472,
+          "ctime": 1791163248,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_248587a1464d06426ed16dae",
+          "content": {
+            "message": "不是爆伤高，就重击倍率高点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319953677184,
+          "rpid_str": "319953677184",
+          "root": 316047679585,
+          "root_str": "316047679585",
+          "parent": 316047679585,
+          "parent_str": "316047679585",
+          "dialog": 319953677184,
+          "ctime": 1791362709,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "兄弟还有没好友位，想借角色打真镜剧诗[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316047679585,
+        "rpid_str": "316047679585",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791130139,
+        "like": 3,
+        "rcount": 11,
+        "count": 13,
+        "state": 0,
+        "author_id": "U_21718a08ef600f07925bc6e7",
+        "content": {
+          "message": "确实难凹，我居然是主角[doge][doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/098c0b4502e20cc0d4144f2f1a8b5039693003150.jpg",
+              "img_width": 2388,
+              "img_height": 1080,
+              "img_size": 970.29
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "eb4944a058e48e952bfacb363656dcf09ae79ee8813c8c8268e56054d3e9bb2b",
+  "original_bytes_sha256": "c34c752a7eb0fb72d3c53b41857d5b53be2eb7ad9532e58f08078b4349d91460",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

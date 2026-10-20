@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317331924225",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:46:03.037554+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317331924225,
+        "rpid_str": "317331924225",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792225962,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_449a832f280a14fd7019f529",
+        "content": {
+          "message": "有做委托日常的吗，一个月，伍佰，有空的dd关"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bd6b7c56d1441f3a95be8be54825717a189ff8fe3b0755ec14c9de5b9f5d1afa",
+  "original_bytes_sha256": "a5aa0a26e954b96d6ec1cb91db4a5922ca975b053fda5d6775a04c64a5bb8e3f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

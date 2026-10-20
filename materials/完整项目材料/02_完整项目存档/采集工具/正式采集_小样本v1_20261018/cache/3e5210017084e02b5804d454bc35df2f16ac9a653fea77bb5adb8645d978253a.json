@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319427666976",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:27.729947+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319427666976,
+        "rpid_str": "319427666976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790999870,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_27dea83ffd4009a52800da5d",
+        "content": {
+          "message": "有无换牌的",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/24547d5017b871e2fc1ba3a36088653471084800.jpg",
+              "img_width": 1080,
+              "img_height": 7613,
+              "img_size": 641.75
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9d24a0ec7f1f4422ca2cd08748c5baf4d2d28fa34a2ef4ab6bd2bd1f1395ff98",
+  "original_bytes_sha256": "f1a09b50c4bf3e0737ec08003e5c74151a53f70a0fc4f795fc58b28e3112eca0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

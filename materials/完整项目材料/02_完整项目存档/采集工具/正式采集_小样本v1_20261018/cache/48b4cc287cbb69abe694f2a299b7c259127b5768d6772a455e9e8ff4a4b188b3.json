@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315105993457",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:56:07.373387+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315105993457,
+        "rpid_str": "315105993457",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790399457,
+        "like": 3,
+        "rcount": 11,
+        "count": 12,
+        "state": 0,
+        "author_id": "U_2c173069b11d514ab3bd012d",
+        "content": {
+          "message": "感觉这次真的要被n6斩杀了[藏狐]完全不知道拿啥打n6老头",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a8e74537e03e1c964e41eb2ef1c54fba37039839.jpg",
+              "img_width": 908,
+              "img_height": 10800,
+              "img_size": 1661.202
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e9c4e3a3d6099261bf5ad4bea36cc6d037039839.jpg",
+              "img_width": 558,
+              "img_height": 996,
+              "img_size": 38.327
+            }
+          ],
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9b43970786f0cb634af5585cfcaa83a8afc0cad19c2ccad7f10748243118daaa",
+  "original_bytes_sha256": "e1ef9f700d24621e4c8c60934884874fc38b854e0a45f3a9dc1037486a31a846",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

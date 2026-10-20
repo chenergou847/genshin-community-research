@@ -1,0 +1,273 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "317320005761",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:52:38.967617+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320980814720,
+          "rpid_str": "320980814720",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 317320005761,
+          "parent_str": "317320005761",
+          "ctime": 1792219361,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_52ef5492b3b0ae95525cd717",
+          "content": {
+            "message": "@高洁的艺术系学长"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320980779472,
+          "rpid_str": "320980779472",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 317320005761,
+          "parent_str": "317320005761",
+          "ctime": 1792219389,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_52ef5492b3b0ae95525cd717",
+          "content": {
+            "message": "骗子，纯良别上当"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320981026528,
+          "rpid_str": "320981026528",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 320980814720,
+          "parent_str": "320980814720",
+          "ctime": 1792219552,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @A_kyoyo :这期评论区为啥这么多[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320984527088,
+          "rpid_str": "320984527088",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 320981026528,
+          "parent_str": "320981026528",
+          "ctime": 1792221831,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9e629735316e136e7b230621",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :难道学长真要火了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317336752625,
+          "rpid_str": "317336752625",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 320981026528,
+          "parent_str": "320981026528",
+          "ctime": 1792229064,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3e49f13ae66cae509cbe3620",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :这种也够骗子最近特别多，什么视频底下都能见到，感觉是代肝发商单了[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320996706736,
+          "rpid_str": "320996706736",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 317336752625,
+          "parent_str": "317336752625",
+          "ctime": 1792229455,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "回复 @蓝光三维码 :这期视频真的被这玩意儿轰炸了，之前从来没有过"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320998189760,
+          "rpid_str": "320998189760",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 320981026528,
+          "parent_str": "320981026528",
+          "ctime": 1792230303,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06727d04bdd25af6f58a373b",
+          "content": {
+            "message": "回复 @高洁的艺术系学长 :咬一下勾，下一个视频的素材不就又有了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321022777840,
+          "rpid_str": "321022777840",
+          "root": 317320005761,
+          "root_str": "317320005761",
+          "parent": 320981026528,
+          "parent_str": "320981026528",
+          "ctime": 1792243242,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1de1d4c0569459d9e1d663de",
+          "content": {
+            "message": "骗子，最早是在炉石那边出现的好像"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317320005761,
+        "rpid_str": "317320005761",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792217851,
+        "like": 1,
+        "rcount": 8,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_0b9e26b3b32a323c7afaf28c",
+        "content": {
+          "message": "日常管理，一个月给200，号上有大月卡，上學没空管理，接的关煮我，谢谢[捂眼][捂眼][捂眼]",
+          "emote": {
+            "[捂眼]": {
+              "id": 1939,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[捂眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/c5c6d6982e1e53e478daae554b239f2b227b172b.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "捂眼"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "f5ca98e0f7a6eabe42f9d85e086440f72af1c1eda874cf7b112e956a1a69e4e3",
+  "original_bytes_sha256": "e12443045fe2fabc5850edc192a727fd4999f161e41881b3649e5cd4b7e1526f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

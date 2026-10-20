@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315298702929",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:44:42.437591+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315304852577,
+          "rpid_str": "315304852577",
+          "root": 315298702929,
+          "root_str": "315298702929",
+          "parent": 315298702929,
+          "parent_str": "315298702929",
+          "dialog": 315304852577,
+          "ctime": 1790559762,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你木偶第一间0偶0奥两金不够。第一间2火2奶+冰主/奥黛塔+砂糖，视频有讲"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315305012065,
+          "rpid_str": "315305012065",
+          "root": 315298702929,
+          "root_str": "315298702929",
+          "parent": 315298702929,
+          "parent_str": "315298702929",
+          "dialog": 315305012065,
+          "ctime": 1790559770,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间丝柯克队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315305075441,
+          "rpid_str": "315305075441",
+          "root": 315298702929,
+          "root_str": "315298702929",
+          "parent": 315298702929,
+          "parent_str": "315298702929",
+          "dialog": 315305075441,
+          "ctime": 1790559879,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间:奈芙尔菈乌玛少女+一个火系工具人:班尼特等强火角色破。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315305079377,
+          "rpid_str": "315305079377",
+          "root": 315298702929,
+          "root_str": "315298702929",
+          "parent": 315298702929,
+          "parent_str": "315298702929",
+          "dialog": 315305079377,
+          "ctime": 1790559888,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315298702929,
+        "rpid_str": "315298702929",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790552340,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_c648b52601757bcbd9b4484e",
+        "content": {
+          "message": "n6 有机会吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9d836fdfd4f7efccd52455d89ac23c9638544078.jpg",
+              "img_width": 1194,
+              "img_height": 15000,
+              "img_size": 8473.21
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e06fdce6b1d36b0587bef1cfac0a54af77de04e433c4b8c1dc760d28084d8c35",
+  "original_bytes_sha256": "c0c2488a6ad4f37786343f44283f64d213b92b1eb1ae87dbb09ce86b286bd01a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

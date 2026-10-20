@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319021668848",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:26:12.185742+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319021668848,
+        "rpid_str": "319021668848",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790688819,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_5b1cf96c4d7cc4cd525c71f0",
+        "content": {
+          "message": "菲林斯2+1，少女机器人01，打得过第二第三间的n6吗？打哪一关好一点"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "faffd7ec2f8825c7f2b15b61c811b4c2d8a4a377d8e28b7ef520e50ec4d2e555",
+  "original_bytes_sha256": "52be8bb710594b288d743b3055b89786ef1a0a30bf198db8fcd2afeb09825ec1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

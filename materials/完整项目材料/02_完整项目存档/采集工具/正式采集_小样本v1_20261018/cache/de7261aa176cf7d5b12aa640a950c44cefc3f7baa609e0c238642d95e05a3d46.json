@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319043065200",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:23:39.806608+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 9
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319043065200,
+        "rpid_str": "319043065200",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790702324,
+        "like": 0,
+        "rcount": 9,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_6a8c91960cded694bbc60999",
+        "content": {
+          "message": "主包主包有n6的风险吗[鸣潮·共鸣与群星_哭了]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f7016fb61dbf4735bc65a47a63ec77b35739949.jpg",
+              "img_width": 931,
+              "img_height": 10800,
+              "img_size": 5261.77
+            }
+          ],
+          "emote": {
+            "[鸣潮·共鸣与群星_哭了]": {
+              "id": 128816,
+              "package_id": 9189,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[鸣潮·共鸣与群星_哭了]",
+              "url": "https://i0.hdslb.com/bfs/garb/item/7bb5280552ec6903593b24aeb5e33a177d01abae.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1766560135,
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=111160&hybrid_set_header=2&anchor_task=1&lottery_id=111161&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22111181%22%2C%22sub_id%22%3A%22%5B%E9%B8%A3%E6%BD%AE%C2%B7%E5%85%B1%E9%B8%A3%E4%B8%8E%E7%BE%A4%E6%98%9F_%E5%93%AD%E4%BA%86%5D%22%7D",
+              "jump_title": "哭了"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0dd53c80222181899608c35c522b07f3070295a0b82d3e1afff6a77f7c7ae9b6",
+  "original_bytes_sha256": "cb2109738abe09f6f990df01a0b50075cf400ec1a00b0015da9a8186715cef2c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

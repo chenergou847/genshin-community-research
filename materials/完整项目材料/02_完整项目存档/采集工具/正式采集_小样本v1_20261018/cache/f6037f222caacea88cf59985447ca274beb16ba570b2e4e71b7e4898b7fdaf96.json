@@ -1,0 +1,96 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315290798705",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:45:19.092177+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315290798705,
+        "rpid_str": "315290798705",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790532300,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_3e5d6fa0e766bdf7f34649cb",
+        "content": {
+          "message": "怎么三间冰两个都是星体系，冰只有一队怎么打[25年度表情包_马不]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/82a59bae0f2bd6f0c1af74009acdb2463493093101799477.jpg",
+              "img_width": 1260,
+              "img_height": 11155,
+              "img_size": 1422.8,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[25年度表情包_马不]": {
+              "id": 127514,
+              "package_id": 9046,
+              "state": 0,
+              "type": 8,
+              "attr": 0,
+              "text": "[25年度表情包_马不]",
+              "url": "https://i0.hdslb.com/bfs/emote/cebf1b685732c5fdf841a1c250e558d7e23c489b.png",
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1766147270,
+              "jump_title": "马不"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e2b5d8d3bb8307f21b48fffafd54158537e429091c84515609e80e00d3dafc3b",
+  "original_bytes_sha256": "6eb36becb8b04415f5a3cc7c44ba7bd7a928b5acb20d67fba4d5dcaaf7e448f1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

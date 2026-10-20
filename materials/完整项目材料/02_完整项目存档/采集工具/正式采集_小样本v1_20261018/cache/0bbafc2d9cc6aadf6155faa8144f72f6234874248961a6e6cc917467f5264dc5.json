@@ -1,0 +1,186 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "319635093888",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:55:52.301028+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319648789888,
+          "rpid_str": "319648789888",
+          "root": 319635093888,
+          "root_str": "319635093888",
+          "parent": 319635093888,
+          "parent_str": "319635093888",
+          "dialog": 319648789888,
+          "ctime": 1791148969,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3021529c94daef6df832e544",
+          "content": {
+            "message": "那还说啥了上号自动领原石[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316432424257,
+          "rpid_str": "316432424257",
+          "root": 319635093888,
+          "root_str": "319635093888",
+          "parent": 319635093888,
+          "parent_str": "319635093888",
+          "dialog": 316432424257,
+          "ctime": 1791437128,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_facc6ccd5dd19793fb547871",
+          "content": {
+            "message": "剧诗就算没有龙王也是轻松满星，但是危战龙王打不了确是实打实的[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317279728065,
+          "rpid_str": "317279728065",
+          "root": 319635093888,
+          "root_str": "319635093888",
+          "parent": 316432424257,
+          "parent_str": "316432424257",
+          "dialog": 316432424257,
+          "ctime": 1792177730,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3f01f274704e5bc814591d9f",
+          "content": {
+            "message": "回复 @111克拉克 :他这个练度的龙王危战也能打好吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319635093888,
+        "rpid_str": "319635093888",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791131628,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_814162c57991344d10426a7c",
+        "content": {
+          "message": "日常剧诗1拖三😋",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/381fe423b0fc97b4ab637863a0e71dd0449202649.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1717.06
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "93b1cc53c92b07eb0a38a75b827d5d657df86e501550e6ad0924e9276e779d69",
+  "original_bytes_sha256": "dcf3bdbe04be24c37a5898a5c143e0ff27749224681f906eb7c5fd6d6290576d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

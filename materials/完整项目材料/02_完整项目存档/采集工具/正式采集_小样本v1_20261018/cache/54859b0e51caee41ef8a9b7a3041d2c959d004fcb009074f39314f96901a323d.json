@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318508126288",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:17:48.400842+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318508126288,
+        "rpid_str": "318508126288",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790299319,
+        "like": 0,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_ddb779f155734c6c9d4bc4fd",
+        "content": {
+          "message": "有n6风险吗[委屈]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/977eee04e731725d297d663424d0ebb323849108.jpg",
+              "img_width": 1080,
+              "img_height": 12612,
+              "img_size": 1526.03
+            }
+          ],
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "86cecbaa3a279981cfdfff3d3ec1ce2f32b9758581e0d8865b40360c8e2dbec7",
+  "original_bytes_sha256": "6d4155d1aa1ec8bd680dd3a0d916f6d0f0167d545e2afdf7b829b9f5b6a781ba",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

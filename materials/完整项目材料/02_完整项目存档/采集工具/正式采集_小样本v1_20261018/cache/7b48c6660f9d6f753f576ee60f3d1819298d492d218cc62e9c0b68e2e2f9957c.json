@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315054056593",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:02:57.542435+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315054056593,
+        "rpid_str": "315054056593",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790348087,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_ac0f5bcfaf5aca5a94f4db29",
+        "content": {
+          "message": "我这个三路能过N6不？\n丘林配置：61小玛21玛薇卡21希20茜\n冰锅配置：01丝1爱3芙11沃\n冰棺配置：31牛21尼11杜6夏",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6224e4d5442ca4bd31163bf0c2688dca2139862970.jpg",
+              "img_width": 2640,
+              "img_height": 1216,
+              "img_size": 907.4
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "13b8a024bc05e3615643e9ea4f843507becc429262a6f42dbe9f0f65b42fa876",
+  "original_bytes_sha256": "63f6b2c99dd3d75ea34258968aad2a8d98fe169685e7461cf486677de3aaaee8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

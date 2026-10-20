@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318527247328",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:11:13.078121+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318527247328,
+        "rpid_str": "318527247328",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790310801,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_416752a300e5d69829604a4e",
+        "content": {
+          "message": "21 灯 20少 00机 20奥 老头\n01丝 01爱 10芙 10鹤 冰锅\n21基尼奇 20杜 21尼 6 123 \n都有练度 这期能n6吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bc4681f6b4d9913b8498a436cd1a45b427e2a0d680ea8c633ef14f375c1d68ac",
+  "original_bytes_sha256": "b80a7669e7a6066ae6d3167d3ee37ccbc4e2ae496da87f5bf7f08eff4ae55877",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

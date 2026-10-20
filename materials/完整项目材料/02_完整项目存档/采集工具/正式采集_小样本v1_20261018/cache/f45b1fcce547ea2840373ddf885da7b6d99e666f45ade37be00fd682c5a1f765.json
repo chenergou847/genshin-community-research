@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315081426689",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:57:26.692313+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318814780672,
+          "rpid_str": "318814780672",
+          "root": 315081426689,
+          "root_str": "315081426689",
+          "parent": 315081426689,
+          "parent_str": "315081426689",
+          "dialog": 318814780672,
+          "ctime": 1790513765,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9d5828b827ffa6e1ef018864",
+          "content": {
+            "message": "维斯那1星扩散，莱欧2星超导，尼可杜林法尔伽3"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315081426689,
+        "rpid_str": "315081426689",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790383695,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_60a743122321f5bcac7e070e",
+        "content": {
+          "message": "这个可以打n7不，怎么配队呢",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0c14509b494cb948d8eddb81d40e647119945880.jpg",
+              "img_width": 1009,
+              "img_height": 10800,
+              "img_size": 1768.91
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1815e859a3a1bf3b3d5ef1ac42e3f97c43314635f36b1d0a21b6bc37cef271c8",
+  "original_bytes_sha256": "e0c12c799ff7ffa03c6c000865ab99553cd2b68a71ad94fdb51d259e87df0cec",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

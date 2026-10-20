@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315648051009",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:22:14.532765+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315648986449,
+          "rpid_str": "315648986449",
+          "root": 315648051009,
+          "root_str": "315648051009",
+          "parent": 315648051009,
+          "parent_str": "315648051009",
+          "dialog": 315648986449,
+          "ctime": 1790842706,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "无论几帧都要a一下 为了对轴和🧊🐷挂冰错开 60帧中间要顿一下 其他一样"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315649540929,
+          "rpid_str": "315649540929",
+          "root": 315648051009,
+          "root_str": "315648051009",
+          "parent": 315648986449,
+          "parent_str": "315648986449",
+          "dialog": 315648986449,
+          "ctime": 1790843071,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_915bd1679a17ec7a6f1bd75f",
+          "content": {
+            "message": "回复 @Hamlat :谢谢，怪不得我挂冰这么卡手。我还想怪身上没有火底，冰主也能转底，不需要a[洛天依]",
+            "emote": {
+              "[洛天依]": {
+                "id": 7256,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[洛天依]",
+                "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "洛天依"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315705342385,
+          "rpid_str": "315705342385",
+          "root": 315648051009,
+          "root_str": "315648051009",
+          "parent": 315648986449,
+          "parent_str": "315648986449",
+          "dialog": 315648986449,
+          "ctime": 1790876703,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_21bf1b3c9c0c53013e2ebd8c",
+          "content": {
+            "message": "回复 @Hamlat :Up,中间要顿一下是指哪里顿一下？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315648051009,
+        "rpid_str": "315648051009",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790842134,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_915bd1679a17ec7a6f1bd75f",
+        "content": {
+          "message": "奶奶双e后a一下是必须的吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "87a89877605eb07b64a6050eaf2d4dc321c7e841a8b7911ccdbb41a7d73254e7",
+  "original_bytes_sha256": "ce46d5e12d0e73399232320c546616aa1c4f4ab3a8d0a96d210810ec926d00f4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

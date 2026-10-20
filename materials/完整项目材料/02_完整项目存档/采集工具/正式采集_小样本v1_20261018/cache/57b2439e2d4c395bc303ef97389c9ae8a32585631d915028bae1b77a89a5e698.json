@@ -1,0 +1,186 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314962443633",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:18:49.271776+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314962923617,
+          "rpid_str": "314962923617",
+          "root": 314962443633,
+          "root_str": "314962443633",
+          "parent": 314962443633,
+          "parent_str": "314962443633",
+          "dialog": 314962923617,
+          "ctime": 1790288793,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8bda283590d3fe2842eff2a",
+          "content": {
+            "message": "暂时不知道怎么打老头"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318498964544,
+          "rpid_str": "318498964544",
+          "root": 314962443633,
+          "root_str": "314962443633",
+          "parent": 314962443633,
+          "parent_str": "314962443633",
+          "dialog": 318498964544,
+          "ctime": 1790289407,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f7b3ee6b1375bcceabfde4c6",
+          "content": {
+            "message": "有2命杜尼不是乱杀了吗[思考]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314965359473,
+          "rpid_str": "314965359473",
+          "root": 314962443633,
+          "root_str": "314962443633",
+          "parent": 314962443633,
+          "parent_str": "314962443633",
+          "dialog": 314965359473,
+          "ctime": 1790293233,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_462632855837f44843dec6a8",
+          "content": {
+            "message": "n6有点悬"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314962443633,
+        "rpid_str": "314962443633",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790287229,
+        "like": 0,
+        "rcount": 3,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_21f0138a07508b8cb79fd870",
+        "content": {
+          "message": "有打过老头的风险吗[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6f44f184bb4791168617f1da4fec472e443359182.jpg",
+              "img_width": 1296,
+              "img_height": 15000,
+              "img_size": 8429
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4fa06e94c75f252ff70c87c44732f401a7a63882df1a471c1ff054a9b871d8c0",
+  "original_bytes_sha256": "f7d2cbab99ca16a58129baf33d14b05d87c6546103064d027ff6af79983eee3d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

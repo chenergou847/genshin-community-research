@@ -1,0 +1,112 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318883227552",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:40:33.529387+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318883286544,
+          "rpid_str": "318883286544",
+          "root": 318883227552,
+          "root_str": "318883227552",
+          "parent": 318883227552,
+          "parent_str": "318883227552",
+          "dialog": 318883286544,
+          "ctime": 1790578203,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_64de26494fa69ce368b09327",
+          "content": {
+            "message": "11偶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318883227552,
+        "rpid_str": "318883227552",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790578185,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_64de26494fa69ce368b09327",
+        "content": {
+          "message": "能打N6吗？反正7.0的N6是没过，木偶没二命伤害差了点",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/42cc2ca2ba7a834c8a1789f916b32ffa1490130747.jpg",
+              "img_width": 1080,
+              "img_height": 2376,
+              "img_size": 1243.05
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3ef5928cfc79f083c1e117b087e014711490130747.jpg",
+              "img_width": 1080,
+              "img_height": 2376,
+              "img_size": 1182.49
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1198128b920ee609d05d556441b834f91490130747.jpg",
+              "img_width": 1080,
+              "img_height": 2376,
+              "img_size": 1168.79
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "48d972e986e03bc73cc01925668d5533d605cecaaaa4a907d550d6e936f24958",
+  "original_bytes_sha256": "aee8bf2a747796924694608aa366670118327986b25e2ba27cebfc0bdad15392",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319587163952",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:01:06.883652+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319587163952,
+        "rpid_str": "319587163952",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791107147,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_e0e66203e2d828363c255692",
+        "content": {
+          "message": "我是觉得，星体系起码也是冰辅助是通用辅吧，那这样的话就算女皇再牛逼，以原神策划的良心程度也不会去爆掉奥黛塔，肯定会分开赛道的\n\n而且双冰也基本上必凑，大概率是除了木偶队都要同时带奥黛塔与女皇，不然圣遗物相比月反应的少暴击率了，这个15%（双冰）+16%（星）=31%≈30%（月）我不信不是特意控制的好吧"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "247c163412517eaf11cc8c97c782be383d612782d926f004d07722b89fd2fb09",
+  "original_bytes_sha256": "925ec45bf44fbe74221f816d32ba5cde4e2ed419e45fe26879e69de029883261",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

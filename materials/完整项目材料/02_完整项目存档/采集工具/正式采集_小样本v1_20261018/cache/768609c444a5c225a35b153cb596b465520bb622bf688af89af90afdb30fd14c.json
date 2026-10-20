@@ -1,0 +1,179 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318610983808",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:59:01.242587+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318626655568,
+          "rpid_str": "318626655568",
+          "root": 318610983808,
+          "root_str": "318610983808",
+          "parent": 318610983808,
+          "parent_str": "318610983808",
+          "dialog": 318626655568,
+          "ctime": 1790386223,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_245f638a5e6c35133e5af240",
+          "content": {
+            "message": "神子木偶打冰棺，丝爱芙打冰锅，梦见月打老头"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318829594032,
+          "rpid_str": "318829594032",
+          "root": 318610983808,
+          "root_str": "318610983808",
+          "parent": 318626655568,
+          "parent_str": "318626655568",
+          "dialog": 318626655568,
+          "ctime": 1790522065,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f9d39e294888cb24534a6b16",
+          "content": {
+            "message": "回复 @我不理你会 :大佬那奥黛塔跟木偶还是跟瑞希"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318838493312,
+          "rpid_str": "318838493312",
+          "root": 318610983808,
+          "root_str": "318610983808",
+          "parent": 318610983808,
+          "parent_str": "318610983808",
+          "dialog": 318838493312,
+          "ctime": 1790527944,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_245f638a5e6c35133e5af240",
+          "content": {
+            "message": "跟梦见月，很轻松能过的，两队星体系太豪华了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318610983808,
+        "rpid_str": "318610983808",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790361166,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_f9d39e294888cb24534a6b16",
+        "content": {
+          "message": "抽卡最自由之人这期能否擦边n5[来古-注意]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e4ca2b4b790d5ddc7da93e4f937743461035689020.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1499.7
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/258548d98b9c0e52c9628cb0106b896e1035689020.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1314.13
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e201d7b2f22a7419117eb3b2200d6c511035689020.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1328.73
+            }
+          ],
+          "emote": {
+            "[来古-注意]": {
+              "id": 3989,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[来古-注意]",
+              "url": "https://i0.hdslb.com/bfs/emote/4b671ba32a2581cf40e5cd41c67b111eb8010de0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "来古-注意"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cf992072287d89eaf79f0c273b868c756df16bbec12d2202af61b3f1ad282513",
+  "original_bytes_sha256": "a2ebf769ab249497fcf2f58432e3e37a89c7a16508e0f6ed1e29819cc80e342b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

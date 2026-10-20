@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "319122410240",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:39:10.299405+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319123962896,
+          "rpid_str": "319123962896",
+          "root": 319122410240,
+          "root_str": "319122410240",
+          "parent": 319122410240,
+          "parent_str": "319122410240",
+          "dialog": 319123962896,
+          "ctime": 1790772032,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0bbf3473c0f8d30b464fc296",
+          "content": {
+            "message": "好快的图"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319144092768,
+          "rpid_str": "319144092768",
+          "root": 319122410240,
+          "root_str": "319122410240",
+          "parent": 319122410240,
+          "parent_str": "319122410240",
+          "dialog": 319144092768,
+          "ctime": 1790783111,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4bc4b8f570335bb454115c60",
+          "content": {
+            "message": "你只是想发这张图"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319152143312,
+          "rpid_str": "319152143312",
+          "root": 319122410240,
+          "root_str": "319122410240",
+          "parent": 319122410240,
+          "parent_str": "319122410240",
+          "dialog": 319152143312,
+          "ctime": 1790788672,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3d93650035e49c29f0156e3c",
+          "content": {
+            "message": "根本就没有这样的门😭"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319122410240,
+        "rpid_str": "319122410240",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790771187,
+        "like": 75,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_c92b18872d13b5f2a4cb11b0",
+        "content": {
+          "message": "职责所在",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1b5395666bd30d3513c3330851b4c8693461564833204232.png",
+              "img_width": 1590,
+              "img_height": 1276,
+              "img_size": 3754.62
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "768ce0709de8f0e3d8fe9db7833a86096bfd47a34a3e5750f90eef0e88b68d0e",
+  "original_bytes_sha256": "1fe2cfe231742b50144ee83384e2898940d3e30a5f57c270c5d3bd5bae3ad1ce",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

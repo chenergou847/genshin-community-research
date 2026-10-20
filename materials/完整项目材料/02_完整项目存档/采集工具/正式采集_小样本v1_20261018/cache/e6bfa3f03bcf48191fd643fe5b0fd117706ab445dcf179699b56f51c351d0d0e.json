@@ -1,0 +1,188 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319678812368",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:45:08.407493+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319679874672,
+          "rpid_str": "319679874672",
+          "root": 319678812368,
+          "root_str": "319678812368",
+          "parent": 319678812368,
+          "parent_str": "319678812368",
+          "dialog": 319679874672,
+          "ctime": 1791175809,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b4c35afdceaf4d562e44d499",
+          "content": {
+            "message": "因为队友都在拐攻击，没有爆伤拐啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319680911728,
+          "rpid_str": "319680911728",
+          "root": 319678812368,
+          "root_str": "319678812368",
+          "parent": 319678812368,
+          "parent_str": "319678812368",
+          "dialog": 319680911728,
+          "ctime": 1791176324,
+          "like": 39,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "你这句话应该反过来。火神队友提供这么多攻击为什么不堆点爆伤"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319684208240,
+          "rpid_str": "319684208240",
+          "root": 319678812368,
+          "root_str": "319678812368",
+          "parent": 319680911728,
+          "parent_str": "319680911728",
+          "dialog": 319680911728,
+          "ctime": 1791178090,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_30b0d30f3ecae557899efe74",
+          "content": {
+            "message": "回复 @夜星Wetchin :好像也是哈，难怪我火神伤害这么低"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319688129712,
+          "rpid_str": "319688129712",
+          "root": 319678812368,
+          "root_str": "319678812368",
+          "parent": 319678812368,
+          "parent_str": "319678812368",
+          "dialog": 319688129712,
+          "ctime": 1791180346,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_243862263d47c4bd90b5e914",
+          "content": {
+            "message": "这队攻击区是爆满的21火正常来说超载队启动的时候死生之炉状态下攻击力都是6500+根本不需要多少攻击哪怕是00火启动也都是4500+攻击01的话应该是5000+"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319729317584,
+          "rpid_str": "319729317584",
+          "root": 319678812368,
+          "root_str": "319678812368",
+          "parent": 319678812368,
+          "parent_str": "319678812368",
+          "dialog": 319729317584,
+          "ctime": 1791202930,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d027f4b22cbc6486b7fefb45",
+          "content": {
+            "message": "夏沃蕾40%大攻击，依安珊50%大攻击，欧罗伦30%大攻击，本体肯定堆爆伤收益高"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319678812368,
+        "rpid_str": "319678812368",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791175251,
+        "like": 5,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_30b0d30f3ecae557899efe74",
+        "content": {
+          "message": "我弱弱问一句up，你的火神堆这么多爆伤为什么不多堆点攻击，不会稀释太多吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "839ac10d8a4f94e58d236685c8a7b686388cc68edfd1de55cb90d5887c0c40fa",
+  "original_bytes_sha256": "e1129e7d5d01b4fca31676083bd7785a79e7b353b7ad360578d2137c5d9bb717",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

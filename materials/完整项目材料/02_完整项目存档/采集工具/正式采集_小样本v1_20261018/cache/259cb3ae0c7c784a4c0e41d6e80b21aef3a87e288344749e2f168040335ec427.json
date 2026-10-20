@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315561209793",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:39:18.014041+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319125036400,
+          "rpid_str": "319125036400",
+          "root": 315561209793,
+          "root_str": "315561209793",
+          "parent": 315561209793,
+          "parent_str": "315561209793",
+          "dialog": 319125036400,
+          "ctime": 1790772629,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_aa7234e51d20eca684f265df",
+          "content": {
+            "message": "别被怪当减速带了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315561209793,
+        "rpid_str": "315561209793",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790770982,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_1010167e52138ed9c906e38c",
+        "content": {
+          "message": "我会出手",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/67553195015250b92323d9b6f0c7c2cf43584786.png",
+              "img_width": 1079,
+              "img_height": 1080,
+              "img_size": 1265.27,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e068ba37be4b570f27656335f979550179919ee27fff025afc87a320f85ff405",
+  "original_bytes_sha256": "ce801bf55c2308e19af3cde09890e09ede9b4317e9738f3d89c2670c5ff9c2f8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

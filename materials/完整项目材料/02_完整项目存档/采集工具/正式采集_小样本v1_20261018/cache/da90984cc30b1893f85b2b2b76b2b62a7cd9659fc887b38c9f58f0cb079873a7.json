@@ -1,0 +1,62 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447239669367",
+    "root": "317194665041",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:58:10.749973+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317194665041,
+        "rpid_str": "317194665041",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792118605,
+        "like": 2,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_36a26317e87d93fb71d01edd",
+        "content": {
+          "message": "路边难度不是很好 省的网上吵翻天",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ceb7e1be388a485c86f895fb5c2021b1491978091.jpg",
+              "img_width": 1440,
+              "img_height": 3120,
+              "img_size": 1750.17,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "b935427f9f34768447e2673c7a06a094983f4222a5f423ad9ab9c48ce052e790",
+  "original_bytes_sha256": "f89e1d0c7d1075324633efb30bba5ff8defda024c7c977508476046ad363a6f2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

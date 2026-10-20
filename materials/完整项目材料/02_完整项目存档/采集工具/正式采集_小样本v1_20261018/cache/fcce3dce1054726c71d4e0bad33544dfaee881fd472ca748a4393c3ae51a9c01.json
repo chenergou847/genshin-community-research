@@ -1,0 +1,121 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315795309361",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:09:33.842505+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319403988672,
+          "rpid_str": "319403988672",
+          "root": 315795309361,
+          "root_str": "315795309361",
+          "parent": 315795309361,
+          "parent_str": "315795309361",
+          "dialog": 319403988672,
+          "ctime": 1790980713,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1c1b253c4b384e5658dba1aa",
+          "content": {
+            "message": "蓟县"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315795309361,
+        "rpid_str": "315795309361",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790947311,
+        "like": 4,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_772b719a0de38ebda8eeba34",
+        "content": {
+          "message": "冰主也神了，有没有懂的[汤圆]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5b9fff2b43100dbbe940a987d9c1aae0175515682.jpg",
+              "img_width": 2375,
+              "img_height": 1080,
+              "img_size": 1435.89
+            }
+          ],
+          "emote": {
+            "[汤圆]": {
+              "id": 5936,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[汤圆]",
+              "url": "https://i0.hdslb.com/bfs/emote/93609633a9d194cf336687eb19c01dca95bde719.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  "汤圆",
+                  "元宵节",
+                  "汤团"
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "汤圆"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7c8da99ab25fde7b1dc0f92f4709bc0f50559333ad9dc28dc30637981a72125a",
+  "original_bytes_sha256": "04f33be233e771eaa2e0841eb5124ac88a2a25af104a5161d23b961665575082",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

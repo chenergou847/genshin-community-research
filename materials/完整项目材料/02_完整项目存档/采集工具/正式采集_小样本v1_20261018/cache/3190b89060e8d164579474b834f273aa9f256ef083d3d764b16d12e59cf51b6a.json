@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "320422876720",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:26:08.948299+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316802514913,
+          "rpid_str": "316802514913",
+          "root": 320422876720,
+          "root_str": "320422876720",
+          "parent": 320422876720,
+          "parent_str": "320422876720",
+          "dialog": 316802514913,
+          "ctime": 1791754521,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_247c6b3d71ae0fd9e1336f15",
+          "content": {
+            "message": "特邀嘉宾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320472665648,
+          "rpid_str": "320472665648",
+          "root": 320422876720,
+          "root_str": "320422876720",
+          "parent": 316802514913,
+          "parent_str": "316802514913",
+          "dialog": 316802514913,
+          "ctime": 1791791772,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_841f0ccee3f4d368ba590d9c",
+          "content": {
+            "message": "回复 @艾米Aria :我去不早说，我用木偶刮了半天，没有雷[辣眼睛]",
+            "emote": {
+              "[辣眼睛]": {
+                "id": 2374,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[辣眼睛]",
+                "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "辣眼睛"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316840606081,
+          "rpid_str": "316840606081",
+          "root": 320422876720,
+          "root_str": "320422876720",
+          "parent": 320472665648,
+          "parent_str": "320472665648",
+          "dialog": 316802514913,
+          "ctime": 1791792547,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_eaeb8baf8f8d3cf958ccc41d",
+          "content": {
+            "message": "回复 @我不叫佳桑 : 木偶队伍有风或者雷都可以 都能开领域"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320422876720,
+        "rpid_str": "320422876720",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791737657,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_841f0ccee3f4d368ba590d9c",
+        "content": {
+          "message": "为啥有几关能用雷啊，求科普"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ed1e5c0626770c30a57857a2e7c12ab57201d4588c0469d8a930a9a8feeb7223",
+  "original_bytes_sha256": "eb47b38b517a2020e9214c12ee71715eeccc77280ad1e7fd5916612754e0b9b6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,123 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318929296032",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:36:25.578751+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318929296032,
+        "rpid_str": "318929296032",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790607513,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_9e7d51a8ed53b534ec28b427",
+        "content": {
+          "message": "UP这些角色能打N6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a171ac2533265aeb9aaa6d24bbb8f660644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1591.57
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b1bad1411a735f852cedd29a99a77ba4644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1461.49
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/88f2cadcdb9e6186cc111348fe3042c0644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1441.02
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/661ff39a709133483ff5cd90fb7eca21644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1489.69
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8d9cf20729e8b8833600ce2ec83a6327644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1460.7
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b029ea75a4dc28d87c354b87ee516244644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1430.46
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/27877c67b459be43f3a77935f08ecd4b644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1441.94
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6b7306826864a19b7a9c09c37aa4d09b644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1460.19
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5518038343f56bb0547894d12184dbd5644600542.jpg",
+              "img_width": 1260,
+              "img_height": 2844,
+              "img_size": 1477.25
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4a2aa9bfefc1f42be40ff7891a3b4686ccb8bff05fabcb156c99c3279882b559",
+  "original_bytes_sha256": "9d6b4263e8d993b3abc495752230123527754b5871017465a9e9c0ede46e9113",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

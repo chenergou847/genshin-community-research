@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364813201666",
+    "root": "315657887857",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:43:16.857110+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315657887857,
+        "rpid_str": "315657887857",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790848327,
+        "like": 0,
+        "rcount": 8,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_dc8f92eea3de901792d54e51",
+        "content": {
+          "message": "这次老深渊是不是膨胀了，11 层好难打"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4c19669e1e55c1e93fe03eeb4d5e0f8db53c8405e9484915de8382e7470ddf2a",
+  "original_bytes_sha256": "a7d6943259831b728fe74af99f888332e34f05af7dadc215e1397fa53bd2148e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

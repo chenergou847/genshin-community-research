@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315392226641",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:33:19.619135+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315392226641,
+        "rpid_str": "315392226641",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790634177,
+        "like": 0,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_8b4be7ac5b9d016cb778723c",
+        "content": {
+          "message": "up这个能过n5吗[给心心][给心心]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dc84242e341d67dd7820c550e4b76671353752278.jpg",
+              "img_width": 1179,
+              "img_height": 11901,
+              "img_size": 3147
+            }
+          ],
+          "emote": {
+            "[给心心]": {
+              "id": 3302,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[给心心]",
+              "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "给心心"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0a722da3717528cf78ad3f9ed72b67f8fec97431da3d213ffb698af49a2e30fd",
+  "original_bytes_sha256": "48ffd3ed0ab3ef797548970473127bbcc04b32d14aad03331fba8f8c2705cd06",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

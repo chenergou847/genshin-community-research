@@ -1,0 +1,152 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117448078596976",
+    "root": "317257680065",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:58:58.230032+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317260396977,
+          "rpid_str": "317260396977",
+          "root": 317257680065,
+          "root_str": "317257680065",
+          "parent": 317257680065,
+          "parent_str": "317257680065",
+          "ctime": 1792161327,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_870494a697b22669600f2f2a",
+          "content": {
+            "message": "下半砂糖换莱能压住冰锅"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317260806273,
+          "rpid_str": "317260806273",
+          "root": 317257680065,
+          "root_str": "317257680065",
+          "parent": 317260396977,
+          "parent_str": "317260396977",
+          "ctime": 1792161481,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_799efc472b6894bf71419873",
+          "content": {
+            "message": "回复 @维生素E滋润乳 :莱是哪个[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317262666801,
+          "rpid_str": "317262666801",
+          "root": 317257680065,
+          "root_str": "317257680065",
+          "parent": 317260806273,
+          "parent_str": "317260806273",
+          "ctime": 1792162559,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_870494a697b22669600f2f2a",
+          "content": {
+            "message": "回复 @蹚平- : 视频里面的莱伊拉，4星冰系，充能堆够就行"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317263574497,
+          "rpid_str": "317263574497",
+          "root": 317257680065,
+          "root_str": "317257680065",
+          "parent": 317262666801,
+          "parent_str": "317262666801",
+          "ctime": 1792163107,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_799efc472b6894bf71419873",
+          "content": {
+            "message": "回复 @维生素E滋润乳 :好滴，明天练起来"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317257680065,
+        "rpid_str": "317257680065",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792159716,
+        "like": 2,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_799efc472b6894bf71419873",
+        "content": {
+          "message": "还能打么",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1510cb827e1fa001832211613bcf7ed3312324090.jpg",
+              "img_width": 1240,
+              "img_height": 2772,
+              "img_size": 1322.8
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "2be1fabb4fa30b88044a894c0ed5d2485eca435eed638994d1f77f12c2f6b60b",
+  "original_bytes_sha256": "5253457b44d1a8c04663edb518384517607cc31270354d3a94c96d13eac30d11",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

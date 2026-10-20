@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319056419376",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:22:01.787069+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315496427425,
+          "rpid_str": "315496427425",
+          "root": 319056419376,
+          "root_str": "319056419376",
+          "parent": 319056419376,
+          "parent_str": "319056419376",
+          "dialog": 315496427425,
+          "ctime": 1790729345,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "置顶评论，不是有图片。那是官方的信息截图。米游社，微博，B站动态不也发过了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319056419376,
+        "rpid_str": "319056419376",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790726940,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_7711d1496046df5ae4c69593",
+        "content": {
+          "message": "什么时候开始"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d24a5968a15ffeb581f32e1d15a1964d088e810a024c17cb6ee6553072311578",
+  "original_bytes_sha256": "8b962806f702542258c760504a9cbafa1cb659f1a422401eaebb83236a1935a4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

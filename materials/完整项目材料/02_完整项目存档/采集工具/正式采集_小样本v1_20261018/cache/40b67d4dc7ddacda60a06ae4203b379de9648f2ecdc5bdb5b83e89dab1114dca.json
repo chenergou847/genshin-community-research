@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315482503249",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:23:31.569863+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315482503249,
+        "rpid_str": "315482503249",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790702400,
+        "like": 0,
+        "rcount": 5,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_2cab6df4699de341fcdb912e",
+        "content": {
+          "message": "up晚上好，这个box能打这期n6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2529a4a99774b079f9317e5316897e04381851883.jpg",
+              "img_width": 1080,
+              "img_height": 11866,
+              "img_size": 1427.96
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6afe5eaaf5d43ab3a970a1287afb2f545b215563c413642e50adcf375039dbb0",
+  "original_bytes_sha256": "aa6866c315ca6ce3ddf178e84136cf8bd59e17d087ef551af4606dd749f3eb98",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

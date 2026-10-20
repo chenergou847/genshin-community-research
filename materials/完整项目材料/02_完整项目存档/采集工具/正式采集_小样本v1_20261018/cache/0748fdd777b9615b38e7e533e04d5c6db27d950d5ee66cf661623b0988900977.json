@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315304210513",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:44:15.307818+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315304539169,
+          "rpid_str": "315304539169",
+          "root": 315304210513,
+          "root_str": "315304210513",
+          "parent": 315304210513,
+          "parent_str": "315304210513",
+          "dialog": 315304539169,
+          "ctime": 1790559332,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶星超导，第二间丝柯克，仆人纯火带班尼特，火主超载队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315304476145,
+          "rpid_str": "315304476145",
+          "root": 315304210513,
+          "root_str": "315304210513",
+          "parent": 315304210513,
+          "parent_str": "315304210513",
+          "dialog": 315304476145,
+          "ctime": 1790559366,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315304210513,
+        "rpid_str": "315304210513",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790559065,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_282322dfc1f3d29cc76eab0c",
+        "content": {
+          "message": "有过N5的希望吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7d5753c8b68953781aa2aa90fb84d0b1692749386.jpg",
+              "img_width": 1440,
+              "img_height": 12716,
+              "img_size": 1709.51
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "080ced75c8333b6fc866ae50bb2e505e07e8b4aa7656a4729f54128554508220",
+  "original_bytes_sha256": "d0872541695acf0038f3d09317d85bf25bfe3f823e3176ac89694a06e794ffca",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

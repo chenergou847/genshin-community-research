@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318632892832",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:56:59.186329+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318632892832,
+        "rpid_str": "318632892832",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790390395,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_4b70241039ddc7907ad8c836",
+        "content": {
+          "message": "主播主播，我这个n6怎么配呀",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8d87c7be2b99b4020758cfbe3647f0e239917645.jpg",
+              "img_width": 1080,
+              "img_height": 11820,
+              "img_size": 1453.63
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bce38cffd611219f080703ff8b8af6a3259f8d5cbccef5bc835f9dac5ea5b9a9",
+  "original_bytes_sha256": "8b193115edf9c761f950ed2f593f59f33973f9d42d0d3c0f47927ea4efc9feeb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

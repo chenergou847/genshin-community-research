@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317187508257",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:46:32.026086+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317188249137,
+          "rpid_str": "317188249137",
+          "root": 317187508257,
+          "root_str": "317187508257",
+          "parent": 317187508257,
+          "parent_str": "317187508257",
+          "ctime": 1792112936,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3ab22cfed55a8d33520b2db4",
+          "content": {
+            "message": "这么差一颗星[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317188951937,
+          "rpid_str": "317188951937",
+          "root": 317187508257,
+          "root_str": "317187508257",
+          "parent": 317188249137,
+          "parent_str": "317188249137",
+          "ctime": 1792113722,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_85e13fcb9d1d7ee60a380395",
+          "content": {
+            "message": "回复 @匿天ovo :失误了，手滑了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317187508257,
+        "rpid_str": "317187508257",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792112394,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_85e13fcb9d1d7ee60a380395",
+        "content": {
+          "message": "宝宝巴士",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/daf9f5a19659b945188fc0edfccb0097436168264.jpg",
+              "img_width": 2832,
+              "img_height": 1316,
+              "img_size": 381.67,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "346dd097a189c26f4689aea9a1ee488e67bf5532d12456cf48b7d297350990c4",
+  "original_bytes_sha256": "debbbdf22fd87e67b88121b0118ff050fffabb6505a4b6721d3604c294256918",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

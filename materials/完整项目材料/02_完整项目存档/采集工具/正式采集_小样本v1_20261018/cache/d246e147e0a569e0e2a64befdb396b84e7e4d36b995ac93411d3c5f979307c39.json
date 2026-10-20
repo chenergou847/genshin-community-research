@@ -1,0 +1,154 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315821819041",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:07:57.587957+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319408327696,
+          "rpid_str": "319408327696",
+          "root": 315821819041,
+          "root_str": "315821819041",
+          "parent": 315821819041,
+          "parent_str": "315821819041",
+          "dialog": 319408327696,
+          "ctime": 1790987008,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_81b7bd2b89358396ed2733f5",
+          "content": {
+            "message": "隔壁抽欢愉区不如玩格调[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320256328720,
+          "rpid_str": "320256328720",
+          "root": 315821819041,
+          "root_str": "315821819041",
+          "parent": 315821819041,
+          "parent_str": "315821819041",
+          "dialog": 320256328720,
+          "ctime": 1791621384,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f6a0a3621bd9eba2852e771b",
+          "content": {
+            "message": "爻光不如你奥姐一根，天天卡能量，火爻大战打到现在，我说白了，女皇也就是解决了奥不能拆开用的缺点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315821819041,
+        "rpid_str": "315821819041",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790963498,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_8717879d256a88815998a815",
+        "content": {
+          "message": "6月刚回游，从隔壁来的，隔壁从3.0就开始这么搞了，4.0出了个爻光也是体系专拐，当我看到奥黛塔的机制就知道大保底也得拿下[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d83fe7f51239db11b84463cf55ae933ddd2e51a4d93650a09c9e5cd283945598",
+  "original_bytes_sha256": "17752e005edad7aeb25c1d454f678447349163b7be6b9079ee05845b439fd4f4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

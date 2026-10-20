@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314928172705",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:26:19.117762+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314928172705,
+        "rpid_str": "314928172705",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790254264,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_439254145eeb9373581edbea",
+        "content": {
+          "message": "上一期N5满了，我感觉这一期N5还有机会",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/da3226d4df1578578ec82a13ee1210ac292044398.jpg",
+              "img_width": 1080,
+              "img_height": 11574,
+              "img_size": 1387.67,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "56fdca184f38a0f1d5690c4778904c0eecf99d3833a21094dddffa23365b0768",
+  "original_bytes_sha256": "f7afe2b5714921c736e318963457804b45b2d7d6de4a64a60561020c510e2e58",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

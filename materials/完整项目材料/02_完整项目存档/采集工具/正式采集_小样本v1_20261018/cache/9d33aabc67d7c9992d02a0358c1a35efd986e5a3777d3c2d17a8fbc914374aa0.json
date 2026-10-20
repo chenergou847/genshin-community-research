@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318456055776",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:27:05.091337+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318456055776,
+        "rpid_str": "318456055776",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790251128,
+        "like": 0,
+        "rcount": 8,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_0f890e896df377028de33698",
+        "content": {
+          "message": "孩子们，有机会能过N7吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1df563906339c68e0dcc607c693fbb84358774507.jpg",
+              "img_width": 1220,
+              "img_height": 2656,
+              "img_size": 1375.8,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "497aeb77b98225cbafbf0c10b119b4ccb03cba24dbdca37c178be04444cf3f3a",
+  "original_bytes_sha256": "8bfe20cbf876a6eff80de5183484487e9c25cab469811a187b843187140e4992",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

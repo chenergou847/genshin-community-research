@@ -1,0 +1,239 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315812758961",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:41.691053+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319386573312,
+          "rpid_str": "319386573312",
+          "root": 315812758961,
+          "root_str": "315812758961",
+          "parent": 315812758961,
+          "parent_str": "315812758961",
+          "dialog": 319386573312,
+          "ctime": 1790957181,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6fbeb482e7367e0c87f3e0c2",
+          "content": {
+            "message": "我刚好多出一张女祭司，要不咱俩换？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315815108497,
+          "rpid_str": "315815108497",
+          "root": 315812758961,
+          "root_str": "315812758961",
+          "parent": 319386573312,
+          "parent_str": "319386573312",
+          "dialog": 319386573312,
+          "ctime": 1790957937,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4764ac1c285dc4959664cd09",
+          "content": {
+            "message": "回复 @宇师傅香炸奶酪卷 :好呀好呀你直接加我图里的UID就行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319425385072,
+          "rpid_str": "319425385072",
+          "root": 315812758961,
+          "root_str": "315812758961",
+          "parent": 315815108497,
+          "parent_str": "315815108497",
+          "dialog": 319386573312,
+          "ctime": 1790998627,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6fbeb482e7367e0c87f3e0c2",
+          "content": {
+            "message": "回复 @我这体质招虫 :得同时在线，要不咱们约个上线时间？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315850274065,
+          "rpid_str": "315850274065",
+          "root": 315812758961,
+          "root_str": "315812758961",
+          "parent": 319425385072,
+          "parent_str": "319425385072",
+          "dialog": 319386573312,
+          "ctime": 1790998653,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4764ac1c285dc4959664cd09",
+          "content": {
+            "message": "回复 @宇师傅香炸奶酪卷 :可以呀，我什么时间都可以，你喊我一声就可以上线"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319425432816,
+          "rpid_str": "319425432816",
+          "root": 315812758961,
+          "root_str": "315812758961",
+          "parent": 315850274065,
+          "parent_str": "315850274065",
+          "dialog": 319386573312,
+          "ctime": 1790998706,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6fbeb482e7367e0c87f3e0c2",
+          "content": {
+            "message": "回复 @我这体质招虫 :其实我现在就可以[妙啊]",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315850424177,
+          "rpid_str": "315850424177",
+          "root": 315812758961,
+          "root_str": "315812758961",
+          "parent": 319425432816,
+          "parent_str": "319425432816",
+          "dialog": 319386573312,
+          "ctime": 1790998762,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4764ac1c285dc4959664cd09",
+          "content": {
+            "message": "回复 @宇师傅香炸奶酪卷 :OK那就上了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315812758961,
+        "rpid_str": "315812758961",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790956367,
+        "like": 2,
+        "rcount": 6,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_4764ac1c285dc4959664cd09",
+        "content": {
+          "message": "有人换牌吗，多一张魔法师",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a6ef1a0e02095bcb3f283ee2aeb39d4e1542063953.jpg",
+              "img_width": 720,
+              "img_height": 5060,
+              "img_size": 361.81
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d0212e55d977d34eff7b9ffce6c4ad29ddcab671e81657304c24bc3fea34576c",
+  "original_bytes_sha256": "5989e5813759060052956f8ca5aae129a0891a3d230628e78ddaedf1f2b3b7e0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

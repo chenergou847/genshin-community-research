@@ -1,0 +1,119 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315967038497",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:45:58.918786+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319572575776,
+          "rpid_str": "319572575776",
+          "root": 315967038497,
+          "root_str": "315967038497",
+          "parent": 315967038497,
+          "parent_str": "315967038497",
+          "dialog": 319572575776,
+          "ctime": 1791098418,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1fe3b5f78d2507dd226039e4",
+          "content": {
+            "message": "哇还有盗冰贤者"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315967038497,
+        "rpid_str": "315967038497",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791085675,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9dbf934ba1639db28431e8f0",
+        "content": {
+          "message": "我是纯火过的[藏狐]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2646e499902e92b5f96c9e7eb2c74d712001684680.jpg",
+              "img_width": 2800,
+              "img_height": 1260,
+              "img_size": 1344.88
+            }
+          ],
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f9efc92d4c906a7c7a240d3591f774573a3b15e1a632ba6e535e195473a243cc",
+  "original_bytes_sha256": "8e2837f3dfb64c6aa34e95d22b8f5a9e4afbc47f4a89e0d16871e44b42af3a04",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

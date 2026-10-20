@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "320990400464",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:46:18.880917+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320990400464,
+        "rpid_str": "320990400464",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792225581,
+        "like": 60,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_5b1dbbf2c9d18eb15d954d6d",
+        "content": {
+          "message": "丘林这血量真吓人，满火融化一刀感觉就掉了层皮。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c808a7eaf43dce5c4c6124ad1c6b121617d67f8895696ed7b8417abe468ab64b",
+  "original_bytes_sha256": "3ca63de050b8f6fe7fab6f6922da9f13335e0a77fdb0edbe806a47414d776ab7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,98 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320894451360",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:07:35.167070+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317256173537,
+          "rpid_str": "317256173537",
+          "root": 320894451360,
+          "root_str": "320894451360",
+          "parent": 320894451360,
+          "parent_str": "320894451360",
+          "ctime": 1792158925,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8fb696a8964a182b996d59e3",
+          "content": {
+            "message": "牢在哪[笑哭]怪牢吗（）",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320894451360,
+        "rpid_str": "320894451360",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792150184,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_28b9fed9c1442cb79e57096e",
+        "content": {
+          "message": "没星烁反应的只能玩牢角色版本逆行了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f7c4fcb53d893c4656efe1bf2dedff0c64736785.jpg",
+              "img_width": 1080,
+              "img_height": 2334,
+              "img_size": 329.23
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "ffdc51ab3678580d69e6519e7e5aad542aa5a989be7c2d50f8acee0b17c5bbf3",
+  "original_bytes_sha256": "bb2eae6b722fdbf00e6c8f2f1ff485178d5b2e1a45a3fa7785a49e3ec7ed276a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

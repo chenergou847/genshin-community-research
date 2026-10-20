@@ -1,0 +1,879 @@
+{
+  "at": "2026-10-19T05:39:56.271436+00:00",
+  "started_at": "2026-10-19T05:37:46.757173+00:00",
+  "collection_hash": "75becedfbda9cbde26931afe63888740cd63b383ca3e068b36a4651dcb1a0409",
+  "requests": 31,
+  "dialogs": [
+    {
+      "bvid": "BV12fJe6bEbz",
+      "root_id": "320978740800",
+      "dialog_id": "320979074688",
+      "known_children": [
+        "320982688608",
+        "320983359392",
+        "320983441728",
+        "320985037840",
+        "320985491904",
+        "320985520496"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "320979074688",
+            "320979379840",
+            "320979572640",
+            "320981168896",
+            "320983441728",
+            "320983791168",
+            "320985530640",
+            "317327419729",
+            "320992406000"
+          ],
+          "cursor": {
+            "min_floor": 2,
+            "max_floor": 55,
+            "size": 9,
+            "next": 56,
+            "prev": 1,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":56}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:37:55.371500+00:00",
+          "response_hash": "c3059de5091ce34b5dbdfd67be0850d4b660317f6d965a1f5bc9bc49f9e5f226"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 55,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":55}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:37:59.537182+00:00",
+          "response_hash": "37dd1d450f082275dbc536d1c5c762092d6b87a2fea869b02189cfa95e256ef0"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "dialog_id": "314940548961",
+      "known_children": [
+        "318474899168"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "318474899168"
+          ],
+          "cursor": {
+            "min_floor": 3,
+            "max_floor": 3,
+            "size": 1,
+            "next": 4,
+            "prev": 2,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":4}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:03.507478+00:00",
+          "response_hash": "31d7eb14e23fb111e16563434e3724a868e1c3bedb56624ade820a33417510a0"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 3,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":3}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:07.306546+00:00",
+          "response_hash": "4af6758f83285fb5d43d34487bb444d5a52001fc97f597d7e700d6d54c20780f"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "dialog_id": "314942093713",
+      "known_children": [
+        "314944409057",
+        "314954578609",
+        "314971013393",
+        "314999976817",
+        "315007852449"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "314944409057",
+            "314945745409",
+            "314947160641",
+            "314949163713",
+            "314954578609",
+            "318495478736",
+            "314966725745",
+            "314966901105",
+            "314971013393",
+            "314974348913",
+            "314976285153",
+            "314999976817",
+            "315007852449",
+            "318622640864",
+            "315126299217"
+          ],
+          "cursor": {
+            "min_floor": 8,
+            "max_floor": 40,
+            "size": 15,
+            "next": 41,
+            "prev": 7,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":41}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:11.062892+00:00",
+          "response_hash": "9b7bdc1d2e78b368a0c6485c4946c983bafc50b081cb07372affbe158639a967"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 40,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":40}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:15.481530+00:00",
+          "response_hash": "1ecacde4a92f44ef9f345695fc3693590bdf199c380813004f3579c2f1ce09e7"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "315055702433",
+      "dialog_id": "315055890289",
+      "known_children": [
+        "315056173585"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "315056173585"
+          ],
+          "cursor": {
+            "min_floor": 5,
+            "max_floor": 5,
+            "size": 1,
+            "next": 6,
+            "prev": 4,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":6}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:19.310585+00:00",
+          "response_hash": "aec7794139f94381c0caba0497a6c098495a7efb8ad33685ffb8072c7e3c3a63"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 5,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":5}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:23.167456+00:00",
+          "response_hash": "87c4110ce247a64f76e253bf38f230b9d787e6aa27bfa100c52b69c4cec0ee2e"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "315061993377",
+      "dialog_id": "315062237633",
+      "known_children": [
+        "315063210225"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "315062237633",
+            "315062438929",
+            "315062614465",
+            "315062636097",
+            "315062890385",
+            "315063210225",
+            "315063192337",
+            "315063366081",
+            "315063448385",
+            "315063334433",
+            "315063399505",
+            "315063518065",
+            "315063686177",
+            "315063662961"
+          ],
+          "cursor": {
+            "min_floor": 4,
+            "max_floor": 20,
+            "size": 14,
+            "next": 21,
+            "prev": 3,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":21}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:27.283928+00:00",
+          "response_hash": "72da878d846ddb3526ac0cbebb427de6f07da072a5227c25e1fe59566d8d4f54"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 20,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":20}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:31.431903+00:00",
+          "response_hash": "96df34a2e196151d20fdf71cbe6a9e084536ced03f0fe7643509325b75b21a9d"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "315094616817",
+      "dialog_id": "318645583616",
+      "known_children": [
+        "318645878256"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "318645583616",
+            "318645878256",
+            "315103325617",
+            "318646206384",
+            "315103758849"
+          ],
+          "cursor": {
+            "min_floor": 8,
+            "max_floor": 16,
+            "size": 5,
+            "next": 17,
+            "prev": 7,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":17}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:35.266303+00:00",
+          "response_hash": "67aabdcbbb00bc20e5823c5a19a1ce58d76d3be6c6aa833dacf0e6a245673302"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 16,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":16}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:39.284452+00:00",
+          "response_hash": "f17207cc123004b7fb8c0e76fd813c918f9803e69e7f06dde81a303d57cccf97"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "315400518497",
+      "dialog_id": "315401585697",
+      "known_children": [
+        "315402683441"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "315402683441"
+          ],
+          "cursor": {
+            "min_floor": 5,
+            "max_floor": 5,
+            "size": 1,
+            "next": 6,
+            "prev": 4,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":6}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:44.075344+00:00",
+          "response_hash": "5b2be19816d56d02fe36d801bc49b54c642b57e83ef09fe07ba3f87e020af4bd"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 5,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":5}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:47.883303+00:00",
+          "response_hash": "87c4110ce247a64f76e253bf38f230b9d787e6aa27bfa100c52b69c4cec0ee2e"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "318915304256",
+      "dialog_id": "315365864721",
+      "known_children": [
+        "318922503120"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "318922503120",
+            "315367294481",
+            "315367480337",
+            "315367571921",
+            "315367651761"
+          ],
+          "cursor": {
+            "min_floor": 4,
+            "max_floor": 11,
+            "size": 5,
+            "next": 12,
+            "prev": 3,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":12}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:51.675026+00:00",
+          "response_hash": "37ba8d5444537411ebebfc8c7cdbb60f47aab600aeb6af2b9294b1f48f723578"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 11,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":11}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:55.648997+00:00",
+          "response_hash": "3048e117d7bcdceb730001e1133f027c36d5ca9f85e66d880f95550498b74c7c"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV137aA63EF6",
+      "root_id": "319138922672",
+      "dialog_id": "319139784304",
+      "known_children": [
+        "319143374640"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "319139784304",
+            "319143374640",
+            "319143966736"
+          ],
+          "cursor": {
+            "min_floor": 1,
+            "max_floor": 4,
+            "size": 3,
+            "next": 5,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":5}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:38:59.478939+00:00",
+          "response_hash": "018e348f8220a702ab2b17a56e44cb1aa71dcdc6e668a7b9894c82e45020e97d"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 4,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":4}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:03.404328+00:00",
+          "response_hash": "3f4b9eae201921b5e2d63eab10efbb510d4e03ef16d23ec20fe3f001e8b502fc"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "315680903009",
+      "dialog_id": "315817367905",
+      "known_children": [
+        "316163334129",
+        "316164068881"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "315817367905",
+            "316161512737",
+            "316162084289",
+            "316162021425",
+            "316162161665",
+            "316163334129",
+            "316164068881",
+            "316230923057",
+            "319949524896"
+          ],
+          "cursor": {
+            "min_floor": 1,
+            "max_floor": 13,
+            "size": 9,
+            "next": 14,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":14}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:07.180156+00:00",
+          "response_hash": "273b8a7334eaa98fae8f33eac174bf8f50aae43aa7e10e85e82afa4eac3b603b"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 13,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":13}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:11.212057+00:00",
+          "response_hash": "9ae770a22585013044ad6276ef50ed2974dc9db1b8af359007a9ca4a77b46c05"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "316280823873",
+      "dialog_id": "316547634721",
+      "known_children": [
+        "320529078272"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "320529078272"
+          ],
+          "cursor": {
+            "min_floor": 11,
+            "max_floor": 11,
+            "size": 1,
+            "next": 12,
+            "prev": 10,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":12}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:15.000303+00:00",
+          "response_hash": "ecd9bf137d8eaed43ab44fbcb58df05b97b6d6fd7747873b8efadaca747cb53b"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 11,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":11}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:18.810485+00:00",
+          "response_hash": "3048e117d7bcdceb730001e1133f027c36d5ca9f85e66d880f95550498b74c7c"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "316676436161",
+      "dialog_id": "316706472977",
+      "known_children": [
+        "316711946017",
+        "316712136673"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "316711946017",
+            "316712136673"
+          ],
+          "cursor": {
+            "min_floor": 3,
+            "max_floor": 4,
+            "size": 2,
+            "next": 5,
+            "prev": 2,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":5}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:22.615990+00:00",
+          "response_hash": "650e0faf571e069eededce5962845dfdee3d54f91c00ece87c5dd9b1afc3e124"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 4,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":4}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:26.477947+00:00",
+          "response_hash": "3f4b9eae201921b5e2d63eab10efbb510d4e03ef16d23ec20fe3f001e8b502fc"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV1B7a16gEXr",
+      "root_id": "319347514112",
+      "dialog_id": "315846741329",
+      "known_children": [
+        "315866356849",
+        "319422439424"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "319422439424",
+            "315866356849",
+            "315866563985"
+          ],
+          "cursor": {
+            "min_floor": 8,
+            "max_floor": 24,
+            "size": 3,
+            "next": 25,
+            "prev": 7,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":25}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:30.257809+00:00",
+          "response_hash": "87f5c6df2e721f734ce7617e4f561d6665c64080ae6974927b76cafeb57cef29"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 24,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":24}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:34.139778+00:00",
+          "response_hash": "58af2dde8cd7a7e2e2d3dfca7f318933066c0bb12063d3af1a037c83f5422335"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    },
+    {
+      "bvid": "BV1B7a16gEXr",
+      "root_id": "319347514112",
+      "dialog_id": "319426522576",
+      "known_children": [
+        "319439357424",
+        "319439467072"
+      ],
+      "pages": [
+        {
+          "pn": 1,
+          "ids": [
+            "319426522576",
+            "319439357424",
+            "319439467072"
+          ],
+          "cursor": {
+            "min_floor": 11,
+            "max_floor": 21,
+            "size": 3,
+            "next": 22,
+            "prev": 10,
+            "is_begin": true,
+            "pagination_reply": {
+              "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":22}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:37.968069+00:00",
+          "response_hash": "e1c4e6311707999f177ece0021bceddec21c577ceb4b5699db3a2c96ee914e0b"
+        },
+        {
+          "pn": 2,
+          "ids": [],
+          "cursor": {
+            "min_floor": 0,
+            "max_floor": 0,
+            "size": 0,
+            "prev": 21,
+            "is_end": true,
+            "pagination_reply": {
+              "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":21}}"
+            },
+            "session_id": ""
+          },
+          "candidates": [],
+          "captured_at": "2026-10-19T05:39:42.632379+00:00",
+          "response_hash": "09267464ae972786e78b8e31a18a7dc5a09546bc5b5572c261c361fb4981350b"
+        }
+      ],
+      "normal_end": true,
+      "budget_exhausted": false,
+      "positive_control_found": true
+    }
+  ],
+  "exact_rechecks": [
+    {
+      "bvid": "BV1zLJv6mE8T",
+      "id": "321024585584",
+      "exact_ID_found": false,
+      "captured_at": "2026-10-19T05:39:46.448379+00:00",
+      "response_hash": "05fa40b499cbca6a076fdfeff5f29f03ae5899117a05e17011d9d987b92f2dd5"
+    },
+    {
+      "bvid": "BV1zLJv6mE8T",
+      "id": "321050042832",
+      "exact_ID_found": false,
+      "captured_at": "2026-10-19T05:39:51.028732+00:00",
+      "response_hash": "a17f39790faf27b18665d62fec6fd96ff960fce0e0bad4f156080e58de639ebe"
+    }
+  ],
+  "changed_zero_capture": {
+    "bvid": "BV1jjJY6MEwP",
+    "comments": [
+      {
+        "id": "321119894896",
+        "bvid": "BV1jjJY6MEwP",
+        "root_id": "321119894896",
+        "parent_id": "0",
+        "level": "root",
+        "author_id": "U_fa97bf9232e28516b4d73f2c",
+        "ctime": 1792318986,
+        "ctime_bjt": "2026-10-18T18:23:06+08:00",
+        "text": "我问你个事（）",
+        "body_status": "saved",
+        "edit_time": null,
+        "edit_time_reason": "not_returned_by_adapter",
+        "media": false,
+        "emote": false,
+        "media_readability": "not_applicable",
+        "pinned": false,
+        "like": 1,
+        "reply_count": 0,
+        "text_hash": "6a84282f3bd830f75466f0886c8110588c5cd6d4dfe5e3e78c782b5bc8c1eb07"
+      }
+    ],
+    "cursor": {
+      "is_begin": true,
+      "prev": 0,
+      "next": 0,
+      "is_end": true,
+      "pagination_reply": {},
+      "session_id": "",
+      "mode": 2,
+      "mode_text": "",
+      "all_count": 1,
+      "support_mode": [
+        2,
+        3
+      ],
+      "name": "最新评论"
+    },
+    "captured_at": "2026-10-19T05:39:55.397758+00:00",
+    "response_hash": "e36661d35532776df4bed59a03d15375f06366787c76b4d865bf6e7900d623e8"
+  },
+  "status": "BOUNDED_DIALOG_VERIFICATION_ENDED",
+  "finished_at": "2026-10-19T05:39:56.235859+00:00",
+  "summary": {
+    "status": "BOUNDED_DIALOG_VERIFICATION_ENDED",
+    "requests": 31,
+    "dialog_groups_attempted": 14,
+    "dialog_groups_planned": 14,
+    "normal_ends": 14,
+    "positive_controls": 14,
+    "parent_bodies_recovered": 0,
+    "recovered_IDs": [],
+    "master_collection_unchanged": true,
+    "formal_comment_sample_generated": false
+  }
+}

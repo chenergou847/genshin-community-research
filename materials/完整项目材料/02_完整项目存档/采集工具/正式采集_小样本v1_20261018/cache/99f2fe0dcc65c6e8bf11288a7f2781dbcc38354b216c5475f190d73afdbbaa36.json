@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318532249296",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:10:23.765799+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318532249296,
+        "rpid_str": "318532249296",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790313487,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_74f4c583759398a2726ca437",
+        "content": {
+          "message": "能打n5吗？抽木偶之前一个冰也没，就没打过冰锅[保卫萝卜_哭哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/954680e3dc81dbb5591d0cbe2fb5ad133546916449159742.jpg",
+              "img_width": 1256,
+              "img_height": 12872,
+              "img_size": 1641.35
+            }
+          ],
+          "emote": {
+            "[保卫萝卜_哭哭]": {
+              "id": 4945,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[保卫萝卜_哭哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/7d249f7c990111d3e2982f7477af15b7eb29cbd9.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  "哭哭"
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哭哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3c346f973c891d3a655fdd8efdc896d4f007ba6c079b22dc0610227aafa49c85",
+  "original_bytes_sha256": "525d46401b65f06461f4108196aa58f0b4f2c130ebb66dd5201fcf0b9ae3a68f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

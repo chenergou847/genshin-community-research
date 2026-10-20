@@ -1,0 +1,139 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117447474547463",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-17T15:05:06.705933+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 3,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320986886432,
+          "rpid_str": "320986886432",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792223259,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7dc124f627b819022808ebfb",
+          "content": {
+            "message": "本来雷神打上半狮子打了2分钟出头感觉打不过了，下半冰主30多秒速通冰锅，冰主大人[保佑][保佑][保佑]。如果冰锅在上半不敢想有多快[笑哭]",
+            "emote": {
+              "[保佑]": {
+                "id": 1903,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[保佑]",
+                "url": "https://i0.hdslb.com/bfs/emote/fafe8d3de0dc139ebe995491d2dac458a865fb30.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "保佑"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320974322704,
+          "rpid_str": "320974322704",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792215319,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_d69879c8b1070e7ddcb6df07",
+          "content": {
+            "message": "阿罗夏换神子能打吗"
+          },
+          "replies": [
+            {
+              "rpid": 317325243137,
+              "rpid_str": "317325243137",
+              "root": 320974322704,
+              "root_str": "320974322704",
+              "parent": 320974322704,
+              "parent_str": "320974322704",
+              "ctime": 1792221440,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_fe53ef9db0ac6c040f8ada82",
+              "content": {
+                "message": "可以，上半打月幻蝶要带个奶冰主奥黛塔神子七七可以"
+              },
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "response_hash": "d31cdcd4d2b11332886f8a59a94b377cfaf11fc1e87f07e93c1eec6ca2ea3522",
+  "original_bytes_sha256": "e5980823bec7c8eba183a4a811118c8694356c66c5dc54915b82c9025ce4825f",
+  "author_key_id": "8c23bcfed5ae30867b344493dd2308dca225917cb9e451b91f6e2b592fe91e67",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

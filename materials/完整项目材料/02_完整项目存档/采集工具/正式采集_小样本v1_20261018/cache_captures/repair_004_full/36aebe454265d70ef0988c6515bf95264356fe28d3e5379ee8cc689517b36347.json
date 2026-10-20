@@ -1,0 +1,250 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320895898704",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:37:12.369698+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317242163041,
+          "rpid_str": "317242163041",
+          "root": 320895898704,
+          "root_str": "320895898704",
+          "parent": 320895898704,
+          "parent_str": "320895898704",
+          "ctime": 1792151001,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3df79a4bdc64a938f0431009",
+          "content": {
+            "message": "塔利亚是个啥定位来着[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320895992064,
+          "rpid_str": "320895992064",
+          "root": 320895898704,
+          "root_str": "320895898704",
+          "parent": 317242163041,
+          "parent_str": "317242163041",
+          "ctime": 1792151035,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9ef2383d4936fa835fe90b8",
+          "content": {
+            "message": "回复 @取名字好困难123 :给盾和前台攻速"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320898052048,
+          "rpid_str": "320898052048",
+          "root": 320895898704,
+          "root_str": "320895898704",
+          "parent": 320895898704,
+          "parent_str": "320895898704",
+          "ctime": 1792152115,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3c1383342591262d57e9daaf",
+          "content": {
+            "message": "是进机制伤害高吗，我也这个配队，没进机制就给过了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320904854416,
+          "rpid_str": "320904854416",
+          "root": 320895898704,
+          "root_str": "320895898704",
+          "parent": 320898052048,
+          "parent_str": "320898052048",
+          "ctime": 1792155885,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9ef2383d4936fa835fe90b8",
+          "content": {
+            "message": "回复 @诶嘿无语 :应该是进了吧，状态栏有个红色的标记"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317262071793,
+          "rpid_str": "317262071793",
+          "root": 320895898704,
+          "root_str": "320895898704",
+          "parent": 320895898704,
+          "parent_str": "320895898704",
+          "ctime": 1792162239,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_45dcc1f9429e3d851241ba40",
+          "content": {
+            "message": "那个蝴蝶有百分比扣血来着，我记得还会扣你双暴和治疗加成，要回满血了才能解除"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320920385984,
+          "rpid_str": "320920385984",
+          "root": 320895898704,
+          "root_str": "320895898704",
+          "parent": 317262071793,
+          "parent_str": "317262071793",
+          "ctime": 1792164281,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2af21561c2b990e1bbe18e87",
+          "content": {
+            "message": "回复 @中二病患者中二羊Asriel :为什么我打蝴蝶扑人大招和班尼特大招都不能回血"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320924149968,
+          "rpid_str": "320924149968",
+          "root": 320895898704,
+          "root_str": "320895898704",
+          "parent": 317262071793,
+          "parent_str": "317262071793",
+          "ctime": 1792166561,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9ef2383d4936fa835fe90b8",
+          "content": {
+            "message": "回复 @中二病患者中二羊Asriel :这样吗，之前没咋打过或者都是火神直接秒了没体验过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320895898704,
+        "rpid_str": "320895898704",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792150947,
+        "like": 4,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_d9ef2383d4936fa835fe90b8",
+        "content": {
+          "message": "上半那个蝴蝶伤害怎么这么高，砂糖换了七七才没死",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9ceba32d1e6890031e541c051536900928439936.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 1375.99,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "a11eceae976663879565fe9a5ff4bc4cdc135c17bc9786a8261e0649041441f9",
+  "original_bytes_sha256": "32a5e0dbdec2cb3e5bf64061c1823ef4fd00cac26600bbccc38cbbd2809e4a9f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

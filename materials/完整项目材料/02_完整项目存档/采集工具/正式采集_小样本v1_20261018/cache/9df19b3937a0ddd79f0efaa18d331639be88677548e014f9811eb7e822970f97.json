@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318910923408",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:37:50.853963+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315366358113,
+          "rpid_str": "315366358113",
+          "root": 318910923408,
+          "root_str": "318910923408",
+          "parent": 318910923408,
+          "parent_str": "318910923408",
+          "dialog": 315366358113,
+          "ctime": 1790603347,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "有2奶2希，都六金了。可以凹"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315366371633,
+          "rpid_str": "315366371633",
+          "root": 318910923408,
+          "root_str": "318910923408",
+          "parent": 318910923408,
+          "parent_str": "318910923408",
+          "dialog": 315366371633,
+          "ctime": 1790603370,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你用班尼特战场配合破，他也是强火"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318927751120,
+          "rpid_str": "318927751120",
+          "root": 318910923408,
+          "root_str": "318910923408",
+          "parent": 315366358113,
+          "parent_str": "315366358113",
+          "dialog": 315366358113,
+          "ctime": 1790606674,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_92d4e6616c26cbd02718ffcf",
+          "content": {
+            "message": "回复 @星光璀璨之时 :好等上了我试试看"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318927792848,
+          "rpid_str": "318927792848",
+          "root": 318910923408,
+          "root_str": "318910923408",
+          "parent": 315366371633,
+          "parent_str": "315366371633",
+          "dialog": 315366371633,
+          "ctime": 1790606683,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_92d4e6616c26cbd02718ffcf",
+          "content": {
+            "message": "回复 @星光璀璨之时 :👌ok[打call]",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318910923408,
+        "rpid_str": "318910923408",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790597154,
+        "like": 0,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_92d4e6616c26cbd02718ffcf",
+        "content": {
+          "message": "第三间00火满精螭骨剑2000攻击满爆243爆伤 磐岩套21希 2奶 297充能天空刃6班有机会吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/13b77fe71f488891f7a94a851e7fed303546787199584600.jpg",
+              "img_width": 1080,
+              "img_height": 2309,
+              "img_size": 1205.35
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bdfd902c5f7a52640372c94ba0e22ec5632d1220cfa45e7030924782087a1019",
+  "original_bytes_sha256": "405dc44e90503bd69d1004f016d361f2f10a0b4fe9740fabe1e91d93cceeca29",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

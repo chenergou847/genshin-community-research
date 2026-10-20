@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315039720433",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:05:13.725226+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315041957057,
+          "rpid_str": "315041957057",
+          "root": 315039720433,
+          "root_str": "315039720433",
+          "parent": 315039720433,
+          "parent_str": "315039720433",
+          "dialog": 315041957057,
+          "ctime": 1790341529,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "薇斯纳0+1，0奥，0沃。0+0有点困难，凹的很"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315041839393,
+          "rpid_str": "315041839393",
+          "root": 315039720433,
+          "root_str": "315039720433",
+          "parent": 315039720433,
+          "parent_str": "315039720433",
+          "dialog": 315041839393,
+          "ctime": 1790341538,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "薇斯纳4金或以上"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315042403985,
+          "rpid_str": "315042403985",
+          "root": 315039720433,
+          "root_str": "315039720433",
+          "parent": 315039720433,
+          "parent_str": "315039720433",
+          "dialog": 315042403985,
+          "ctime": 1790341732,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间火神尼可纯火队可以打。第二间木偶极限可以，不用奥黛塔就行，木偶阿罗夏迪奥娜+砂糖/七七等，，薇斯纳第三间也可以打。第一间满命丝柯克+沃雅妮莎+奥黛塔+皇女等挂雷，走个星超导破机制。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315042338737,
+          "rpid_str": "315042338737",
+          "root": 315039720433,
+          "root_str": "315039720433",
+          "parent": 315039720433,
+          "parent_str": "315039720433",
+          "dialog": 315042338737,
+          "ctime": 1790341753,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋假期快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315039720433,
+        "rpid_str": "315039720433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790340294,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_4aeda7d317cc42fe3b0a1443",
+        "content": {
+          "message": "up，看看这个可以极限过吗，过不了就算了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3f6536918ef4a818a38c8ef198c00f151982045450.jpg",
+              "img_width": 1264,
+              "img_height": 14368,
+              "img_size": 1773.68
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "14bee56fda3f3720085aaa71ac6a6058e63f8c6c786e6fa7f90f4a2eac8a33d7",
+  "original_bytes_sha256": "34b0dd9e2e4f2983e5637d3b85aff90dd361f68c6e791199a5778d2fdc94a76f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

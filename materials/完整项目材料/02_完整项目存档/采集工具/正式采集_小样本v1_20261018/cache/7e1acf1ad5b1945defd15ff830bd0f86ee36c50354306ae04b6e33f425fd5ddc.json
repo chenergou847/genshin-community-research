@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315050861409",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:03:58.730796+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315051239313,
+          "rpid_str": "315051239313",
+          "root": 315050861409,
+          "root_str": "315050861409",
+          "parent": 315050861409,
+          "parent_str": "315050861409",
+          "dialog": 315051239313,
+          "ctime": 1790346556,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶1+1，2奥就行，"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315051259361,
+          "rpid_str": "315051259361",
+          "root": 315050861409,
+          "root_str": "315050861409",
+          "parent": 315050861409,
+          "parent_str": "315050861409",
+          "dialog": 315051259361,
+          "ctime": 1790346588,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "菲林斯第三间带冰主都能打。二命够了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315052885457,
+          "rpid_str": "315052885457",
+          "root": 315050861409,
+          "root_str": "315050861409",
+          "parent": 315050861409,
+          "parent_str": "315050861409",
+          "dialog": 315052885457,
+          "ctime": 1790347439,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间丝柯克队二命芙宁娜补个艾可菲"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315050861409,
+        "rpid_str": "315050861409",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790346382,
+        "like": 2,
+        "rcount": 3,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_a926a50d55d4f6fda5efd194",
+        "content": {
+          "message": "能过n6吗[蹲蹲]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/577cc6a564adc4e33920c46780e6d17a1771526584.jpg",
+              "img_width": 750,
+              "img_height": 8068,
+              "img_size": 1705
+            }
+          ],
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "636f36aaf2cf148a78032689f21526ee040365ce76ea0d28bcd42e7c8d9ca26b",
+  "original_bytes_sha256": "babdb1d25b675e16edd2b995060fb663ea45f05fbbdf15b284ac7b2534356781",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

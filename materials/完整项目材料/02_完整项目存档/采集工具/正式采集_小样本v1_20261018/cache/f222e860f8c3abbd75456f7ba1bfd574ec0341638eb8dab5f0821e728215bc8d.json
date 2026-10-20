@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315140178433",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:54:16.583992+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315140178433,
+        "rpid_str": "315140178433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790420305,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_001acfe6ecbe22052aab9e89",
+        "content": {
+          "message": "n6的话。第一间菲机少带奥，第二间仆带双冰希诺宁？第三间瑞希？\n或者第二间杜尼带洛恩呢，第三间用仆人。能稳过n6嘛",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/39aee32e2da1152febe48bf6bab4cf871790380197.jpg",
+              "img_width": 1280,
+              "img_height": 13377,
+              "img_size": 1631.12
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b17d73af8ab3b7191acc613cc4513ccbdd3043e3ea22c6b4ac797c6fae7b2664",
+  "original_bytes_sha256": "0b9a2fb66d7a25d3573e26be61becef492cdd59fcf9acd63cfccc8d45b9d7a7d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

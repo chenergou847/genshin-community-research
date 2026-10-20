@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "320129475040",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:43:07.437563+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320130958544,
+          "rpid_str": "320130958544",
+          "root": 320129475040,
+          "root_str": "320129475040",
+          "parent": 320129475040,
+          "parent_str": "320129475040",
+          "dialog": 320130958544,
+          "ctime": 1791517197,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "面板和打桩视频至少得有一个，不然怎么给你解答"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320135376960,
+          "rpid_str": "320135376960",
+          "root": 320129475040,
+          "root_str": "320129475040",
+          "parent": 320130958544,
+          "parent_str": "320130958544",
+          "dialog": 320130958544,
+          "ctime": 1791520075,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2edbb6b15868d930efd93735",
+          "content": {
+            "message": "回复 @夜星Wetchin :01火神2256攻击  50/238   6命夏沃蕾4w血爱专 4昔时，5命伊安珊 12级q 带的沙中伟闲 4宗师，2命欧洛伦带的精3暗港猎手 4勇者 天赋126 52/100"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320138431504,
+          "rpid_str": "320138431504",
+          "root": 320129475040,
+          "root_str": "320129475040",
+          "parent": 320135376960,
+          "parent_str": "320135376960",
+          "dialog": 320130958544,
+          "ctime": 1791521940,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "回复 @kadd- : 火神先堆满暴，不然死炉内不暴击很难受的；伊安珊q尽量拉满。欧洛伦也最好练一下，最多能提供2w多dps"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320152433360,
+          "rpid_str": "320152433360",
+          "root": 320129475040,
+          "root_str": "320129475040",
+          "parent": 320138431504,
+          "parent_str": "320138431504",
+          "dialog": 320130958544,
+          "ctime": 1791533453,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2edbb6b15868d930efd93735",
+          "content": {
+            "message": "回复 @夜星Wetchin :搜噶 缺练度和命座"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320129475040,
+        "rpid_str": "320129475040",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791515928,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_2edbb6b15868d930efd93735",
+        "content": {
+          "message": "为啥我01火神超载打n6木桩0启动只有区区12w左右dps啊？比6融低个1w，用的双码头宏，火神满q有45w，6夏爱专 5伊沙中伟贤 2欧暗港，欧dps只有7k，有没有大佬能解答一下？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7165e64a7c96f2f78b59c31169b5027cb944d74bb46a333b9183626c64549b74",
+  "original_bytes_sha256": "892d42cb93d6872a1cc3de1dea9b22e013d92c02c953c5c6447d83638f31be08",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

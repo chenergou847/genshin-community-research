@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315292300865",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:45:03.219079+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315292300865,
+        "rpid_str": "315292300865",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790534663,
+        "like": 2,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_17160beae37318bf9fac3fa1",
+        "content": {
+          "message": "求配队[给心心][给心心]之前入坑没多久凑不出三队都没打过n4，这期冰多想试试[给心心][给心心]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5a698d49bafc210b215f360da4f563542006261763.jpg",
+              "img_width": 1200,
+              "img_height": 6116,
+              "img_size": 3557.77
+            }
+          ],
+          "emote": {
+            "[给心心]": {
+              "id": 3302,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[给心心]",
+              "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "给心心"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2d9d7ebb3aa44c5532cb518b442702e5194a37865175858c781d95e60d7b171a",
+  "original_bytes_sha256": "a934d53ce6514c357851a6ffda4409c119a4b21b7ce2311fba0fcc0d3e028d5a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

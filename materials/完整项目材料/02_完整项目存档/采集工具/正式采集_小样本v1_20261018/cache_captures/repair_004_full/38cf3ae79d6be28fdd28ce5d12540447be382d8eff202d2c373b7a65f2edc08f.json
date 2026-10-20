@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320923890032",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:36:00.990263+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317287367265,
+          "rpid_str": "317287367265",
+          "root": 320923890032,
+          "root_str": "320923890032",
+          "parent": 320923890032,
+          "parent_str": "320923890032",
+          "ctime": 1792195721,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7e86698c2143fc8d6f0aefcf",
+          "content": {
+            "message": "7+1吗  还是0+1+0"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320944289968,
+          "rpid_str": "320944289968",
+          "root": 320923890032,
+          "root_str": "320923890032",
+          "parent": 317287367265,
+          "parent_str": "317287367265",
+          "ctime": 1792195962,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_685f223068b990ad9283596d",
+          "content": {
+            "message": "回复 @血煞星之月夜生歌 :感电队伍2+0菲林斯，其他全0\n龙王2+0，其他全00"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320923890032,
+        "rpid_str": "320923890032",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792166387,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_685f223068b990ad9283596d",
+        "content": {
+          "message": "上半怕黑吗？下半古龙大权碾过去",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f2bfdc66ff84ac4b46d941cd72d3efb83493272878058347.jpg",
+              "img_width": 1440,
+              "img_height": 1234,
+              "img_size": 1228.76,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "6e5b9ca02fd89f977b4773a4c87f336d10efae53755bd9f477a1149616de8a18",
+  "original_bytes_sha256": "f64503e635fcc0e87667bd75775a7c9f90d8073467f2198e97c88d8f0424d573",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

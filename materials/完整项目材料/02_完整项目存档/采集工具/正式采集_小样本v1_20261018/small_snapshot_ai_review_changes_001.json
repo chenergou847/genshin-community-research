@@ -1,0 +1,1004 @@
+{
+  "changes": [
+    {
+      "k": 76,
+      "mode": "abyss",
+      "id": "320873531056",
+      "reason": "当前文字可能是逆环境晒成绩的反语；没有读取图片，不能确认不满或本人受阻。保留增益话题，受阻状态记不明。",
+      "changes": {
+        "experience_kind": {
+          "before": "firsthand_report",
+          "after": "evaluation_or_comparison"
+        },
+        "problem_status": {
+          "before": "current_reported",
+          "after": "unknown"
+        },
+        "problem_themes": {
+          "before": "buff_and_route",
+          "after": ""
+        },
+        "sentiment": {
+          "before": "negative",
+          "after": "unknown"
+        },
+        "self_experience_themes": {
+          "before": "buff_and_route",
+          "after": ""
+        },
+        "content_flags": {
+          "before": "image_unread",
+          "after": "image_unread;ironic_tone_unresolved"
+        }
+      }
+    },
+    {
+      "k": 140,
+      "mode": "abyss",
+      "id": "317203834193",
+      "reason": "只说明常驻满命不易及当前持有情况，未明确这种条件已经造成本期通关受阻；保留本人账号条件，取消问题标签。",
+      "changes": {
+        "problem_status": {
+          "before": "current_reported",
+          "after": "none_explicit"
+        },
+        "problem_themes": {
+          "before": "roster_build",
+          "after": ""
+        }
+      }
+    },
+    {
+      "k": 155,
+      "mode": "abyss",
+      "id": "317194310897",
+      "reason": "“减速带”已足以确定在谈难度；反语方向和图片结果仍不明，因此相关而情绪不明，不能补出本人已通关。",
+      "changes": {
+        "experience_kind": {
+          "before": "ambiguous",
+          "after": "evaluation_or_comparison"
+        },
+        "themes": {
+          "before": "",
+          "after": "damage_threshold"
+        },
+        "theme_status": {
+          "before": "unknown",
+          "after": "known"
+        },
+        "relevance": {
+          "before": "unknown",
+          "after": "related"
+        }
+      }
+    },
+    {
+      "k": 251,
+      "mode": "theater",
+      "id": "315874430017",
+      "reason": "“之前”不能直接等同上期；当前文字也未证实本期，撤销根据角色名称推定旧期的初判，保留期次不明。",
+      "changes": {
+        "experience_kind": {
+          "before": "off_mode",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "irrelevant",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "retrospective_experience",
+          "after": "retrospective_experience;period_ambiguous_after_review"
+        }
+      }
+    },
+    {
+      "k": 272,
+      "mode": "theater",
+      "id": "315891630753",
+      "reason": "“懒得重打”是本人停止继续尝试的动机；补到本人主题，仍不把目标放弃当作已证实的机制原因。",
+      "changes": {
+        "self_experience_themes": {
+          "before": "damage_threshold;retry_time_cost",
+          "after": "damage_threshold;retry_time_cost;reward_motivation"
+        }
+      }
+    },
+    {
+      "k": 287,
+      "mode": "theater",
+      "id": "319597885680",
+      "reason": "本条只喊技能台词，没有评价、配置、建议或本人经历；不把父评论组队讨论整体继承为当前观点。",
+      "changes": {
+        "experience_kind": {
+          "before": "other_gameplay_discussion",
+          "after": "social_or_meta"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "relevance": {
+          "before": "related",
+          "after": "irrelevant"
+        }
+      }
+    },
+    {
+      "k": 293,
+      "mode": "theater",
+      "id": "319785566944",
+      "reason": "明确的是早关烦躁和代打互动不适，没有具体操作失误或重试时长。移除推定的操作/耗时问题，保留未明原因的负面体验与互助不适。",
+      "changes": {
+        "themes": {
+          "before": "roster_build;operation_control;retry_time_cost;co_op_social",
+          "after": "roster_build;co_op_social;other_current_experience"
+        },
+        "problem_themes": {
+          "before": "operation_control;co_op_social",
+          "after": "co_op_social;other_current_experience"
+        },
+        "self_experience_themes": {
+          "before": "roster_build;operation_control;retry_time_cost;co_op_social",
+          "after": "co_op_social;other_current_experience"
+        }
+      }
+    },
+    {
+      "k": 328,
+      "mode": "theater",
+      "id": "315798468593",
+      "reason": "少看的是己方技能动画带来的用时/流程取舍，不是敌人刷新或转阶段；改归时间成本话题。",
+      "changes": {
+        "themes": {
+          "before": "roster_build;encounter_timing",
+          "after": "roster_build;retry_time_cost"
+        }
+      }
+    },
+    {
+      "k": 333,
+      "mode": "theater",
+      "id": "319321659424",
+      "reason": "本条只补充自己的装备词条；不把其他回复中的卡关继承为本条新受阻。",
+      "changes": {
+        "problem_status": {
+          "before": "current_reported",
+          "after": "none_explicit"
+        },
+        "problem_themes": {
+          "before": "roster_build",
+          "after": ""
+        }
+      }
+    },
+    {
+      "k": 397,
+      "mode": "theater",
+      "id": "319275322784",
+      "reason": "根评论只有泛夸赞，未明确对象是UP、角色还是玩法；与同类“太强了”统一保留不明。",
+      "changes": {
+        "experience_kind": {
+          "before": "social_or_meta",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "irrelevant",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "",
+          "after": "praise_target_unresolved"
+        }
+      }
+    },
+    {
+      "k": 423,
+      "mode": "stygian",
+      "id": "315714808881",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "evaluation_or_comparison",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "ancestor_image_unread",
+          "after": "ancestor_image_unread;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 457,
+      "mode": "stygian",
+      "id": "315521262737",
+      "reason": "本人说明需要拆分反应队，未明确实际失败或不满；保留分配条件，取消明确受阻。",
+      "changes": {
+        "problem_status": {
+          "before": "current_reported",
+          "after": "none_explicit"
+        },
+        "problem_themes": {
+          "before": "roster_build",
+          "after": ""
+        }
+      }
+    },
+    {
+      "k": 466,
+      "mode": "stygian",
+      "id": "315571640017",
+      "reason": "“极限”能表达难度压力，但没有时间或重试信息；移除由语气推断的流程耗时标签。",
+      "changes": {
+        "themes": {
+          "before": "damage_threshold;retry_time_cost",
+          "after": "damage_threshold"
+        },
+        "problem_themes": {
+          "before": "damage_threshold;retry_time_cost",
+          "after": "damage_threshold"
+        },
+        "self_experience_themes": {
+          "before": "damage_threshold;retry_time_cost",
+          "after": "damage_threshold"
+        }
+      }
+    },
+    {
+      "k": 487,
+      "mode": "stygian",
+      "id": "315580688097",
+      "reason": "“打哭了”未指明高兴还是受挫，图片未读。保留实际体验相关性，受阻与情绪均记不明。",
+      "changes": {
+        "problem_status": {
+          "before": "current_reported",
+          "after": "unknown"
+        },
+        "problem_themes": {
+          "before": "other_current_experience",
+          "after": ""
+        },
+        "sentiment": {
+          "before": "negative",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "image_unread",
+          "after": "image_unread;affect_direction_unresolved"
+        }
+      }
+    },
+    {
+      "k": 525,
+      "mode": "stygian",
+      "id": "316309439809",
+      "reason": "根评论只有泛夸赞，未明确对象是UP、角色还是玩法；与同类“太强了”统一保留不明。",
+      "changes": {
+        "experience_kind": {
+          "before": "social_or_meta",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "irrelevant",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "",
+          "after": "praise_target_unresolved"
+        }
+      }
+    },
+    {
+      "k": 546,
+      "mode": "stygian",
+      "id": "319487122464",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "evaluation_or_comparison",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "negative",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "observed_design_critique;mode_not_explicit",
+          "after": "observed_design_critique;mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 549,
+      "mode": "stygian",
+      "id": "316033963857",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "strategy_advice",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "positive",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "hypothetical_feature",
+          "after": "hypothetical_feature;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 550,
+      "mode": "stygian",
+      "id": "319332524208",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "gameplay_question",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "mode_not_explicit",
+          "after": "mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 551,
+      "mode": "stygian",
+      "id": "315825076433",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "own_account_condition",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "self_experience_themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "content_flags": {
+          "before": "mode_not_explicit",
+          "after": "mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 552,
+      "mode": "stygian",
+      "id": "319492548784",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "firsthand_report",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "positive",
+          "after": "unknown"
+        },
+        "self_experience_themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "content_flags": {
+          "before": "mode_not_explicit",
+          "after": "mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 554,
+      "mode": "stygian",
+      "id": "319472924496",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "strategy_advice",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "positive",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "",
+          "after": "domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 562,
+      "mode": "stygian",
+      "id": "315813872785",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "evaluation_or_comparison",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "positive",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "mode_not_explicit;image_unread",
+          "after": "mode_not_explicit;image_unread;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 564,
+      "mode": "stygian",
+      "id": "319390536640",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "evaluation_or_comparison",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "positive",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "mode_not_explicit;future_concern",
+          "after": "mode_not_explicit;future_concern;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 566,
+      "mode": "stygian",
+      "id": "315806057089",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "own_account_condition",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "self_experience_themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "content_flags": {
+          "before": "future_performance_projection;mode_not_explicit",
+          "after": "future_performance_projection;mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 569,
+      "mode": "stygian",
+      "id": "315877121121",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "evaluation_or_comparison",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "mode_not_explicit;image_unread",
+          "after": "mode_not_explicit;image_unread;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 574,
+      "mode": "stygian",
+      "id": "315779511057",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "own_account_condition",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "self_experience_themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "content_flags": {
+          "before": "benchmark_mode_unverified;mode_not_explicit",
+          "after": "benchmark_mode_unverified;mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 575,
+      "mode": "stygian",
+      "id": "315903790593",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "strategy_advice",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "figurative_language",
+          "after": "figurative_language;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 577,
+      "mode": "stygian",
+      "id": "319451081696",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "evaluation_or_comparison",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build;mechanic_understanding;co_op_social"
+        },
+        "themes": {
+          "before": "roster_build;mechanic_understanding;co_op_social",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "negative",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "mechanic_claim_unverified;mode_not_explicit",
+          "after": "mechanic_claim_unverified;mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 584,
+      "mode": "stygian",
+      "id": "315866887489",
+      "reason": "比较视频同时涉及多个副本；正文和可用祖先未能确定是所分配的本期幽境，不能以角色通用强度代替本域相关性。",
+      "changes": {
+        "experience_kind": {
+          "before": "gameplay_question",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": "roster_build"
+        },
+        "themes": {
+          "before": "roster_build",
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "related",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "community_statistic_unverified;mode_not_explicit",
+          "after": "community_statistic_unverified;mode_not_explicit;domain_ambiguous_after_context_review"
+        }
+      }
+    },
+    {
+      "k": 599,
+      "mode": "stygian",
+      "id": "317332388497",
+      "reason": "根评论只有泛夸赞，未明确对象是UP、角色还是玩法；与同类“太强了”统一保留不明。",
+      "changes": {
+        "experience_kind": {
+          "before": "social_or_meta",
+          "after": "ambiguous"
+        },
+        "candidate_themes_before_relevance_review": {
+          "before": null,
+          "after": ""
+        },
+        "theme_status": {
+          "before": "known",
+          "after": "unknown"
+        },
+        "problem_status": {
+          "before": "none_explicit",
+          "after": "unknown"
+        },
+        "relevance": {
+          "before": "irrelevant",
+          "after": "unknown"
+        },
+        "sentiment": {
+          "before": "neutral",
+          "after": "unknown"
+        },
+        "content_flags": {
+          "before": "",
+          "after": "praise_target_unresolved"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "reviewed": 600,
+    "amended_rows": 30,
+    "unchanged_rows": 570,
+    "relevance": {
+      "related": 417,
+      "irrelevant": 125,
+      "unknown": 58
+    },
+    "per_mode": {
+      "abyss": {
+        "related": 155,
+        "irrelevant": 39,
+        "unknown": 6
+      },
+      "theater": {
+        "unknown": 31,
+        "irrelevant": 24,
+        "related": 145
+      },
+      "stygian": {
+        "related": 117,
+        "irrelevant": 62,
+        "unknown": 21
+      }
+    },
+    "current_reported_problems": 76,
+    "related_problem_status_unknown": 2,
+    "human_final": 0,
+    "independent_coder_validation": false,
+    "accuracy_estimated": false
+  }
+}

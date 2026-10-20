@@ -1,0 +1,735 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117447776536436",
+    "type": "1",
+    "mode": "2",
+    "next": "577",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzMTQ5MDU3NTQ4MzQaADIDCMEE\"}"
+  },
+  "captured_at": "2026-10-18T05:02:38.690967+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 578,
+        "next": 550,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzMTQ5MDU3NTQ4MzQaADIDCKYE",
+          "prev_offset": "CAISEDE4MzUzMTQ5MDU3NTQ4MzQaADIDCMIE"
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 1212,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317267809825,
+          "rpid_str": "317267809825",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792165599,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7918921b9d0b91de9366524f",
+          "content": {
+            "message": "现在的老深渊是真的每期都是宝宝巴士，难度全跑幽默危战了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317267459761,
+          "rpid_str": "317267459761",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792165388,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4a80d9ac31642179356c0cea",
+          "content": {
+            "message": "今天满了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/0ed3731d505d28ca2516dab3d1143d7a3745067122559765.jpg",
+                "img_width": 2400,
+                "img_height": 1080,
+                "img_size": 892.52
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317266776433,
+          "rpid_str": "317266776433",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792165000,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_325638d1bf87c025bcaecd51",
+          "content": {
+            "message": "没有冰水也没啥大问题[星星眼]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/64a5ee16f508fc0b44b63bf122e3e80b673645995.png",
+                "img_width": 2160,
+                "img_height": 1080,
+                "img_size": 2199.37
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/fb32322042fb3bed075a818e19c0c41f673645995.png",
+                "img_width": 2160,
+                "img_height": 1080,
+                "img_size": 410.33
+              }
+            ],
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317272576209,
+              "rpid_str": "317272576209",
+              "root": 317266776433,
+              "root_str": "317266776433",
+              "parent": 317266776433,
+              "parent_str": "317266776433",
+              "ctime": 1792168924,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_3ac423635be93fd6ffa110fa",
+              "content": {
+                "message": "那是你奈姐纯力大[脱单doge]",
+                "emote": {
+                  "[脱单doge]": {
+                    "id": 3301,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[脱单doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "脱单doge"
+                  }
+                }
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317266223761,
+          "rpid_str": "317266223761",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792164679,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4875db2437cf4f34effab92e",
+          "content": {
+            "message": "依旧好打[doge_金箍]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/49adc1364664f62c6455c5e975de6a60667747189.jpg",
+                "img_width": 1440,
+                "img_height": 3200,
+                "img_size": 1688.48,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320920158688,
+          "rpid_str": "320920158688",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792164174,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b2fa6a51abf5ddd963ea8b98",
+          "content": {
+            "message": "这期深渊就能发现一个问题，如果冰神不是辅助的话一个奥黛塔根本不够用，更别说危战还要三个队"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320920094816,
+          "rpid_str": "320920094816",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792164073,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_358b37746d634115dcdb31a8",
+          "content": {
+            "message": "没有爱可菲丝柯克玩的很卡手，这第三间粪boss我从当时给丝柯克刷材料就很厌烦这玩意，上半卡池把我燃尽了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320919613760,
+          "rpid_str": "320919613760",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792163814,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0407c39c60a504fbd755a04",
+          "content": {
+            "message": "我的龙王坠机了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/ec65a62f4cf9ec703ab7346b6db2af9830974634.jpg",
+                "img_width": 1080,
+                "img_height": 2376,
+                "img_size": 1028.97
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320919564256,
+          "rpid_str": "320919564256",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792163802,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_75de0105b7657c85b0f38214",
+          "content": {
+            "message": "月光蝶有草抗啊，我说怎么我月绽放过不去，必须得补菈乌玛一命了，补了过机制，小小草蝶不过尔尔"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320919231552,
+          "rpid_str": "320919231552",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792163632,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_372c6d789f476942a54ddb4d",
+          "content": {
+            "message": "感觉星扩散没有想象的那么区啊，我还真以为玩不了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/810ad0a03bdd053c42e3e3f05824ead81262979331.jpg",
+                "img_width": 1272,
+                "img_height": 2772,
+                "img_size": 1331.24
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320918946416,
+          "rpid_str": "320918946416",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792163512,
+          "like": 1,
+          "rcount": 4,
+          "count": 4,
+          "state": 0,
+          "author_id": "U_d1d8a2db5652f0c6ee418212",
+          "content": {
+            "message": "评论区那么多下半是绫华打过去的，我10绫华申鹤00沃（80级）和00爱（70级）老差一点，这显得我手法好烂啊[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317305228513,
+              "rpid_str": "317305228513",
+              "root": 320918946416,
+              "root_str": "320918946416",
+              "parent": 320918946416,
+              "parent_str": "320918946416",
+              "ctime": 1792209238,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_af375eafb5b70427682bbb16",
+              "content": {
+                "message": "感觉练度差点意思"
+              },
+              "replies": []
+            },
+            {
+              "rpid": 317351130593,
+              "rpid_str": "317351130593",
+              "root": 320918946416,
+              "root_str": "320918946416",
+              "parent": 320918946416,
+              "parent_str": "320918946416",
+              "ctime": 1792236904,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a28e0c3386bb64f867ae3e43",
+              "content": {
+                "message": "你的意思是一个老角色配一堆练度低的辅助去打深渊吗"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317264096321,
+          "rpid_str": "317264096321",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792163361,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cba4fd1ab74d3e27bb33f4c8",
+          "content": {
+            "message": "路边一条的神里绫华不要扔，擦一擦还能用[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/06a1be113021f3c645703910e814bc323461578900900579.jpg",
+                "img_width": 1260,
+                "img_height": 2800,
+                "img_size": 1434.22
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317263582993,
+          "rpid_str": "317263582993",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792163121,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_de7213c99c46e940fbdc3f44",
+          "content": {
+            "message": "上半生存也就凹了一上午吧",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/de5a8b56ff00c37eb6d67261aa76f94d397479487.png",
+                "img_width": 1170,
+                "img_height": 2532,
+                "img_size": 1852
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317263451297,
+          "rpid_str": "317263451297",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792162944,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4b60d986e526ca414f74d28f",
+          "content": {
+            "message": "回归牢登抽个奥黛塔已经爽了三期深渊辣[妙啊][妙啊]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/a6dd243e26420ae9ce04c01330408ee3160867567.jpg",
+                "img_width": 1239,
+                "img_height": 2369,
+                "img_size": 1134.27
+              }
+            ],
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317262959713,
+          "rpid_str": "317262959713",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792162784,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9bf1ddacfadc435f5358a585",
+          "content": {
+            "message": "看似抬星反应和冰水，实际抬沃[原神_喝茶]而且第三间居然是最简单的（机制最好破）",
+            "emote": {
+              "[原神_喝茶]": {
+                "id": 4263,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[原神_喝茶]",
+                "url": "https://i0.hdslb.com/bfs/emote/1de5789fbb3526ef7823c54db7081790a38e7044.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喝茶"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317263014049,
+          "rpid_str": "317263014049",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792162750,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_14af4b9e5449ce84015f5e53",
+          "content": {
+            "message": "艰难打过",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/cb93001276e95f22d7bda62c5cfe4b891930353177.jpg",
+                "img_width": 1080,
+                "img_height": 2878,
+                "img_size": 502.81
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320917515568,
+          "rpid_str": "320917515568",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792162694,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_358637fd9b71a5ef12fb389d",
+          "content": {
+            "message": "莱欧打月蝶没奶不能暴击，但是依旧1分40秒肘过去了，下半用丝柯克像喝水一样简单[OK]",
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320917236240,
+          "rpid_str": "320917236240",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792162485,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_32df7a2027a09e29546879a5",
+          "content": {
+            "message": "宝宝巴士",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/1f6e60ea212321441bd2c7fbc37e9e94354702.jpg",
+                "img_width": 1200,
+                "img_height": 2608,
+                "img_size": 1263.23
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317261815985,
+          "rpid_str": "317261815985",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792162082,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_78968882bfa5996cf1125a96",
+          "content": {
+            "message": "抽了一个沃 绫华都打过12-3了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320915148400,
+          "rpid_str": "320915148400",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792161380,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_27f06101b3f76a604bf0d628",
+          "content": {
+            "message": "依旧宝宝巴士"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317260074289,
+          "rpid_str": "317260074289",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792161142,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_713087afd1a57e7470fbde5c",
+          "content": {
+            "message": "肥肠简单[喜欢][喜欢][喜欢]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/cc1ef87599a4d88fdb207133997e2bd13546885805574277.jpg",
+                "img_width": 1080,
+                "img_height": 2400,
+                "img_size": 1125.23
+              }
+            ],
+            "emote": {
+              "[喜欢]": {
+                "id": 3,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜欢]",
+                "url": "https://i0.hdslb.com/bfs/emote/8a10a4d73a89f665feff3d46ca56e83dc68f9eb8.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜欢"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "response_hash": "472293d60feb60e411451c455333756bc0e2349b195bd189eef13c5779178fe9",
+  "original_bytes_sha256": "abf3c05a33eab7c1ff285161c834e80cf91680854193d5653b00c42f058b49d5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

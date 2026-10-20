@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314960952001",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:18:57.666996+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314975574001,
+          "rpid_str": "314975574001",
+          "root": 314960952001,
+          "root_str": "314960952001",
+          "parent": 314960952001,
+          "parent_str": "314960952001",
+          "dialog": 314975574001,
+          "ctime": 1790301891,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶第一间可以"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314975661393,
+          "rpid_str": "314975661393",
+          "root": 314960952001,
+          "root_str": "314960952001",
+          "parent": 314960952001,
+          "parent_str": "314960952001",
+          "dialog": 314975661393,
+          "ctime": 1790301951,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间基尼奇。第三间火神纯火万叶班尼特，扩和战场破也快"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314975667937,
+          "rpid_str": "314975667937",
+          "root": 314960952001,
+          "root_str": "314960952001",
+          "parent": 314960952001,
+          "parent_str": "314960952001",
+          "dialog": 314975667937,
+          "ctime": 1790301966,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "有帮助的话视频点赞推荐一下就行了，上班前都在看的。中秋快乐"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314960952001,
+        "rpid_str": "314960952001",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790282827,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_13366d6dbc0feed0b33dec82",
+        "content": {
+          "message": "n6有机会吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c042877aba0ba99a262990800e74a6a334624892.jpg",
+              "img_width": 1080,
+              "img_height": 12069,
+              "img_size": 1462.26
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "61af34833eae2d2d2af739323c6e11176015c36992e75b0dc9040273b7c90a26",
+  "original_bytes_sha256": "ee58570dfd90643e8f82a77f483eedd85266b0578a41a38f18f891dbb4d3d157",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

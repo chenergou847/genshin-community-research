@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319678812368",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:45:12.511740+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319678812368,
+        "rpid_str": "319678812368",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791175251,
+        "like": 5,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_30b0d30f3ecae557899efe74",
+        "content": {
+          "message": "我弱弱问一句up，你的火神堆这么多爆伤为什么不多堆点攻击，不会稀释太多吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1e428220695fa7cd015c51f2e2ad3a3627e8bac064ee772922df759684a641fe",
+  "original_bytes_sha256": "50c1b375bf3584dca640971520b7445abd3bdb7a064120ab608e7ff380409f82",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

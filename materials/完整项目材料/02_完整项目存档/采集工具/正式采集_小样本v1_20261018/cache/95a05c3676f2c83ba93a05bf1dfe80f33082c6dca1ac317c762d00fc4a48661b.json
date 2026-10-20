@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "317371143809",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:40:22.805675+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317371161841,
+          "rpid_str": "317371161841",
+          "root": 317371143809,
+          "root_str": "317371143809",
+          "parent": 317371143809,
+          "parent_str": "317371143809",
+          "dialog": 317371161841,
+          "ctime": 1792247937,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d8b262383232a16c2fec24c",
+          "content": {
+            "message": "串子，不是龙黑也不是龙吹"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317371359569,
+          "rpid_str": "317371359569",
+          "root": 317371143809,
+          "root_str": "317371143809",
+          "parent": 317371161841,
+          "parent_str": "317371161841",
+          "dialog": 317371161841,
+          "ctime": 1792248091,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c6fb046f953bf3780babcb00",
+          "content": {
+            "message": "回复 @名侦探雾切 :不可选中吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321038999152,
+          "rpid_str": "321038999152",
+          "root": 317371143809,
+          "root_str": "317371143809",
+          "parent": 317371143809,
+          "parent_str": "317371143809",
+          "dialog": 321038999152,
+          "ctime": 1792251855,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_49e8e74daa7774b253eb785b",
+          "content": {
+            "message": "算不上龙黑 也算不上龙吹 人家就靠玩0龙吃流量了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317386349489,
+          "rpid_str": "317386349489",
+          "root": 317371143809,
+          "root_str": "317371143809",
+          "parent": 317371359569,
+          "parent_str": "317371359569",
+          "dialog": 317371161841,
+          "ctime": 1792257735,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a7e00647c88bd3907c4758fe",
+          "content": {
+            "message": "回复 @Estroporosuchus :蛋筒哥是🍬 二蛋是吃黑流的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317371143809,
+        "rpid_str": "317371143809",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792247909,
+        "like": 1,
+        "rcount": 4,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_c6fb046f953bf3780babcb00",
+        "content": {
+          "message": "怎么没有2蛋"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "05ed56b4c9ba4f3b27edc90387eaa10a35e0d3eda56d9355709dca2a68261481",
+  "original_bytes_sha256": "39de78bd4f06326baf247937582122170c77b2dc52843eeed5cb42ed6c4c1064",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

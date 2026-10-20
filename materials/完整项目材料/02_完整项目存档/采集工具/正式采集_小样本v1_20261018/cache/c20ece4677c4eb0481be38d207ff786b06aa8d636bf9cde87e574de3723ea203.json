@@ -1,0 +1,169 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "319119881696",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:55:44.652667+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319141578832,
+          "rpid_str": "319141578832",
+          "root": 319119881696,
+          "root_str": "319119881696",
+          "parent": 319119881696,
+          "parent_str": "319119881696",
+          "dialog": 319141578832,
+          "ctime": 1790781702,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dfcaa26498f8f58861f3c3a6",
+          "content": {
+            "message": "你这n5确实不带奥黛塔也能随便打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319187440832,
+          "rpid_str": "319187440832",
+          "root": 319119881696,
+          "root_str": "319119881696",
+          "parent": 319141578832,
+          "parent_str": "319141578832",
+          "dialog": 319141578832,
+          "ctime": 1790827128,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2aeb63e799a6172952d20795",
+          "content": {
+            "message": "回复 @本体の眼镜 :你看看我的呢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319282019392,
+          "rpid_str": "319282019392",
+          "root": 319119881696,
+          "root_str": "319119881696",
+          "parent": 319141578832,
+          "parent_str": "319141578832",
+          "dialog": 319141578832,
+          "ctime": 1790895135,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7f88ad295d77ccb64dcfa91b",
+          "content": {
+            "message": "回复 @本体の眼镜 :舒适度提升还是很明显的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319119881696,
+        "rpid_str": "319119881696",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790769867,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b2c3d10e4673cca1bd3aac09",
+        "content": {
+          "message": "抽了奥黛塔的爽了，没抽奥黛塔的赚了，[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9ec24480127acafd5a2be3933bc44586375274606.jpg",
+              "img_width": 1220,
+              "img_height": 2685,
+              "img_size": 240.9,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e9a8431c1521286b68e96ea50ad9c90e68c99ceda4beeb1ae574ca3940347811",
+  "original_bytes_sha256": "83f469b5d0d0128570c4bbe84dbbb4634ecfd4a78287c70f434d7fbece1d5ee0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

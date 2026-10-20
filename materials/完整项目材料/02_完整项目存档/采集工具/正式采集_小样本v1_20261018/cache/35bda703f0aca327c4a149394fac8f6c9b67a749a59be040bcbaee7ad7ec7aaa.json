@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316205216273",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:32:02.437760+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316205216273,
+        "rpid_str": "316205216273",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791260898,
+        "like": 2,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_b7461938772f82960a0d315d",
+        "content": {
+          "message": "你不只奶不了队友，你专武加攻也没有，也不给队友提供羽毛。0命沃唯一的拐和辅助能力就是E的减抗和E的伤害。\n\n命座抽到6后，所有命座的效果都可以给到。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "88a75afefa0c960dd57cef5110384e33f01206232f99ed36af1cbe282ae484c0",
+  "original_bytes_sha256": "efcad289831269160079296d25aa4dc7239d5d3949111bf37b03c3a405dff9e2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

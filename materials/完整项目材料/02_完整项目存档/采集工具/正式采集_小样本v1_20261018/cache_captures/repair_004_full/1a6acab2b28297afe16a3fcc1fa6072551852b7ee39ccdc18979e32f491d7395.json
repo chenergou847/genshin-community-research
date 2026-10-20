@@ -1,0 +1,152 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320838497056",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:47:19.638953+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320838967504,
+          "rpid_str": "320838967504",
+          "root": 320838497056,
+          "root_str": "320838497056",
+          "parent": 320838497056,
+          "parent_str": "320838497056",
+          "ctime": 1792111885,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_419def590a3f10c9616b02db",
+          "content": {
+            "message": "11层也加了点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320841287952,
+          "rpid_str": "320841287952",
+          "root": 320838497056,
+          "root_str": "320838497056",
+          "parent": 320838967504,
+          "parent_str": "320838967504",
+          "ctime": 1792114071,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_001c31618fc395346bafb69f",
+          "content": {
+            "message": "回复 @Furman-Devlin :我还没打，但看怪物血量应该都是抬高一些，血量系数改了应该都要全改，跟纳塔那会一样"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320857061168,
+          "rpid_str": "320857061168",
+          "root": 320838497056,
+          "root_str": "320838497056",
+          "parent": 320841287952,
+          "parent_str": "320841287952",
+          "ctime": 1792125528,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_419def590a3f10c9616b02db",
+          "content": {
+            "message": "回复 @大猫WestonJay :我记得11层是2.5加到3.0，12层就是你说的那样，我刚刚打完，体感来说难度不大，相反很轻松，如果逆版本玩那压力确实大很多"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320875926000,
+          "rpid_str": "320875926000",
+          "root": 320838497056,
+          "root_str": "320838497056",
+          "parent": 320857061168,
+          "parent_str": "320857061168",
+          "ctime": 1792139540,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_001c31618fc395346bafb69f",
+          "content": {
+            "message": "回复 @Furman-Devlin :是的，现在的老深渊虽然血量高了但是新角色是真的强，我丝柯克和薇斯纳都有打这期每间每半差不多40秒就能打完"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320838497056,
+        "rpid_str": "320838497056",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792111468,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_001c31618fc395346bafb69f",
+        "content": {
+          "message": "这期是不是血量系数加了，从3.75变成4.75了？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "75bb975e60f83a03153e83ff02c033d10fbdf8a2e48256979b5d28634b57f677",
+  "original_bytes_sha256": "9a92c7e062ed3e2df5796a294534c17acac6d9007563f11b71c2ae7b399bd491",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "317326535777",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:52:01.651876+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 12
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317326535777,
+        "rpid_str": "317326535777",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792222418,
+        "like": 0,
+        "rcount": 12,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_fe18bc8f891d98c54b704b79",
+        "content": {
+          "message": "原神太无聊了，只求我国未来出一个游戏性高点的开放世界手游"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "68eb81eb62b47b2d979789404365206ab4a28fc51c441af44d3cc877bdb78e2d",
+  "original_bytes_sha256": "953b3663986f94014aeadaef3aaeebc51a35764a803af720af98ed3dd65dd1e9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

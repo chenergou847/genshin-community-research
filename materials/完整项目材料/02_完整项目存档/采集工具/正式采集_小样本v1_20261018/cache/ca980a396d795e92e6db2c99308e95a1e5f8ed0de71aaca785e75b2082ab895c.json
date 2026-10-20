@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319067225424",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:17:25.177471+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319067265776,
+          "rpid_str": "319067265776",
+          "root": 319067225424,
+          "root_str": "319067225424",
+          "parent": 319067225424,
+          "parent_str": "319067225424",
+          "dialog": 319067265776,
+          "ctime": 1790736971,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_808c271d7ccc62ff54b6e39d",
+          "content": {
+            "message": "或者说哪个角色等级还要提升一下练度的也请指出[点赞]",
+            "emote": {
+              "[点赞]": {
+                "id": 25,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[点赞]",
+                "url": "https://i0.hdslb.com/bfs/emote/1a67265993913f4c35d15a6028a30724e83e7d35.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "点赞"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319070562864,
+          "rpid_str": "319070562864",
+          "root": 319067225424,
+          "root_str": "319067225424",
+          "parent": 319067225424,
+          "parent_str": "319067225424",
+          "dialog": 319070562864,
+          "ctime": 1790739349,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06c716483bef60340a84afd6",
+          "content": {
+            "message": "月感电的砂糖换成能触发星反应的冰系角色，弄出星辉领域，可以更快破除冰盾，时间能优化到80秒"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319067225424,
+        "rpid_str": "319067225424",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790736890,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_808c271d7ccc62ff54b6e39d",
+        "content": {
+          "message": "求改善配队，不追求能打下一层，只要能改善当前层的时间就行[呲牙]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/41214fd4cbf800315e7ac2698ff074ff1820128736.jpg",
+              "img_width": 1216,
+              "img_height": 2674,
+              "img_size": 233.37,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5cf7eaf286c09c548e1776d555c7c41a1820128736.jpg",
+              "img_width": 1216,
+              "img_height": 12999,
+              "img_size": 1615.85,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[呲牙]": {
+              "id": 1902,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[呲牙]",
+              "url": "https://i0.hdslb.com/bfs/emote/b5a5898491944a4268360f2e7a84623149672eb6.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "呲牙"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "115c5f47998109add325e7b11cf0ed69cd6c831d3e3330d90fd3f3502dc86dfc",
+  "original_bytes_sha256": "204a84ef9c2c4fb3e1f3e45ca5ea45f2bd28e4383ef6272742884078ea1cc38d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

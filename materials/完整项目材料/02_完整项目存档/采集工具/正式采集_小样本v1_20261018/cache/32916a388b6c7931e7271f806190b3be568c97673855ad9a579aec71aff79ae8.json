@@ -1,0 +1,665 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315559295665",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:39:27.212677+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315559651729,
+          "rpid_str": "315559651729",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315559651729,
+          "ctime": 1790770188,
+          "like": 11,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_81c48f3992d00e04b4431395",
+          "content": {
+            "message": "局外人大舅哥"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319122885920,
+          "rpid_str": "319122885920",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 319122885920,
+          "ctime": 1790771433,
+          "like": 14,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a54a84a36c23480f5746f3de",
+          "content": {
+            "message": "不考虑删除[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319125159280,
+          "rpid_str": "319125159280",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 319125159280,
+          "ctime": 1790772656,
+          "like": 31,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a265775af15bd47bcb34ba78",
+          "content": {
+            "message": "谁家海鲜跑出来了[doge][doge][doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319126722224,
+          "rpid_str": "319126722224",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 319126722224,
+          "ctime": 1790773484,
+          "like": 9,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f21de1be304c125f207feefb",
+          "content": {
+            "message": "你妹妹呢[吃瓜]，快去找你妹妹喝奶茶[星星眼]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              },
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319127303600,
+          "rpid_str": "319127303600",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 319127303600,
+          "ctime": 1790773790,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_22a4418b9b57e0f3707c466d",
+          "content": {
+            "message": "这种粘在鞋底的最难擦了[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315569992129,
+          "rpid_str": "315569992129",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315569992129,
+          "ctime": 1790775974,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c77a10573a30c6ccd6a41945",
+          "content": {
+            "message": "新鞋，别搞[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315579756833,
+          "rpid_str": "315579756833",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315579756833,
+          "ctime": 1790781485,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_09465a3cf5a549dae8680d91",
+          "content": {
+            "message": "我寻思我也没带芙宁娜啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315581697441,
+          "rpid_str": "315581697441",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315581697441,
+          "ctime": 1790782497,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0b3aced81d259332ea2f3f12",
+          "content": {
+            "message": "開大掛水還是挺好用的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315585397425,
+          "rpid_str": "315585397425",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315585397425,
+          "ctime": 1790784906,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_560d7a2d8c85d1b2d5963fde",
+          "content": {
+            "message": "就你吞老子大保底是吧[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319155812800,
+          "rpid_str": "319155812800",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 319155812800,
+          "ctime": 1790792501,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9b24e42ca4d3a099d5fdb61",
+          "content": {
+            "message": "新鞋别搞[笑哭][doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319156897952,
+          "rpid_str": "319156897952",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 319156897952,
+          "ctime": 1790793795,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_66890a886cc7cc425c0cf87a",
+          "content": {
+            "message": "苍柳一硬，嘿哈嘿哈嘿哈嘿哈嘿哈嘿哈。雷霆 6 秒真男人"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315597702753,
+          "rpid_str": "315597702753",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315597702753,
+          "ctime": 1790799666,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf96219a147f2fad81cb3bf3",
+          "content": {
+            "message": "哪来的诗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315598307841,
+          "rpid_str": "315598307841",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315598307841,
+          "ctime": 1790801516,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_544b2ca55b190e3ff7479b63",
+          "content": {
+            "message": "一边挂水去得了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315606507393,
+          "rpid_str": "315606507393",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315606507393,
+          "ctime": 1790815593,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d6d3bae25ab626eeaf446cb0",
+          "content": {
+            "message": "我水属性太多了。默默的把绫人减下去了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319187758720,
+          "rpid_str": "319187758720",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 319187758720,
+          "ctime": 1790827390,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_13531b4a974562f8ea36b326",
+          "content": {
+            "message": "水太多了把公子和绫人下了补冰去了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315629105425,
+          "rpid_str": "315629105425",
+          "root": 315559295665,
+          "root_str": "315559295665",
+          "parent": 315559295665,
+          "parent_str": "315559295665",
+          "dialog": 315629105425,
+          "ctime": 1790830393,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fc33270c92d75ce1497b7685",
+          "content": {
+            "message": "大招挂水蹭剧诗buff[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315559295665,
+        "rpid_str": "315559295665",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790769979,
+        "like": 114,
+        "rcount": 16,
+        "count": 18,
+        "state": 0,
+        "author_id": "U_a715f252517d61c361186f2c",
+        "content": {
+          "message": "终于还是需要我出手吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d3f04eaafa8a0395ec3e086b57558902503337698.jpg",
+              "img_width": 2529,
+              "img_height": 1500,
+              "img_size": 1671.33
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9b12fa5961a3f5dd48cee2d7e353257f6f348a84eefe352c26006af3c8390f2b",
+  "original_bytes_sha256": "e849735e309606b2428d422a2ea9443f21992c8d8be22a07e8a66e425e365c0b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

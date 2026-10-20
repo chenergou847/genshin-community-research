@@ -1,0 +1,79 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320863439584",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:11:45.890019+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320863439584,
+        "rpid_str": "320863439584",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792129723,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a5804b7ee25be4e2e5bf0e30",
+        "content": {
+          "message": "[doge_金箍]薇斯纳一轮就四个E+1Q输出，奈芙尔一轮能打六到九个，还是绽放爽",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/85e2453d241b86d586c2bb539e3e4e69482143337.jpg",
+              "img_width": 1272,
+              "img_height": 2800,
+              "img_size": 1436.43
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "31a7e35a7898cdaf12ffd3ee4964799f13d628a13f71272c9309e41b1e0ccee9",
+  "original_bytes_sha256": "0d8237048a3bc29b24376609356ea76f8bedf6aa3dca51d71820f2b8987564bd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

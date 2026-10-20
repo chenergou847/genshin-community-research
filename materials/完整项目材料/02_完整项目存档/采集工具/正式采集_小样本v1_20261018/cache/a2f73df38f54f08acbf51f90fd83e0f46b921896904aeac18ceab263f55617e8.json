@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319384623664",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:50.644498+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315822501105,
+          "rpid_str": "315822501105",
+          "root": 319384623664,
+          "root_str": "319384623664",
+          "parent": 319384623664,
+          "parent_str": "319384623664",
+          "dialog": 315822501105,
+          "ctime": 1790964260,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_aa476487cd08bc7f265d3292",
+          "content": {
+            "message": "月谕牌还是换好一点，月谕牌跟上场角色以及角色上场顺序有关，如果角色一样，得凹不同顺序，相当于换新思路重打一遍，还特别容易抽出来跟上局相同的牌"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315852214033,
+          "rpid_str": "315852214033",
+          "root": 319384623664,
+          "root_str": "319384623664",
+          "parent": 315822501105,
+          "parent_str": "315822501105",
+          "dialog": 315822501105,
+          "ctime": 1790999746,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8f99869b832e66533625e123",
+          "content": {
+            "message": "回复 @茜tlali :所以我都找别人打，找不同的人打[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319384623664,
+        "rpid_str": "319384623664",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790956095,
+        "like": 25,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_265aeb0fa8444455a228f322",
+        "content": {
+          "message": "剧诗最阴的是凹开局和不重复的月谕牌"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "90fa59cf0b61e9766380112a17ff6524f39ca5c0a1d5b680ad846a4415add15c",
+  "original_bytes_sha256": "a098f7b4a112875afdfd71b42814e1c11c7b9cc979956351098c34c92cb3c4cb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

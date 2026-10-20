@@ -1,0 +1,62 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317290170529",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:04:54.371934+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 13
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317290170529,
+        "rpid_str": "317290170529",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792198539,
+        "like": 48,
+        "rcount": 13,
+        "count": 16,
+        "state": 0,
+        "author_id": "U_cbacff9a2ba89da1fde50344",
+        "content": {
+          "message": "反着打也能打，12-2的神秘小buff让菲林斯大人直接天克🦋",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/22c21461de3f1460a8d8bb9af8ca660425820974.jpg",
+              "img_width": 1260,
+              "img_height": 3144,
+              "img_size": 677.19,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "e7f4c877a24e89254ee1e8d168caff09336dc8b029c2d8d11b645e20d9721916",
+  "original_bytes_sha256": "9eaed398cb1232c78008bc93d20ed6ed6600a09fa3688cd381e754c49fd02cde",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

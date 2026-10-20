@@ -1,0 +1,90 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454638418193",
+    "root": "317372849121",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:50:41.286053+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 321036149632,
+          "rpid_str": "321036149632",
+          "root": 317372849121,
+          "root_str": "317372849121",
+          "parent": 317372849121,
+          "parent_str": "317372849121",
+          "ctime": 1792250266,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f47c97229ef5776bea95872a",
+          "content": {
+            "message": "月感电可以带七七打，我凸过了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317372849121,
+        "rpid_str": "317372849121",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792248860,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_daddfa6482a824efc1b8f9c9",
+        "content": {
+          "message": "可以这样，下半月感电没输出不知道怎么过呢。五蕉已投"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "f562b08829d71f322ece9bf936285b2a89b839a744d183a4277de58bbe34bdb7",
+  "original_bytes_sha256": "e456db13128f9b6019f52a2322c88570b753b5bfbc2a9d7d2377a9abe0870179",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,85 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317274551569",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:05:29.434044+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317277911233,
+          "rpid_str": "317277911233",
+          "root": 317274551569,
+          "root_str": "317274551569",
+          "parent": 317274551569,
+          "parent_str": "317274551569",
+          "ctime": 1792174626,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_909d227282d6da21bdbc68ad",
+          "content": {
+            "message": "天呐，我们的那位来客大人还在争。"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317274551569,
+        "rpid_str": "317274551569",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792170780,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_1b8158f8a2369d31a0ac86fc",
+        "content": {
+          "message": "莱龙耍起🌚",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/03f557b4a32d640299c6c7d7378ba99f522708990.jpg",
+              "img_width": 2412,
+              "img_height": 1080,
+              "img_size": 1216.42
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/88192df41c23a91cbbe67bab4fbfef4d522708990.jpg",
+              "img_width": 2412,
+              "img_height": 1080,
+              "img_size": 291.83
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "13bac917ed38c20f2b1cfbd49a402bf5f8001514476c109af19ca5f1853dded5",
+  "original_bytes_sha256": "31d93c6321ae370df0caa906306226664d43e99f055f7fd7ec061d50ccde711d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

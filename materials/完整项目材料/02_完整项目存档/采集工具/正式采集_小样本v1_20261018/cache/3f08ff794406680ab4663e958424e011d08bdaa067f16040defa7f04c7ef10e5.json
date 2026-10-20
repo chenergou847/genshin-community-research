@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315429145537",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:28:10.599555+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315429145537,
+        "rpid_str": "315429145537",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790668015,
+        "like": 0,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_cd9178bd87143a5eba7212fd",
+        "content": {
+          "message": "这个队伍好像不太够，有没有办法分一下呀，想打个N5",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/93fdfdecbc4accd8aea3646aed739f58445043162.jpg",
+              "img_width": 1080,
+              "img_height": 9518,
+              "img_size": 1125.46
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "615d85b8315b931c254a6ae0635dadc53edac4a36161b05489e2c3a81a5d8c5d",
+  "original_bytes_sha256": "e4a354b9342d7595419fde66bb693543a919450fc2c23e2858671c33cf18a679",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

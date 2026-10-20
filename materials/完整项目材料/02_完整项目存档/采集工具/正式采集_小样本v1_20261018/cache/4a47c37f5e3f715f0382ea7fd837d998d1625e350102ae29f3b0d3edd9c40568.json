@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318897156800",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:39:16.558438+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315364814865,
+          "rpid_str": "315364814865",
+          "root": 318897156800,
+          "root_str": "318897156800",
+          "parent": 318897156800,
+          "parent_str": "318897156800",
+          "dialog": 315364814865,
+          "ctime": 1790602418,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔阿罗夏+砂糖/七七等。\n第二间菲林斯少女+伊安珊+迪奥娜/莱依拉等\n第三间瓦蕾莎火神超载队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318922784864,
+          "rpid_str": "318922784864",
+          "root": 318897156800,
+          "root_str": "318897156800",
+          "parent": 315364814865,
+          "parent_str": "315364814865",
+          "dialog": 315364814865,
+          "ctime": 1790603895,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fb9d91a2d124f1f011678e71",
+          "content": {
+            "message": "回复 @星光璀璨之时 :其实我星扩散队伍也养的差不多了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315367986177,
+          "rpid_str": "315367986177",
+          "root": 318897156800,
+          "root_str": "318897156800",
+          "parent": 318922784864,
+          "parent_str": "318922784864",
+          "dialog": 315364814865,
+          "ctime": 1790604317,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "回复 @FanHJA :那也行啊。你想怎么玩都行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315367911825,
+          "rpid_str": "315367911825",
+          "root": 318897156800,
+          "root_str": "318897156800",
+          "parent": 318922784864,
+          "parent_str": "318922784864",
+          "dialog": 315364814865,
+          "ctime": 1790604328,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "回复 @FanHJA :视频也可以看看配队都有讲你的角色。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318897156800,
+        "rpid_str": "318897156800",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790588995,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_fb9d91a2d124f1f011678e71",
+        "content": {
+          "message": "up我怎么打n5",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5428d5cb1ed7886594dc61bbf90b3912447428200.jpg",
+              "img_width": 1256,
+              "img_height": 6824,
+              "img_size": 1922.46
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "525cf9e69dfee98d6ef60fb4d24182c1364abf9e8d16c4d11b7dbb010f0ac67e",
+  "original_bytes_sha256": "aa6246925901c28c94932d4ed473e901f9d7f2148926692feeb2cdf09bc437dc",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "319122410240",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:39:14.200450+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319122410240,
+        "rpid_str": "319122410240",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790771187,
+        "like": 75,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_c92b18872d13b5f2a4cb11b0",
+        "content": {
+          "message": "职责所在",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1b5395666bd30d3513c3330851b4c8693461564833204232.png",
+              "img_width": 1590,
+              "img_height": 1276,
+              "img_size": 3754.62
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "dc2fa1716f6bdc9b63f25cd2f57dc6e51ee1c41cffb25069f8e0c7027ad943c2",
+  "original_bytes_sha256": "297f7bbc331210cc15594f70857be286833b36d67fb5e0e1c1d5600f55cb7771",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,346 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "319098253504",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:58:14.844127+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 10
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315537443697,
+          "rpid_str": "315537443697",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 319098253504,
+          "parent_str": "319098253504",
+          "dialog": 315537443697,
+          "ctime": 1790758659,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7bf51101be2d9a599c5ee1de",
+          "content": {
+            "message": "冰锅这期算最简单的了，一金木偶带个阿罗夏双人能过[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315537594513,
+          "rpid_str": "315537594513",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 319098253504,
+          "parent_str": "319098253504",
+          "dialog": 315537594513,
+          "ctime": 1790758899,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5556f5f3c8f08643763bd018",
+          "content": {
+            "message": "慢慢练，不对，你没奥黛塔？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319099804288,
+          "rpid_str": "319099804288",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 319098253504,
+          "parent_str": "319098253504",
+          "dialog": 319099804288,
+          "ctime": 1790759336,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8b99d28f3a90d92298ddcb49",
+          "content": {
+            "message": "同阵容113s过的，不过是6阿6猫，可以再试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319102648544,
+          "rpid_str": "319102648544",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 319098253504,
+          "parent_str": "319098253504",
+          "dialog": 319102648544,
+          "ctime": 1790760971,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e9692b93b3a7feb03be63bf9",
+          "content": {
+            "message": "同阵容过不了，我把沃给摇下来换砂糖就过了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315548094913,
+          "rpid_str": "315548094913",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 319098253504,
+          "parent_str": "319098253504",
+          "dialog": 315548094913,
+          "ctime": 1790764233,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1f884d56cb458f7a569543bb",
+          "content": {
+            "message": "砂糖要换布伦妮要不然叠重击叠半天"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319112190080,
+          "rpid_str": "319112190080",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 315537443697,
+          "parent_str": "315537443697",
+          "dialog": 315537443697,
+          "ctime": 1790766026,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a096cac1736a1e6df23729e",
+          "content": {
+            "message": "回复 @轻云飞星风静夜 :木偶要去第一间。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319112143216,
+          "rpid_str": "319112143216",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 315537594513,
+          "parent_str": "315537594513",
+          "dialog": 315537594513,
+          "ctime": 1790766033,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a096cac1736a1e6df23729e",
+          "content": {
+            "message": "回复 @猪宝在梦什么呢 :奥黛塔给木偶了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319112208624,
+          "rpid_str": "319112208624",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 315548094913,
+          "parent_str": "315548094913",
+          "dialog": 315548094913,
+          "ctime": 1790766053,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a096cac1736a1e6df23729e",
+          "content": {
+            "message": "回复 @五河道里- :没有布伦妮。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319114828752,
+          "rpid_str": "319114828752",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 319098253504,
+          "parent_str": "319098253504",
+          "dialog": 319114828752,
+          "ctime": 1790767323,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1fbde7324ea9a340875c79af",
+          "content": {
+            "message": "因为核心出装是奥黛塔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315558839297,
+          "rpid_str": "315558839297",
+          "root": 319098253504,
+          "root_str": "319098253504",
+          "parent": 319098253504,
+          "parent_str": "319098253504",
+          "dialog": 315558839297,
+          "ctime": 1790769761,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c2c5aca7a57d81954207dbe4",
+          "content": {
+            "message": "一般能过的话都是满配的，6猫6阿，冰主练度也不低"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319098253504,
+        "rpid_str": "319098253504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790758343,
+        "like": 0,
+        "rcount": 10,
+        "count": 13,
+        "state": 0,
+        "author_id": "U_0a096cac1736a1e6df23729e",
+        "content": {
+          "message": "冰主猫猫阿罗夏砂糖打不过N5冰锅[大哭]",
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a11e4839fe031691dd04af9c06f6a47c9d5117c9243e9a2960c994bb029b9397",
+  "original_bytes_sha256": "7392027f5093af7d0c30243fa42bb5ed4125745caf8e2c64d0be916e53fccb7e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

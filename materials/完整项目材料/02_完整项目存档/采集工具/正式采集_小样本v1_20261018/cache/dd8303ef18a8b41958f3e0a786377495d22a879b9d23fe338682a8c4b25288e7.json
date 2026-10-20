@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319396647312",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:07:36.779519+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 19
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319396647312,
+        "rpid_str": "319396647312",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790965343,
+        "like": 40,
+        "rcount": 19,
+        "count": 19,
+        "state": 0,
+        "author_id": "U_eb1f8b3c6127e1e130d1721d",
+        "content": {
+          "message": "创号41天，第一次n5",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/835c02e938311d6873e4a6fa2b5e50e8628205036.jpg",
+              "img_width": 1200,
+              "img_height": 2670,
+              "img_size": 1494.04,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e57cb6b651995336dd5eb0807078f570e4f75aa9470f655024d772c2ee91c692",
+  "original_bytes_sha256": "34a8e3f14bf354a1492aaac63027ff3fd0f2f2fa151270b62524ebf48a2bf971",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

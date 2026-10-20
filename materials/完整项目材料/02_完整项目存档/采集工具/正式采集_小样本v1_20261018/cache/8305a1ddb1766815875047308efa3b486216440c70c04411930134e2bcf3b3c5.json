@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315392170193",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:33:23.504576+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315402360833,
+          "rpid_str": "315402360833",
+          "root": 315392170193,
+          "root_str": "315392170193",
+          "parent": 315392170193,
+          "parent_str": "315392170193",
+          "dialog": 315402360833,
+          "ctime": 1790647641,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶星超导或者梦见月星扩散，打N5可以。\n第二间菲林斯带个莱依拉，或者木偶星超导。\n第三间月绽放带个火系。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315402378449,
+          "rpid_str": "315402378449",
+          "root": 315392170193,
+          "root_str": "315392170193",
+          "parent": 315392170193,
+          "parent_str": "315392170193",
+          "dialog": 315402378449,
+          "ctime": 1790647693,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间还可以菲林斯队四号位带班尼特或者冰主转伤害提盾。第二间奈芙尔带个迪奥娜等也行，"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315413106961,
+          "rpid_str": "315413106961",
+          "root": 315392170193,
+          "root_str": "315392170193",
+          "parent": 315402378449,
+          "parent_str": "315402378449",
+          "dialog": 315402378449,
+          "ctime": 1790655918,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_07b4fcb982fa848321618d68",
+          "content": {
+            "message": "回复 @星光璀璨之时 :感谢up三连了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315392170193,
+        "rpid_str": "315392170193",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790633814,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_07b4fcb982fa848321618d68",
+        "content": {
+          "message": "这次n5有点难了QAQ",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7e5cdf445f0a392ada7829cbc46e706d1281355382.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1512.79
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "510374d002679afd5d51be2fb5a2a4794d3ee5242051bc369c4e458fe5732766",
+  "original_bytes_sha256": "dd49ce28fc5ef21da04b7b34bf2390a31ea0164fd35aaee4e116e6d292e1811a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

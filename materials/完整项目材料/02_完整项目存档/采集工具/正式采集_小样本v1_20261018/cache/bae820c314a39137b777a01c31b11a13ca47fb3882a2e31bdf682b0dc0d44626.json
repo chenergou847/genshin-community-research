@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319064952144",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:18:22.190374+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319065331008,
+          "rpid_str": "319065331008",
+          "root": 319064952144,
+          "root_str": "319064952144",
+          "parent": 319064952144,
+          "parent_str": "319064952144",
+          "dialog": 319065331008,
+          "ctime": 1790735422,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_331daffd3e5cb2e7fa4341c4",
+          "content": {
+            "message": "随便打，1层星反应队，2层丝柯克冰水队，3层火神队，练度够了就能过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319064952144,
+        "rpid_str": "319064952144",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790735102,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_12883d3c60082987cd5d6808",
+        "content": {
+          "message": "老大能帮忙看一下n5怎么打吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/06b1d0debe9254ba42b90e63abd700c2487165928.jpg",
+              "img_width": 1220,
+              "img_height": 5159,
+              "img_size": 3027.13
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f09a13207d6b4e6b0127c7ed1f7331f44710fd79a00aecafbed7225ada2ac45f",
+  "original_bytes_sha256": "e176012a2f764449cca2b6d8e0fa833bc4605a264492cf6fc592b28a1c5f25f3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315178376945",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:52:07.624343+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315178376945,
+        "rpid_str": "315178376945",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790441603,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_182fa2f5c1616f1b5f06dc11",
+        "content": {
+          "message": "大佬们，我小号有2菲0伊0月，0蛇鹿，2奥1梦，0牛，打下期的有过难度四的可能吗？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "47d7f3ea77e3a4a17735daf0cd519a5f94ed06a5de1a60023b64fa98e4f5dc67",
+  "original_bytes_sha256": "3e5bdc6a142e59cbc9e0d0a1a6fac0e1be852af4f25b2390a342607006081f9d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

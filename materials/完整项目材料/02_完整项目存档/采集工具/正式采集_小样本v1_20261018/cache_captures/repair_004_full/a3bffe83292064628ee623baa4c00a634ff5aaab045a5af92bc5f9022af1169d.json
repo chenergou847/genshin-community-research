@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317227472177",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:38:59.701097+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317227472177,
+        "rpid_str": "317227472177",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792142792,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9e5e8a3ddf669fb31dc08b30",
+        "content": {
+          "message": "这个号第一次满星",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9119f0f0f3ca4b624e1647c927ad64af1287421657.jpg",
+              "img_width": 720,
+              "img_height": 1610,
+              "img_size": 573.65
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "ade83d201a9dc4a57539a07dcea5604a565bc28cbbeed71b978d0118e60e8e6c",
+  "original_bytes_sha256": "6275c9cf3d0d955bb65a9bcc36464413386af54f050d214dbd275bc8206c6aad",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314999993697",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:08:49.642661+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315000858225,
+          "rpid_str": "315000858225",
+          "root": 314999993697,
+          "root_str": "314999993697",
+          "parent": 314999993697,
+          "parent_str": "314999993697",
+          "dialog": 315000858225,
+          "ctime": 1790316959,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "超载队"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315003659441,
+          "rpid_str": "315003659441",
+          "root": 314999993697,
+          "root_str": "314999993697",
+          "parent": 315000858225,
+          "parent_str": "315000858225",
+          "dialog": 315000858225,
+          "ctime": 1790318835,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_27b8aa306118db20ee7a74f7",
+          "content": {
+            "message": "回复 @星光璀璨之时 :超载确实有命座 但01能过n6吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314999993697,
+        "rpid_str": "314999993697",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790316524,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_27b8aa306118db20ee7a74f7",
+        "content": {
+          "message": "01牛 6芙4希能打冰柜吗(=・ω・=)"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cacb6ed5be91c3d933ead8b4858a989adf0156b45a8355f26bdf018cf4c3035e",
+  "original_bytes_sha256": "fa07d4e9b0a96062ac94cfe55a768fb3c52504193d63c0e49af5d3422d9549ac",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

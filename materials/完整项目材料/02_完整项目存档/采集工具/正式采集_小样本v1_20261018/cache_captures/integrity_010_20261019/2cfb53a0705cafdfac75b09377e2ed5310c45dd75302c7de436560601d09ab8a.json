@@ -1,0 +1,155 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317331924225",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-19T05:28:50.640218+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317340854849,
+          "rpid_str": "317340854849",
+          "root": 317331924225,
+          "root_str": "317331924225",
+          "parent": 317331924225,
+          "parent_str": "317331924225",
+          "dialog": 317340854849,
+          "ctime": 1792231464,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5b8d2d5fec2e95b09d1db14f",
+          "content": {
+            "message": "先给1000押金就做[星星眼][星星眼][星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321009446720,
+          "rpid_str": "321009446720",
+          "root": 317331924225,
+          "root_str": "317331924225",
+          "parent": 317331924225,
+          "parent_str": "317331924225",
+          "dialog": 321009446720,
+          "ctime": 1792236144,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_de389d627c8c626f0da144fd",
+          "content": {
+            "message": "先给1w押金就接[星星眼][星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317331924225,
+        "rpid_str": "317331924225",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792225962,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_449a832f280a14fd7019f529",
+        "content": {
+          "message": "有做委托日常的吗，一个月，伍佰，有空的dd关"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ff125993069f29e1e86b1abbca2872d52027819bd8bfc70b65156a5d7c7d9cb3",
+  "original_bytes_sha256": "c9e4d2c01544b961af8aa4c23caec906e0a8a0178012c79ee0cd95df2d41da92",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

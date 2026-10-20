@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359763329190",
+    "root": "315599476657",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:37:30.418282+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315617986801,
+          "rpid_str": "315617986801",
+          "root": 315599476657,
+          "root_str": "315599476657",
+          "parent": 315599476657,
+          "parent_str": "315599476657",
+          "dialog": 315617986801,
+          "ctime": 1790823777,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0668ef4f0d15d1e8b9444875",
+          "content": {
+            "message": "确实，特邀角色一个没有好友也没有琳妮特木偶打新扩散的来了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315599476657,
+        "rpid_str": "315599476657",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790805456,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_cd6e9c2344572d75aeb995f4",
+        "content": {
+          "message": "剧诗四风了星月队都不给雷，真给我凹麻了比N6丘林都累有懂的吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1a770cc869e22d204b02493dd755bbfc2695accb43978a1b58d9a878fd025640",
+  "original_bytes_sha256": "d6f8d69e207b6949fcd005e2923d580418fee43db65e0b7f257597dc0dd63cba",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

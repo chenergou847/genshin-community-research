@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318978121840",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:29:51.037331+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315433572737,
+          "rpid_str": "315433572737",
+          "root": 318978121840,
+          "root_str": "318978121840",
+          "parent": 318978121840,
+          "parent_str": "318978121840",
+          "dialog": 315433572737,
+          "ctime": 1790671449,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你木偶要是有个二命奥黛塔好点。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315433636193,
+          "rpid_str": "315433636193",
+          "root": 318978121840,
+          "root_str": "318978121840",
+          "parent": 318978121840,
+          "parent_str": "318978121840",
+          "dialog": 315433636193,
+          "ctime": 1790671509,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间丝柯克队。\n第三间仆人超载队。还能仆人纯火万叶希诺宁班尼特，未必比希诺宁奶奶班尼特破盾慢。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315433763729,
+          "rpid_str": "315433763729",
+          "root": 318978121840,
+          "root_str": "318978121840",
+          "parent": 318978121840,
+          "parent_str": "318978121840",
+          "dialog": 315433763729,
+          "ctime": 1790671516,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "以上N5够"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318978121840,
+        "rpid_str": "318978121840",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790659889,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_0ac854a12bd296e71a13c56c",
+        "content": {
+          "message": "主播主播，我这有机会n6不[星星眼]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e8a0386cafb3311c63f8c24ceae84839673840112.jpg",
+              "img_width": 1279,
+              "img_height": 5662,
+              "img_size": 4136.49
+            }
+          ],
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "c8bf6bbf0e042f6d197f8c90a7a75cf31dfebf00db682e7a602cfd01e10136ba",
+  "original_bytes_sha256": "543e76510d2cc70eababd52aff526c871701208a9ede4aad054435e7e37529ab",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

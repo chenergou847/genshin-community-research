@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318926806240",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:36:41.413255+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318926806240,
+        "rpid_str": "318926806240",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790606039,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_afc1dd35516619e910e8711e",
+        "content": {
+          "message": "求助，有机会 N6 吗，感觉 1 3 只能过一间[原神_嗯]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/90f3a2b28758dd5bc8e7b9ba1b60aadb489397339.jpg",
+              "img_width": 1440,
+              "img_height": 14742,
+              "img_size": 2000.96
+            }
+          ],
+          "emote": {
+            "[原神_嗯]": {
+              "id": 4261,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[原神_嗯]",
+              "url": "https://i0.hdslb.com/bfs/emote/8b0a87e414f453a29730b6e0f45ca61f2f898688.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "嗯"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3ac544cf88393eecc648a72149c577c06197a0c09c5ef2fb8c5ea375b34f5014",
+  "original_bytes_sha256": "9e02ecf10e6b8aee3ec553852a9a69a2b4ee898724d14d562bdd6b4df602a1c1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

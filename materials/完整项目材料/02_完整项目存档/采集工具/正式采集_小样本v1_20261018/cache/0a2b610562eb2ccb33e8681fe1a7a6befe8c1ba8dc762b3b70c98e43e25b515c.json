@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315407753521",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:30:51.189649+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315407753521,
+        "rpid_str": "315407753521",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790652268,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_25dcc443ed6dff423f8bcbd6",
+        "content": {
+          "message": "已三连，up问一下我这个配队可以挑一下n6嘛\n1队薇斯娜，冰主，沃雅妮莎，珐露珊\n2队丝柯克，爱可菲，芙宁娜，莫娜\n3队木偶，奥黛塔，神子，尼可",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f9f2aa8dcd36bf27c8bad9a862b2fa71350292697.jpg",
+              "img_width": 1088,
+              "img_height": 14553,
+              "img_size": 1786.45,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7239de54106241593477ca7ee126101fb3c580db93af21f76c32e36b49d97f59",
+  "original_bytes_sha256": "c0353f415e1d4c65881b6f5f2d73d8723a930b7389691727c076ea6af9442ad4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

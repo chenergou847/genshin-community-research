@@ -1,0 +1,117 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320863439584",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:11:42.020125+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317218354193,
+          "rpid_str": "317218354193",
+          "root": 320863439584,
+          "root_str": "320863439584",
+          "parent": 320863439584,
+          "parent_str": "320863439584",
+          "ctime": 1792136075,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f26b109a7217c4ad776b85cb",
+          "content": {
+            "message": "第三件那个冰锅我绽放队打不了啊[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320863439584,
+        "rpid_str": "320863439584",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792129723,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a5804b7ee25be4e2e5bf0e30",
+        "content": {
+          "message": "[doge_金箍]薇斯纳一轮就四个E+1Q输出，奈芙尔一轮能打六到九个，还是绽放爽",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/85e2453d241b86d586c2bb539e3e4e69482143337.jpg",
+              "img_width": 1272,
+              "img_height": 2800,
+              "img_size": 1436.43
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "82cf86f4e2627fa2dcf34d5d08ba1399fe085bd0de686625b4f21ef66ebc0a11",
+  "original_bytes_sha256": "83e9a8e18c02875b434286b2e4b908d1f7d563bdb277a74f5aa86ae59e6b4f41",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

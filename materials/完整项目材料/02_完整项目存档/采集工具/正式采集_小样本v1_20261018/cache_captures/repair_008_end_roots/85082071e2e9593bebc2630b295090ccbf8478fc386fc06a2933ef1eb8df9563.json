@@ -1,0 +1,937 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117447776536436",
+    "type": "1",
+    "mode": "2",
+    "next": "443",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzMTc3NDQxMjM1NjIaADIDCLsD\"}"
+  },
+  "captured_at": "2026-10-18T05:49:13.298983+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 443,
+        "next": 418,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzMTc3NDQxMjM1NjIaADIDCKID",
+          "prev_offset": "CAISEDE4MzUzMTc3NDQxMjM1NjIaADIDCLsD"
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 1214,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320894930992,
+          "rpid_str": "320894930992",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150431,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_b77be9f2a8789dbc20107082",
+          "content": {
+            "message": "还是太看得起这期深渊了，奥黛塔换77也能过[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c96ded9ccd0f3d73477b2a4a719359fe25377125.jpg",
+                "img_width": 1240,
+                "img_height": 2772,
+                "img_size": 1338.47
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317246013905,
+              "rpid_str": "317246013905",
+              "root": 320894930992,
+              "root_str": "320894930992",
+              "parent": 320894930992,
+              "parent_str": "320894930992",
+              "dialog": 317246013905,
+              "ctime": 1792153196,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b918889d0b136573de5a3359",
+              "content": {
+                "message": "绫华这老东西都来了[doge]",
+                "emote": {
+                  "[doge]": {
+                    "id": 26,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "doge"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317241103953,
+          "rpid_str": "317241103953",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150427,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b0fda96b0315145a02035edc",
+          "content": {
+            "message": "现在的宝宝巴士老深渊真的是非常简单了[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317240864065,
+          "rpid_str": "317240864065",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150297,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_204a183e13749037003334d6",
+          "content": {
+            "message": "if桑多捏能拆成两半用……"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317240675377,
+          "rpid_str": "317240675377",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150222,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b535ce4d0215ffbc6d1d2f03",
+          "content": {
+            "message": "至冬目前为止所有角色全抽了，纯躺着过[傲娇]",
+            "emote": {
+              "[傲娇]": {
+                "id": 20,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[傲娇]",
+                "url": "https://i0.hdslb.com/bfs/emote/010540d0f61220a0db4922e4a679a1d8eca94f4e.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "傲娇"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320894451360,
+          "rpid_str": "320894451360",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150184,
+          "like": 0,
+          "rcount": 1,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_28b9fed9c1442cb79e57096e",
+          "content": {
+            "message": "没星烁反应的只能玩牢角色版本逆行了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/f7c4fcb53d893c4656efe1bf2dedff0c64736785.jpg",
+                "img_width": 1080,
+                "img_height": 2334,
+                "img_size": 329.23
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 317256173537,
+              "rpid_str": "317256173537",
+              "root": 320894451360,
+              "root_str": "320894451360",
+              "parent": 320894451360,
+              "parent_str": "320894451360",
+              "dialog": 317256173537,
+              "ctime": 1792158925,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_8fb696a8964a182b996d59e3",
+              "content": {
+                "message": "牢在哪[笑哭]怪牢吗（）",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320894481008,
+          "rpid_str": "320894481008",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150131,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c3ab245df0c7b84e5c8b3e4a",
+          "content": {
+            "message": "牢玛依旧全部创飞"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320894371296,
+          "rpid_str": "320894371296",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150125,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ac11fe7b4bc48cb5475e0241",
+          "content": {
+            "message": "上半木偶顺环境 下半火神纯劲大 轻松过[doge]就是最后一间冰锅不破机制伤害太高了点 火神暴毙好几次(打起来倒是不算难四人队里班尼特没切出来都过了 至于为什么班尼特不开大你别问[洛天依八音奇响_愤怒])",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              },
+              "[洛天依八音奇响_愤怒]": {
+                "id": 115095,
+                "package_id": 8363,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[洛天依八音奇响_愤怒]",
+                "url": "https://i0.hdslb.com/bfs/garb/4eac31c1584231287691145bf826aeba8939bca7.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1752300001,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=108477&hybrid_set_header=2&anchor_task=1&lottery_id=108478&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22108479%22%2C%22sub_id%22%3A%22%5B%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%85%AB%E9%9F%B3%E5%A5%87%E5%93%8D_%E6%84%A4%E6%80%92%5D%22%7D",
+                "jump_title": "愤怒"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320894302224,
+          "rpid_str": "320894302224",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150100,
+          "like": 5,
+          "rcount": 41,
+          "count": 42,
+          "state": 0,
+          "author_id": "U_d51c975b30a9516a7985e36f",
+          "content": {
+            "message": "没抽丝柯克，那我就不打了"
+          },
+          "replies": [
+            {
+              "rpid": 320895073488,
+              "rpid_str": "320895073488",
+              "root": 320894302224,
+              "root_str": "320894302224",
+              "parent": 320894302224,
+              "parent_str": "320894302224",
+              "dialog": 320895073488,
+              "ctime": 1792150469,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b77be9f2a8789dbc20107082",
+              "content": {
+                "message": "我下半用神里绫华也能过，神爱芙夜，找时间我试试神芙万夏能不能打"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 320895156976,
+              "rpid_str": "320895156976",
+              "root": 320894302224,
+              "root_str": "320894302224",
+              "parent": 320895073488,
+              "parent_str": "320895073488",
+              "dialog": 320895073488,
+              "ctime": 1792150534,
+              "like": 3,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_d51c975b30a9516a7985e36f",
+              "content": {
+                "message": "回复 @南路不难鹿 :我冰系只有牢大奥黛塔，我上版还要玩扩散，这司凤冰队专属怪怎么过"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320894263568,
+          "rpid_str": "320894263568",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792150035,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_daa2a07e634d881379a524fc",
+          "content": {
+            "message": "没打过这么简单的[笑哭] 我这个坐牢的都能过 [笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/fea708fad79267ec595b22ae6982cb65245805131.jpg",
+                "img_width": 2400,
+                "img_height": 1080,
+                "img_size": 892.05,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317240107521,
+          "rpid_str": "317240107521",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792149829,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_44e0136bf70c40e9ca4f0d44",
+          "content": {
+            "message": "fls大人带个夏洛蒂依旧爽吃环境🤓"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320893709152,
+          "rpid_str": "320893709152",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792149780,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6f145174fffa6ca6056e75b8",
+          "content": {
+            "message": "兹白nb，跨环境打上半"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317239886913,
+          "rpid_str": "317239886913",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792149726,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f1f4277f9b597da1c1ea9f16",
+          "content": {
+            "message": "这一期真的简单[doge_金箍]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/f59cd8cf581399ff922c0aa294660712638605882.jpg",
+                "img_width": 1264,
+                "img_height": 2800,
+                "img_size": 1413.27
+              }
+            ],
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320893284208,
+          "rpid_str": "320893284208",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792149500,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e151494a3080d356c59b270a",
+          "content": {
+            "message": "这期深渊太简单了哈哈"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317239142961,
+          "rpid_str": "317239142961",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792149289,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6f6de0cd9e3c4eaf97d55042",
+          "content": {
+            "message": "下次还填非常简单[脱单doge]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/d9bc393e836c3abb41a2b76be8cafbf4449590490.jpg",
+                "img_width": 1080,
+                "img_height": 2378,
+                "img_size": 1112.87
+              }
+            ],
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317238620913,
+          "rpid_str": "317238620913",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792149089,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7cc5f03bba2598e16ae4e2e0",
+          "content": {
+            "message": "我狗的主人堂堂登场！[打call]",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320891997024,
+          "rpid_str": "320891997024",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792148930,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_80986c12bfae5aee062aaa6a",
+          "content": {
+            "message": "你刚刚说了…！？冰？！",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/5b2109edb933ee837f140af7248db1f03493264978086113.jpg",
+                "img_width": 1024,
+                "img_height": 994,
+                "img_size": 93.88
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/49e9f067f85659c62a23d932f4bf01f03493264978086113.webp",
+                "img_width": 30,
+                "img_height": 30,
+                "img_size": 0.85
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317238418257,
+          "rpid_str": "317238418257",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792148896,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7a60ac6fa5ffec72dbaaa95b",
+          "content": {
+            "message": "已经过了，上轮深渊也过了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c9f2a7ab6a9106df56c756c8e5c78cff48483766.jpg",
+                "img_width": 1080,
+                "img_height": 2408,
+                "img_size": 905.2,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/83e62057c185f0dec5a387e213b6281948483766.jpg",
+                "img_width": 1080,
+                "img_height": 2408,
+                "img_size": 1136.73,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317238334721,
+          "rpid_str": "317238334721",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792148881,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cc528224af96fd6fe75ebdaf",
+          "content": {
+            "message": "这期确实简单，0+1薇斯纳带冰主都打的很快"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320891590160,
+          "rpid_str": "320891590160",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792148678,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_596f54376669aaab34910a17",
+          "content": {
+            "message": "除了十二层第二间那个阴间老太婆把尼可肘丝了之外都超级煎蛋",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/2340c312af0323b9dfc41b3747fb676d3546899745343512.png",
+                "img_width": 1792,
+                "img_height": 828,
+                "img_size": 250,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320891154864,
+          "rpid_str": "320891154864",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792148452,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cd2094aff7354eecdfeff6ff",
+          "content": {
+            "message": "从来没打过12层，这一次居然出奇的轻松过了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "7ffd6e535e6497388ffa279ba61683a8a24e0d844831f75738f4f55940ca842f",
+  "original_bytes_sha256": "22166f69179256e75657bf5c939ed2a475ea6a69b41150c54496e811022f8e61",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_008_end_roots"
+}

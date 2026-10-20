@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447474547463",
+    "root": "320974322704",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-17T15:05:12.420705+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320974322704,
+        "rpid_str": "320974322704",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792215319,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_d69879c8b1070e7ddcb6df07",
+        "content": {
+          "message": "阿罗夏换神子能打吗"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "0727477209e0271aa0816fce5ab895794ebdbfa472f21a2f6272600fba17f181",
+  "original_bytes_sha256": "463955834b45dfa5e14d4d7920f93f56587f65d06c0e230363325d7f62856761",
+  "author_key_id": "8c23bcfed5ae30867b344493dd2308dca225917cb9e451b91f6e2b592fe91e67",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

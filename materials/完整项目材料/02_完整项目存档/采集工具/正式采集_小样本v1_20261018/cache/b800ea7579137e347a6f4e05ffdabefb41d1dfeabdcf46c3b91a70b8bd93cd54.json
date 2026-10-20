@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315680903009",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:51:21.175986+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 9
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315680903009,
+        "rpid_str": "315680903009",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790861017,
+        "like": 0,
+        "rcount": 9,
+        "count": 13,
+        "state": 0,
+        "author_id": "U_fa7fab844dd716dfc407cea2",
+        "content": {
+          "message": "啥玩意一金超载火就能过吗？？？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "912f9da0e02274a58de18b3d9d8ee5ab7f734d550a12499631d0f17b9ce48068",
+  "original_bytes_sha256": "e4e3c5a170c0f82da9e0e9fdda2a93c3a913ee73d0331c58af6a89916d0fbd29",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

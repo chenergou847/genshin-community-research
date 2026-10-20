@@ -1,0 +1,123 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315796964161",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:31:37.000323+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315818459601,
+          "rpid_str": "315818459601",
+          "root": 315796964161,
+          "root_str": "315796964161",
+          "parent": 315796964161,
+          "parent_str": "315796964161",
+          "dialog": 315818459601,
+          "ctime": 1790960474,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_65108561634ffc6d3b8d8e05",
+          "content": {
+            "message": "同六芙，但我星体系全抽00了，打的很舒服"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315796964161,
+        "rpid_str": "315796964161",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790948169,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_6b71258e5e04aaa1d0486585",
+        "content": {
+          "message": "最后已经没精力留队好的了，全拆的稀碎，只能算勉强能满，当我的凯亚被迫当主c在打下落攻击的时候我甚至有点想笑[米雪儿·绮星梦使 应援装扮_闹]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4995d792116bc25faab97246d377c5171258836990.jpg",
+              "img_width": 1440,
+              "img_height": 3168,
+              "img_size": 1341.09
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a7af2879911882156201e99792d15f511258836990.jpg",
+              "img_width": 1440,
+              "img_height": 3168,
+              "img_size": 1833.88
+            }
+          ],
+          "emote": {
+            "[米雪儿·绮星梦使 应援装扮_闹]": {
+              "id": 137717,
+              "package_id": 9768,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[米雪儿·绮星梦使 应援装扮_闹]",
+              "url": "https://i0.hdslb.com/bfs/garb/0c4af66d9081d85f37604ebc58bc23bca3b0abe3.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1779162900,
+              "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=1778658209001&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+              "jump_title": "闹"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e5b649988b64d113fc75dc70e7a49ed0fa983c0fc1c7966e220e974d53478a00",
+  "original_bytes_sha256": "722c09f6d2cbdfa11d7b2bf1bbb23f87e5bd7c71b884de66da866913f813aff3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

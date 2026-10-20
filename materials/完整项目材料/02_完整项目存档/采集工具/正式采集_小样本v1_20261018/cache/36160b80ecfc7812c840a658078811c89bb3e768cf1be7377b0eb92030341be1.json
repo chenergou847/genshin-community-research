@@ -1,0 +1,179 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319300162848",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:18:44.043574+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315793417377,
+          "rpid_str": "315793417377",
+          "root": 319300162848,
+          "root_str": "319300162848",
+          "parent": 319300162848,
+          "parent_str": "319300162848",
+          "dialog": 315793417377,
+          "ctime": 1790946340,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "我靠哥 你是这个[支持]顶着6融凹10个小时 那说明如果你是8融那配置还可以再往下降 你是最有力的例子[呲牙]",
+            "emote": {
+              "[呲牙]": {
+                "id": 1902,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[呲牙]",
+                "url": "https://i0.hdslb.com/bfs/emote/b5a5898491944a4268360f2e7a84623149672eb6.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "呲牙"
+              },
+              "[支持]": {
+                "id": 434,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[支持]",
+                "url": "https://i0.hdslb.com/bfs/emote/3c210366a5585706c09d4c686a9d942b39feeb50.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "支持"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319368199856,
+          "rpid_str": "319368199856",
+          "root": 319300162848,
+          "root_str": "319300162848",
+          "parent": 315793417377,
+          "parent_str": "315793417377",
+          "dialog": 315793417377,
+          "ctime": 1790947921,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ad6c66e128865725edd28963",
+          "content": {
+            "message": "回复 @Hamlat :我太菜了8融不稳定[笑哭]，知道奶奶开完e偷A一下能卡上节奏规律的8融但是抓不准时机，而且总是卡不上轴，丘林冰雕快搓完还剩两刀没打出去",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319300162848,
+        "rpid_str": "319300162848",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790910533,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_ad6c66e128865725edd28963",
+        "content": {
+          "message": "凹了十个小时艰难拿下了，用的短轴一轮只打六融",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6f985d3d42a9b802bffa127109d7184c35519936.png",
+              "img_width": 2560,
+              "img_height": 1440,
+              "img_size": 3375.98
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5679d43f8b4f90ea96dbc4286ae6fbc61f6d9fe75cec46804fe21b66a2cf0aef",
+  "original_bytes_sha256": "9d3e1d8f4670d183f84de17091780ea38ef8043a0c92b008c745a4d7e9bc0491",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

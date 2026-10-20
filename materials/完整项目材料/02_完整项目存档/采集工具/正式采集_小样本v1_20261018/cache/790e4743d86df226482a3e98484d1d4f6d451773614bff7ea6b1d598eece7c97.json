@@ -1,0 +1,1099 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117364628657999",
+    "type": "1",
+    "mode": "2",
+    "next": "104",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzNDM5NzU4MTYwNTgaADICCGg=\"}"
+  },
+  "captured_at": "2026-10-18T12:55:05.236745+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 105,
+        "next": 81,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzNDM5NzU4MTYwNTgaADICCFE=",
+          "prev_offset": "CAISEDE4MzUzNDM5NzU4MTYwNTgaADICCGk="
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 511,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315902200097,
+          "rpid_str": "315902200097",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791028454,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_d0d648f2a81a0c6c884d2724",
+          "content": {
+            "message": "龙王从留着打boss到现在留着打小怪[笑哭]不过打群怪还是好用的",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319590651488,
+              "rpid_str": "319590651488",
+              "root": 315902200097,
+              "root_str": "315902200097",
+              "parent": 315902200097,
+              "parent_str": "315902200097",
+              "dialog": 319590651488,
+              "ctime": 1791108923,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f7bbd837b6e8f6f4a5bf9ab7",
+              "content": {
+                "message": "很好了，3个大版本了还能打"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319469544240,
+          "rpid_str": "319469544240",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791023230,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_707e71ef7026ddac90d6b298",
+          "content": {
+            "message": "打月喻圣牌的关卡环境非常适合龙，需要回血还需要群体伤害这简直完全适配龙"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315888984849,
+          "rpid_str": "315888984849",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791021427,
+          "like": 27,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_4ec053a6f55529b6921c6228",
+          "content": {
+            "message": "依旧月谕牌1队友死完了你龙王叔叔还在那里喷[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319481553984,
+              "rpid_str": "319481553984",
+              "root": 315888984849,
+              "root_str": "315888984849",
+              "parent": 315888984849,
+              "parent_str": "315888984849",
+              "dialog": 319481553984,
+              "ctime": 1791029324,
+              "like": 8,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_ea86d55a517f4e7dc1964634",
+              "content": {
+                "message": "队友只需要考虑打满大权就好了，龙龙想的就要多了"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319463585472,
+          "rpid_str": "319463585472",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791020093,
+          "like": 11,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_b204008bf0850d1390365697",
+          "content": {
+            "message": "孩子们别怕，看我直接伪装一波去打n6",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/cfab8f3c858e95062057f52ad094e1931592787040.jpg",
+                "img_width": 608,
+                "img_height": 1558,
+                "img_size": 476.52
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 319469035936,
+              "rpid_str": "319469035936",
+              "root": 319463585472,
+              "root_str": "319463585472",
+              "parent": 319463585472,
+              "parent_str": "319463585472",
+              "dialog": 319469035936,
+              "ctime": 1791022988,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_66ab789b5da1175cf393174e",
+              "content": {
+                "message": "提瓦特最强coser"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315877115409,
+          "rpid_str": "315877115409",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791014473,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7cfa82fb8c6a5254a69f8dcc",
+          "content": {
+            "message": "别说，我月谕打完，那维莱特只用了一次"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319453339408,
+          "rpid_str": "319453339408",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791014277,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_56198b9991c7ec9c05962e75",
+          "content": {
+            "message": "我找茬都想不出剧诗使用率百分百这种话[星星眼][星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315868948977,
+          "rpid_str": "315868948977",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791009224,
+          "like": 114,
+          "rcount": 11,
+          "count": 13,
+          "state": 0,
+          "author_id": "U_a2d0dbec4c431de17620b0f3",
+          "content": {
+            "message": "其实龙王在剧诗一直有地位的，任何时候带一队垃圾都可以过关，把强者们留给强敌来袭[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315948311841,
+              "rpid_str": "315948311841",
+              "root": 315868948977,
+              "root_str": "315868948977",
+              "parent": 319502503856,
+              "parent_str": "319502503856",
+              "dialog": 319502503856,
+              "ctime": 1791072104,
+              "like": 43,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b1884ee8c00fc735e3fd3738",
+              "content": {
+                "message": "回复 @敌港 :试用的0龙很差，但如果是自己养的0命龙王还好，我一直是金珀0龙顺环境能打n6，平时打n5也没什么问题"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319502503856,
+              "rpid_str": "319502503856",
+              "root": 315868948977,
+              "root_str": "315868948977",
+              "parent": 315868948977,
+              "parent_str": "315868948977",
+              "dialog": 319502503856,
+              "ctime": 1791040057,
+              "like": 3,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b7f2250cd5e1fcdf16f7eb16",
+              "content": {
+                "message": "数值不够很难拿星的，不信你去试试开幕试用的0命龙王"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315846410833,
+          "rpid_str": "315846410833",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790996404,
+          "like": 0,
+          "rcount": 5,
+          "count": 5,
+          "state": 0,
+          "author_id": "U_22f5d8d29ef00959279393d0",
+          "content": {
+            "message": "没有抽龙王啊，等我出院回家试试试用龙王"
+          },
+          "replies": [
+            {
+              "rpid": 315849999777,
+              "rpid_str": "315849999777",
+              "root": 315846410833,
+              "root_str": "315846410833",
+              "parent": 319424527296,
+              "parent_str": "319424527296",
+              "dialog": 319424527296,
+              "ctime": 1790998583,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_22f5d8d29ef00959279393d0",
+              "content": {
+                "message": "回复 @-御坂10045号- :我每次打剧诗都是前面几关压线过，然后最后几关剩好几次完整配队，前面就是忍的住用超低配门槛队"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319424527296,
+              "rpid_str": "319424527296",
+              "root": 315846410833,
+              "root_str": "315846410833",
+              "parent": 315846410833,
+              "parent_str": "315846410833",
+              "dialog": 319424527296,
+              "ctime": 1790998168,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f833d9a4304448203bb41d58",
+              "content": {
+                "message": "0龙没打断区完了"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315844299985,
+          "rpid_str": "315844299985",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790995086,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_362321d4787821afe7240377",
+          "content": {
+            "message": "带三个挂件还好吧[doge_金箍]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/d0965db3a53f215a79b2373560a69a6c1109740897.jpg",
+                "img_width": 1080,
+                "img_height": 2376,
+                "img_size": 897.97
+              }
+            ],
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315843953809,
+          "rpid_str": "315843953809",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790994858,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_c9f5f50391910cd338c035cb",
+          "content": {
+            "message": "回溯三次才把神子刷出来[热]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/2255d89309e6c43c7b170b293cbac00a1704368394.jpg",
+                "img_width": 2000,
+                "img_height": 1500,
+                "img_size": 1979.21
+              }
+            ],
+            "emote": {
+              "[热]": {
+                "id": 7647,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[热]",
+                "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "热"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319438591936,
+              "rpid_str": "319438591936",
+              "root": 315843953809,
+              "root_str": "315843953809",
+              "parent": 315843953809,
+              "parent_str": "315843953809",
+              "dialog": 319438591936,
+              "ctime": 1791005579,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_d503bdd0797c49b16db4ea8a",
+              "content": {
+                "message": "其实也可以触发下星扩散，然后木偶硬凹[微笑]，我就是回溯都用完了，没神子硬凹的",
+                "emote": {
+                  "[微笑]": {
+                    "id": 1,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[微笑]",
+                    "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "微笑"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319406133168,
+          "rpid_str": "319406133168",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790984485,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_650d77962deabe0030fec59f",
+          "content": {
+            "message": "龙王确实可以，我每期都会借好友的一命龙王去打月喻第一关，打到最后基本都是队友被那个扣血都整死了，就龙王还活[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315819269697,
+          "rpid_str": "315819269697",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790961150,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ef105e039e81f63777aaec31",
+          "content": {
+            "message": "理论上开幕角色的使用率可以超过 100%"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319389063792,
+          "rpid_str": "319389063792",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790958763,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4cfc523621357aa3c0acc466",
+          "content": {
+            "message": "懂不懂掏出龙王带三个挂件就一定能过一关的救赎感啊，超绝生存，随便反应一下就吃buff[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315813198881,
+          "rpid_str": "315813198881",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790956719,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fbdc52a7d100bfc39c6c5cf",
+          "content": {
+            "message": "你龙叔叔带三个挂件拿脚操作都可以过月谕1"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319380374080,
+          "rpid_str": "319380374080",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790953748,
+          "like": 36,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3a3d71698f36e2ea5ee7c08b",
+          "content": {
+            "message": "101%（指正）",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/0268b5d12bf54347029789f5904398e51977415039.jpg",
+                "img_width": 2400,
+                "img_height": 1080,
+                "img_size": 610.95
+              }
+            ]
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319367708784,
+          "rpid_str": "319367708784",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790947665,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cfc771c6c01b81a72d9f8151",
+          "content": {
+            "message": "须弥时期没有抽散兵或者抽了没练散兵的有福了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315791874897,
+          "rpid_str": "315791874897",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790945512,
+          "like": 3,
+          "rcount": 4,
+          "count": 4,
+          "state": 0,
+          "author_id": "U_90752d378fcb1841e7612168",
+          "content": {
+            "message": "别的我不管，助演放个托马何意味？不放阿罗夏放托马？这期托马作用只有凑数了吧"
+          },
+          "replies": [
+            {
+              "rpid": 315848864513,
+              "rpid_str": "315848864513",
+              "root": 315791874897,
+              "root_str": "315791874897",
+              "parent": 319422505120,
+              "parent_str": "319422505120",
+              "dialog": 319422505120,
+              "ctime": 1790997897,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_90752d378fcb1841e7612168",
+              "content": {
+                "message": "回复 @随便就好了吧丶 :（叹气）"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319422505120,
+              "rpid_str": "319422505120",
+              "root": 315791874897,
+              "root_str": "315791874897",
+              "parent": 315791874897,
+              "parent_str": "315791874897",
+              "dialog": 319422505120,
+              "ctime": 1790997032,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f6840557463fbca95bce95db",
+              "content": {
+                "message": "如果借恰斯卡的话可以打融化[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315771443057,
+          "rpid_str": "315771443057",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790934855,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3db5fd337deae2b3833d70de",
+          "content": {
+            "message": "开幕龙王重击被击飞，直接重开把奶奶搬上来了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315769305585,
+          "rpid_str": "315769305585",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790933632,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_ec46f1d056a3a82e8d143640",
+          "content": {
+            "message": "密码的，我用散兵得要四级冰风才能打过第二关"
+          },
+          "replies": [
+            {
+              "rpid": 315973837265,
+              "rpid_str": "315973837265",
+              "root": 315769305585,
+              "root_str": "315769305585",
+              "parent": 315769305585,
+              "parent_str": "315769305585",
+              "dialog": 315973837265,
+              "ctime": 1791089474,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_06e2cf03a9381702a0760f59",
+              "content": {
+                "message": "不对吧，嗯，可能是手法问题，伞兵不是纯a的，我打第一个boss都是比较轻松的，就用那个试用的，反而试用的龙打第一个boss真的恶心到我了，不过龙就是用来打圣牌的，权威毋庸置疑"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315768098465,
+          "rpid_str": "315768098465",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790932944,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_def5d7e7c451f6f283283e53",
+          "content": {
+            "message": "这期把之前那个策划爱散的谣言彻底砸的粉碎[支持]纯路人用完气笑了",
+            "emote": {
+              "[支持]": {
+                "id": 434,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[支持]",
+                "url": "https://i0.hdslb.com/bfs/emote/3c210366a5585706c09d4c686a9d942b39feeb50.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "支持"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "546c15782bf8921d2c0a3d9e10292cd9c6ae147049b2bcbcdd442d8724182c6a",
+  "original_bytes_sha256": "ff76cb390fd50244f9562b3fcd3480b6e2d1440d9c5503501d25258290a137c8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

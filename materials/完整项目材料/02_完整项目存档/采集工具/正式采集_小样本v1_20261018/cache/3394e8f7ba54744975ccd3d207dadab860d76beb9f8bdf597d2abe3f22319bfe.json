@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318931291696",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:36:03.624806+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315376985265,
+          "rpid_str": "315376985265",
+          "root": 318931291696,
+          "root_str": "318931291696",
+          "parent": 318931291696,
+          "parent_str": "318931291696",
+          "dialog": 315376985265,
+          "ctime": 1790609678,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "薇斯纳奥黛塔沃雅妮莎珐露珊\n木偶+阿罗夏+冰主/迪奥娜+砂糖。\n第三间火神希诺宁班尼特万叶，万叶扩火，班尼特强火配合破冰盾。视频有演示的。或者满命娜维娅+香菱班尼特+希诺宁"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315377042769,
+          "rpid_str": "315377042769",
+          "root": 318931291696,
+          "root_str": "318931291696",
+          "parent": 318931291696,
+          "parent_str": "318931291696",
+          "dialog": 315377042769,
+          "ctime": 1790609687,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色，你这配置已经够牛了。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318931291696,
+        "rpid_str": "318931291696",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790608723,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_fefe2672e2fa10cfddec062d",
+        "content": {
+          "message": "n5能打吗，有点怕冰锅[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d6fe21ba7ca0aae7ec77491daa216cc11422847314.jpg",
+              "img_width": 1080,
+              "img_height": 11076,
+              "img_size": 1357.79
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "45df1a52f1c8b350a6e070a272a06d06ec95a4ef00de9b792b8c112ebf077d34",
+  "original_bytes_sha256": "9d1948851b2e42ed4083b44e750f63bb2360b8f3b0618722477b0600621482d0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

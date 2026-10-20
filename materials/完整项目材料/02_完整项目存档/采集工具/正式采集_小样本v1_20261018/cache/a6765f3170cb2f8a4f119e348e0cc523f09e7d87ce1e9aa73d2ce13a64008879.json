@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318936781760",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:35:30.234666+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315381299825,
+          "rpid_str": "315381299825",
+          "root": 318936781760,
+          "root_str": "318936781760",
+          "parent": 318936781760,
+          "parent_str": "318936781760",
+          "dialog": 315381299825,
+          "ctime": 1790612770,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间梦见月+奥黛塔+珐露珊+迪奥娜/七七\n第二间木偶阿罗夏+迪奥娜+砂糖，星超导也可以。\n第三间菲林斯少女伊涅芙+冰主，星体系转伤害盾，也可以打。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315381255441,
+          "rpid_str": "315381255441",
+          "root": 318936781760,
+          "root_str": "318936781760",
+          "parent": 318936781760,
+          "parent_str": "318936781760",
+          "dialog": 315381255441,
+          "ctime": 1790612824,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间胡桃万叶钟离班尼特，纯火都能破。第二间菲林斯还能带莱依拉打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315381360529,
+          "rpid_str": "315381360529",
+          "root": 318936781760,
+          "root_str": "318936781760",
+          "parent": 318936781760,
+          "parent_str": "318936781760",
+          "dialog": 315381360529,
+          "ctime": 1790612835,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318936781760,
+        "rpid_str": "318936781760",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790612463,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_4caa582a2e483fdc33867a60",
+        "content": {
+          "message": "能打n5吧，n6不敢想[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a4f9bdb71d3947ed15930ec72f95af9085269147.jpg",
+              "img_width": 1200,
+              "img_height": 12555,
+              "img_size": 1572.14
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a066c4fdfa77b24280799134704cd866bd3145f65faebdaad4824d2fe6dcd014",
+  "original_bytes_sha256": "39c5aadf86e55be6278b20b95b5513887320c73f5084e1b29b524a05c87c7059",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

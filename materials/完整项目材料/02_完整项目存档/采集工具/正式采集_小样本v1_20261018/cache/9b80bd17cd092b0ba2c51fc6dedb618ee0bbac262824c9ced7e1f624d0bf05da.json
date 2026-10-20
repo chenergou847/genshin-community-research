@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319419693616",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:06:21.256815+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 28
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319419693616,
+        "rpid_str": "319419693616",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790995358,
+        "like": 88,
+        "rcount": 28,
+        "count": 30,
+        "state": 0,
+        "author_id": "U_99afdd718e2a32904e4280dc",
+        "content": {
+          "message": "其实我觉得莫娜也不输奥黛塔"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f59127c2b67346cc47d95b60fe909f5f4ed07acced0cc17ed6ce4ef2adeb18f8",
+  "original_bytes_sha256": "b89c2a97838ca81ea9f9ffea4c3bea208e63c0320799863460de01bc8d912c6b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

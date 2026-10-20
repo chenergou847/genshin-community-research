@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117450611885088",
+    "root": "317248668945",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:24:23.506631+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317248668945,
+        "rpid_str": "317248668945",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792154723,
+        "like": 3,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_761911767f134ac6654aea0e",
+        "content": {
+          "message": "格调不算金？👿"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a8087da9b87c6772e8b901f9890919217551e1b55b3cae8c8669d904199f2200",
+  "original_bytes_sha256": "8f7605fd58b2ed6abcabf253936a533a72118df2db154b5d76de48297ce0074f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

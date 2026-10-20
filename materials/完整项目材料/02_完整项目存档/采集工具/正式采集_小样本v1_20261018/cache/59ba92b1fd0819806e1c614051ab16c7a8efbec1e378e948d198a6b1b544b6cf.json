@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315503216593",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:18:06.434843+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315505530625,
+          "rpid_str": "315505530625",
+          "root": 315503216593,
+          "root_str": "315503216593",
+          "parent": 315503216593,
+          "parent_str": "315503216593",
+          "dialog": 315505530625,
+          "ctime": 1790737642,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_055d32c4eff6da964c15c03f",
+          "content": {
+            "message": "老大，我想问一下第一间能用二命瑞希替风仙吗，还有就是冰锅那边主要是需要爱可菲吗我第二间是丝柯克01，芙6，0申鹤，夏洛蒂打不过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315503216593,
+        "rpid_str": "315503216593",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790735746,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_11044401c726fe30e7a7f481",
+        "content": {
+          "message": "已过，大家参考下配置",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0b06120d3924c30896e48def0dc19db8516698.jpg",
+              "img_width": 1320,
+              "img_height": 2406,
+              "img_size": 556,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "56294963532a2ce17cf007c0c88f311bbc2af905e640746ed09a8852ad538b6f",
+  "original_bytes_sha256": "18b85ef384ccc122075301011c38a7bd5075ad08068c939d04868f2cd762194b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

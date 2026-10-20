@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315421802033",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:29:03.482636+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315421857169,
+          "rpid_str": "315421857169",
+          "root": 315421802033,
+          "root_str": "315421802033",
+          "parent": 315421802033,
+          "parent_str": "315421802033",
+          "dialog": 315421857169,
+          "ctime": 1790662033,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e1b63f049a0c27f997780911",
+          "content": {
+            "message": "奶奶带的祭礼，想试试看能不能单冰压下去，毕竟这个队奶奶可以站场"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318981313488,
+          "rpid_str": "318981313488",
+          "root": 315421802033,
+          "root_str": "315421802033",
+          "parent": 315421802033,
+          "parent_str": "315421802033",
+          "dialog": 318981313488,
+          "ctime": 1790662368,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d8bbf6945765aebdf6d7af5a",
+          "content": {
+            "message": "不太行，持续冰可以，神里凌华，丝柯克都能打，水冰队随便打这个怪"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315421802033,
+        "rpid_str": "315421802033",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790661971,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_e1b63f049a0c27f997780911",
+        "content": {
+          "message": "大佬大佬，这个有希望可以过n5冰锅吗？QAQ",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3c392b5368b9ce8886c5def1b057718c594450482.jpg",
+              "img_width": 2800,
+              "img_height": 1280,
+              "img_size": 905.44
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0c8be9d33ae2cb9322ccd348672d04365e97346608178e7a7e85b7d00cfff15c",
+  "original_bytes_sha256": "bc702fa75d79101f9177fbe39512497f2863695b77ef8faa5ea201dd7c1692f4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

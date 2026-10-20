@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314936332721",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:24:32.382776+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314940992001,
+          "rpid_str": "314940992001",
+          "root": 314936332721,
+          "root_str": "314936332721",
+          "parent": 314936332721,
+          "parent_str": "314936332721",
+          "dialog": 314940992001,
+          "ctime": 1790261478,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_97db794e4dc2b95c768fda1f",
+          "content": {
+            "message": "打5应该可以"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314936332721,
+        "rpid_str": "314936332721",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790258902,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_febe11af3095e69d376deb43",
+        "content": {
+          "message": "有机会嘛？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/88ba2c59646e4b46ad485e915040e1dd3461579695720865.jpg",
+              "img_width": 1080,
+              "img_height": 10115,
+              "img_size": 1194.74,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "acb005d01627da72a2b4c0ddaf939c0132f445504aaf792ffe80c3f280a4a3a6",
+  "original_bytes_sha256": "c1e40c02ef9bc9e3f3a4f9da70cf49349fae23b69c6d6b0e1d117f91e4051eb1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319619072144",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:00:47.175249+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319638211200,
+          "rpid_str": "319638211200",
+          "root": 319619072144,
+          "root_str": "319619072144",
+          "parent": 319619072144,
+          "parent_str": "319619072144",
+          "dialog": 319638211200,
+          "ctime": 1791133852,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a1b8eb28a315d15436f57959",
+          "content": {
+            "message": "2"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319638278464,
+          "rpid_str": "319638278464",
+          "root": 319619072144,
+          "root_str": "319619072144",
+          "parent": 319619072144,
+          "parent_str": "319619072144",
+          "dialog": 319638278464,
+          "ctime": 1791133871,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a1b8eb28a315d15436f57959",
+          "content": {
+            "message": "女皇先0命"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316065760689,
+          "rpid_str": "316065760689",
+          "root": 319619072144,
+          "root_str": "319619072144",
+          "parent": 319619072144,
+          "parent_str": "319619072144",
+          "dialog": 316065760689,
+          "ctime": 1791157706,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a79e4df4f4ba1027fd8778a3",
+          "content": {
+            "message": "00女皇，再补2奥"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319619072144,
+        "rpid_str": "319619072144",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791123026,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_3793f9a9d85b9e6f5bba7b8f",
+        "content": {
+          "message": "1+1奥黛塔，到时候应该是先抽女皇呢，还是先给他补二命？[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "230e3af56fe618c3084ead8b855e557035702e86334798f9ab4334c58f9fd028",
+  "original_bytes_sha256": "b08c36f6604d0d05b4d82a8b6fc76e1f68b2de6105800e61ada774826d82a992",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,87 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117397109343468",
+    "root": "316309661217",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-19T05:29:50.846680+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316309661217,
+        "rpid_str": "316309661217",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791338259,
+        "like": 5,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_2c403101a443443fd072d73e",
+        "content": {
+          "message": "太猛了... 我滿命魈都打不過[doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8492663238261a615b3b47bd502f1d2c362b8a80098ed37dc545121ac62314b9",
+  "original_bytes_sha256": "27d7bea8fa254905578c919a0c1f56263165e0cea64294e45206e80afd23a23a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

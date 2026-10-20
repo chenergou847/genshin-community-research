@@ -1,0 +1,169 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320871207008",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:40:33.388462+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320886062416,
+          "rpid_str": "320886062416",
+          "root": 320871207008,
+          "root_str": "320871207008",
+          "parent": 320871207008,
+          "parent_str": "320871207008",
+          "ctime": 1792145828,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f06f0929e44633577e92ecf2",
+          "content": {
+            "message": "护航费用结一下谢谢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320887589680,
+          "rpid_str": "320887589680",
+          "root": 320871207008,
+          "root_str": "320871207008",
+          "parent": 320886062416,
+          "parent_str": "320886062416",
+          "ctime": 1792146611,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_18eab61590709fae0eaad985",
+          "content": {
+            "message": "回复 @千坂不干饭 :此乃队伍的配合[脱单doge][害羞]",
+            "emote": {
+              "[害羞]": {
+                "id": 6,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[害羞]",
+                "url": "https://i0.hdslb.com/bfs/emote/9d2ec4e1fbd6cb1b4d12d2bbbdd124ccb83ddfda.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "害羞"
+              },
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320871207008,
+        "rpid_str": "320871207008",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792135863,
+        "like": 15,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_18eab61590709fae0eaad985",
+        "content": {
+          "message": "给骑士团打榜[脱单doge][脱单doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/688129367ae55ed5650663b63fff001a287005628.jpg",
+              "img_width": 1220,
+              "img_height": 2712,
+              "img_size": 1354.39
+            }
+          ],
+          "emote": {
+            "[脱单doge]": {
+              "id": 3301,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[脱单doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "脱单doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "a7b3733b27f98d2fbb794fbd6fdde95b33459195f0c40be85a90af19708758fc",
+  "original_bytes_sha256": "36094c43ffac04b8a543f9d342a926bc695c424af83d2bdcdf7e8b6128737dbd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

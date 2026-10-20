@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315403433281",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:31:49.441400+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 9
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315403433281,
+        "rpid_str": "315403433281",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790648634,
+        "like": 2,
+        "rcount": 9,
+        "count": 11,
+        "state": 0,
+        "author_id": "U_7fd3ebe029ae3aa24ab63252",
+        "content": {
+          "message": "p1赛诺抢奥黛塔了，木偶幽境模拟总差一点，赛诺不带奥p1好像打不了[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/19a196f7be1b6544ef14e2dd3215ebbe640098963.jpg",
+              "img_width": 910,
+              "img_height": 10800,
+              "img_size": 5167.63
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "946f494a51d7129d26c15c560e9164c655e7b30fd7c93bc2ae5f64954990ba2a",
+  "original_bytes_sha256": "7c2f4a757dd60ed679336093f073cda26bb3a524e79d6bf0398d6d04cc84e85f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

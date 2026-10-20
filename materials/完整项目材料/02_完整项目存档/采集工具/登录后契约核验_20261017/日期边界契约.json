@@ -1,0 +1,103 @@
+{
+  "purpose": "CONTRACT_PROBE_NOT_FORMAL_SAMPLE",
+  "at": "2026-10-17T15:37:29.521907+00:00",
+  "checks": [
+    {
+      "label": "positive_recent_week",
+      "begin": 1791648000,
+      "end": 1792249740,
+      "numResults": 1000,
+      "numPages": 50,
+      "ids": [
+        "BV12bJS6NE4V",
+        "BV1bNJD66EeB",
+        "BV1vSJS6DEEs",
+        "BV1wBJB68EJV",
+        "BV1ezpz6bEE8",
+        "BV1QXJe6YETZ",
+        "BV14Tpq6kER4",
+        "BV1fpJt6fEJF",
+        "BV1YoJQ69EBg",
+        "BV1UpJS6uEBo",
+        "BV1E8JX6wEyG",
+        "BV1mopE6xEkd",
+        "BV1h2JX6nEiU",
+        "BV1uTJ86UEej",
+        "BV1NQJD6uE1h",
+        "BV1w6Jb6MEWA",
+        "BV1TxJS6ME8g",
+        "BV1fbJ86YEqe",
+        "BV1mHJm6wEaJ",
+        "BV1c9Jv6XEUU"
+      ],
+      "pubdates": [
+        1792109220,
+        1792098585,
+        1792106295,
+        1792246057,
+        1791906743,
+        1792218319,
+        1791895012,
+        1792153326,
+        1792116940,
+        1792110234,
+        1792141509,
+        1791711000,
+        1792142326,
+        1792168523,
+        1792125308,
+        1792206360,
+        1792110541,
+        1792234800,
+        1792105200,
+        1792244960
+      ],
+      "all_in_range": true,
+      "response_hash": "c46ab4244751b174d6498b302c2955c04f7c6f7d8b28d70d93322f761030f6c4"
+    },
+    {
+      "label": "negative_before_bilibili_existed_begin_is_nonzero",
+      "begin": 1,
+      "end": 915148799,
+      "numResults": 0,
+      "numPages": 0,
+      "ids": [],
+      "pubdates": [],
+      "all_in_range": true,
+      "response_hash": "52dc1fdd2f93030972a7956bbb4492246c356642f694ce3ff37aecefa38b8ef1"
+    },
+    {
+      "label": "inclusive_single_second",
+      "begin": 1792109220,
+      "end": 1792109220,
+      "numResults": 1,
+      "numPages": 1,
+      "ids": [
+        "BV12bJS6NE4V"
+      ],
+      "pubdates": [
+        1792109220
+      ],
+      "all_in_range": true,
+      "response_hash": "56a6117b9efa8bfdceca8d82120f15fbba83caca905080ca71b5f318b1d2e2ae"
+    },
+    {
+      "label": "exclude_known_second",
+      "begin": 1792109221,
+      "end": 1792109221,
+      "numResults": 0,
+      "numPages": 0,
+      "ids": [],
+      "pubdates": [],
+      "all_in_range": true,
+      "response_hash": "cf58301f09c32c4a0232236b553d49c36076b403d3f89f1df1a9c8f616bf3942"
+    }
+  ],
+  "status": "passed_positive_and_negative_boundary_checks",
+  "evidence_hashes": [
+    "c46ab4244751b174d6498b302c2955c04f7c6f7d8b28d70d93322f761030f6c4",
+    "52dc1fdd2f93030972a7956bbb4492246c356642f694ce3ff37aecefa38b8ef1",
+    "56a6117b9efa8bfdceca8d82120f15fbba83caca905080ca71b5f318b1d2e2ae",
+    "cf58301f09c32c4a0232236b553d49c36076b403d3f89f1df1a9c8f616bf3942"
+  ]
+}

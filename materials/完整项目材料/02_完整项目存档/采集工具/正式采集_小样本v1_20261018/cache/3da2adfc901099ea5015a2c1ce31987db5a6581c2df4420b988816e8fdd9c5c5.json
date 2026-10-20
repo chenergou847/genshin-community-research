@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "321039458544",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:39:58.645675+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321039458544,
+        "rpid_str": "321039458544",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792252121,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_49e8e74daa7774b253eb785b",
+        "content": {
+          "message": "说实话不知道为什么 看了这多角色 目前就刷到的一下黑子吹子 基本就是那维莱特常常有这些 龙吹恨龙的 很少刷到过其他角色的一些 x黑 x吹",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/591c97726e864dd7afdab0f647c2d211701241905.jpg",
+              "img_width": 806,
+              "img_height": 756,
+              "img_size": 57
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9c38989ba4181fc32b834a75b29cd0a1392ef953376328ace47de03f5f4127a9",
+  "original_bytes_sha256": "6654261b170f16b42491201dff7040273101e81179852b126408e35954b768af",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

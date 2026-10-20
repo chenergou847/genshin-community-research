@@ -1,0 +1,195 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315637283601",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:09:45.746154+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315685417105,
+          "rpid_str": "315685417105",
+          "root": 315637283601,
+          "root_str": "315637283601",
+          "parent": 315637283601,
+          "parent_str": "315637283601",
+          "dialog": 315685417105,
+          "ctime": 1790863527,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cf19528139eafe10f28028fe",
+          "content": {
+            "message": "没有冰C的已经麻了[瓦釜雷鸣_我要睡了]",
+            "emote": {
+              "[瓦釜雷鸣_我要睡了]": {
+                "id": 122172,
+                "package_id": 8796,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[瓦釜雷鸣_我要睡了]",
+                "url": "https://i0.hdslb.com/bfs/garb/0efaa404f40ac04aec8ef0ded7547a2806311241.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1758938402,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=109345&hybrid_set_header=2&anchor_task=1&lottery_id=109346&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109810%22%2C%22sub_id%22%3A%22%5B%E7%93%A6%E9%87%9C%E9%9B%B7%E9%B8%A3_%E6%88%91%E8%A6%81%E7%9D%A1%E4%BA%86%5D%22%7D",
+                "jump_title": "我要睡了"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315724874449,
+          "rpid_str": "315724874449",
+          "root": 315637283601,
+          "root_str": "315637283601",
+          "parent": 315685417105,
+          "parent_str": "315685417105",
+          "dialog": 315685417105,
+          "ctime": 1790906782,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_33e420bca747c41f361a8e12",
+          "content": {
+            "message": "回复 @矢量操纵2 :冰主蒸一蒸[藏狐]",
+            "emote": {
+              "[藏狐]": {
+                "id": 4000,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[藏狐]",
+                "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "藏狐"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315775843665,
+          "rpid_str": "315775843665",
+          "root": 315637283601,
+          "root_str": "315637283601",
+          "parent": 315724874449,
+          "parent_str": "315724874449",
+          "dialog": 315685417105,
+          "ctime": 1790937187,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cf19528139eafe10f28028fe",
+          "content": {
+            "message": "回复 @15妖悟 :用天赋没点的80级冰主打过了n4，等养完看看能不能挑战n5[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315637283601,
+        "rpid_str": "315637283601",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790835133,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_33e420bca747c41f361a8e12",
+        "content": {
+          "message": "这冰锅的机制持续一分多钟这不对吧，也不瘫痪，这只能用冰C打啊？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d93408eb5f3babe59d25b0941e6febf9d98290f078c1bd46cb4d08a688b91deb",
+  "original_bytes_sha256": "d104d1a520dc134b1800e435b5075cb14e937b14e7617c4d10085a491db405c5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

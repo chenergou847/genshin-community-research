@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315799995953",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:31:25.345373+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315799995953,
+        "rpid_str": "315799995953",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790949706,
+        "like": 0,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_84f7e37d8f39590fba2fb1d3",
+        "content": {
+          "message": "一个龙王，一个skk，一个木偶，全玩到完全配队了，爽啊[脱单doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/481b90e8b67cfbac50e7327a7323f1ed90822295.jpg",
+              "img_width": 2000,
+              "img_height": 1500,
+              "img_size": 1947.07
+            }
+          ],
+          "emote": {
+            "[脱单doge]": {
+              "id": 3301,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[脱单doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "脱单doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "97dac95ca7765fd2e7bd77a1e5068079e111ed3f1ffef3838358770f080d3327",
+  "original_bytes_sha256": "ed4ce772e39edb280b27abca77061ec1adbf54c1166543ed045a8ebb9ec39e24",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

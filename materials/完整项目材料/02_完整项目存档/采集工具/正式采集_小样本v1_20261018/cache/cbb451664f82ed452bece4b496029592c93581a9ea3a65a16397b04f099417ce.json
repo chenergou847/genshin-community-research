@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319673941696",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:34:16.622041+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319673941696,
+        "rpid_str": "319673941696",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791172624,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_81cec4b52d1439fd1f8e32df",
+        "content": {
+          "message": "我N6只能打过冰锅和冰馆，老夫子太肉了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a9f0bc799566f0ee9bd4e32a789d65fc1768694601.png",
+              "img_width": 2560,
+              "img_height": 1440,
+              "img_size": 3104.88
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "47c434cf8e8fe2aa25a620b6e98260a03813ed23a1efd18bdd002916cd037115",
+  "original_bytes_sha256": "0e77851fc89e2c8da81da36178f32176253fd3ab9cc5158f237afd8fb77f676e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

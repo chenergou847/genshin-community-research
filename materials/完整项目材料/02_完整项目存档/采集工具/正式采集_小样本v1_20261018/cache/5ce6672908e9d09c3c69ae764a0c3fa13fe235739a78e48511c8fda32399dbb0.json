@@ -1,0 +1,231 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316467847249",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:43:56.380346+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316469223809,
+          "rpid_str": "316469223809",
+          "root": 316467847249,
+          "root_str": "316467847249",
+          "parent": 316467847249,
+          "parent_str": "316467847249",
+          "dialog": 316469223809,
+          "ctime": 1791463569,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8091f42f42a74dc371bae4c0",
+          "content": {
+            "message": "四命效果"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316501433713,
+          "rpid_str": "316501433713",
+          "root": 316467847249,
+          "root_str": "316467847249",
+          "parent": 316469223809,
+          "parent_str": "316469223809",
+          "dialog": 316469223809,
+          "ctime": 1791498745,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_17240db96c2ea6af9b3cc096",
+          "content": {
+            "message": "回复 @曾经的B站 :我六命咋打不出捏"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316502851329,
+          "rpid_str": "316502851329",
+          "root": 316467847249,
+          "root_str": "316467847249",
+          "parent": 316501433713,
+          "parent_str": "316501433713",
+          "dialog": 316469223809,
+          "ctime": 1791501655,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8091f42f42a74dc371bae4c0",
+          "content": {
+            "message": "回复 @这泽泽 :先开大再e"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316507499857,
+          "rpid_str": "316507499857",
+          "root": 316467847249,
+          "root_str": "316467847249",
+          "parent": 316467847249,
+          "parent_str": "316467847249",
+          "dialog": 316507499857,
+          "ctime": 1791507748,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_17240db96c2ea6af9b3cc096",
+          "content": {
+            "message": "好的，我去试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320139923776,
+          "rpid_str": "320139923776",
+          "root": 316467847249,
+          "root_str": "316467847249",
+          "parent": 316467847249,
+          "parent_str": "316467847249",
+          "dialog": 320139923776,
+          "ctime": 1791522871,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f22956c639e37fe632b53829",
+          "content": {
+            "message": "开大长e可以放三下[doge]我之前以为开大长e然后还能放下短e",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320966886128,
+          "rpid_str": "320966886128",
+          "root": 316467847249,
+          "root_str": "316467847249",
+          "parent": 316467847249,
+          "parent_str": "316467847249",
+          "dialog": 320966886128,
+          "ctime": 1792211288,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8b0cfb71079ea477a364cb1c",
+          "content": {
+            "message": "四命后释放长按E不进入冷却，最多打三枪"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316467847249,
+        "rpid_str": "316467847249",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791462665,
+        "like": 0,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_17240db96c2ea6af9b3cc096",
+        "content": {
+          "message": "这夏沃蕾是怎么打出三枪的？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1c0f757090143d21c9a78c29c02427a6240c1a87cb9c38772ada112df19ae4e8",
+  "original_bytes_sha256": "165272dd8cee1365be32404d342c787df42cd5921b8ee845b402c064cc0823bf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

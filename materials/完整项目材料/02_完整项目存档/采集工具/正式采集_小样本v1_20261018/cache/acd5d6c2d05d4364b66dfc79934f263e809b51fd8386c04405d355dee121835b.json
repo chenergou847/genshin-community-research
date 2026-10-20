@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364813201666",
+    "root": "315680209393",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:42:47.948055+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315691519153,
+          "rpid_str": "315691519153",
+          "root": 315680209393,
+          "root_str": "315680209393",
+          "parent": 315680209393,
+          "parent_str": "315680209393",
+          "dialog": 315691519153,
+          "ctime": 1790866800,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2514e94c5659087f2d8d322e",
+          "content": {
+            "message": "我也打不死两个小动物"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315680209393,
+        "rpid_str": "315680209393",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790860664,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_8fc6fd157afda52a2f8fc6c8",
+        "content": {
+          "message": "怎么做到星扩散秒破老头两个小雕塑的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fa52c51cf2aeac276244fe79c53e1a209e17dbc007d4b857cc279f61ac6c9dc8",
+  "original_bytes_sha256": "5095fde35ff3b9feae2dd2659cbaea5b47da8e56df52ee9daefd87a4a169a4bd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

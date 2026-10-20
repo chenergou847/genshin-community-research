@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "321101629760",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:59:39.224592+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321101713568,
+          "rpid_str": "321101713568",
+          "root": 321101629760,
+          "root_str": "321101629760",
+          "parent": 321101629760,
+          "parent_str": "321101629760",
+          "dialog": 321101713568,
+          "ctime": 1792307643,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_897aa2d666eb14a06a84dca0",
+          "content": {
+            "message": "本来没准备抽的，垫武器池结果把专武垫出来了，然后心想既然武器都出来了，那把人也抽了吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321101629760,
+        "rpid_str": "321101629760",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792307603,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_897aa2d666eb14a06a84dca0",
+        "content": {
+          "message": "幸亏当时天意让我抽出了她的专武，然后我又把大保底用她身上了[doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "38161de8005e6e2a44b80b20537455dfa52991aaab1df2b934a8fd0eadaa5008",
+  "original_bytes_sha256": "3b0d21e53c6ae60962a7239c7f35e3a9a64238863b809afd83df46bd56199c61",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

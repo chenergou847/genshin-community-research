@@ -1,0 +1,112 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320962983360",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:34:33.613138+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317305276481,
+          "rpid_str": "317305276481",
+          "root": 320962983360,
+          "root_str": "320962983360",
+          "parent": 320962983360,
+          "parent_str": "320962983360",
+          "ctime": 1792209323,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a1901f40611b6c555219d497",
+          "content": {
+            "message": "其实带个冰主就能压冰锅了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320962983360,
+        "rpid_str": "320962983360",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792209168,
+        "like": 5,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_09d92846ec2eefb1e8359e2f",
+        "content": {
+          "message": "之前被攻略误导了，以为丝柯克没爱可菲就打不了，试了好多队伍都没打过，结果用丝柯克打一遍过[捂脸]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/026c134728b69d35b931f2e603ea628f17024632.jpg",
+              "img_width": 1101,
+              "img_height": 818,
+              "img_size": 378.66,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[捂脸]": {
+              "id": 15,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[捂脸]",
+              "url": "https://i0.hdslb.com/bfs/emote/6921bb43f0c634870b92f4a8ad41dada94a5296d.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "捂脸"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "6033df0c3bcece0461f04689afdbfeb36d87e796446293d04fc74e53b22f9cee",
+  "original_bytes_sha256": "9504a736c0f5d25b22eb78283dafcdd40a98a408b3c4caa19a34ee406044a032",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319645211616",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:35:07.141220+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319645211616,
+        "rpid_str": "319645211616",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791141227,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_6ed025268720ad92406d6a87",
+        "content": {
+          "message": "联机奥偶双6可以6开，薇奥双6七开，这纯纯我自己三命木偶打不过带了一个6薇（圣遗物很差所以一开始没选）",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0ecdd67f4d9de39f8c857084af349a863546628552133003.jpg",
+              "img_width": 1080,
+              "img_height": 2340,
+              "img_size": 866.93
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "02493ee8072a54c12eff50563c0e699f52377dd49248ffc62205d0e8e568946b",
+  "original_bytes_sha256": "1c4cd0b0bb463d4d1f6a103813dda7bf277f93121b15d94f1941a9f3547a9658",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

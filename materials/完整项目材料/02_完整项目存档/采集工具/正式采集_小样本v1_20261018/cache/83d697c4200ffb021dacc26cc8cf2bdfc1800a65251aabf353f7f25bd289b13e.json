@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315290798705",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:45:15.083017+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318843734032,
+          "rpid_str": "318843734032",
+          "root": 315290798705,
+          "root_str": "315290798705",
+          "parent": 315290798705,
+          "parent_str": "315290798705",
+          "dialog": 318843734032,
+          "ctime": 1790533548,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c92732dd9926667c630b5f07",
+          "content": {
+            "message": "你要打n6还是n5[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315305868417,
+          "rpid_str": "315305868417",
+          "root": 315290798705,
+          "root_str": "315290798705",
+          "parent": 315290798705,
+          "parent_str": "315290798705",
+          "dialog": 315305868417,
+          "ctime": 1790560611,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间怪物机制，火雷风都可以配队破。。先看看怪物怎么破盾的。讲了的。\n第一间0偶2奥有机会，或者火神战舰满命的够了。\n第二间兹白队+一个冰系工具人。丝柯克没有爱可菲，没有二命兹白打得快。\n第三间火神纯火带万叶，战舰也行，，还可以木偶奥黛塔星超导队。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315290798705,
+        "rpid_str": "315290798705",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790532300,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_3e5d6fa0e766bdf7f34649cb",
+        "content": {
+          "message": "怎么三间冰两个都是星体系，冰只有一队怎么打[25年度表情包_马不]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/82a59bae0f2bd6f0c1af74009acdb2463493093101799477.jpg",
+              "img_width": 1260,
+              "img_height": 11155,
+              "img_size": 1422.8,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[25年度表情包_马不]": {
+              "id": 127514,
+              "package_id": 9046,
+              "state": 0,
+              "type": 8,
+              "attr": 0,
+              "text": "[25年度表情包_马不]",
+              "url": "https://i0.hdslb.com/bfs/emote/cebf1b685732c5fdf841a1c250e558d7e23c489b.png",
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1766147270,
+              "jump_title": "马不"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "be26a0f8f22663aad14b633239d8082217adf0e4f55dd567656b325b3775d142",
+  "original_bytes_sha256": "474a21fe27d61099599c0642a0ed4e7b7fcd1d6c757dff9c925203f629bdb63d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

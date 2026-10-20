@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315661052721",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:21:06.980868+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315663058289,
+          "rpid_str": "315663058289",
+          "root": 315661052721,
+          "root_str": "315661052721",
+          "parent": 315661052721,
+          "parent_str": "315661052721",
+          "dialog": 315663058289,
+          "ctime": 1790851254,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_39175c5dd463c584746e5fa7",
+          "content": {
+            "message": "调的 屏幕不会影响视频的色彩格式"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315668185617,
+          "rpid_str": "315668185617",
+          "root": 315661052721,
+          "root_str": "315661052721",
+          "parent": 315661052721,
+          "parent_str": "315661052721",
+          "dialog": 315668185617,
+          "ctime": 1790854044,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_452395d0829ef794f548ce66",
+          "content": {
+            "message": "渲染精度调低了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319268835280,
+          "rpid_str": "319268835280",
+          "root": 315661052721,
+          "root_str": "315661052721",
+          "parent": 315661052721,
+          "parent_str": "315661052721",
+          "dialog": 319268835280,
+          "ctime": 1790873446,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5034e3e22d3a55da9d302270",
+          "content": {
+            "message": "设置里面有一个Bloom选项关了就是了，明显凹分画质"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315661052721,
+        "rpid_str": "315661052721",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790850092,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_72d8c4a839ebe02307f6e742",
+        "content": {
+          "message": "是画质调的还是TN屏幕？感觉颜色好淡[哦呼]",
+          "emote": {
+            "[哦呼]": {
+              "id": 1940,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[哦呼]",
+              "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哦呼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "91c27ee779a6b39ca4dd2d6edbcab080b4f5270c9657097c05b170a1fb6bb027",
+  "original_bytes_sha256": "9ee02c9c5d308bc474a552e0298d3be561ec38d1efb3ccb938a549ab214d0f3c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

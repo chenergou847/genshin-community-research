@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318468248528",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:25:21.537974+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318468227824,
+          "rpid_str": "318468227824",
+          "root": 318468248528,
+          "root_str": "318468248528",
+          "parent": 318468248528,
+          "parent_str": "318468248528",
+          "dialog": 318468227824,
+          "ctime": 1790257904,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9705877b2d69c752e200a783",
+          "content": {
+            "message": "月反应都是01主c00副c+20少女，火神队只有01火20奶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318468248528,
+        "rpid_str": "318468248528",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790257828,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9705877b2d69c752e200a783",
+        "content": {
+          "message": "打n6\n61丝2芙10爱00沃，01木偶00奥，21莱欧10神子\n第3间打算莱欧去打，必须要带奥黛塔，不然只能带冰主不知道伤害够不够；然后这样的话木偶打1可能伤害也不够，所以打算丝打1力大砖飞，2血量低01木偶应该够打？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f42176f462f1b9d9905125aa408c900e5ea40f5560da3e5709c5d43e7c5c1ed9",
+  "original_bytes_sha256": "887ce6dee006377f22113b312b796b17aed610bcb50b895c04ba70b27830bc81",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

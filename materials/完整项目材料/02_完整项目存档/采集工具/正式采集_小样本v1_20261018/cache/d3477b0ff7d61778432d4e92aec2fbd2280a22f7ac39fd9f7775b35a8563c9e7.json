@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316023262321",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:36:46.601009+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 25
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316023262321,
+        "rpid_str": "316023262321",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791117215,
+        "like": 231,
+        "rcount": 25,
+        "count": 27,
+        "state": 0,
+        "author_id": "U_78e49f4e2283dd810a6942da",
+        "content": {
+          "message": "偶薇联机双c周本联机很难选出来，薇希望看到偶，但是很难玩到大概有以下原因\n1 该木偶玩家不理解星扩散，不知道木偶有星扩散倍率\n2 你的薇100级秒确定，路人的偶觉得自己不如你，换人了\n3 这个木偶是6偶，知道一切，理解星扩散，理解你们可以互相打伤害，但是仍然不愿意玩。因为木偶的星扩散是让自己吃亏的，她吃不到遗物的加成，双c同练度接敌，偶的伤害占比一定比不过薇，她心气很高，不愿意自己比不过你。看路人支持谁，如果是水雷偶就会进去了，因为偶的打伤害条件很宽松，只要触发领域在领域里就可以了，水雷附着会严重干扰冰底，薇这种情况但凡有点认知肯定不敢进去。总结就是有pvp伤害占比意识\n双c一个是要数值基本相同，比如龙和满配月绽放不存在双c，鹿给龙水减抗，凑了一层被动，但是龙数值比不过鹿，进去比伤害跟人家比相当于摸不到怪，肯定不愿意玩，一个就是有一方要接受亏损，要接受给别人的比较多，自己吃点亏"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a954a2c03c4e65f95d8ed47e7e6a25126a6cfd05f2a2cda8b5ae87880da6c6ce",
+  "original_bytes_sha256": "24233b7578bc19d5ae7a7fec21848c376aa132406fdca60677433db0237d9947",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

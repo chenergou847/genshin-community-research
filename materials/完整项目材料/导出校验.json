@@ -1,0 +1,81 @@
+{
+  "at": "2026-10-19T15:42:02.380170+00:00",
+  "source": "LOCAL_USER_HOME\\Desktop\\cx原神产品运营\\B站高难副本社区观察_20261017",
+  "destination": "LOCAL_USER_HOME\\Desktop\\cx原神产品运营\\B站社区观察_完整交接包_20261019",
+  "copied_files_checked_against_source": 4600,
+  "copy_mismatches": [],
+  "manifest_files": 4606,
+  "manifest_bytes": 225671568,
+  "manifest_sha256": "60f55993dcfe5821f98dd38b03a789e107e2a549df8179e13d59540b4eebab76",
+  "excluded": [
+    {
+      "path": "node_modules",
+      "reason": "dependency_link_or_runtime_cache"
+    },
+    {
+      "path": "全量编码_20261019\\node_modules",
+      "reason": "dependency_link_or_runtime_cache"
+    },
+    {
+      "path": "采集工具\\__pycache__",
+      "reason": "dependency_link_or_runtime_cache"
+    },
+    {
+      "path": "采集工具\\observer\\__pycache__",
+      "reason": "dependency_link_or_runtime_cache"
+    },
+    {
+      "path": "采集工具\\tests\\__pycache__",
+      "reason": "dependency_link_or_runtime_cache"
+    },
+    {
+      "path": "采集工具\\接口核验_20261017_2300\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\正式采集_v1_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\正式采集_v2_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\正式采集_v3_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\正式采集_v4_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\正式采集_v5_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\正式采集_v6_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\正式采集_小样本v1_20261018\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\登录后契约核验_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\研究数据_待核\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    },
+    {
+      "path": "采集工具\\试跑_20261017\\.private.json",
+      "reason": "credential_private_key_or_bytecode_not_opened"
+    }
+  ],
+  "excluded_private_files_opened": false,
+  "network_requests": 0,
+  "report_revision_complete": false,
+  "export_complete": true,
+  "note": "清单不含清单自身与导出校验.json；其余所有导出文件逐一列入。"
+}

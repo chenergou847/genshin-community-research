@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315682124545",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:59:38.651461+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315682124545,
+        "rpid_str": "315682124545",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790861726,
+        "like": 31,
+        "rcount": 8,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_2b3ccab396cd99d6f1a18b25",
+        "content": {
+          "message": "月谕关但凡有流血狗或者空壳怪，就是龙王大展身手的时候"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cff86afa4e40a47929a3274e9a0811a9105c1021e180eea9ee5edcd63324e5da",
+  "original_bytes_sha256": "1d356100870ade99064fdb0546ef6d60f1c117b6116503c89e72feac20139a84",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

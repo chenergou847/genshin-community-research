@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "320964077760",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:00:29.480183+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320964077760,
+        "rpid_str": "320964077760",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792209858,
+        "like": 1,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_5f825a3c86e65bbdca949808",
+        "content": {
+          "message": "挪德卡莱最区的洛恩俘获一众挪爷[星星眼][星星眼][星星眼]星扩散对最嫌弃的沃成了队伍中使用率最高的，有许多上位的77打败月三家抢的少女。只能说这期深渊的使用率真是令人意外（｀Δ´）！",
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "2242d3e5c11da5d4fcc03a06de9b373c7a0fa3441592eea04a4e7911775b6afe",
+  "original_bytes_sha256": "d5fb47cbc5982a3570025155ddb66b585d03fb384fe5c7ab7196efb8bd3dc649",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

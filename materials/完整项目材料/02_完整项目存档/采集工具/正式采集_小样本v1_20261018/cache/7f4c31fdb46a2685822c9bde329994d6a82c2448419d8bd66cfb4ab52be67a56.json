@@ -1,0 +1,183 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315499813521",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:20:16.533279+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315499936241,
+          "rpid_str": "315499936241",
+          "root": 315499813521,
+          "root_str": "315499813521",
+          "parent": 315499813521,
+          "parent_str": "315499813521",
+          "dialog": 315499936241,
+          "ctime": 1790732866,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "可以啊。你这配置够牛了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315500018961,
+          "rpid_str": "315500018961",
+          "root": 315499813521,
+          "root_str": "315499813521",
+          "parent": 315499936241,
+          "parent_str": "315499936241",
+          "dialog": 315499936241,
+          "ctime": 1790732886,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_35fa89687c0ad0ae2f91bed8",
+          "content": {
+            "message": "回复 @星光璀璨之时 :三连了，谢谢主包[给心心]",
+            "emote": {
+              "[给心心]": {
+                "id": 3302,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[给心心]",
+                "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "给心心"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315500022977,
+          "rpid_str": "315500022977",
+          "root": 315499813521,
+          "root_str": "315499813521",
+          "parent": 315499813521,
+          "parent_str": "315499813521",
+          "dialog": 315500022977,
+          "ctime": 1790732897,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "四号位比如希诺宁，减抗位要个。比较好。钟离也行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315500177601,
+          "rpid_str": "315500177601",
+          "root": 315499813521,
+          "root_str": "315499813521",
+          "parent": 315499813521,
+          "parent_str": "315499813521",
+          "dialog": 315500177601,
+          "ctime": 1790733103,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "打老头需要减抗削"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315499813521,
+        "rpid_str": "315499813521",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790732763,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_35fa89687c0ad0ae2f91bed8",
+        "content": {
+          "message": "第一间能用月结晶硬凿n5吗？30兹白，21少女，00岩莉莉"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3d79c9d81dee000099098b2eeb2d7a0ab15e20bbaa4b8a3fc00f0f4a6fbd267d",
+  "original_bytes_sha256": "258efa53a5c73aea31e33569650577d5a564f7f660ffeca618db0baa6db62a06",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

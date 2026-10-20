@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315422312417",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:28:50.997764+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315422312417,
+        "rpid_str": "315422312417",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790662459,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_2e9b0db51a2654f30a6e5a12",
+        "content": {
+          "message": "求帮看看 有碰瓷N6的风险吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d2d313f09945676986a885051e4bf3e3150323672.jpg",
+              "img_width": 1241,
+              "img_height": 15000,
+              "img_size": 8495.91
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bcbb5b8f85315b385909934c08cbe04b4f1be1d536fe834875ffb56419946fe0",
+  "original_bytes_sha256": "0b36c105a01ac7e303f0ee50fa2ae3ccc1b003b92f00e7625e2db86aec6d5af0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

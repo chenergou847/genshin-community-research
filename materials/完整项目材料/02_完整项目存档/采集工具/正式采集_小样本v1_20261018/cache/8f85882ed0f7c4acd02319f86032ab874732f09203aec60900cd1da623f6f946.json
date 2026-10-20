@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447239669367",
+    "root": "320857503040",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:58:02.658018+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320857503040,
+        "rpid_str": "320857503040",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792125851,
+        "like": 3,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_dedf9ad3aaca835249f9e9f2",
+        "content": {
+          "message": "上半只有00赛诺和00梦见月选哪个，下半只有00凌华万叶其他两个位置带谁？"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "c8c066ced6a21d871b7c0df16e7b09f86cb5a0d14b44f63c1c17b4611eb34ab9",
+  "original_bytes_sha256": "d624140bc4ca5d24bba11ac8f13fb0f671aa7f1622ee0e692212e4129382ede0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,138 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315924995121",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:02:07.401169+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319504787856,
+          "rpid_str": "319504787856",
+          "root": 315924995121,
+          "root_str": "315924995121",
+          "parent": 315924995121,
+          "parent_str": "315924995121",
+          "dialog": 319504787856,
+          "ctime": 1791041349,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_403a2c2e4cc315a1d4cd32cf",
+          "content": {
+            "message": "白丝战舰是吧[傲娇]",
+            "emote": {
+              "[傲娇]": {
+                "id": 20,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[傲娇]",
+                "url": "https://i0.hdslb.com/bfs/emote/010540d0f61220a0db4922e4a679a1d8eca94f4e.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "傲娇"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315924995121,
+        "rpid_str": "315924995121",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791040759,
+        "like": 4,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_b45efeef888292ef96973ee8",
+        "content": {
+          "message": "本来想跳的，但真的太好看了[傲娇]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/45a20a48ba3ec7be8103bd4b10a1937a1195697190.jpg",
+              "img_width": 2408,
+              "img_height": 1080,
+              "img_size": 1043.78
+            }
+          ],
+          "emote": {
+            "[傲娇]": {
+              "id": 20,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[傲娇]",
+              "url": "https://i0.hdslb.com/bfs/emote/010540d0f61220a0db4922e4a679a1d8eca94f4e.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "傲娇"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fbc01e7522786548465f014eacc0dfa711cd6d18f758408fdf7c4ae8760ddea3",
+  "original_bytes_sha256": "48cb4f46229f2c68e25862d3a5a68e39bb8e8edc9fe13f0f87a4d8314c9996dd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

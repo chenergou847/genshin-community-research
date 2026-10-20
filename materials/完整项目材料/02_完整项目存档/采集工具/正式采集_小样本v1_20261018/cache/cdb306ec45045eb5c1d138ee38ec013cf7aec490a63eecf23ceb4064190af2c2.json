@@ -1,0 +1,196 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318716034352",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:52:47.723097+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315506220001,
+          "rpid_str": "315506220001",
+          "root": 318716034352,
+          "root_str": "318716034352",
+          "parent": 318716034352,
+          "parent_str": "318716034352",
+          "dialog": 315506220001,
+          "ctime": 1790738251,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_02ba2b37b4f9e879806b3141",
+          "content": {
+            "message": "这不是刚刚才开的爆发期，你怎么26号就打上了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319070344112,
+          "rpid_str": "319070344112",
+          "root": 318716034352,
+          "root_str": "318716034352",
+          "parent": 315506220001,
+          "parent_str": "315506220001",
+          "dialog": 315506220001,
+          "ctime": 1790739179,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_35348b448eb42febd017fa8e",
+          "content": {
+            "message": "回复 @我就是大雄了 :千星奇域里有人做模拟危战的啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315507881377,
+          "rpid_str": "315507881377",
+          "root": 318716034352,
+          "root_str": "318716034352",
+          "parent": 319070344112,
+          "parent_str": "319070344112",
+          "dialog": 315506220001,
+          "ctime": 1790739452,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_02ba2b37b4f9e879806b3141",
+          "content": {
+            "message": "回复 @做回自己吧_ :牛的还有这种东西，摸了个n5被第三间boss当陀螺抽，原神应该要赔我点钱，三刀能横跨整个场地"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319074109376,
+          "rpid_str": "319074109376",
+          "root": 318716034352,
+          "root_str": "318716034352",
+          "parent": 318716034352,
+          "parent_str": "318716034352",
+          "dialog": 319074109376,
+          "ctime": 1790741758,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e417659ac7517e8adfc614a6",
+          "content": {
+            "message": "没有2命梦见月这期难了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319076195376,
+          "rpid_str": "319076195376",
+          "root": 318716034352,
+          "root_str": "318716034352",
+          "parent": 319074109376,
+          "parent_str": "319074109376",
+          "dialog": 319074109376,
+          "ctime": 1790742958,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_35348b448eb42febd017fa8e",
+          "content": {
+            "message": "回复 @疾速火炮 :拿月结晶和班尼特过第三间了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318716034352,
+        "rpid_str": "318716034352",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790436627,
+        "like": 0,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_35348b448eb42febd017fa8e",
+        "content": {
+          "message": "千星的那个模拟危战都是准的吗，为什么我的木偶和梦见月打n5打得如此艰难",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/625abc1de88463d65c26867f88ed47fe1062418049.jpg",
+              "img_width": 1206,
+              "img_height": 11055,
+              "img_size": 2941
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4b1126131e00dd84afe356fc5af0fddb3d4d2d9dd46e5bd9122f159a109884fe",
+  "original_bytes_sha256": "a560927b59728ce96ce2653957ca37046b3118d01445f5e1171d804c84dd93bf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

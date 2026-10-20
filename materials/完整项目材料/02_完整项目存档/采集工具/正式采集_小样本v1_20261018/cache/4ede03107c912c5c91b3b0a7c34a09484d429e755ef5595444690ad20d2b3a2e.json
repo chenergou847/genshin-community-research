@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319124985024",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:11:43.142187+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319124985024,
+        "rpid_str": "319124985024",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790772543,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_94c9a8c12abe907dfc3b0ebc",
+        "content": {
+          "message": "有机会过n5吗,后面准备了个大保底会补爱可菲",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8a414844f19f16220bc90bb0773e239e1537051842.jpg",
+              "img_width": 1080,
+              "img_height": 11495,
+              "img_size": 1390.97
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "715f01f76bfe1ce18d7b945d4cfb3b4a6a5534934515dd0d99b17ce06d96aaf9",
+  "original_bytes_sha256": "2145e9e055b822901d5e66502bb0f1f1f5bc930f1e2d7b5ca4582d592997ceef",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

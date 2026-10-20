@@ -1,0 +1,793 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117369108174481",
+    "type": "1",
+    "mode": "2",
+    "next": "328",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzNTE1NTU1NzI5MjAaADIDCMgC\"}"
+  },
+  "captured_at": "2026-10-18T14:58:27.410206+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 329,
+        "next": 299,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzNTE1NTU1NzI5MjAaADIDCKsC",
+          "prev_offset": "CAISEDE4MzUzNTE1NTU1NzI5MjAaADIDCMkC"
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 1092,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316684203745,
+          "rpid_str": "316684203745",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791648500,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5cee406b4f6f5cc203564eb5",
+          "content": {
+            "message": "我是直接抽出迪卢克了，等下次"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316664708177,
+          "rpid_str": "316664708177",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791637417,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6a6dcf504d3a686ec9663f18",
+          "content": {
+            "message": "原神真是一场豪赌游戏[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/39d48ff206baee6265f3f0ff4a3c2bd414391394.jpg",
+                "img_width": 1152,
+                "img_height": 1707,
+                "img_size": 1048.11
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320262839488,
+          "rpid_str": "320262839488",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791625533,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dade18577d4e30c3245e2c95",
+          "content": {
+            "message": "这个版本回游的就抽了个鱼，然后最新的五星是仆人和龙王[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320183479872,
+          "rpid_str": "320183479872",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791552851,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f2fef7d0f8bfdcb1b575f375",
+          "content": {
+            "message": "冰为底的新反应不抽冰属性辅助说是[吃瓜][吃瓜][吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320164682448,
+          "rpid_str": "320164682448",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791541877,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_009bd37635c5df6506819f87",
+          "content": {
+            "message": "奥黛塔就是少女剧本新体系通拐"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316541757009,
+          "rpid_str": "316541757009",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791535908,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_51be80fe21db21a33f5a5b8a",
+          "content": {
+            "message": "@派蒙星冰乐 召唤芭蕾舞分身"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316350096945,
+          "rpid_str": "316350096945",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791362441,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6eec15aec95ce4b787cefe52",
+          "content": {
+            "message": "我都不知道有什么正确性可说的，不抽奥黛塔相当于不玩星体系了就这么简单[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319868115840,
+          "rpid_str": "319868115840",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791296179,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_981ab155926f836d53601686",
+          "content": {
+            "message": "那个时候萌新入坑不久，随便抽的，也不知道有环境抽了仆人[原神_欸嘿]太牢了",
+            "emote": {
+              "[原神_欸嘿]": {
+                "id": 4262,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[原神_欸嘿]",
+                "url": "https://i0.hdslb.com/bfs/emote/8fba438fcbe0550877b04efd768d857082307c5e.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "欸嘿"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319828228128,
+          "rpid_str": "319828228128",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791276780,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7b5cae7c9c84dac2e1f2ab8e",
+          "content": {
+            "message": "要是奥黛塔可以变成双倍，啊不，三倍就好了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316221731713,
+          "rpid_str": "316221731713",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791270494,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e8aff5976b0dab21ff2e550d",
+          "content": {
+            "message": "随身冰后台单还能开领域这个定位就没几个角色能替的 至冬版本肯定会有两路星反应的情况 女皇出来压力还会小点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316218036593,
+          "rpid_str": "316218036593",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791268121,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a591bb867e0b8f365ef71360",
+          "content": {
+            "message": "🤡：使用率有什么用"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316199633761,
+          "rpid_str": "316199633761",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791257733,
+          "like": 0,
+          "rcount": 0,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_74e4121562585c93e86fc457",
+          "content": {
+            "message": "奥黛塔歪小提的来[少女乐队的呐喊表情包_摇滚]",
+            "emote": {
+              "[少女乐队的呐喊表情包_摇滚]": {
+                "id": 97359,
+                "package_id": 7252,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[少女乐队的呐喊表情包_摇滚]",
+                "url": "https://i0.hdslb.com/bfs/garb/73f6f1eb479059196ac33bd1c065f1e8fb0b2cfa.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1733899029,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=104978&hybrid_set_header=2&anchor_task=1&lottery_id=105056&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22105073%22%2C%22sub_id%22%3A%22%5B%E5%B0%91%E5%A5%B3%E4%B9%90%E9%98%9F%E7%9A%84%E5%91%90%E5%96%8A%E8%A1%A8%E6%83%85%E5%8C%85_%E6%91%87%E6%BB%9A%5D%22%7D",
+                "jump_title": "摇滚"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316142075857,
+          "rpid_str": "316142075857",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791204797,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_66ce81d201cf48caf8c61a49",
+          "content": {
+            "message": "让我来预言一波，我赌下一个最强辅助是沃亚妮莎[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316133108529,
+          "rpid_str": "316133108529",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791200119,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e85ba91071dfa4e671676911",
+          "content": {
+            "message": "降临者大人和小天鹅，但凡能拆一个我都轻松过n5[保卫萝卜_哭哭]",
+            "emote": {
+              "[保卫萝卜_哭哭]": {
+                "id": 4945,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[保卫萝卜_哭哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/7d249f7c990111d3e2982f7477af15b7eb29cbd9.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    "哭哭"
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哭哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316120049425,
+          "rpid_str": "316120049425",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791193282,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ce678cb01285da926a273f5b",
+          "content": {
+            "message": "你别说奥黛塔了，冰主我都想拆开用，还有砂糖七七啥的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316116499873,
+          "rpid_str": "316116499873",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791191194,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e2a16c9fe2a57b21e1304ee5",
+          "content": {
+            "message": "我个人感觉不如我的满命77"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319702580048,
+          "rpid_str": "319702580048",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791189121,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fea50b000b3e78ba86ddd819",
+          "content": {
+            "message": "抽奥黛塔还需要眼光吗？星体系必上冰，她后台挂冰且天赋雷风双增幅，就差没给至冬必抽写角色脸上了。说是女皇下位不抽的更是一点游戏理解都没有，星反应增幅还嫌多啊，到时候女皇奥黛塔一起塞队里就完事了，再不济后面你一队木偶一队威斯纳都需要队友辅助，后面至冬c也要"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319655704320,
+          "rpid_str": "319655704320",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791160646,
+          "like": 7,
+          "rcount": 4,
+          "count": 4,
+          "state": 0,
+          "author_id": "U_38d55a99a84e73ff28fc2395",
+          "content": {
+            "message": "奥黛塔可不可以拆成三份哇，真的不够用[捂脸]",
+            "emote": {
+              "[捂脸]": {
+                "id": 15,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[捂脸]",
+                "url": "https://i0.hdslb.com/bfs/emote/6921bb43f0c634870b92f4a8ad41dada94a5296d.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "捂脸"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319744298848,
+              "rpid_str": "319744298848",
+              "root": 319655704320,
+              "root_str": "319655704320",
+              "parent": 316127141473,
+              "parent_str": "316127141473",
+              "dialog": 316109039953,
+              "ctime": 1791210312,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_7da066fb355990a40e7bb232",
+              "content": {
+                "message": "回复 @我不想爆肝啦 :冰主主要需要的是她转化星反应的能力，拐力是其次"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319702340144,
+              "rpid_str": "319702340144",
+              "root": 319655704320,
+              "root_str": "319655704320",
+              "parent": 316109039953,
+              "parent_str": "316109039953",
+              "dialog": 316109039953,
+              "ctime": 1791188978,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_7da066fb355990a40e7bb232",
+              "content": {
+                "message": "回复 @我不想爆肝啦 :下位替代其实是冰主。。。"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319645916352,
+          "rpid_str": "319645916352",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791142518,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06e1a6b8af6aabe35c77a0e2",
+          "content": {
+            "message": "我的奥莱塔在哪里？为什么是须弥角色还长耳朵[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316048360417,
+          "rpid_str": "316048360417",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791130539,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6692ea145ecbc7f55f2af2a1",
+          "content": {
+            "message": "就这种角色都有一堆人这个原因那个原因不建议抽的，你就知道当他滑坡的时候不是为了你好，而是见不得你好\n咱也不知道为啥他能7.0开门还是穷光蛋一个。整天喜欢这个剧本那个剧本的，我只知道一个剧本，就是等来等去也等不来他口中的大救星"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "c9b751c99571e1f42ea66cb5c53e422c6655b3220d595b4a2fc23a9d484b4784",
+  "original_bytes_sha256": "56fc4216f2534150635a1aad65d66d216d30bf619af203cbe0ceebb03bc98671",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

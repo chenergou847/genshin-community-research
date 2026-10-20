@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319039518400",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:24:12.475044+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319039518400,
+        "rpid_str": "319039518400",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790699442,
+        "like": 4,
+        "rcount": 11,
+        "count": 11,
+        "state": 0,
+        "author_id": "U_485d0fddfcb08266ca0120ad",
+        "content": {
+          "message": "奥黛塔就一个，我怎么让她走一三间。。我木偶01，第三间想玩星扩散就只能二命梦见月+冰主了，这样子伤害够不够啊"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2b063e46bda4885faca3452fc4aa20cee5d7c67ac3ac794910e9ddcb362c41ae",
+  "original_bytes_sha256": "d6a936be7ecb1c3e7cf5019ae2346807e219dee44d47cb596b0d4464b84b284c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

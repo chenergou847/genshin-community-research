@@ -1,0 +1,89 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317224272993",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:09:12.022430+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320918318432,
+          "rpid_str": "320918318432",
+          "root": 317224272993,
+          "root_str": "317224272993",
+          "parent": 317224272993,
+          "parent_str": "317224272993",
+          "ctime": 1792163147,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_58ab7055e1a67fa0dfc13b25",
+          "content": {
+            "message": "一段64万吗，还是两段伤害加起来了？"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317265837009,
+          "rpid_str": "317265837009",
+          "root": 317224272993,
+          "root_str": "317224272993",
+          "parent": 320918318432,
+          "parent_str": "320918318432",
+          "ctime": 1792164454,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e17903e09fd374f5fc20ce02",
+          "content": {
+            "message": "回复 @抓星梦 :加起来，单段64万得上高命奥黛塔了"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317224272993,
+        "rpid_str": "317224272993",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792140722,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_e17903e09fd374f5fc20ce02",
+        "content": {
+          "message": "冰主一个重击64万，再加大招又是60万，星反应的恩情还不完"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "bb9a4e68b629bf8fd3cd234a366edf9e3f8a7729b4fd7558140621d315149c73",
+  "original_bytes_sha256": "a2f02d1c4755a7e5bb0ad6900a3d3976b9c7c03ae1fabfbf292e207805dc914d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

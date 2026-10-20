@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319030224992",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:25:37.340738+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319030274880,
+          "rpid_str": "319030274880",
+          "root": 319030224992,
+          "root_str": "319030224992",
+          "parent": 319030224992,
+          "parent_str": "319030224992",
+          "dialog": 319030274880,
+          "ctime": 1790693661,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1acc311a751a96e0a10d364f",
+          "content": {
+            "message": "不知道满命牢千能不能打冰锅"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319030224992,
+        "rpid_str": "319030224992",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790693633,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_1acc311a751a96e0a10d364f",
+        "content": {
+          "message": "有机会过n6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9cc9d3cac66027140ad624ad51ed79ec479037529.jpg",
+              "img_width": 1080,
+              "img_height": 13005,
+              "img_size": 1567.54
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "de4f3511a5fd318312b4aa933752592a20986f2d604cfc8680dc1a94adbb186e",
+  "original_bytes_sha256": "ecf0cf515ae152d54c11509bcee5a66e2ebb52a13c2e5dc09f98619ebd5335f5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

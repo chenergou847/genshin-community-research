@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315226866673",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:49:05.163015+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 8
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315226866673,
+        "rpid_str": "315226866673",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790490349,
+        "like": 0,
+        "rcount": 8,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_4d3ccdf96cc1450a50fb17b3",
+        "content": {
+          "message": "主包，主包我这能打n6吗？有什么推荐吗？[大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8db3ce3d35b7c94d602160ebd72f1a6c3546826198223272.jpg",
+              "img_width": 1170,
+              "img_height": 13416,
+              "img_size": 3719
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b1e920667a41d5816a7733b77bb51958fbcf7aaf9894857b7850ab14ff024dbf",
+  "original_bytes_sha256": "8f078bd9550698cc5ead9256ddda5730e987a1147a56563d3ecd628f6eb72c23",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

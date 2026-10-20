@@ -1,0 +1,689 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317338536801",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:45:09.102807+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 25
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320998636752,
+          "rpid_str": "320998636752",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 320998636752,
+          "ctime": 1792230576,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7ced3ffe88e105abde1cfb9d",
+          "content": {
+            "message": "第二间有"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320998816560,
+          "rpid_str": "320998816560",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 320998816560,
+          "ctime": 1792230611,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7ced3ffe88e105abde1cfb9d",
+          "content": {
+            "message": "不过提不了太多，没沃吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317339431985,
+          "rpid_str": "317339431985",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 320998816560,
+          "parent_str": "320998816560",
+          "dialog": 320998816560,
+          "ctime": 1792230685,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e8b1cfdae53ec1a0817504e0",
+          "content": {
+            "message": "回复 @梨衣柯雀 :有啊，第一间。上沃我能打25s"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317339843425,
+          "rpid_str": "317339843425",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 320998816560,
+          "parent_str": "320998816560",
+          "dialog": 320998816560,
+          "ctime": 1792230839,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e8b1cfdae53ec1a0817504e0",
+          "content": {
+            "message": "回复 @梨衣柯雀 :感觉还是第3间，用班也能出个70s就差不多。尼克去1间[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320999167744,
+          "rpid_str": "320999167744",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 320999167744,
+          "ctime": 1792230850,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_aa94e68fd04987dcead62a99",
+          "content": {
+            "message": "感觉有机会，让up去尝尝咸淡[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321000800016,
+          "rpid_str": "321000800016",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 321000800016,
+          "ctime": 1792231660,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e9177fea635a90315198ae40",
+          "content": {
+            "message": "这第三间真有说法吧，65s是绝对不止的，我看你这个配置作业视频带班是4开（带尼破盾会不会慢不知道），就算考虑圣遗物因素，你这找主包打个50多秒也有希望吧，如果1/2间也不是极限分的话[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321001487104,
+          "rpid_str": "321001487104",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 321001487104,
+          "ctime": 1792232082,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_54bfc5d26049726e9168ea93",
+          "content": {
+            "message": "第二间我带的满神里，打了个24还是20几"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317342964385,
+          "rpid_str": "317342964385",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 317342964385,
+          "ctime": 1792232592,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a169e314dbe530f111e0cff4",
+          "content": {
+            "message": "第一间珐露珊能一个ez启动吗，不行我感觉可以考虑带冰主[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321004676496,
+          "rpid_str": "321004676496",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317339843425,
+          "parent_str": "317339843425",
+          "dialog": 320998816560,
+          "ctime": 1792233727,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7ced3ffe88e105abde1cfb9d",
+          "content": {
+            "message": "回复 @ii银 :确实行 主要是凹动作和挂冰[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321005982928,
+          "rpid_str": "321005982928",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 321005982928,
+          "ctime": 1792234422,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9615191d5aed55fc745b055e",
+          "content": {
+            "message": "2，3间都能提吧，第3间提升空间很大。凹凹的话估计第一间也可以提一点点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321006965472,
+          "rpid_str": "321006965472",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 321006965472,
+          "ctime": 1792234885,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_31c9c5de5f11cfca0fcf9676",
+          "content": {
+            "message": "第二间随便提呀，练度高的话能2开了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317347976993,
+          "rpid_str": "317347976993",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 317347976993,
+          "ctime": 1792235288,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8bb9ff81357b4d4d0704b9e1",
+          "content": {
+            "message": "第三间就能凹少个20s了，6火2尼2茜带砂糖"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321015273056,
+          "rpid_str": "321015273056",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 321015273056,
+          "ctime": 1792239195,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b3d6ae5213d47f4eaceed72f",
+          "content": {
+            "message": "应该是有，参考这个视频，用火神打第一间，按小黑打的时间参考，算多一点，八十多秒，然后让薇斯纳去打三间，应该能提不少"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321016908288,
+          "rpid_str": "321016908288",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 321016908288,
+          "ctime": 1792240006,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d2fb05a3f72576886174b27c",
+          "content": {
+            "message": "这随便提啊，12间互换，把沃给丝，第一间大赚流都可以随便6开。冰锅血量少，薇不用沃打的也快，薇奥七珐，第一波能量球还能帮珐启动，打个50左右，可能正好差个几秒得凹一凹"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321016878272,
+          "rpid_str": "321016878272",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 321016908288,
+          "parent_str": "321016908288",
+          "dialog": 321016908288,
+          "ctime": 1792240089,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d2fb05a3f72576886174b27c",
+          "content": {
+            "message": "回复 @是锅不是蝈 :要快速破第一波机制也可以换宗室迪奥娜，奥e+猫猫双e机制就破了然后启动"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321023627520,
+          "rpid_str": "321023627520",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 321023627520,
+          "ctime": 1792243669,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_83fc4886f0a01c49323655e2",
+          "content": {
+            "message": "你第二间配置应该能提15s，第三间能提30s+，前提圣遗物35词条以上"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317363275249,
+          "rpid_str": "317363275249",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 321023627520,
+          "parent_str": "321023627520",
+          "dialog": 321023627520,
+          "ctime": 1792243751,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e8b1cfdae53ec1a0817504e0",
+          "content": {
+            "message": "回复 @阿帆帆子 :式了下，手残[doge]。不过感谢你",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317365419713,
+          "rpid_str": "317365419713",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317363275249,
+          "parent_str": "317363275249",
+          "dialog": 321023627520,
+          "ctime": 1792244896,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_eb8f5f6144398795f5eeb795",
+          "content": {
+            "message": "回复 @ii银 :感觉可以第一第三间互换"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317365893825,
+          "rpid_str": "317365893825",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317363275249,
+          "parent_str": "317363275249",
+          "dialog": 321023627520,
+          "ctime": 1792245141,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_eb8f5f6144398795f5eeb795",
+          "content": {
+            "message": "回复 @ii银 :沃可以给第二间的skk 薇用冰主"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317389970513,
+          "rpid_str": "317389970513",
+          "root": 317338536801,
+          "root_str": "317338536801",
+          "parent": 317338536801,
+          "parent_str": "317338536801",
+          "dialog": 317389970513,
+          "ctime": 1792261923,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6df019cfb0aa6c9872a029d1",
+          "content": {
+            "message": "23都能提"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317338536801,
+        "rpid_str": "317338536801",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792230112,
+        "like": 11,
+        "rcount": 25,
+        "count": 28,
+        "state": 0,
+        "author_id": "U_e8b1cfdae53ec1a0817504e0",
+        "content": {
+          "message": "我这还有说法吗，3可以到65s。[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ba62bf9efd39330ca78694f387fc5adb261223585.jpg",
+              "img_width": 1200,
+              "img_height": 2670,
+              "img_size": 1569.58
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3d99b4302a7cf218234d72731c9d6b6fa6238788ad5aca9fbb7c2dc4e16125b4",
+  "original_bytes_sha256": "2e14548c699bc9bc05bf9afd6b396c97e7e1c6c392cbed754b56b5f2c9823d52",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

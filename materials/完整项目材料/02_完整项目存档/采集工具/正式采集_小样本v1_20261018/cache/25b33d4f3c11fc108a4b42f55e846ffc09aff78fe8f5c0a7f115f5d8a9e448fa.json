@@ -1,0 +1,90 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "320946066496",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:01:12.666458+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317290603073,
+          "rpid_str": "317290603073",
+          "root": 320946066496,
+          "root_str": "320946066496",
+          "parent": 320946066496,
+          "parent_str": "320946066496",
+          "ctime": 1792199021,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_985350981a61978d328ffca9",
+          "content": {
+            "message": "因为利好丝柯克的原因"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320946066496,
+        "rpid_str": "320946066496",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792197686,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_3a7c666a6417454f6dcd3669",
+        "content": {
+          "message": "芙宁娜依旧能打[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "fb65fdfd5f76becd204d5a6bf416056b74e816ae8d9fd233e675629872f12970",
+  "original_bytes_sha256": "e45835015098d91c186eeb6892cfa0b3d9a89e4695906c6cd39182e50af28f20",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

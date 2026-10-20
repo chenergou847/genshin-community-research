@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315552604289",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:11:54.563261+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319126900624,
+          "rpid_str": "319126900624",
+          "root": 315552604289,
+          "root_str": "315552604289",
+          "parent": 315552604289,
+          "parent_str": "315552604289",
+          "dialog": 319126900624,
+          "ctime": 1790773627,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_659d17408fb0729605b4b060",
+          "content": {
+            "message": "我4冰主6菲谢尔1+1月神0+1菲林斯119秒极限过[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315570082145,
+          "rpid_str": "315570082145",
+          "root": 315552604289,
+          "root_str": "315552604289",
+          "parent": 315552604289,
+          "parent_str": "315552604289",
+          "dialog": 315570082145,
+          "ctime": 1790775973,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_34ada73b4f7f38695e6f1f01",
+          "content": {
+            "message": "随便找个能打反应的高金队呗[吃瓜]自己去测测dps，不够的就别做梦了",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319190318800,
+          "rpid_str": "319190318800",
+          "root": 315552604289,
+          "root_str": "315552604289",
+          "parent": 315552604289,
+          "parent_str": "315552604289",
+          "dialog": 319190318800,
+          "ctime": 1790828763,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e42c4df1dcf1abfe4c54ec4a",
+          "content": {
+            "message": "直接组队打n4，别折磨自己"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315552604289,
+        "rpid_str": "315552604289",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790766520,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_4f6d501852b87dc162131e8b",
+        "content": {
+          "message": "只有冰主怎么搞家人们"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "14a58f070c8dd17fc99bdc0ce306572a932edb49080b7abd4a5097b44336a414",
+  "original_bytes_sha256": "9582bb100f4a340b9bbc9d42d77dd8cf230d358d5025e93a750bd027e35daf00",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

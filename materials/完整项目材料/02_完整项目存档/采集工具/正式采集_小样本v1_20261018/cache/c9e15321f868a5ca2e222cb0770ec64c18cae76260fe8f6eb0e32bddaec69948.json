@@ -1,0 +1,90 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320875531104",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:09:51.905116+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320876466512,
+          "rpid_str": "320876466512",
+          "root": 320875531104,
+          "root_str": "320875531104",
+          "parent": 320875531104,
+          "parent_str": "320875531104",
+          "ctime": 1792139990,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c6bd0e47ab4d8faff4a86f29",
+          "content": {
+            "message": "很久之前就改了，加了原石，然后深渊变每个月16号一次，剧诗是每个月1号一次[妙啊]",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320875531104,
+        "rpid_str": "320875531104",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792139265,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a00e20a34561b75eb6e35f00",
+        "content": {
+          "message": "额，我是回归玩家啊，不知道是不是我记错了，深渊原来好像是一个月两期？1号和16号分别更新一期来的？"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "2886b45256bce8e11300a87e6b39ca304af46adb88243e0a84d01535d886ef50",
+  "original_bytes_sha256": "bd819d378308b8fd1613e5443ad2929f1ee3ca95296192bc684b33dbada1a3e1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

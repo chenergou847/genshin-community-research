@@ -1,0 +1,150 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319064715440",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:18:45.826871+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315516462417,
+          "rpid_str": "315516462417",
+          "root": 319064715440,
+          "root_str": "319064715440",
+          "parent": 319064715440,
+          "parent_str": "319064715440",
+          "dialog": 315516462417,
+          "ctime": 1790744696,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_30d5535a89e54082cb26aee6",
+          "content": {
+            "message": "你好，可以问一下仆人打冰棺需要注意什么吗，这个魔导超载队我还没玩过，手法还有怎么破盾可以说一下嘛"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319087108608,
+          "rpid_str": "319087108608",
+          "root": 319064715440,
+          "root_str": "319064715440",
+          "parent": 315516462417,
+          "parent_str": "315516462417",
+          "dialog": 315516462417,
+          "ctime": 1790750564,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a48e266ff261c333fe84544a",
+          "content": {
+            "message": "回复 @猪天天拉稀 :我这个队三火一雷，正常打就是仆人E，尼可E，皇女E，夏沃蕾长E，切仆人等两秒（收早了伤害会腰斩）收契输出，然后第2轮皇女E改成Q，就是皇女一轮E一轮Q就行了。他进机制就尼可和夏沃雷都开大，轮到仆人A两下重击收契，再打个3A重击，冰盾已经破的差不多了。输出很平滑皇女保证一轮E一轮Q不卡充能就行，以及夏沃蕾别空技能，还有仆人不要收契过早，仆人应该是不用开大的。我是一遍就打过去了，DPS是12万，上一期也是这个配队，第2间难度6打过去了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315552869841,
+          "rpid_str": "315552869841",
+          "root": 319064715440,
+          "root_str": "319064715440",
+          "parent": 319087108608,
+          "parent_str": "319087108608",
+          "dialog": 315516462417,
+          "ctime": 1790766687,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_30d5535a89e54082cb26aee6",
+          "content": {
+            "message": "回复 @伊莱克希 :好了好了，过了，谢谢你"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319064715440,
+        "rpid_str": "319064715440",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790734926,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_a48e266ff261c333fe84544a",
+        "content": {
+          "message": "机少带冰主可过N5",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/dc9e62f9d164cfd171cb23488c3897261692393742.png",
+              "img_width": 2000,
+              "img_height": 1200,
+              "img_size": 1523.75,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "33ed260469a9ea15190bb886f7ad1909002325799a5fff3e82f1ce3662808d69",
+  "original_bytes_sha256": "74cfcebaa6871710f26f311cde9a1e508f36d7ee1a8aae2b4ae988b2d4629d95",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,726 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315674248049",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:34:43.450640+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 18
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319288256800,
+          "rpid_str": "319288256800",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 319288256800,
+          "ctime": 1790902684,
+          "like": 19,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fed11171766f3f07324eea65",
+          "content": {
+            "message": "我至冬只有冰主和奥黛塔，就他俩能触发星反应，稳定过四间，肯定得省着用"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315748775921,
+          "rpid_str": "315748775921",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 315748775921,
+          "ctime": 1790920978,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c956e24de90ce18198289cc5",
+          "content": {
+            "message": "不然呢 [大哭][大哭][大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315762934273,
+          "rpid_str": "315762934273",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 315762934273,
+          "ctime": 1790929931,
+          "like": 131,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2e52ec6cc8f0fdfd6b61429f",
+          "content": {
+            "message": "[大哭]神子都要细细品味到boss关",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319333670448,
+          "rpid_str": "319333670448",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 319333670448,
+          "ctime": 1790930047,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_907d9a096cb86b4b2357e444",
+          "content": {
+            "message": "8和10层有木偶和一个雷就能过了，剩下的塞冰系和辅助就行，我带的77和沙糖"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319334174080,
+          "rpid_str": "319334174080",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 319333670448,
+          "parent_str": "319333670448",
+          "dialog": 319333670448,
+          "ctime": 1790930313,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_688c172bb9ed6d5800bb0087",
+          "content": {
+            "message": "回复 @大兄弟喜脉啊 :剩下的不是塞两个风吗[doge]哪有冰和辅助给木偶队啊[笑哭]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319334363200,
+          "rpid_str": "319334363200",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 319334174080,
+          "parent_str": "319334174080",
+          "dialog": 319333670448,
+          "ctime": 1790930423,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_907d9a096cb86b4b2357e444",
+          "content": {
+            "message": "回复 @莫命花开 :8层我带的爱诺和沙糖，10层才抽到77，把爱诺换了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319335535600,
+          "rpid_str": "319335535600",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 319334363200,
+          "parent_str": "319334363200",
+          "dialog": 319333670448,
+          "ctime": 1790931069,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_688c172bb9ed6d5800bb0087",
+          "content": {
+            "message": "回复 @大兄弟喜脉啊 :砂糖和七七都没养，梦见月圣遗物没刷出来，所以还没换，所幸借到了个3命丝柯克，再加上我抽了木偶和奥黛塔，不然这期我都不知道怎么打，这期卡在我的弱势啊[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315768005345,
+          "rpid_str": "315768005345",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 315768005345,
+          "ctime": 1790932866,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_04760213b54266990df73a2d",
+          "content": {
+            "message": "忘记打月了，少领100原石[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319339665856,
+          "rpid_str": "319339665856",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 319339665856,
+          "ctime": 1790933466,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "这个月的巨石boss，我的0+0全配队丝柯克没法打满星[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319341287216,
+          "rpid_str": "319341287216",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 319341287216,
+          "ctime": 1790934311,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1929fc31fedc4244dddc85c4",
+          "content": {
+            "message": "我冰主也得拉去c1间"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315772958625,
+          "rpid_str": "315772958625",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 315772958625,
+          "ctime": 1790935736,
+          "like": 8,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da9dec41460fdf04dd951528",
+          "content": {
+            "message": "这冰主和奥黛塔啊，十分的珍贵[doge]开领域的阵眼",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315784049185,
+          "rpid_str": "315784049185",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 315784049185,
+          "ctime": 1790941346,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_519e751e924d2bf3839caf5a",
+          "content": {
+            "message": "其实是神子也没有，冰主奥黛塔瑞希七七扔一个队玩1限定金星扩散来打两期星反应专怪，否则打不过[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319408100464,
+          "rpid_str": "319408100464",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 319408100464,
+          "ctime": 1790986795,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_24ee12a2653c048b5588bbd0",
+          "content": {
+            "message": "70级0天赋，圣遗物0级的托马都得省出来留到恰斯卡出现打月谕，我前面把夜兰都当挂件用掉了，就不舍得用他"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315860833729,
+          "rpid_str": "315860833729",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 315860833729,
+          "ctime": 1791004464,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9e0d59bee1fe119e6131213b",
+          "content": {
+            "message": "我一个00洛恩都得拿给星超导怪细细把玩[颂乐人偶_眯眼笑]",
+            "emote": {
+              "[颂乐人偶_眯眼笑]": {
+                "id": 105211,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[颂乐人偶_眯眼笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/6087f6b3919b915c8922e608cfde147dd5ece43b.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1740045752,
+                "jump_title": "眯眼笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315895319745,
+          "rpid_str": "315895319745",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 315895319745,
+          "ctime": 1791024853,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dd2fbd4ad9029b370100fff9",
+          "content": {
+            "message": "打半天打不过无相铁，用奥黛塔和人机组合试试这伤害吓晕我了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315897816241,
+          "rpid_str": "315897816241",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315895319745,
+          "parent_str": "315895319745",
+          "dialog": 315895319745,
+          "ctime": 1791026155,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e7d77bcec3c987b7808c58a9",
+          "content": {
+            "message": "回复 @薛定谔的铁蛋 :新时代副C的含金量"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319495376368,
+          "rpid_str": "319495376368",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 319495376368,
+          "ctime": 1791036403,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ccd9f0618d905bc64e756bce",
+          "content": {
+            "message": "我角色少，冰主都咬牙省着用[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319707228784,
+          "rpid_str": "319707228784",
+          "root": 315674248049,
+          "root_str": "315674248049",
+          "parent": 315674248049,
+          "parent_str": "315674248049",
+          "dialog": 319707228784,
+          "ctime": 1791191751,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ad97c94157bbf055ec4c8b18",
+          "content": {
+            "message": "我是把冰角色池抽干了才抽到奥黛塔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315674248049,
+        "rpid_str": "315674248049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790857303,
+        "like": 528,
+        "rcount": 18,
+        "count": 19,
+        "state": 0,
+        "author_id": "U_e7d77bcec3c987b7808c58a9",
+        "content": {
+          "message": "我00奥黛塔都得省吃俭用留到boss关[笑哭]",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "72ecaa354dde1a8cf5345c001b3306b3936f5fb5366510d733eb6836aded84d6",
+  "original_bytes_sha256": "306afbccf1dcbe64377f95fb7cf5feddac10b290b02fe2eed06905aae3d12c65",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

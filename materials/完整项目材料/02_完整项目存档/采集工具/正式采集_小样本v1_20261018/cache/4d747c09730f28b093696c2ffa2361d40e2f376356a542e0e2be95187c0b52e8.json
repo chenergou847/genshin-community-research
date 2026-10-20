@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316745148081",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:42:41.789443+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320377206960,
+          "rpid_str": "320377206960",
+          "root": 316745148081,
+          "root_str": "316745148081",
+          "parent": 316745148081,
+          "parent_str": "316745148081",
+          "dialog": 320377206960,
+          "ctime": 1791710298,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f13eb6e438eaad9cccd13a51",
+          "content": {
+            "message": "c630攻勇者40增伤，还给火神充夜魂，无充能压力也有1w左右dps"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320389330544,
+          "rpid_str": "320389330544",
+          "root": 316745148081,
+          "root_str": "316745148081",
+          "parent": 316745148081,
+          "parent_str": "316745148081",
+          "dialog": 320389330544,
+          "ctime": 1791717468,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1de66c72057a686de2a47509",
+          "content": {
+            "message": "顶级挂雷，纳塔户口"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316745148081,
+        "rpid_str": "316745148081",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791706694,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_352e80a472355864b5f02e70",
+        "content": {
+          "message": "没养过欧洛伦，有大佬讲一下这个角色强在哪吗？为什么打一金都带他"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9978ef44076fd145224bd7de7ba1e370a9378563086b25ef6b98895a47ec29ae",
+  "original_bytes_sha256": "541de38d5afee0f5bda085410f81957a133c88e9537953d3d2fe128070f545bf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

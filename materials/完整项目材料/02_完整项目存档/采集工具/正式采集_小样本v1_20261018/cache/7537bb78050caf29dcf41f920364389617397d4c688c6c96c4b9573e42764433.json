@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319393362384",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:30.001190+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 10
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319393362384,
+        "rpid_str": "319393362384",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790962014,
+        "like": 0,
+        "rcount": 10,
+        "count": 11,
+        "state": 0,
+        "author_id": "U_0a15b78f015876f9cf773a90",
+        "content": {
+          "message": "多一张命运之轮和一张星卡，有谁要换的？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/527129a5cfd849eade394a20b3f3a4d2177336.jpg",
+              "img_width": 1080,
+              "img_height": 7611,
+              "img_size": 3667.08
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1022d41ff2d47787baa58827f794ced60d87a423258b8e5fc9230e39c89f1472",
+  "original_bytes_sha256": "82035b4cb27802528a180076db68e62d148162c8aa0d49b2969bbfd000f445d8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

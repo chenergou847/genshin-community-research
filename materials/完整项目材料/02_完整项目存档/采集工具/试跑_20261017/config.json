@@ -1,0 +1,765 @@
+{
+  "protocol": "12-v1",
+  "revision": "1",
+  "timezone": "Asia/Shanghai",
+  "t0": null,
+  "confirmed_by": null,
+  "confirmation_record": null,
+  "periods": {
+    "abyss": {
+      "period_id": null,
+      "start": null,
+      "characteristics": null,
+      "evidence": null,
+      "verified_by": null
+    },
+    "theater": {
+      "period_id": null,
+      "start": null,
+      "characteristics": null,
+      "evidence": null,
+      "verified_by": null
+    },
+    "stygian": {
+      "period_id": null,
+      "start": null,
+      "characteristics": null,
+      "evidence": null,
+      "verified_by": null
+    }
+  },
+  "targets": {
+    "main": 400,
+    "raw_audit": 200,
+    "coding_review": 100
+  },
+  "http": {
+    "delay_seconds": 2.0,
+    "retries": 2,
+    "timeout_seconds": 25,
+    "max_pages": 5000,
+    "search_cap_pages": 50
+  },
+  "queries": [
+    {
+      "id": "main-abyss-1-totalrank",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 深境螺旋 2026年10月",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-1-pubdate",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 深境螺旋 2026年10月",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-1-click",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 深境螺旋 2026年10月",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-2-totalrank",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-2-pubdate",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-2-click",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-3-totalrank",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 10月16 深渊 攻略",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-3-pubdate",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 10月16 深渊 攻略",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-3-click",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 10月16 深渊 攻略",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-4-totalrank",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 10月16 深渊 实录",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-4-pubdate",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 10月16 深渊 实录",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-4-click",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 10月16 深渊 实录",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-5-totalrank",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊 体验",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-5-pubdate",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊 体验",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-5-click",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊 体验",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-6-totalrank",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊 讨论",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-6-pubdate",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊 讨论",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-abyss-6-click",
+      "group": "main",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深渊 讨论",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-1-totalrank",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 幻想真境剧诗 2026年10月",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-1-pubdate",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 幻想真境剧诗 2026年10月",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-1-click",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 幻想真境剧诗 2026年10月",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-2-totalrank",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 7.1 剧诗",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-2-pubdate",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 7.1 剧诗",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-2-click",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 7.1 剧诗",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-3-totalrank",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 攻略",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-3-pubdate",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 攻略",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-3-click",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 攻略",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-4-totalrank",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 实录",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-4-pubdate",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 实录",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-4-click",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 实录",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-5-totalrank",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 体验",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-5-pubdate",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 体验",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-5-click",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 体验",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-6-totalrank",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 讨论",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-6-pubdate",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 讨论",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-theater-6-click",
+      "group": "main",
+      "mode": "theater",
+      "keyword": "原神 10月 剧诗 讨论",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-1-totalrank",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 幽境危战 7.1",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-1-pubdate",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 幽境危战 7.1",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-1-click",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 幽境危战 7.1",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-2-totalrank",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 幽境危战 2026年9月",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-2-pubdate",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 幽境危战 2026年9月",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-2-click",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 幽境危战 2026年9月",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-3-totalrank",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 攻略",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-3-pubdate",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 攻略",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-3-click",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 攻略",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-4-totalrank",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 实录",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-4-pubdate",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 实录",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-4-click",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 实录",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-5-totalrank",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 体验",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-5-pubdate",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 体验",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-5-click",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 体验",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-6-totalrank",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 联机",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-6-pubdate",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 联机",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "main-stygian-6-click",
+      "group": "main",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境危战 联机",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-abyss-1-totalrank",
+      "group": "audit_a",
+      "mode": "abyss",
+      "keyword": "原神 老深渊 202610",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-abyss-1-pubdate",
+      "group": "audit_a",
+      "mode": "abyss",
+      "keyword": "原神 老深渊 202610",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-abyss-1-click",
+      "group": "audit_a",
+      "mode": "abyss",
+      "keyword": "原神 老深渊 202610",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-abyss-2-totalrank",
+      "group": "audit_a",
+      "mode": "abyss",
+      "keyword": "原神 十月 螺旋 十二层",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-abyss-2-pubdate",
+      "group": "audit_a",
+      "mode": "abyss",
+      "keyword": "原神 十月 螺旋 十二层",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-abyss-2-click",
+      "group": "audit_a",
+      "mode": "abyss",
+      "keyword": "原神 十月 螺旋 十二层",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-theater-1-totalrank",
+      "group": "audit_a",
+      "mode": "theater",
+      "keyword": "原神 十月 水冰风 月谕",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-theater-1-pubdate",
+      "group": "audit_a",
+      "mode": "theater",
+      "keyword": "原神 十月 水冰风 月谕",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-theater-1-click",
+      "group": "audit_a",
+      "mode": "theater",
+      "keyword": "原神 十月 水冰风 月谕",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-theater-2-totalrank",
+      "group": "audit_a",
+      "mode": "theater",
+      "keyword": "原神 十月 圣牌挑战",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-theater-2-pubdate",
+      "group": "audit_a",
+      "mode": "theater",
+      "keyword": "原神 十月 圣牌挑战",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-theater-2-click",
+      "group": "audit_a",
+      "mode": "theater",
+      "keyword": "原神 十月 圣牌挑战",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-stygian-1-totalrank",
+      "group": "audit_a",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 绝境",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-stygian-1-pubdate",
+      "group": "audit_a",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 绝境",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-stygian-1-click",
+      "group": "audit_a",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 绝境",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-stygian-2-totalrank",
+      "group": "audit_a",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境 N5",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-stygian-2-pubdate",
+      "group": "audit_a",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境 N5",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_a-stygian-2-click",
+      "group": "audit_a",
+      "mode": "stygian",
+      "keyword": "原神 7.1 幽境 N5",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-abyss-1-totalrank",
+      "group": "audit_b",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深境 满星",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-abyss-1-pubdate",
+      "group": "audit_b",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深境 满星",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-abyss-1-click",
+      "group": "audit_b",
+      "mode": "abyss",
+      "keyword": "原神 7.1 深境 满星",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-abyss-2-totalrank",
+      "group": "audit_b",
+      "mode": "abyss",
+      "keyword": "原神 2026年10月 深渊 通关",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-abyss-2-pubdate",
+      "group": "audit_b",
+      "mode": "abyss",
+      "keyword": "原神 2026年10月 深渊 通关",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-abyss-2-click",
+      "group": "audit_b",
+      "mode": "abyss",
+      "keyword": "原神 2026年10月 深渊 通关",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-theater-1-totalrank",
+      "group": "audit_b",
+      "mode": "theater",
+      "keyword": "原神 2026年10月 新深渊",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-theater-1-pubdate",
+      "group": "audit_b",
+      "mode": "theater",
+      "keyword": "原神 2026年10月 新深渊",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-theater-1-click",
+      "group": "audit_b",
+      "mode": "theater",
+      "keyword": "原神 2026年10月 新深渊",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-theater-2-totalrank",
+      "group": "audit_b",
+      "mode": "theater",
+      "keyword": "原神 十月 剧诗 困难",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-theater-2-pubdate",
+      "group": "audit_b",
+      "mode": "theater",
+      "keyword": "原神 十月 剧诗 困难",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-theater-2-click",
+      "group": "audit_b",
+      "mode": "theater",
+      "keyword": "原神 十月 剧诗 困难",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-stygian-1-totalrank",
+      "group": "audit_b",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 N4",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-stygian-1-pubdate",
+      "group": "audit_b",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 N4",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-stygian-1-click",
+      "group": "audit_b",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 N4",
+      "order": "click",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-stygian-2-totalrank",
+      "group": "audit_b",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 配队",
+      "order": "totalrank",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-stygian-2-pubdate",
+      "group": "audit_b",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 配队",
+      "order": "pubdate",
+      "date_params": {}
+    },
+    {
+      "id": "audit_b-stygian-2-click",
+      "group": "audit_b",
+      "mode": "stygian",
+      "keyword": "原神 7.1 危战 配队",
+      "order": "click",
+      "date_params": {}
+    }
+  ]
+}

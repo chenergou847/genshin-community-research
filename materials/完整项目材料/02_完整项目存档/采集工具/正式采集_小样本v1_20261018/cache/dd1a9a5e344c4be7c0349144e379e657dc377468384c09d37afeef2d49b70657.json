@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318613492720",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:58:25.711417+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318613492720,
+        "rpid_str": "318613492720",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790365155,
+        "like": 3,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_11c7bf1ba315585e016bdf17",
+        "content": {
+          "message": "想过n5，打算让莱欧去带爱芙鹤打冰锅，冰主带八重dps能有个10w不知道能不能打过老头[委屈]冰棺还不知道是个什么情况呢，带尼杜超载能破那个冰盾吗，超载要多少dps能过啊",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9fa42984eeff1c1e0a381dd575d3fb76518938919.jpg",
+              "img_width": 1260,
+              "img_height": 13461,
+              "img_size": 1660.16
+            }
+          ],
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "67c73a33ff4e10060ae960c187275c4ba8861e9d1c269fea68baf15b83816e29",
+  "original_bytes_sha256": "7b4b70016e12aaadc2586fc70c52cedf5d7f36128af1b9f2578d9e91d4f72d4a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

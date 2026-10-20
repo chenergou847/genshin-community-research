@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319286133776",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:19:08.311030+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315741167457,
+          "rpid_str": "315741167457",
+          "root": 319286133776,
+          "root_str": "319286133776",
+          "parent": 319286133776,
+          "parent_str": "319286133776",
+          "dialog": 315741167457,
+          "ctime": 1790916552,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3a01f34112cdaca49b218833",
+          "content": {
+            "message": "我是二闲零茜也是四十万"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315741112449,
+          "rpid_str": "315741112449",
+          "root": 319286133776,
+          "root_str": "319286133776",
+          "parent": 319286133776,
+          "parent_str": "319286133776",
+          "dialog": 315741112449,
+          "ctime": 1790916561,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3a01f34112cdaca49b218833",
+          "content": {
+            "message": "只多了下落套"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319340679280,
+          "rpid_str": "319340679280",
+          "root": 319286133776,
+          "root_str": "319286133776",
+          "parent": 319286133776,
+          "parent_str": "319286133776",
+          "dialog": 319340679280,
+          "ctime": 1790934074,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e759e41abbc2593dcfc31d5e",
+          "content": {
+            "message": "那你这问题很大了，我2茜西风0闲下落最高的一下可以50万[笑哭]240分下落套，换上精通沙会更高一点",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319286133776,
+        "rpid_str": "319286133776",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790900896,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_e884ddb17b69024d1d5139bc",
+        "content": {
+          "message": "不是我二闲二茜下落一下怎么才四十多万，这闲专加下落套提升这么大吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e876315f383791e3d21e476e9205721f6652ddde7209113b4622b4a6d40bee78",
+  "original_bytes_sha256": "7199177b0bf234217b8a275a30e852ad32cc98a1902a67e6bd7b71a72fdc6a88",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

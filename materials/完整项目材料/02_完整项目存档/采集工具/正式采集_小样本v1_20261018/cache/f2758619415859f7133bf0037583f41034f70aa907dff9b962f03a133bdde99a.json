@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318451240560",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:27:42.668498+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318460948448,
+          "rpid_str": "318460948448",
+          "root": 318451240560,
+          "root_str": "318451240560",
+          "parent": 318451240560,
+          "parent_str": "318451240560",
+          "dialog": 318460948448,
+          "ctime": 1790253848,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1845c5c73c3cc3a09143bd8a",
+          "content": {
+            "message": "确实过不了n6"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314933139521,
+          "rpid_str": "314933139521",
+          "root": 318451240560,
+          "root_str": "318451240560",
+          "parent": 318451240560,
+          "parent_str": "318451240560",
+          "dialog": 314933139521,
+          "ctime": 1790257139,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "0+1，写的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318451240560,
+        "rpid_str": "318451240560",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790248526,
+        "like": 0,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_0279b5572c65f41580b8141f",
+        "content": {
+          "message": "0薇0奥0沃 3金根本出不了[星星眼]，自己专怪都打不过",
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5c39e6fce7a424bee2025fa490150dd32207bddb625d06f03d71cdccba3fb496",
+  "original_bytes_sha256": "3923fe343308ea126e60e7c6c71e0a206f37fd7472f30a1ab133803935a78708",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

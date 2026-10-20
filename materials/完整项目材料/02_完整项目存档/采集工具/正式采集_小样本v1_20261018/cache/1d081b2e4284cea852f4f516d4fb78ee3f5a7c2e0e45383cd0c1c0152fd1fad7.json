@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "321038246320",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:40:02.514675+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321039540352,
+          "rpid_str": "321039540352",
+          "root": 321038246320,
+          "root_str": "321038246320",
+          "parent": 321038246320,
+          "parent_str": "321038246320",
+          "dialog": 321039540352,
+          "ctime": 1792252158,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bd07e2fb109aefb0393ce5e5",
+          "content": {
+            "message": "在这里串几句就行了，比如龙的黑称"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321044384512,
+          "rpid_str": "321044384512",
+          "root": 321038246320,
+          "root_str": "321038246320",
+          "parent": 321039540352,
+          "parent_str": "321039540352",
+          "dialog": 321039540352,
+          "ctime": 1792255363,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3f5cdeae5fe56e1799d523fa",
+          "content": {
+            "message": "回复 @雪落棋枰 :有几句吗？我玩了三年多了，好像我还没听过，顺便看看某些人到底有多恨男（甚至不能说是恨龙）"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321056812352,
+          "rpid_str": "321056812352",
+          "root": 321038246320,
+          "root_str": "321038246320",
+          "parent": 321044384512,
+          "parent_str": "321044384512",
+          "dialog": 321039540352,
+          "ctime": 1792273852,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bd07e2fb109aefb0393ce5e5",
+          "content": {
+            "message": "回复 @酷爱历史的小小陈 :我要在这明着说黑称，我也上榜了，还怎么串两边"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321038246320,
+        "rpid_str": "321038246320",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792251397,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_cddc8bdb7252cdd0179bac80",
+        "content": {
+          "message": "怎么才能上榜[doge][doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9c9212cce8e5b6009901c7e3d3ea45665a2306962bc20c21060d245024477f81",
+  "original_bytes_sha256": "17b8479d5ab64acb08700798d813762fbf0cdc8d8dbb0816d8c87a3d7d12253d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,778 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117447239669367",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-18T04:57:29.848029+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 36,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320944951008,
+          "rpid_str": "320944951008",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792196619,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4ee560255fd7bdc3ef9cb36c",
+          "content": {
+            "message": "上半 月感电，下半 冰水战舰。 终于是第一次打到12-3啦。最有环境之人。虽然没满 但满足了",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/3348dcb73a90caadb146d4b68dc94798535243423.png",
+                "img_width": 750,
+                "img_height": 1624,
+                "img_size": 895
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317241908465,
+          "rpid_str": "317241908465",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792150929,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_ae0a8a4909ca678e13604178",
+          "content": {
+            "message": "这个老奶奶超载冻结该怎么打啊，打外面那个装备还是会被吸收"
+          },
+          "replies": [
+            {
+              "rpid": 321057443232,
+              "rpid_str": "321057443232",
+              "root": 317241908465,
+              "root_str": "317241908465",
+              "parent": 317241908465,
+              "parent_str": "317241908465",
+              "ctime": 1792275822,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a9d7e5c0a238119f8ae34470",
+              "content": {
+                "message": "月感电带个凌华随便打"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 320882649488,
+          "rpid_str": "320882649488",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792143851,
+          "like": 1,
+          "rcount": 1,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_4c4f44fb4f21f227dc958b83",
+          "content": {
+            "message": "打不了啊[逆转童话_求求][逆转童话_求求][逆转童话_求求]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/74473eb9661cdee2735c3802d94c506b300077539.jpg",
+                "img_width": 1436,
+                "img_height": 4724,
+                "img_size": 3045.13,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[逆转童话_求求]": {
+                "id": 121381,
+                "package_id": 8745,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[逆转童话_求求]",
+                "url": "https://i0.hdslb.com/bfs/garb/f274557bf6cff76b364b8263c86a5b7221884c30.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1758434402,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=108477&hybrid_set_header=2&anchor_task=1&lottery_id=108478&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109738%22%2C%22sub_id%22%3A%22%5B%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D_%E6%B1%82%E6%B1%82%5D%22%7D",
+                "jump_title": "求求"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 320902306592,
+              "rpid_str": "320902306592",
+              "root": 320882649488,
+              "root_str": "320882649488",
+              "parent": 320882649488,
+              "parent_str": "320882649488",
+              "ctime": 1792154501,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f36464195982973a5e1f09e3",
+              "content": {
+                "message": "再串打丝"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317225385905,
+          "rpid_str": "317225385905",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792141414,
+          "like": 0,
+          "rcount": 9,
+          "count": 11,
+          "state": 0,
+          "author_id": "U_5f46abd0d5d8c67122a94230",
+          "content": {
+            "message": "还没打，有大佬推荐一遍过的队伍吗，之前乱选最后打不动[灵魂出窍]。[蹲蹲]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/1c81da4049dd5c295950df160a772038106649682.jpg",
+                "img_width": 1080,
+                "img_height": 2108,
+                "img_size": 2335.91,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[灵魂出窍]": {
+                "id": 16,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[灵魂出窍]",
+                "url": "https://i0.hdslb.com/bfs/emote/43d3db7d97343c01b47e22cfabeca84b4251f35a.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "灵魂出窍"
+              },
+              "[蹲蹲]": {
+                "id": 91170,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[蹲蹲]",
+                "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1730108348,
+                "jump_title": "蹲蹲"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 320881774720,
+              "rpid_str": "320881774720",
+              "root": 317225385905,
+              "root_str": "317225385905",
+              "parent": 317225385905,
+              "parent_str": "317225385905",
+              "ctime": 1792143376,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_874c8557eb7a448d57868510",
+              "content": {
+                "message": "你是认真的还是来串的，这不随便打，上号领原石吗[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": []
+            },
+            {
+              "rpid": 320883017104,
+              "rpid_str": "320883017104",
+              "root": 317225385905,
+              "root_str": "317225385905",
+              "parent": 317225385905,
+              "parent_str": "317225385905",
+              "ctime": 1792144179,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_874c8557eb7a448d57868510",
+              "content": {
+                "message": "你可是2命菲林斯2命少女，上半带上冰主随便打，更何况下半还有2丝，哪里亮了点哪里就行，我上半甚至拿的瑞希加冰主打的。"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 320874893552,
+          "rpid_str": "320874893552",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792138794,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fda8759d0551bd32af8bb48f",
+          "content": {
+            "message": "一开始打完三盾大人懵了后面还有两个火盾男差了几秒，干脆直接打完再回去凹",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/117a9f7a58952d869544efcb515dd94c3546670111394528.jpg",
+                "img_width": 1179,
+                "img_height": 2665,
+                "img_size": 766
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317220162417,
+          "rpid_str": "317220162417",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792137536,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d26060aa075a047ca27cd9c2",
+          "content": {
+            "message": "第一间下半使徒skk一个大血条险些消失，这就是专属buff的威力啊。亏我还担心拖时间呢，被冰水战舰当减速带了。"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320871170640,
+          "rpid_str": "320871170640",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792135887,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_084c5bdc42c4053fadc8bdb8",
+          "content": {
+            "message": "[微笑]仆人首次UP卡池退坑的野狗的配队\n七七 神子 砂糖 冰主\n沃不明白 芙芙 三月七 绫华\n七七：西弗斯 攻击2+2 50/120 三命\n神子：铃铛 雷套 0+1 50/200 0命\n砂糖：80级没突破 900精通 风套\n冰主：专武 攻击2+2 70/230 三命\n沃：80 千岩\n芙芙：西风 70/180\n三月七：西风 充能攻击2+2\n绫华：冰套 雾切 30/280 0命",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/83da66de9d02980fcbf6fa5dc4ab86b2346102904.jpg",
+                "img_width": 1260,
+                "img_height": 2800,
+                "img_size": 1421.17
+              }
+            ],
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317216913569,
+          "rpid_str": "317216913569",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792134864,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_56ee341cf9cff7e0076f4cf1",
+          "content": {
+            "message": "只能说非常简单"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317214127873,
+          "rpid_str": "317214127873",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792132584,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2be2350e48ed373950ffb14e",
+          "content": {
+            "message": "用木偶顶着扑棱蛾子的减伤一分钟不到碾过去了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320865110608,
+          "rpid_str": "320865110608",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792130997,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_509b24bd79a8c8be3448e57b",
+          "content": {
+            "message": "比我想象的简单，真没想到瑞希队能满星",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/0c38f1b19dc1f0ea2035154eb45c9ac512239512.jpg",
+                "img_width": 1080,
+                "img_height": 2460,
+                "img_size": 899.27
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317209435553,
+          "rpid_str": "317209435553",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792128887,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_42505f66e9522ae40809f09f",
+          "content": {
+            "message": "上半木偶[doge]下半龍王帶了少女機娘奶奶碾過去了",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320857503040,
+          "rpid_str": "320857503040",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792125851,
+          "like": 3,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_dedf9ad3aaca835249f9e9f2",
+          "content": {
+            "message": "上半只有00赛诺和00梦见月选哪个，下半只有00凌华万叶其他两个位置带谁？"
+          },
+          "replies": [
+            {
+              "rpid": 320871335248,
+              "rpid_str": "320871335248",
+              "root": 320857503040,
+              "root_str": "320857503040",
+              "parent": 320857503040,
+              "parent_str": "320857503040",
+              "ctime": 1792135969,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_225a979afdf7a6de3b7f121a",
+              "content": {
+                "message": "这四个我都有，但我上班瑞希下半赛诺过得。就第二间老太记得躲一下伤害就过了。"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 320853373776,
+          "rpid_str": "320853373776",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792123363,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9a25a627ee3ed4e05755911b",
+          "content": {
+            "message": "@Zhaoyz_"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317194665041,
+          "rpid_str": "317194665041",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792118605,
+          "like": 2,
+          "rcount": 5,
+          "count": 6,
+          "state": 0,
+          "author_id": "U_36a26317e87d93fb71d01edd",
+          "content": {
+            "message": "路边难度不是很好 省的网上吵翻天",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/ceb7e1be388a485c86f895fb5c2021b1491978091.jpg",
+                "img_width": 1440,
+                "img_height": 3120,
+                "img_size": 1750.17,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 317201568145,
+              "rpid_str": "317201568145",
+              "root": 317194665041,
+              "root_str": "317194665041",
+              "parent": 317194665041,
+              "parent_str": "317194665041",
+              "ctime": 1792123788,
+              "like": 5,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_8e18d73973e927da5689c7c7",
+              "content": {
+                "message": "疑似吃环境吃出幻觉。"
+              },
+              "replies": []
+            },
+            {
+              "rpid": 317210953073,
+              "rpid_str": "317210953073",
+              "root": 317194665041,
+              "root_str": "317194665041",
+              "parent": 317194665041,
+              "parent_str": "317194665041",
+              "ctime": 1792130094,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_d64412501dda17b20c496445",
+              "content": {
+                "message": "评价为吃环境吃出幻觉了，我小号同样的队伍一遍过，大号没抽星扩散三和冰水只能上半月看连带冰  ，下半用木偶还得带水"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317189728321,
+          "rpid_str": "317189728321",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792114496,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e639139e32e009ab62d2bec6",
+          "content": {
+            "message": "其实没多难[呲牙]",
+            "emote": {
+              "[呲牙]": {
+                "id": 1902,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[呲牙]",
+                "url": "https://i0.hdslb.com/bfs/emote/b5a5898491944a4268360f2e7a84623149672eb6.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "呲牙"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320841432240,
+          "rpid_str": "320841432240",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792114317,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dadb75133def50fd75daf2db",
+          "content": {
+            "message": "随便配了个队扔进去了，都忘了第二间上半那个蝴蝶的机制了，直接随便过了，宝宝巴士的感觉，这俩队里面也只有俩新角色，奥黛塔还能换冰主，容错很大[笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/9d19fa2f298f8823479eaf679fcf89b2413420840.jpg",
+                "img_width": 1156,
+                "img_height": 2510,
+                "img_size": 1231.47
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317183870033,
+          "rpid_str": "317183870033",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792107847,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_e1c0ebf83aefb7110b27c16f",
+          "content": {
+            "message": "我开大运的，我管你这那的，跟我的保险说去吧"
+          },
+          "replies": [
+            {
+              "rpid": 320850005936,
+              "rpid_str": "320850005936",
+              "root": 317183870033,
+              "root_str": "317183870033",
+              "parent": 317183870033,
+              "parent_str": "317183870033",
+              "ctime": 1792121108,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_5e58473b5c67cf307f41340f",
+              "content": {
+                "message": "@去薯条整点码头zzz"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317182121153,
+          "rpid_str": "317182121153",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792104694,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b9a57c4435606fc76828f9d0",
+          "content": {
+            "message": "路边。[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "response_hash": "23d2063de6d8bfa067fbe5b63b456b51936a6bf68ed5d026998ba6849f71cdac",
+  "original_bytes_sha256": "d98133580a679d853724555d5c8707a868bb90944188ffcb9b58f4c5dc09174e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

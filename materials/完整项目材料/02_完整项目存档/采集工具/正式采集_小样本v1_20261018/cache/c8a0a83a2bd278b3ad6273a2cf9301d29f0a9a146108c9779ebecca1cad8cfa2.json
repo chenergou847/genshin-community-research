@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315739047041",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:13:48.748722+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315739047041,
+        "rpid_str": "315739047041",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790915346,
+        "like": 5,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d03c2d035f3452b8935d1825",
+        "content": {
+          "message": "奥黛塔主要老角色也能拿来用当对策卡，不像哥伦比娅只能在月体系里"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "062c997b35c98f9da3808e21351e94a7ac687ee64fd5f894e18d18bb122b418e",
+  "original_bytes_sha256": "d063433cbe40dad49726d6b2e88f1364aa5dcf22ff74c469b806c882a5fcec56",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

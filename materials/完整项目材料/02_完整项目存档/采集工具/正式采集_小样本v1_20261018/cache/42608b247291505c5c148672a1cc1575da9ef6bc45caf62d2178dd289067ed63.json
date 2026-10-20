@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319877810064",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:31:18.945154+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316289797233,
+          "rpid_str": "316289797233",
+          "root": 319877810064,
+          "root_str": "319877810064",
+          "parent": 319877810064,
+          "parent_str": "319877810064",
+          "dialog": 316289797233,
+          "ctime": 1791308281,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf513c036f206c06663c0717",
+          "content": {
+            "message": "匹配进去房主可以选"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319921740480,
+          "rpid_str": "319921740480",
+          "root": 319877810064,
+          "root_str": "319877810064",
+          "parent": 319877810064,
+          "parent_str": "319877810064",
+          "dialog": 319921740480,
+          "ctime": 1791344588,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_22614a5f53edd0668bc4f840",
+          "content": {
+            "message": "能打，只不过没有奖励，纯过瘾"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319877810064,
+        "rpid_str": "319877810064",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791300923,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_6348dc704630fab1a418a567",
+        "content": {
+          "message": "组队不是只能打难度4吗？\n怎么你组队能打难度6啊？[热]",
+          "emote": {
+            "[热]": {
+              "id": 7647,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[热]",
+              "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "热"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "781f7b34101eb86e2b64462d51380fe84ab91a782bdf78759e24a965a97c1b9f",
+  "original_bytes_sha256": "4a2690862465da95733e6003e20392e3c4aa134ef8bbc2614e3a05a793dacdec",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

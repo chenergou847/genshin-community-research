@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320841284272",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:45:56.139866+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320841284272,
+        "rpid_str": "320841284272",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792114062,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_f14fd0ddd20f005eacf3a3d7",
+        "content": {
+          "message": "谢谢你，深渊，2命了[doge][doge][doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d8bc50b815380d45dc107d27824d3d211627010211.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1042.2
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e3e2a1ab2f84e29d2a6472870831bfa1627010211.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1148.22
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "0c92496639092cc009e0ec0bdfe4e147c02f4c8da877d621aca527a2e5e52fb2",
+  "original_bytes_sha256": "0d15b0330dab6d748a7a4fdc7a21831ed6a2d292bdec3f9eb8f3e0d4dd695df7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

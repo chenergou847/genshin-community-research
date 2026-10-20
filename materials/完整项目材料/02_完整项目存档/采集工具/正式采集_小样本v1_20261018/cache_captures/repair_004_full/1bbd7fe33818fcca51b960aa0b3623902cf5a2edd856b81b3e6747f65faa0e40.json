@@ -1,0 +1,129 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320913099040",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:36:32.464165+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317289689329,
+          "rpid_str": "317289689329",
+          "root": 320913099040,
+          "root_str": "320913099040",
+          "parent": 320913099040,
+          "parent_str": "320913099040",
+          "ctime": 1792198091,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7647c44a632b36a461fb5e05",
+          "content": {
+            "message": "星扩散，丝柯克两队就随便打了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317300324801,
+          "rpid_str": "317300324801",
+          "root": 320913099040,
+          "root_str": "320913099040",
+          "parent": 320913099040,
+          "parent_str": "320913099040",
+          "ctime": 1792206182,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_030a56ea4bb8f10a047d50c3",
+          "content": {
+            "message": "上半星扩散，下半月感电，塞个冰压冰锅"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317300352065,
+          "rpid_str": "317300352065",
+          "root": 320913099040,
+          "root_str": "320913099040",
+          "parent": 320913099040,
+          "parent_str": "320913099040",
+          "ctime": 1792206235,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_030a56ea4bb8f10a047d50c3",
+          "content": {
+            "message": "我拿夏洛蒂压的，我菲林斯跟你一样1+1，能打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320913099040,
+        "rpid_str": "320913099040",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792160339,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_1405157ac9e42808dd6277d4",
+        "content": {
+          "message": "我有一对月感电非是一加一，还有一个奥黛塔加一命瑞希，怎么打，"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "e8902010afee8c498bf14c30d3c95d1a6870867c742e3275ab907000734efca8",
+  "original_bytes_sha256": "276ff4694d99e5f16fbaf0f0f2cf2f4dbfe2eefdcdd57423b49038673bac5dc8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

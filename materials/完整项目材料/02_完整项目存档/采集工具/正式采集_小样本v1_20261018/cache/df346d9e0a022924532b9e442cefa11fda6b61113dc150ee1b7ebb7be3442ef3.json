@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314981064609",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:13:43.833731+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314981064609,
+        "rpid_str": "314981064609",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790305320,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_6631e7c9c62649a1591c8aff",
+        "content": {
+          "message": "友友们能打n6吗，薇斯纳应该还能再捞一只",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/39aebb3eedcd9ab510013a6a5621a9f7180150399.jpg",
+              "img_width": 1152,
+              "img_height": 10215,
+              "img_size": 1236.22
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a3681d8b70628198b4a0fa3fd94dfae4470a38849b7a66726c612bf9a105eb7f",
+  "original_bytes_sha256": "2af0e7046b13f0bf31dbb8a0d88256348c832ddf679a08fea86e47ead38f0395",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

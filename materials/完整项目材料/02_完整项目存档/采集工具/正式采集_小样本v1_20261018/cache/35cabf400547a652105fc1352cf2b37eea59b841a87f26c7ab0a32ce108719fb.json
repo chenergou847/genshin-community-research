@@ -1,0 +1,169 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314930215473",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:26:07.407878+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314932956945,
+          "rpid_str": "314932956945",
+          "root": 314930215473,
+          "root_str": "314930215473",
+          "parent": 314930215473,
+          "parent_str": "314930215473",
+          "dialog": 314932956945,
+          "ctime": 1790257100,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间莱欧斯利星超导。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314933493585,
+          "rpid_str": "314933493585",
+          "root": 314930215473,
+          "root_str": "314930215473",
+          "parent": 314930215473,
+          "parent_str": "314930215473",
+          "dialog": 314933493585,
+          "ctime": 1790257332,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间洛恩杜林。你配置杜林都满命了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314933346529,
+          "rpid_str": "314933346529",
+          "root": 314930215473,
+          "root_str": "314930215473",
+          "parent": 314930215473,
+          "parent_str": "314930215473",
+          "dialog": 314933346529,
+          "ctime": 1790257344,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间奈芙尔带个火系"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314930215473,
+        "rpid_str": "314930215473",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790255489,
+        "like": 0,
+        "rcount": 3,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_38c6532ecbf57a810d507ee9",
+        "content": {
+          "message": "月绽放是不是只有冰棺好打[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ff0ec07c78912f5c327b035cf49b93f493592770.jpg",
+              "img_width": 1256,
+              "img_height": 14361,
+              "img_size": 4860.6,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9184a5e1e79e89decd62a2017db713acdddeeda0ee23d35c63915c28fe98313f",
+  "original_bytes_sha256": "6808d65f19fc7414b74effa84155dff39dcfa136e21c3e9f59feb5c559e6fa75",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

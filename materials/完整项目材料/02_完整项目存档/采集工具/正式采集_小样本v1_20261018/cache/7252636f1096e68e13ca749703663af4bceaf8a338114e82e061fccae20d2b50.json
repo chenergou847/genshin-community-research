@@ -1,0 +1,145 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318479305712",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:23:05.062437+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318480087216,
+          "rpid_str": "318480087216",
+          "root": 318479305712,
+          "root_str": "318479305712",
+          "parent": 318479305712,
+          "parent_str": "318479305712",
+          "dialog": 318480087216,
+          "ctime": 1790264266,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_59bc03b1047fa20bf5480bf0",
+          "content": {
+            "message": "得凹"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318480375648,
+          "rpid_str": "318480375648",
+          "root": 318479305712,
+          "root_str": "318479305712",
+          "parent": 318479305712,
+          "parent_str": "318479305712",
+          "dialog": 318480375648,
+          "ctime": 1790264486,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a34db0e0a9cef11b385b9c61",
+          "content": {
+            "message": "木偶,神子,奥黛塔,七七...打老头...SKK队伍冰锅,,,火神队伍冰棺,,应该谁便过..."
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318479305712,
+        "rpid_str": "318479305712",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790263878,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_a96874bddb103a18eaad34c3",
+        "content": {
+          "message": "有机会N6嘛[脱单doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/635d22341602a0a1e53ed0c39aedbc7830889733.jpg",
+              "img_width": 1264,
+              "img_height": 14368,
+              "img_size": 1874.24,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[脱单doge]": {
+              "id": 3301,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[脱单doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "脱单doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "51255b1005c9563477a0c6a3447400cc5f2dd31d096d1a8b9fc9d80393983dda",
+  "original_bytes_sha256": "f6d2a3ce6d2c74cc14475d00be555917822db38e7b88d0b31bbb9167e8cf9b49",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

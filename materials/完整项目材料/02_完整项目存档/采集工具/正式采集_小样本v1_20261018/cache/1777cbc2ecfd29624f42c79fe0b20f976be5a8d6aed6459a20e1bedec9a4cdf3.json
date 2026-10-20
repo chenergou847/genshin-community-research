@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319086602336",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:13:39.004040+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319149819824,
+          "rpid_str": "319149819824",
+          "root": 319086602336,
+          "root_str": "319086602336",
+          "parent": 319086602336,
+          "parent_str": "319086602336",
+          "dialog": 319149819824,
+          "ctime": 1790786979,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f4fed3a1dc615f5129ff6dab",
+          "content": {
+            "message": "你这不是随便打吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319170655104,
+          "rpid_str": "319170655104",
+          "root": 319086602336,
+          "root_str": "319086602336",
+          "parent": 319149819824,
+          "parent_str": "319149819824",
+          "dialog": 319149819824,
+          "ctime": 1790816417,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0c3b4a41aa18bb272ff052ee",
+          "content": {
+            "message": "回复 @此生无悔入夏目 :之前练度不够，我这圣遗物配置不行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319086602336,
+        "rpid_str": "319086602336",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790750157,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_0c3b4a41aa18bb272ff052ee",
+        "content": {
+          "message": "凹了三個小時終於過了，手都酸了[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0cf6040451c32403ad8a5dc124fc0e912039534342.jpg",
+              "img_width": 2412,
+              "img_height": 1080,
+              "img_size": 1034.06
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0c12397fda481d7fcdeb925dca4ee7bd0294e0470c490b39fc802d311201aeb5",
+  "original_bytes_sha256": "41e933f9b7bdd7b4368e7eec8f19a8adf1746abbd4111a557a20e35fba97689b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

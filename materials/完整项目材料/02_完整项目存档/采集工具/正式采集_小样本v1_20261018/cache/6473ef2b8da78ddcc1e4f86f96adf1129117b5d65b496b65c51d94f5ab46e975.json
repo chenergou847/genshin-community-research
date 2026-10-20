@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315053684321",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:03:18.185568+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315055603841,
+          "rpid_str": "315055603841",
+          "root": 315053684321,
+          "root_str": "315053684321",
+          "parent": 315053684321,
+          "parent_str": "315053684321",
+          "dialog": 315055603841,
+          "ctime": 1790348909,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶奥黛塔星超导。第二间丝柯克队。第三间只需二命菲林斯就够，带个冰主破机制也行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315055682705,
+          "rpid_str": "315055682705",
+          "root": 315053684321,
+          "root_str": "315053684321",
+          "parent": 315053684321,
+          "parent_str": "315053684321",
+          "dialog": 315055682705,
+          "ctime": 1790348920,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318660151872,
+          "rpid_str": "318660151872",
+          "root": 315053684321,
+          "root_str": "315053684321",
+          "parent": 315055603841,
+          "parent_str": "315055603841",
+          "dialog": 315055603841,
+          "ctime": 1790406316,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9fe8697385c94b17956b8b0",
+          "content": {
+            "message": "回复 @星光璀璨之时 : 丘林3200w 星扩散 星超导等效2700w血 星超导30抗 常规dps需要27w左右 星扩散24w所有 都不是00木偶和薇丝娜能碰瓷的 想打必须2+1 ，2奥的提升不如主c"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315053684321,
+        "rpid_str": "315053684321",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790347839,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_64f0cf3ce2280212741c821b",
+        "content": {
+          "message": "能过n6 吗，菲林斯队练度比较低",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/cdf67897635b56457749456ce2af88e7470447378.jpg",
+              "img_width": 1206,
+              "img_height": 14367,
+              "img_size": 3972
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "675aa3136f7bc4f92c0553949db63566b0b83b4fa11f15d53a11687b2e0710d2",
+  "original_bytes_sha256": "08fdff124ded8508ee5b27f7b33af05b21487ff36343c383420d598c7b2b8f15",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

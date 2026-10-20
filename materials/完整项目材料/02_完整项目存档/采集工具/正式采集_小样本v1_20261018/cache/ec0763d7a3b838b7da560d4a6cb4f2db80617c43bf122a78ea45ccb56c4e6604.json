@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "320089135072",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:43:47.437678+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320089813552,
+          "rpid_str": "320089813552",
+          "root": 320089135072,
+          "root_str": "320089135072",
+          "parent": 320089135072,
+          "parent_str": "320089135072",
+          "dialog": 320089813552,
+          "ctime": 1791470019,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "估计是很难"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320089999072,
+          "rpid_str": "320089999072",
+          "root": 320089135072,
+          "root_str": "320089135072",
+          "parent": 320089813552,
+          "parent_str": "320089813552",
+          "dialog": 320089813552,
+          "ctime": 1791470148,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_72b0bd3c04219dfeeb29f213",
+          "content": {
+            "message": "回复 @夜星Wetchin :好吧能逝世吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320101301680,
+          "rpid_str": "320101301680",
+          "root": 320089135072,
+          "root_str": "320089135072",
+          "parent": 320089999072,
+          "parent_str": "320089999072",
+          "dialog": 320089813552,
+          "ctime": 1791477303,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "回复 @芙丝粉丝芙的粉丝 : 我觉得不太能过，夏如果是满命就还有点机会"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320130966224,
+          "rpid_str": "320130966224",
+          "root": 320089135072,
+          "root_str": "320089135072",
+          "parent": 320101301680,
+          "parent_str": "320101301680",
+          "dialog": 320089813552,
+          "ctime": 1791517065,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_72b0bd3c04219dfeeb29f213",
+          "content": {
+            "message": "回复 @夜星Wetchin :好吧谢谢主播了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320089135072,
+        "rpid_str": "320089135072",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791469585,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_72b0bd3c04219dfeeb29f213",
+        "content": {
+          "message": "01火3夏4伊4欧夏有把餐叉，能过N6嘛",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6309b6b91c2ae3226b4f8da9ddb605733690985850669622.jpg",
+              "img_width": 960,
+              "img_height": 2416,
+              "img_size": 628.14
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "317719d94f88bc471f98c874a67c72e06dfe8e81d671a69c041276badc737fba",
+  "original_bytes_sha256": "75b7f2a5e05c6be421bd5f98f8fec448ef261f0ab60bc511954b5f7fa1da4476",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

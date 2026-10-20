@@ -1,0 +1,203 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319155892976",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:10:26.060860+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319159837936,
+          "rpid_str": "319159837936",
+          "root": 319155892976,
+          "root_str": "319155892976",
+          "parent": 319155892976,
+          "parent_str": "319155892976",
+          "dialog": 319159837936,
+          "ctime": 1790799240,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b7b4f87e6a672c3f69d37727",
+          "content": {
+            "message": "你这BOX正常练度打n5应该没啥压力吧，可以凑出来好几队，比如：\n第一间：木偶 阿罗夏 奥黛塔 砂糖\n第二间：丝科克 芙宁娜 爱可菲 莫娜\n第三间：恰斯卡 班尼特 冰主 迪奥娜"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319205673280,
+          "rpid_str": "319205673280",
+          "root": 319155892976,
+          "root_str": "319155892976",
+          "parent": 319159837936,
+          "parent_str": "319159837936",
+          "dialog": 319159837936,
+          "ctime": 1790837579,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7aa7cbc021786766701614d0",
+          "content": {
+            "message": "回复 @琥子1991 :真打不过，试了月绽放加班尼特打过了[无语]",
+            "emote": {
+              "[无语]": {
+                "id": 7,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[无语]",
+                "url": "https://i0.hdslb.com/bfs/emote/44667b7d9349957e903b1b62cb91fb9b13720f04.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "无语"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319293830976,
+          "rpid_str": "319293830976",
+          "root": 319155892976,
+          "root_str": "319155892976",
+          "parent": 319155892976,
+          "parent_str": "319155892976",
+          "dialog": 319293830976,
+          "ctime": 1790906738,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a53bc183aa8130875266f24",
+          "content": {
+            "message": "第三间僕人超载没啥压力可以试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319155892976,
+        "rpid_str": "319155892976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790792493,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_7aa7cbc021786766701614d0",
+        "content": {
+          "message": "怎么每次都打不了难度五啊[无语][大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/da2663b5dda75e782a168b26a35b819d1667246112.jpg",
+              "img_width": 1264,
+              "img_height": 5068,
+              "img_size": 2882.39
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            },
+            "[无语]": {
+              "id": 7,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[无语]",
+              "url": "https://i0.hdslb.com/bfs/emote/44667b7d9349957e903b1b62cb91fb9b13720f04.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "无语"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "659ec9c669a55e8a7ff89867ae72e0060c3eb31f60167e99190805f007533885",
+  "original_bytes_sha256": "07a55a9b7b93c3938f75c81dd376b7cca299086ca0d60c4246ec39dc77daf36d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

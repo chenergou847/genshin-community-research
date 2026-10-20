@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316083201057",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:34:24.671426+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316083201057,
+        "rpid_str": "316083201057",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791171297,
+        "like": 4,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_a00ae64e7171c78f58d053d3",
+        "content": {
+          "message": "拼劲全力第一次n5[保卫萝卜_笔芯]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/925b801e4913c69ac969fc09dfde654c100648686.jpg",
+              "img_width": 1080,
+              "img_height": 2096,
+              "img_size": 696.62
+            }
+          ],
+          "emote": {
+            "[保卫萝卜_笔芯]": {
+              "id": 4944,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[保卫萝卜_笔芯]",
+              "url": "https://i0.hdslb.com/bfs/emote/5ff2ed5cb71b02010018cc5910ac7052a03769af.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  "笔芯"
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笔芯"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8bca27ae7303ca9187f82abbac835e89cfcd30dc0deb6959b9530dd0e07692d8",
+  "original_bytes_sha256": "ab8bd80cee1824dc370d1f25ed0feee7720f8f44c2900d3d85951f78012e02a8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

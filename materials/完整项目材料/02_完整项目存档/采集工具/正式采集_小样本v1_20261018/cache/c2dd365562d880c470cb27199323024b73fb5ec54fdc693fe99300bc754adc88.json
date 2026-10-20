@@ -1,0 +1,193 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315512072529",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:15:15.711202+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315512668737,
+          "rpid_str": "315512668737",
+          "root": 315512072529,
+          "root_str": "315512072529",
+          "parent": 315512072529,
+          "parent_str": "315512072529",
+          "dialog": 315512668737,
+          "ctime": 1790742431,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_38c93d33384d1f63861b77e4",
+          "content": {
+            "message": "自己上号领原石和紫皮[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315515702833,
+          "rpid_str": "315515702833",
+          "root": 315512072529,
+          "root_str": "315512072529",
+          "parent": 315512668737,
+          "parent_str": "315512668737",
+          "dialog": 315512668737,
+          "ctime": 1790744202,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9277d1c7cb1353c358326fed",
+          "content": {
+            "message": "回复 @夜的第四颂歌 :冰棺怎么打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315518392273,
+          "rpid_str": "315518392273",
+          "root": 315512072529,
+          "root_str": "315512072529",
+          "parent": 315515702833,
+          "parent_str": "315515702833",
+          "dialog": 315512668737,
+          "ctime": 1790745917,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f59e2a10fc7b6dceb1e2c9fd",
+          "content": {
+            "message": "回复 @不要歧视内哥 :冰棺确实不好打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315518757553,
+          "rpid_str": "315518757553",
+          "root": 315512072529,
+          "root_str": "315512072529",
+          "parent": 315512072529,
+          "parent_str": "315512072529",
+          "dialog": 315518757553,
+          "ctime": 1790746086,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f59e2a10fc7b6dceb1e2c9fd",
+          "content": {
+            "message": "理论上可以月绽放然后带星反应或火破机制，dps肯定够就看能不能破盾，可莉冰主什么可以试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315512072529,
+        "rpid_str": "315512072529",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790742155,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_9277d1c7cb1353c358326fed",
+        "content": {
+          "message": "有机会吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/85a62c684d3af9b08baf5e011c5e4bc5497599166.jpg",
+              "img_width": 1320,
+              "img_height": 14421,
+              "img_size": 1871.31,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a97fb610a41924f548ed34c2cba9acae9b426d40917b682c381d4fcccce367eb",
+  "original_bytes_sha256": "d0c50c34a585f84c12533e701a849d4cbf2bd21e1065f6410344a2e340989844",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

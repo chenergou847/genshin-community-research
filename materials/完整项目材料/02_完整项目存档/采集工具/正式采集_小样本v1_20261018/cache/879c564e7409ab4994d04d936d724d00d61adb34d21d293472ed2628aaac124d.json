@@ -1,0 +1,121 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315847980849",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:05:56.524803+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315848907409,
+          "rpid_str": "315848907409",
+          "root": 315847980849,
+          "root_str": "315847980849",
+          "parent": 315847980849,
+          "parent_str": "315847980849",
+          "dialog": 315848907409,
+          "ctime": 1790997864,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2a83a24e590fecf716ac44a5",
+          "content": {
+            "message": "大了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315847980849,
+        "rpid_str": "315847980849",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790997366,
+        "like": 5,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_e4a54cacc128b6b107b7165f",
+        "content": {
+          "message": "所以我出手了[原神_哇]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0e740d7ed6a9b761742580af39018e79362738790.png",
+              "img_width": 1224,
+              "img_height": 897,
+              "img_size": 703.37,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[原神_哇]": {
+              "id": 4259,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[原神_哇]",
+              "url": "https://i0.hdslb.com/bfs/emote/8188ddf95bace929d382c7a83214afde79d83bfc.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哇"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "07186d5d0ace58ee74cfa45bdefe7145b9b9cc89c6edf4bdace684612f0f2e54",
+  "original_bytes_sha256": "47f0ecb6ea915d976dad64782a0c44496c6d36403005223bd86cf861b115e27a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

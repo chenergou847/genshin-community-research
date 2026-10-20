@@ -1,0 +1,160 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315413298593",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:30:15.256708+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315433051697,
+          "rpid_str": "315433051697",
+          "root": 315413298593,
+          "root_str": "315413298593",
+          "parent": 315413298593,
+          "parent_str": "315413298593",
+          "dialog": 315433051697,
+          "ctime": 1790671023,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "梦见月奥黛塔珐露珊+七七"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315433063169,
+          "rpid_str": "315433063169",
+          "root": 315413298593,
+          "root_str": "315413298593",
+          "parent": 315413298593,
+          "parent_str": "315413298593",
+          "dialog": 315433063169,
+          "ctime": 1790671048,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶阿罗夏+迪奥娜+砂糖"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315433129361,
+          "rpid_str": "315433129361",
+          "root": 315413298593,
+          "root_str": "315413298593",
+          "parent": 315413298593,
+          "parent_str": "315413298593",
+          "dialog": 315433129361,
+          "ctime": 1790671087,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "月绽放带个火系破，比如班尼特强火"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315413298593,
+        "rpid_str": "315413298593",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790655967,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_07b4fcb982fa848321618d68",
+        "content": {
+          "message": "❤️",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f436f61dca7e659c4a579ba8f17acb081281355382.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 956.93
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5c729597fb19476ebf3ef87422b215161281355382.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 991.62
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7fb8539d5a6ce02f53e50e9acf6d436b1281355382.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1512.79
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8e170edd5a9e35e8eca429d7b3b532840bdcd6b37596d4f212c442ccf2117716",
+  "original_bytes_sha256": "df5338e2756e25900bcabbb514ae96f632e62b66da0bac7efdb61de95a59cea8",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

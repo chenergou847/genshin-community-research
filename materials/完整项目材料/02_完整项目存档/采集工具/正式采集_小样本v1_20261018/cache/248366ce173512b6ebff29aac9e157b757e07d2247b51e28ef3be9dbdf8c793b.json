@@ -1,0 +1,89 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117448078596976",
+    "root": "320901408448",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:59:05.991852+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317260371521,
+          "rpid_str": "317260371521",
+          "root": 320901408448,
+          "root_str": "320901408448",
+          "parent": 320901408448,
+          "parent_str": "320901408448",
+          "ctime": 1792161282,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_870494a697b22669600f2f2a",
+          "content": {
+            "message": "4星冰系，单冰目前后台压，只能莱+超导能压冰锅。前台单冰压的话，夏洛蒂或者祭礼重云配合超导可以压。"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317296031217,
+          "rpid_str": "317296031217",
+          "root": 320901408448,
+          "root_str": "320901408448",
+          "parent": 320901408448,
+          "parent_str": "320901408448",
+          "ctime": 1792203275,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8fc8edc35f574ce3ee049f66",
+          "content": {
+            "message": "或者试试罗莎莉亚的大招，就是得堆充能"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320901408448,
+        "rpid_str": "320901408448",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792153966,
+        "like": 2,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_ec551e7e42dba6eed45ebd14",
+        "content": {
+          "message": "莱依拉能换成猫猫吗"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "cf87ff848b473068ee61a4d251d4fd268b279c7995c4cf29579e057635e94132",
+  "original_bytes_sha256": "549aa69f4ebc17f97249525faf47975cd1946f87607283641a51291b5479f78f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

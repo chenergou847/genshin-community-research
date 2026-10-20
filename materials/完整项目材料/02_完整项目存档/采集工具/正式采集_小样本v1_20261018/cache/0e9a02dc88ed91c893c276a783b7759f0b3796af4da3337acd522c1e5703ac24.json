@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315891641409",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:03:16.958213+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315898321105,
+          "rpid_str": "315898321105",
+          "root": 315891641409,
+          "root_str": "315891641409",
+          "parent": 315891641409,
+          "parent_str": "315891641409",
+          "dialog": 315898321105,
+          "ctime": 1791026392,
+          "like": 5,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c07b54551099bb0ef0e73eff",
+          "content": {
+            "message": "这只是在这个小程序投的数量"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320036933328,
+          "rpid_str": "320036933328",
+          "root": 315891641409,
+          "root_str": "315891641409",
+          "parent": 315891641409,
+          "parent_str": "315891641409",
+          "dialog": 320036933328,
+          "ctime": 1791434721,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2cbe09cb77f80c3ca4c04f92",
+          "content": {
+            "message": "你想多了，能打n5n6的估计百万计"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320218393408,
+          "rpid_str": "320218393408",
+          "root": 315891641409,
+          "root_str": "315891641409",
+          "parent": 315891641409,
+          "parent_str": "315891641409",
+          "dialog": 320218393408,
+          "ctime": 1791592921,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9ab3dc39fa0d93959724c5e6",
+          "content": {
+            "message": "你想多了，不是每个人都用小程序的，也不是每个用小程序的人都会上传n5n6的数据的，原神每日活跃玩家得几百万，不可能只有八九千人打n5n6的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315891641409,
+        "rpid_str": "315891641409",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791022874,
+        "like": 14,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_69da06983e2e914a569114ac",
+        "content": {
+          "message": "我只看到原神玩家那么多，真的打n5n6的叠一块都不到八千，说明这玩意大家看看就好，没必要因为打不过就难过[doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ecf3ff6bde167b6efc9b50d7198c97e4d2fe877f4540170ee9be64af22a85659",
+  "original_bytes_sha256": "a0858eda1b4d1665fb8a3b33a4112585bf6babc8caa5de142b76dac5303f31cb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

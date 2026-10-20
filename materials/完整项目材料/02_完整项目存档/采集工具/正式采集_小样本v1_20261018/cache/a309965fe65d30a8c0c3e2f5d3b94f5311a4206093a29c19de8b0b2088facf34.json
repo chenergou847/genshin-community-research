@@ -1,0 +1,177 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315245406961",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:48:04.302693+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318812982144,
+          "rpid_str": "318812982144",
+          "root": 315245406961,
+          "root_str": "315245406961",
+          "parent": 315245406961,
+          "parent_str": "315245406961",
+          "dialog": 318812982144,
+          "ctime": 1790512714,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e86504de076f758915157e1e",
+          "content": {
+            "message": "月感电不能硬过老头，先不考虑dps的问题，生存就是一大痛点。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315280135297,
+          "rpid_str": "315280135297",
+          "root": 315245406961,
+          "root_str": "315245406961",
+          "parent": 318812982144,
+          "parent_str": "318812982144",
+          "dialog": 318812982144,
+          "ctime": 1790523060,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_87b9972de00f9226672a9ee9",
+          "content": {
+            "message": "回复 @梦幻月zy :带奥黛塔破机制应该可以"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315345716993,
+          "rpid_str": "315345716993",
+          "root": 315245406961,
+          "root_str": "315245406961",
+          "parent": 318812982144,
+          "parent_str": "318812982144",
+          "dialog": 318812982144,
+          "ctime": 1790591020,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0a884d04614befc8def69401",
+          "content": {
+            "message": "回复 @梦幻月zy :月电能过机制啊[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315245406961,
+        "rpid_str": "315245406961",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790502536,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_7bd109e3eff18699a89cb96e",
+        "content": {
+          "message": "这配置能过下期n6吗，想用月感电硬过老头，不知道能不能做到，冰主队也不知道能不能打过冰棺捏。。。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3d367b096734d65712da40ed8102a8851001816151.jpg",
+              "img_width": 2000,
+              "img_height": 1500,
+              "img_size": 2092.62,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/046e8bccfe7336073d51b266b14d22411001816151.jpg",
+              "img_width": 1440,
+              "img_height": 3168,
+              "img_size": 1801.26,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8053b782bd85c8dd00fefdf19427f266be9bb219d978188873b358d9d1c2b5e0",
+  "original_bytes_sha256": "79f33acd76f6f87e0d2bc919614a8827903c9e9f777669ac54f1d29b1ccf0057",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

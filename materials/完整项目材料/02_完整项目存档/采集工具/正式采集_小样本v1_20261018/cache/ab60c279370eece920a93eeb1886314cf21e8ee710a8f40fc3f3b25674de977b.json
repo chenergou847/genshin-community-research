@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315043236689",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:04:52.148105+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315043236689,
+        "rpid_str": "315043236689",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790342247,
+        "like": 0,
+        "rcount": 1,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_bb39a43edb460f0e34576bb7",
+        "content": {
+          "message": "11木偶10狐狸00奥有机会过n6老头吗，减抗位砂糖我用不习惯，考虑抽个00沃"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b65b284b26e0a6e7f2b4d2c223e7eb40e8808897e48874b60b407a12431ac2d1",
+  "original_bytes_sha256": "e2942c5f510c27eebf202aad2edf63fe27980872099a989963a96ab9c21bebc5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319275048736",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:09:29.697075+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315729954321,
+          "rpid_str": "315729954321",
+          "root": 319275048736,
+          "root_str": "319275048736",
+          "parent": 319275048736,
+          "parent_str": "319275048736",
+          "dialog": 315729954321,
+          "ctime": 1790910063,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_054116ca9aa2e56bdf761734",
+          "content": {
+            "message": "打不过可以找那种直播谋生的主播打。UP主一看就是个上班族，业余爱好。人家视频讲的东西很全的。。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316175398801,
+          "rpid_str": "316175398801",
+          "root": 319275048736,
+          "root_str": "319275048736",
+          "parent": 319275048736,
+          "parent_str": "319275048736",
+          "dialog": 316175398801,
+          "ctime": 1791227507,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9f55bc71301a4ff7b96eeb72",
+          "content": {
+            "message": "你沃爱芙都有了可以抽个丝柯克组冰水战舰（不过我不知道6芙还需不需要这个哈）。总的来说你的号目前原始人有点多，打各种深渊都有可能因为环境被搞得很惨，强烈建议先不着急追求深渊好成绩，先抽多点新角色再说"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316175685937,
+          "rpid_str": "316175685937",
+          "root": 319275048736,
+          "root_str": "319275048736",
+          "parent": 319275048736,
+          "parent_str": "319275048736",
+          "dialog": 316175685937,
+          "ctime": 1791227754,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9f55bc71301a4ff7b96eeb72",
+          "content": {
+            "message": "深境螺旋膨胀速度很慢，难度低；对你来说难的主要是剧诗，需要练很多角色（进阶模式强制要求多个角色70级以上，可以去了解一下）；幽境危战拿满原石联机和别人打也行，不建议短期内追求自己过n5"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319275048736,
+        "rpid_str": "319275048736",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790879469,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_741e33393441b56de4b08807",
+        "content": {
+          "message": "有没有佬给点建议。很久没玩了，纳塔和月国角色没抽，冰国目前抽了个人鱼。现在练哪些队伍厉害点。是不是老角色雷神草神啥的已经完全用不了了？得练那些新反应的角色？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4d8a6f0c1e9f002d3f18b2bafcfbc86766786713.jpg",
+              "img_width": 1272,
+              "img_height": 11260,
+              "img_size": 1436.21
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "89e5d8fbbf923d21cb967420653aa0a64bb780d7ac86220d510e660534b25b28",
+  "original_bytes_sha256": "d06283e437b19ca536b3f2f6006dc12c218ac11f6997ff225d3840af5d972e6a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

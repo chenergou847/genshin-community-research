@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319275048736",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:09:33.748349+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319275048736,
+        "rpid_str": "319275048736",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790879469,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_741e33393441b56de4b08807",
+        "content": {
+          "message": "有没有佬给点建议。很久没玩了，纳塔和月国角色没抽，冰国目前抽了个人鱼。现在练哪些队伍厉害点。是不是老角色雷神草神啥的已经完全用不了了？得练那些新反应的角色？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4d8a6f0c1e9f002d3f18b2bafcfbc86766786713.jpg",
+              "img_width": 1272,
+              "img_height": 11260,
+              "img_size": 1436.21
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5461d9d9e844d0be6aca225efad30b41cbfc3a059126582adce4c6da6a04089a",
+  "original_bytes_sha256": "91dece9b5806bf07300dbea359e420251d1c57bee81b56da4343c418477abee3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

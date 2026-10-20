@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315001772113",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:08:25.552747+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315007831313,
+          "rpid_str": "315007831313",
+          "root": 315001772113,
+          "root_str": "315001772113",
+          "parent": 315001772113,
+          "parent_str": "315001772113",
+          "dialog": 315007831313,
+          "ctime": 1790321620,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "2命奥黛塔，1+0木偶就够了，第一间。\n第二间丝柯克看你练度。第三间菲林斯带冰主"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315007876945,
+          "rpid_str": "315007876945",
+          "root": 315001772113,
+          "root_str": "315001772113",
+          "parent": 315001772113,
+          "parent_str": "315001772113",
+          "dialog": 315007876945,
+          "ctime": 1790321627,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315010354785,
+          "rpid_str": "315010354785",
+          "root": 315001772113,
+          "root_str": "315001772113",
+          "parent": 315001772113,
+          "parent_str": "315001772113",
+          "dialog": 315010354785,
+          "ctime": 1790323264,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7c7d37aaa942de0083c46b97",
+          "content": {
+            "message": "٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ，我感觉11丝加10爱应该是能打的吧？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315001772113,
+        "rpid_str": "315001772113",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790317516,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_7c7d37aaa942de0083c46b97",
+        "content": {
+          "message": "n6可以打吗？[蹲蹲][蹲蹲]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ad21f1dca2696d75f9cb75f76ed86bef3546950657902778.jpg",
+              "img_width": 1260,
+              "img_height": 14326,
+              "img_size": 1772.67
+            }
+          ],
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "dfbdf66732cd771cc95f0e0121f7e076084c69ca7cc1e0d5b06fee186a1c21a4",
+  "original_bytes_sha256": "c708f634a304bcc7e4877de2a00cf5120193999db3ab1f08d502309849810f16",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315279051393",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:46:43.771474+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315286575137,
+          "rpid_str": "315286575137",
+          "root": 315279051393,
+          "root_str": "315279051393",
+          "parent": 315279051393,
+          "parent_str": "315279051393",
+          "dialog": 315286575137,
+          "ctime": 1790527631,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "讲得幽战。这是幽境危战。不是大世界哦"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315279051393,
+        "rpid_str": "315279051393",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790522319,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_7353cbcd697e14dec89f26a7",
+        "content": {
+          "message": "大世界的冰棺冰盾有42u吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "34259f62ccd3faf1292beb3be71ba8f749ea175e0bf9689c298a9850d5467632",
+  "original_bytes_sha256": "ba166bdfb11413f6b570325fe9d7ba51eb07ab2b6e57ea48036b9356a73e52f6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

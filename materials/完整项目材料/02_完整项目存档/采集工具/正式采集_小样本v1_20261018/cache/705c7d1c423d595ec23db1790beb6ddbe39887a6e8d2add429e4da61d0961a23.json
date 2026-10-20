@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319281547936",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:49:38.229543+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319281547936,
+        "rpid_str": "319281547936",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790894024,
+        "like": 1,
+        "rcount": 4,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_26d5433c8ce2a8512cd08cdf",
+        "content": {
+          "message": "01火神，20奶奶，00希诺宁，班尼特，能过N6吗？没有这些超载队友，打融化能过吗，手法一般"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d7aae813aef3def3aad794a2f48c308af797600b8430d4d1694e5466976f0c2c",
+  "original_bytes_sha256": "a3ab4b3571159de18101c1a1c1206aab41041e72946d751270a717df64fbd216",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

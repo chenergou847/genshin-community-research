@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318525898672",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:11:32.842345+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315002591969,
+          "rpid_str": "315002591969",
+          "root": 318525898672,
+          "root_str": "318525898672",
+          "parent": 318525898672,
+          "parent_str": "318525898672",
+          "dialog": 315002591969,
+          "ctime": 1790318135,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你木偶破机制打老头更好。奈芙尔第三间去，第一间要凹。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318545099024,
+          "rpid_str": "318545099024",
+          "root": 318525898672,
+          "root_str": "318525898672",
+          "parent": 315002591969,
+          "parent_str": "315002591969",
+          "dialog": 315002591969,
+          "ctime": 1790321378,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_337f8839a17507b9efb1ee53",
+          "content": {
+            "message": "回复 @星光璀璨之时 :第三间打冰盾可以吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318525898672,
+        "rpid_str": "318525898672",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790310062,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_337f8839a17507b9efb1ee53",
+        "content": {
+          "message": "01蛇20鹿21少22草打哪个最好打？\n想的是00丝21芙00爱00沃打冰锅，还有个01木20奥11八60阿打1和3都行"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "76e3e36d822e7c6fb5471544f97c8ae600eaa2d1779acd8c29375be77799c138",
+  "original_bytes_sha256": "96f1f0cfff275ae22129e28c22ec47c32a7035331cbf0a09ec3c61c58075bcde",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,81 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319395718976",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:22.065866+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319395718976,
+        "rpid_str": "319395718976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790964454,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_1ab8cad8caa96491efb401a4",
+        "content": {
+          "message": "好多人都说这期剧诗满花难 感觉也还好是咋回事",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/25e206fa4aa309e412f4b8d66d77aa463493108761233616.png",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 220.41
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/fdd253150e682d738f5f2e16d4f0aa7c3493108761233616.jpg",
+              "img_width": 1080,
+              "img_height": 4393,
+              "img_size": 1022.68
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0ac59e1fa8a6ba0a56b27ff5e42b0baaba6b40f1b4fd57137fbb56a102d11d9c",
+  "original_bytes_sha256": "e71d9a08c2fd0871fe9b9d182d0e17eeeed1b7cfc9ed319253238086957729d1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

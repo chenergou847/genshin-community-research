@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314917775185",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:27:50.438000+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314920870529,
+          "rpid_str": "314920870529",
+          "root": 314917775185,
+          "root_str": "314917775185",
+          "parent": 314917775185,
+          "parent_str": "314917775185",
+          "dialog": 314920870529,
+          "ctime": 1790250146,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0174687a8ccf219fa1606cd7",
+          "content": {
+            "message": "多少秒自己填"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314917775185,
+        "rpid_str": "314917775185",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790248426,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_81671b39563bc123c29553c4",
+        "content": {
+          "message": "有机会吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3311a9f577bf806f3439dc92151bae49547910993.jpg",
+              "img_width": 1080,
+              "img_height": 12813,
+              "img_size": 1569.89,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "42011e94a161cdc862f6644e7b7aa46750b0d73df0bd2dcac8422a29ebd74a7a",
+  "original_bytes_sha256": "1511b082b5c9387e721c6b65cbe84fe9265c365e4f515b2da629797143824a2b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

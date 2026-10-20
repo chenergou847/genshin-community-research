@@ -1,0 +1,25 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T06:39:19.754926+00:00",
+  "source_hash": "7594e1028d95e0d15e0734cd6e7a7be880dddfe9ac540986e81646fe57feec20",
+  "policy": "retain_readable_replies_mark_unknown",
+  "selection_hash": "4a22f96293600f69d116b49a8f01ec6ed751afb072d2615a29a0bd5eb1bec4f1",
+  "baseline_collection_hash": "75becedfbda9cbde26931afe63888740cd63b383ca3e068b36a4651dcb1a0409",
+  "prior_decision_hash": "385f7472de08e73323376469dd5bae0131d8c215bba8ccb2abd2b80e94e29da3",
+  "strict_missing_parent_required": false,
+  "count_paging_provenance_gates_unchanged": true,
+  "human_reply": "同意，保留不明并继续比例估计（建议）",
+  "source": "direct_user_reply_in_current_chat",
+  "confirmed_question": "是否同意把“缺失父正文就停止抽样”改为“可读子回复照常进入抽样清单，抽中后语境不足则标记不明”，继续估计可读评论的反馈比例？",
+  "registration_timing": "after_gap_inspection_before_comment_frame_codebook_and_second_stage_draw",
+  "rules": {
+    "keep_all_readable_children": true,
+    "invent_parent_text": false,
+    "replace_unknown_sample": false,
+    "replace_sources": false,
+    "deletion_is_confirmed": false,
+    "report_weighted_unknown_and_bounds": true,
+    "distinguish_unknown_relevance_from_unknown_theme": true,
+    "precision_target_unchanged": 0.1
+  }
+}

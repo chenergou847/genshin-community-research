@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320854100304",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:12:53.205939+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320854311680,
+          "rpid_str": "320854311680",
+          "root": 320854100304,
+          "root_str": "320854100304",
+          "parent": 320854100304,
+          "parent_str": "320854100304",
+          "ctime": 1792123967,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8dca2576f5c276e099f7c1b7",
+          "content": {
+            "message": "居然没喷死你"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320854100304,
+        "rpid_str": "320854100304",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792123881,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_dd67f265b66ab88cbef7362a",
+        "content": {
+          "message": "忘记看怪了，结果拿月感电打到12-3都懵逼了，不过还好还是打过了，不用重开"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "195306cb8bf837492dc340f4888f5347271b4fbcc277c6973442ce2ec625ab5c",
+  "original_bytes_sha256": "869a782536612695b17311b948366d008c2c145999da71a9684d900eec6b05b1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,253 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315753860945",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:57:22.584537+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315759254545,
+          "rpid_str": "315759254545",
+          "root": 315753860945,
+          "root_str": "315753860945",
+          "parent": 315753860945,
+          "parent_str": "315753860945",
+          "dialog": 315759254545,
+          "ctime": 1790927622,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_391a3dd7c840eef8aba81005",
+          "content": {
+            "message": "前面吃了不少苦吧[墨镜]",
+            "emote": {
+              "[墨镜]": {
+                "id": 1953,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[墨镜]",
+                "url": "https://i0.hdslb.com/bfs/emote/3a03aebfc06339d86a68c2d893303b46f4b85771.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "墨镜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315760287697,
+          "rpid_str": "315760287697",
+          "root": 315753860945,
+          "root_str": "315753860945",
+          "parent": 315759254545,
+          "parent_str": "315759254545",
+          "dialog": 315759254545,
+          "ctime": 1790928331,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_506a39a66aeb71d9dace3a27",
+          "content": {
+            "message": "回复 @棋士小草莓Lambily :那倒没有，前面用散龙，中间梦奥+借了木偶，最后丝柯克一套收尾[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319391212752,
+          "rpid_str": "319391212752",
+          "root": 315753860945,
+          "root_str": "315753860945",
+          "parent": 315753860945,
+          "parent_str": "315753860945",
+          "dialog": 319391212752,
+          "ctime": 1790960373,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b2675a06e528bbeb07a9a055",
+          "content": {
+            "message": "哈哈我也是，凑了这套打最后"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319391237184,
+          "rpid_str": "319391237184",
+          "root": 315753860945,
+          "root_str": "315753860945",
+          "parent": 315759254545,
+          "parent_str": "315759254545",
+          "dialog": 315759254545,
+          "ctime": 1790960423,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b2675a06e528bbeb07a9a055",
+          "content": {
+            "message": "回复 @棋士小草莓Lambily :现在剧诗好像变简单了，也可能是养的角色多了，我唯一凹的是第二间烂散兵，但是也就是凹了三把，后面都是一路平推拿满的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315846419249,
+          "rpid_str": "315846419249",
+          "root": 315753860945,
+          "root_str": "315753860945",
+          "parent": 319391237184,
+          "parent_str": "319391237184",
+          "dialog": 315759254545,
+          "ctime": 1790996420,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a512d0572b66309765850bac",
+          "content": {
+            "message": "回复 @勾卡误我 :养的越多，幻境诗越简单。只要官方控制这个强度，以后只会越来越好打[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315753860945,
+        "rpid_str": "315753860945",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790924134,
+        "like": 9,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_506a39a66aeb71d9dace3a27",
+        "content": {
+          "message": "胜负已分",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/efcedef81f192c14fd08ebe8c93c9121522957258.png",
+              "img_width": 1910,
+              "img_height": 1078,
+              "img_size": 1193.94
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fce6e1a2e2560a6796cd0b7fe7738bccb61c5ff511c9a6611e08d14a0df5b065",
+  "original_bytes_sha256": "6a1c42e6fb67cc8ed1774afa791759ffb96b21cb77829c54ce3e0517dee13aa5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316038883377",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:36:11.445316+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319630939120,
+          "rpid_str": "319630939120",
+          "root": 316038883377,
+          "root_str": "316038883377",
+          "parent": 316038883377,
+          "parent_str": "316038883377",
+          "dialog": 319630939120,
+          "ctime": 1791129102,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_eb6df09809b1f3b3a0358aa4",
+          "content": {
+            "message": "可以试试，歪了就等，不歪就赚，后面攒的抽个冰神还是没问题的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316062223553,
+          "rpid_str": "316062223553",
+          "root": 316038883377,
+          "root_str": "316038883377",
+          "parent": 316038883377,
+          "parent_str": "316038883377",
+          "dialog": 316062223553,
+          "ctime": 1791149427,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f195222bb0343eec8c92e204",
+          "content": {
+            "message": "其实没必要，低金薇斯纳强度不算高，而他的武器挺泛用的，可以给别人用"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316038883377,
+        "rpid_str": "316038883377",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791125157,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_e237526084d919360c6ee0ff",
+        "content": {
+          "message": "这次本来只抽武器池，出了双蛋黄，要把薇斯娜也抽出来吗。还是等后面冰神。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3b00c90597409593b80de02738ed50cdaf4624b133e19e198cc24367e6f88cf5",
+  "original_bytes_sha256": "c335a84dc33b5816b97f36608a95887f629ceb9010957ca0b6853f0632c805f4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,436 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315834247505",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:02.493308+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 9
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319410382688,
+          "rpid_str": "319410382688",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315834247505,
+          "parent_str": "315834247505",
+          "dialog": 319410382688,
+          "ctime": 1790988957,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4d9d2c23f3b99732696780bf",
+          "content": {
+            "message": "[笑]试用的前五关就用掉了",
+            "emote": {
+              "[笑]": {
+                "id": 1958,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/81edf17314cea3b48674312b4364df44d5c01f17.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319414278592,
+          "rpid_str": "319414278592",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315834247505,
+          "parent_str": "315834247505",
+          "dialog": 319414278592,
+          "ctime": 1790991844,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c3d2312aaf9e41125ca137b3",
+          "content": {
+            "message": "我的也是用来刷小怪，因为我的试用龙王打不过 boss[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315841554833,
+          "rpid_str": "315841554833",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315834247505,
+          "parent_str": "315834247505",
+          "dialog": 315841554833,
+          "ctime": 1790993263,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6bab3f529fa4cc9cce252cf1",
+          "content": {
+            "message": "试用龙打不过boos[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315842357969,
+          "rpid_str": "315842357969",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315841554833,
+          "parent_str": "315841554833",
+          "dialog": 315841554833,
+          "ctime": 1790993770,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7c752b15f26fba7388fce7ea",
+          "content": {
+            "message": "回复 @雪傀儡翎栖泗 :我6命的[大笑]",
+            "emote": {
+              "[大笑]": {
+                "id": 12,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/ca94ad1c7e6dac895eb5b33b7836b634c614d1c0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319424974352,
+          "rpid_str": "319424974352",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315841554833,
+          "parent_str": "315841554833",
+          "dialog": 315841554833,
+          "ctime": 1790998372,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_14985c8b674d1ded5d79b436",
+          "content": {
+            "message": "回复 @雪傀儡翎栖泗 :试用二三关就用掉了，还搭上我一个爱可菲[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315914294273,
+          "rpid_str": "315914294273",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315834247505,
+          "parent_str": "315834247505",
+          "dialog": 315914294273,
+          "ctime": 1791035017,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7935f84a27ebdcb8cc4fdd27",
+          "content": {
+            "message": "这期要外借一个强力C，我借到了一个6命恰 直接把两个月谕打了，但我到最后都没抽到木偶[笑哭]，直接少女机娘+爱可菲+砂糖打的",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319495188272,
+          "rpid_str": "319495188272",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315914294273,
+          "parent_str": "315914294273",
+          "dialog": 315914294273,
+          "ctime": 1791036362,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8efbf0ce51f7aa9b86da4dfc",
+          "content": {
+            "message": "回复 @ST0oq :一样两个月谕6恰站中间打两边[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315920517441,
+          "rpid_str": "315920517441",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315914294273,
+          "parent_str": "315914294273",
+          "dialog": 315914294273,
+          "ctime": 1791038292,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7c752b15f26fba7388fce7ea",
+          "content": {
+            "message": "回复 @ST0oq :我也是借了个大佬的恰斯卡"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316062598657,
+          "rpid_str": "316062598657",
+          "root": 315834247505,
+          "root_str": "315834247505",
+          "parent": 315914294273,
+          "parent_str": "315914294273",
+          "dialog": 315914294273,
+          "ctime": 1791150805,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_653158fdd8cb1f8568a6e7f2",
+          "content": {
+            "message": "回复 @ST0oq :少机还是太权威了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315834247505,
+        "rpid_str": "315834247505",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790987315,
+        "like": 2,
+        "rcount": 9,
+        "count": 10,
+        "state": 0,
+        "author_id": "U_7c752b15f26fba7388fce7ea",
+        "content": {
+          "message": "我的龙王和宝一样留着打BOSS，你拿来刷小怪，这就是差距吗[委屈]",
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "08f70fff92e6f80efdce6586647e861c0ef377fe326d1b9a5edfa7618edfd461",
+  "original_bytes_sha256": "8256d44d5b0f8797f8ad55675261f4d3bf677dfb89570157dd1b9c2b9ed46f7f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

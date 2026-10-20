@@ -1,0 +1,113 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117454034503336",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-18T14:38:41.828056+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 2,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317423192705,
+          "rpid_str": "317423192705",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792298601,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_ad7d3a222da23199d14e8ea1",
+          "content": {
+            "message": "无沃是不是打不了"
+          },
+          "replies": [
+            {
+              "rpid": 321094829248,
+              "rpid_str": "321094829248",
+              "root": 317423192705,
+              "root_str": "317423192705",
+              "parent": 317423192705,
+              "parent_str": "317423192705",
+              "dialog": 321094829248,
+              "ctime": 1792303255,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_36112d0e4671e9fff57915b7",
+              "content": {
+                "message": "61丝起步"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "add90f283e6033dfd01fbdaf1c8f202317190ea995d27ba9198bad9cf83aa5c1",
+  "original_bytes_sha256": "3b275eff523dd03a9c0b5791404c8787e5994114f4e1d279516a1bd7b83ea757",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315392170193",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:33:27.348888+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315392170193,
+        "rpid_str": "315392170193",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790633814,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_07b4fcb982fa848321618d68",
+        "content": {
+          "message": "这次n5有点难了QAQ",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7e5cdf445f0a392ada7829cbc46e706d1281355382.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1512.79
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "679dbb76a4e17076e29a544537e75824d3861b0c051384c60f9aa0526a9b1920",
+  "original_bytes_sha256": "5c662150fa45b01e1599b8a32448e12df494ddaeb09f5f9460ae7415d450efb6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

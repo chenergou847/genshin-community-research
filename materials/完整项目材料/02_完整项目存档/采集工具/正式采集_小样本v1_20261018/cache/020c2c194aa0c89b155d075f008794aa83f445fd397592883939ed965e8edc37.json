@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315806057089",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:08:42.279836+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315956893153,
+          "rpid_str": "315956893153",
+          "root": 315806057089,
+          "root_str": "315806057089",
+          "parent": 315806057089,
+          "parent_str": "315806057089",
+          "dialog": 315956893153,
+          "ctime": 1791079352,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_25172241907882348a5682d2",
+          "content": {
+            "message": "无可替代不是百分百，但是辅助不能分身是绝对真理。你是对的哥么"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319569654880,
+          "rpid_str": "319569654880",
+          "root": 315806057089,
+          "root_str": "315806057089",
+          "parent": 315806057089,
+          "parent_str": "315806057089",
+          "dialog": 319569654880,
+          "ctime": 1791096680,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fa0a867f2b34c414c0efa8d4",
+          "content": {
+            "message": "61倒是没必要，这角色20性价比最高，再往上就是氪佬玩具了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316025680913,
+          "rpid_str": "316025680913",
+          "root": 315806057089,
+          "root_str": "315806057089",
+          "parent": 319569654880,
+          "parent_str": "319569654880",
+          "dialog": 319569654880,
+          "ctime": 1791118394,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_81b642b46e26a19a0a46b59c",
+          "content": {
+            "message": "回复 @昧然然然然然然 :[笑哭]还好。我本来也准备在这个版本下35金。",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315806057089,
+        "rpid_str": "315806057089",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790952679,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_81b642b46e26a19a0a46b59c",
+        "content": {
+          "message": "[OK]回坑是月神最后一天。看了几个开门up介绍我就知道奥黛塔肯定要抽。所以直接61拿下。无论冰神怎么设计奥黛塔这种设计在星体系就是无可替代。\n并且我缺队伍。大不了冰神一队奥黛塔一队走两个星体系。\n现在是61薇加21沃一队\n奥带冰主一队。\n如果冰神带女仆能自成一队。\n那7.3我的队伍就组好了。\n薇奥一队一路（30-40s）\n冰神女仆一路 （50-60s）\n2薇带6芙6夜6神子走一路（90s）",
+          "emote": {
+            "[OK]": {
+              "id": 1950,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[OK]",
+              "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "OK"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "62bff7fee6c5496e8ec44a81c9a96ae0384cad7fd2082c96b107ce62616ad7e2",
+  "original_bytes_sha256": "4e386d03b3d555ef46a3914e5e9bf28118b49333926ef55163a47553fffb853f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

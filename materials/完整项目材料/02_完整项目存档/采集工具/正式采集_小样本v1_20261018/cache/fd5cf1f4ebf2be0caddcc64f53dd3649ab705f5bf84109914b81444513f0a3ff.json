@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318987181920",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:28:19.042256+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318987181920,
+        "rpid_str": "318987181920",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790667205,
+        "like": 0,
+        "rcount": 4,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_f2e322a0527816eb9b1d60c2",
+        "content": {
+          "message": "up我这个能打N5吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b7848345e389d5bea3fceef71d6de4ae3546935088646704.jpg",
+              "img_width": 1080,
+              "img_height": 10502,
+              "img_size": 1259.58
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f365b5d6721404bbbf5f70b34f06c7cc49dd84935fdc36c3487db081789e5cdb",
+  "original_bytes_sha256": "9520bb16f13861fc31d64f25e567179f781405b6955289f4b744300166c7aeb0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

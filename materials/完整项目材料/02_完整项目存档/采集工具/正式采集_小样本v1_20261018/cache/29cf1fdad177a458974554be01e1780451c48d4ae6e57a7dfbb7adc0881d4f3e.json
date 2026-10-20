@@ -1,0 +1,204 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319076995200",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:14:49.773004+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315521152401,
+          "rpid_str": "315521152401",
+          "root": 319076995200,
+          "root_str": "319076995200",
+          "parent": 319076995200,
+          "parent_str": "319076995200",
+          "dialog": 315521152401,
+          "ctime": 1790747749,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b4a70510b95e078eb9725f14",
+          "content": {
+            "message": "n6要开始膨胀了，made in heaven[星星眼]，米娜桑扣你急哇，贡献不足就是没有贡献[笑哭]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319600590752,
+          "rpid_str": "319600590752",
+          "root": 319076995200,
+          "root_str": "319076995200",
+          "parent": 319076995200,
+          "parent_str": "319076995200",
+          "dialog": 319600590752,
+          "ctime": 1791113786,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9c93c550a9ec368313be2fb9",
+          "content": {
+            "message": "感觉随便打啊[妙啊] 为什么第一间打不过 打不掉小动物吗",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319076995200,
+        "rpid_str": "319076995200",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790743444,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b7e8ab3157fc72ff0febfc45",
+        "content": {
+          "message": "救命，这n6老头好难啊，差的有点多[委屈]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3e18b884a2474830e59f006343ad6290400984025.png",
+              "img_width": 1919,
+              "img_height": 1051,
+              "img_size": 1637.28
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a6c4f4cbac9b3890b669bbb314f91aad400984025.png",
+              "img_width": 1919,
+              "img_height": 1053,
+              "img_size": 1085.02
+            }
+          ],
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "442e200a1e4c3e2fe1abde5e499ea4dfbb1c90ecb97d9e2fe989764ad59d9adf",
+  "original_bytes_sha256": "82ba6ae2b8c969c5a490a9009ea6637821e3faa170e4b0c9bcceebec602766b7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

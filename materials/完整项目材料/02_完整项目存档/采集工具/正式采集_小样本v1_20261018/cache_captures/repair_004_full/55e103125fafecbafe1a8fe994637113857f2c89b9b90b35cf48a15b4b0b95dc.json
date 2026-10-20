@@ -1,0 +1,78 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320878785472",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:39:15.375582+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320878785472,
+        "rpid_str": "320878785472",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792141609,
+        "like": 3,
+        "rcount": 16,
+        "count": 17,
+        "state": 0,
+        "author_id": "U_86af3f2e92819f37c7e65263",
+        "content": {
+          "message": "你的意思是冰傷加成的話那我skk大人又站起來了？[星星眼][星星眼][星星眼][星星眼][星星眼]",
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "b702d146a9132be7b030c2bd5b04f3cdd134a93e5be686d28501a777f24508f7",
+  "original_bytes_sha256": "5fcaa88214e6dd1a7ccdbe470244722e8c38553a3528a1d8c1d7581f1ba2fb97",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

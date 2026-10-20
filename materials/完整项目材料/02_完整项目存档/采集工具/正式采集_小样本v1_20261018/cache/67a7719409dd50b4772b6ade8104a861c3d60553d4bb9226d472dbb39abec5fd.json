@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318807337712",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:47:32.200179+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318815648960,
+          "rpid_str": "318815648960",
+          "root": 318807337712,
+          "root_str": "318807337712",
+          "parent": 318807337712,
+          "parent_str": "318807337712",
+          "dialog": 318815648960,
+          "ctime": 1790514246,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_82a7616fc5807ca96bb87514",
+          "content": {
+            "message": "不知道第三间水深不，如果不深你这随便n6"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318825307296,
+          "rpid_str": "318825307296",
+          "root": 318807337712,
+          "root_str": "318807337712",
+          "parent": 318815648960,
+          "parent_str": "318815648960",
+          "dialog": 318815648960,
+          "ctime": 1790519520,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_499189dc3f98eafdc2ce85d9",
+          "content": {
+            "message": "回复 @阿阿李大仁 :对，主要就是不知道我月感电能不能打冰棺，木偶skk前两间随便打的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315483409521,
+          "rpid_str": "315483409521",
+          "root": 318807337712,
+          "root_str": "318807337712",
+          "parent": 318807337712,
+          "parent_str": "318807337712",
+          "dialog": 315483409521,
+          "ctime": 1790703610,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fd29953c8cd810981340880",
+          "content": {
+            "message": "感觉等大佬科研出月感电冰棺打法，就能过n6了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318807337712,
+        "rpid_str": "318807337712",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790509481,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_499189dc3f98eafdc2ce85d9",
+        "content": {
+          "message": "好像只能n5了，我月感电配置好像不太够",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c31cb5bd7e943c3abb62b577163ca32510064508.png",
+              "img_width": 1170,
+              "img_height": 2532,
+              "img_size": 2524
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4a939a74e5f2fc865f360b9e353d6e88ab193774ebc7d89b7309da440a63e41f",
+  "original_bytes_sha256": "75b9f655797abc8afb0a2ef9b3906d97a4862437e7754e77da251f768f6adb1a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

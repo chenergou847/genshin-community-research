@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "317321839649",
+    "pn": 3,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:52:22.745856+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 3,
+        "size": 20,
+        "count": 35
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317321839649,
+        "rpid_str": "317321839649",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792219141,
+        "like": 16,
+        "rcount": 35,
+        "count": 56,
+        "state": 0,
+        "author_id": "U_ad99ad633e78425ce1ad2f78",
+        "content": {
+          "message": "这个阵容奥黛塔下位冰主，迪奥娜可以换七七，也就是说新手入坑就能凑齐一队比较舒服的队伍。\n鸣朝配队逻辑不一样，如果想要提升四星和老角色的使用率，可以参照原的增强思路，也就是让老角色蹭到新环境。举个例子就比如说老四星机制增加单一效应、震谐、集谐、谐度伤害增幅、单一元素 or 伤害类型减抗、同奏机制（取其中之一即可），这样老四星老五星也能吃上新环境红利，也就不至于深渊边缘化"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "3182c2316cb68628f545c49b6f5e5f5c7480d8bf44cbc41c569f2e6d5bf4b84d",
+  "original_bytes_sha256": "04bfd8a0135ef23b04b4150eda5dc8c3efe3ffe1780773af85329d2b39cee604",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315926302049",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:01:51.123532+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315943647889,
+          "rpid_str": "315943647889",
+          "root": 315926302049,
+          "root_str": "315926302049",
+          "parent": 315926302049,
+          "parent_str": "315926302049",
+          "dialog": 315943647889,
+          "ctime": 1791060391,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e42c20b450ec279eeeebb3b0",
+          "content": {
+            "message": "两队?三队[星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321106432304,
+          "rpid_str": "321106432304",
+          "root": 315926302049,
+          "root_str": "315926302049",
+          "parent": 315926302049,
+          "parent_str": "315926302049",
+          "dialog": 321106432304,
+          "ctime": 1792310698,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_60d4ea0486e0f87042d9dec2",
+          "content": {
+            "message": "我看到了当初的班✌"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315926302049,
+        "rpid_str": "315926302049",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791041529,
+        "like": 16,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_ef26b8b0e4c8bc49fda2f3b8",
+        "content": {
+          "message": "拉完了，急需加强。\n建议把天赋改成:时间管理，奥黛塔可以同时出现在两支队伍中。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "eafb8c57b549eff82e257ca6a9e62230787513e44767409c059ba90e9a907615",
+  "original_bytes_sha256": "d8c68d1b75ae3674f3e260c6a2b70ac2d32ad00b29fd83dc7a511952296c41da",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

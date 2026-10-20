@@ -1,0 +1,79 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "317288005089",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:01:47.813830+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317288005089,
+        "rpid_str": "317288005089",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792196468,
+        "like": 37,
+        "rcount": 4,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_ced443fe43264aaf80500214",
+        "content": {
+          "message": "孩子们十点等着我的好消息[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9f23dd49b384a2ebec3c9210d4a662803690991976450966.jpg",
+              "img_width": 1200,
+              "img_height": 830,
+              "img_size": 537.2
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "e4c021758d2fd738a2a9e828502512635cfed364453b258caf05d56e92a33f34",
+  "original_bytes_sha256": "3329d89d78c3961a30bb312ce16317fde4f272b048512a46c051d45c33cfea61",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

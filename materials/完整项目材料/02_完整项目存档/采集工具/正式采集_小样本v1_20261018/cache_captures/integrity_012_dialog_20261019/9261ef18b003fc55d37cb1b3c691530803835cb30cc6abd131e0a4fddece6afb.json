@@ -1,0 +1,61 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "315094616817",
+    "dialog": "318645583616",
+    "size": 20,
+    "min_floor": 17
+  },
+  "captured_at": "2026-10-19T05:38:39.284452+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 0,
+        "max_floor": 0,
+        "size": 0,
+        "prev": 16,
+        "is_end": true,
+        "pagination_reply": {
+          "prev_offset": "{\"type\":3,\"direction\":2,\"Data\":{\"cursor\":16}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 16
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "f17207cc123004b7fb8c0e76fd813c918f9803e69e7f06dde81a303d57cccf97",
+  "original_bytes_sha256": "358414a0860ad3ab6eefa1e0fee8df57c10cd2ebe621d0884e49c3ffa8b806ee",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

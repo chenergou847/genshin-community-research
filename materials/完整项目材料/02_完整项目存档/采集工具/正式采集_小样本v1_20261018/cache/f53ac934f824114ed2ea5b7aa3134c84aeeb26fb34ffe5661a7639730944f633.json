@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318527247328",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:11:09.244558+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315002301073,
+          "rpid_str": "315002301073",
+          "root": 318527247328,
+          "root_str": "318527247328",
+          "parent": 318527247328,
+          "parent_str": "318527247328",
+          "dialog": 315002301073,
+          "ctime": 1790317943,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间极限可以。第一间二菲二少，第三间2基2尼完全够了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315002413585,
+          "rpid_str": "315002413585",
+          "root": 318527247328,
+          "root_str": "318527247328",
+          "parent": 318527247328,
+          "parent_str": "318527247328",
+          "dialog": 315002413585,
+          "ctime": 1790317964,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318527247328,
+        "rpid_str": "318527247328",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790310801,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_416752a300e5d69829604a4e",
+        "content": {
+          "message": "21 灯 20少 00机 20奥 老头\n01丝 01爱 10芙 10鹤 冰锅\n21基尼奇 20杜 21尼 6 123 \n都有练度 这期能n6吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f3a7170bb621f4cb47a8b7f2e97d175f3c2db5132ead7cc31e17245a1898d4a7",
+  "original_bytes_sha256": "58987365d005655e21f18910ffd57d2ba68e23fd5bda5b88916dab985abe8d89",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

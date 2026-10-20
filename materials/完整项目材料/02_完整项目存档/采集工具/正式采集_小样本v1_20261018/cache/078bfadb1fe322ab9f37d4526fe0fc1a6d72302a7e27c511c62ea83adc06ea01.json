@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319375960560",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:49:14.625717+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319375960560,
+        "rpid_str": "319375960560",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790951556,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_4b3c5e32d4f3c8365bec5f4b",
+        "content": {
+          "message": "这个练度，外加只有6夏，其他两位没满命能过吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7efbb3ee9f316ffc2fd1b3fb7d943862168181129.jpg",
+              "img_width": 1080,
+              "img_height": 2338,
+              "img_size": 1118.01
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "885d27c61c221b9b140c0dd55201d5dd92904283bbffa0d829362d00aabaed6e",
+  "original_bytes_sha256": "a59d558ae99c6b1b9b41966cc0afdff333bf7aec5320f8582eab9c78a3969bbb",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

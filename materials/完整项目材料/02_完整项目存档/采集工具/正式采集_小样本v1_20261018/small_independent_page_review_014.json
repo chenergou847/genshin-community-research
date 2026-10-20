@@ -1,0 +1,962 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T05:50:09.953705+00:00",
+  "source_hash": "bb7e747797f3945bf9c29fbfc3c37c1d70593d65b88e8e7aeff52f0b708fd9ef",
+  "collection_hash": "75becedfbda9cbde26931afe63888740cd63b383ca3e068b36a4651dcb1a0409",
+  "audit_hash": "60d3a4aeb5094ccb26d8930f239eb43078184215f11baf00a9fcddf73fc24f9e",
+  "page_observations": {
+    "method": "CUA rendered DOM: separately opened each selected Bilibili page and observed the comments heading and displayed counter; no API calls through the browser",
+    "columns": [
+      "bvid",
+      "saved_total",
+      "page_total",
+      "no_more_comments_visible",
+      "observed_at_UTC"
+    ],
+    "first_pass_sources": 53,
+    "loading_source_rechecks": 15,
+    "scope": "Page counters and visible terminal notices, not an independent human recoding or a replay of every UI reply page. Null means the component did not load during the bounded check.",
+    "rows": [
+      [
+        "BV1jjJY6MEwP",
+        0,
+        1,
+        true,
+        "2026-10-19T05:25:01.000Z"
+      ],
+      [
+        "BV14zJv6wEy9",
+        14,
+        37,
+        false,
+        "2026-10-19T05:25:06.107Z"
+      ],
+      [
+        "BV1r6JS6oEAp",
+        36,
+        37,
+        false,
+        "2026-10-19T05:25:09.182Z"
+      ],
+      [
+        "BV1F2JQ6aEsJ",
+        16,
+        18,
+        false,
+        "2026-10-19T05:25:53.154Z"
+      ],
+      [
+        "BV1uTJ86UEej",
+        0,
+        0,
+        true,
+        "2026-10-19T05:26:23.474Z"
+      ],
+      [
+        "BV1CuJq68Ee1",
+        1,
+        1,
+        false,
+        "2026-10-19T05:26:28.129Z"
+      ],
+      [
+        "BV174JD6xEuG",
+        0,
+        0,
+        true,
+        "2026-10-19T05:26:32.579Z"
+      ],
+      [
+        "BV1TxJS6ME8g",
+        6,
+        6,
+        false,
+        "2026-10-19T05:26:38.129Z"
+      ],
+      [
+        "BV1yoJX6CEvn",
+        0,
+        0,
+        true,
+        "2026-10-19T05:26:42.836Z"
+      ],
+      [
+        "BV1UzJv6wEFw",
+        0,
+        0,
+        true,
+        "2026-10-19T05:26:46.832Z"
+      ],
+      [
+        "BV1hfJS6yEQ2",
+        0,
+        0,
+        true,
+        "2026-10-19T05:26:51.339Z"
+      ],
+      [
+        "BV1fkJB6dERS",
+        0,
+        0,
+        true,
+        "2026-10-19T05:27:29.284Z"
+      ],
+      [
+        "BV1ReJ86FECd",
+        2,
+        2,
+        false,
+        "2026-10-19T05:27:33.791Z"
+      ],
+      [
+        "BV1iSJS6DEtJ",
+        0,
+        0,
+        true,
+        "2026-10-19T05:27:37.450Z"
+      ],
+      [
+        "BV1CFJh6GEt6",
+        66,
+        73,
+        false,
+        "2026-10-19T05:27:41.208Z"
+      ],
+      [
+        "BV1pYJ46PEaX",
+        0,
+        0,
+        true,
+        "2026-10-19T05:27:45.721Z"
+      ],
+      [
+        "BV1SrJt62En3",
+        10,
+        10,
+        true,
+        "2026-10-19T05:28:19.972Z"
+      ],
+      [
+        "BV1Q9Ji66Eid",
+        0,
+        0,
+        true,
+        "2026-10-19T05:28:50.325Z"
+      ],
+      [
+        "BV1iGHC6zE1w",
+        0,
+        0,
+        true,
+        "2026-10-19T05:28:53.104Z"
+      ],
+      [
+        "BV19Gpw6HEfN",
+        2,
+        2,
+        false,
+        "2026-10-19T05:28:57.530Z"
+      ],
+      [
+        "BV1dQJ66tEGz",
+        1,
+        1,
+        false,
+        "2026-10-19T05:29:02.231Z"
+      ],
+      [
+        "BV1ScpZ6TEZZ",
+        1,
+        1,
+        false,
+        "2026-10-19T05:38:20.020Z"
+      ],
+      [
+        "BV1DAYA6CEji",
+        1,
+        1,
+        false,
+        "2026-10-19T05:30:58.298Z"
+      ],
+      [
+        "BV1fuYP6tEva",
+        794,
+        806,
+        false,
+        "2026-10-19T05:31:24.908Z"
+      ],
+      [
+        "BV1s7YA6PEW9",
+        0,
+        null,
+        false,
+        "2026-10-19T05:31:29.138Z"
+      ],
+      [
+        "BV1ZgHa63Ezh",
+        0,
+        null,
+        false,
+        "2026-10-19T05:31:33.304Z"
+      ],
+      [
+        "BV1qHao6TEYB",
+        194,
+        194,
+        false,
+        "2026-10-19T05:38:47.413Z"
+      ],
+      [
+        "BV1jGpP6cEaG",
+        0,
+        0,
+        true,
+        "2026-10-19T05:38:52.420Z"
+      ],
+      [
+        "BV1nbak6KEBa",
+        1,
+        null,
+        false,
+        "2026-10-19T05:31:49.619Z"
+      ],
+      [
+        "BV13paD6GENC",
+        0,
+        null,
+        false,
+        "2026-10-19T05:31:54.213Z"
+      ],
+      [
+        "BV1CZa66qEwP",
+        0,
+        null,
+        false,
+        "2026-10-19T05:31:58.611Z"
+      ],
+      [
+        "BV1Kiar6kE4i",
+        0,
+        0,
+        true,
+        "2026-10-19T05:39:36.759Z"
+      ],
+      [
+        "BV168Hd61E3u",
+        0,
+        0,
+        true,
+        "2026-10-19T05:32:45.845Z"
+      ],
+      [
+        "BV1UtYP6LEX5",
+        34,
+        34,
+        false,
+        "2026-10-19T05:32:49.483Z"
+      ],
+      [
+        "BV1g5Hj6WE67",
+        0,
+        0,
+        true,
+        "2026-10-19T05:32:54.318Z"
+      ],
+      [
+        "BV1PFYP6vEME",
+        0,
+        0,
+        true,
+        "2026-10-19T05:33:00.800Z"
+      ],
+      [
+        "BV1ovak6cEwb",
+        2,
+        null,
+        false,
+        "2026-10-19T05:33:15.099Z"
+      ],
+      [
+        "BV1RUaU61Eix",
+        2,
+        2,
+        false,
+        "2026-10-19T05:33:20.159Z"
+      ],
+      [
+        "BV1myaB6BEm8",
+        34,
+        34,
+        false,
+        "2026-10-19T05:33:23.677Z"
+      ],
+      [
+        "BV16caz6oEd9",
+        511,
+        512,
+        false,
+        "2026-10-19T05:33:33.382Z"
+      ],
+      [
+        "BV1Bwpm6dEdc",
+        0,
+        0,
+        true,
+        "2026-10-19T05:33:36.442Z"
+      ],
+      [
+        "BV1ZnHL68EAG",
+        498,
+        502,
+        false,
+        "2026-10-19T05:40:26.898Z"
+      ],
+      [
+        "BV1E9pM6UEuf",
+        0,
+        0,
+        true,
+        "2026-10-19T05:34:23.581Z"
+      ],
+      [
+        "BV1PwHe6xEpg",
+        0,
+        0,
+        true,
+        "2026-10-19T05:34:28.278Z"
+      ],
+      [
+        "BV1LBpz6FEJk",
+        0,
+        0,
+        true,
+        "2026-10-19T05:34:33.158Z"
+      ],
+      [
+        "BV1QGaZ6wEP8",
+        37,
+        null,
+        false,
+        "2026-10-19T05:34:42.009Z"
+      ],
+      [
+        "BV1MXJa6dEuu",
+        2,
+        null,
+        false,
+        "2026-10-19T05:34:51.078Z"
+      ],
+      [
+        "BV1wBJB68EJV",
+        97,
+        null,
+        false,
+        "2026-10-19T05:35:01.923Z"
+      ],
+      [
+        "BV1BTJb6fEak",
+        1,
+        1,
+        false,
+        "2026-10-19T05:36:19.387Z"
+      ],
+      [
+        "BV1EBaZ6VE29",
+        323,
+        323,
+        false,
+        "2026-10-19T05:36:25.805Z"
+      ],
+      [
+        "BV1LhYc62EWa",
+        363,
+        363,
+        false,
+        "2026-10-19T05:36:30.633Z"
+      ],
+      [
+        "BV1d5p76KEZp",
+        0,
+        0,
+        true,
+        "2026-10-19T05:36:35.263Z"
+      ],
+      [
+        "BV14zJv6wEUY",
+        2,
+        2,
+        false,
+        "2026-10-19T05:41:00.894Z"
+      ]
+    ]
+  },
+  "page_followup": {
+    "method": "CUA rendered page follow-up: brought the visible loading notice into view and reread the actual comments heading; no browser API requests",
+    "columns": [
+      "bvid",
+      "saved_total",
+      "page_total",
+      "no_more_comments_visible",
+      "observed_at_UTC"
+    ],
+    "rows": [
+      [
+        "BV1s7YA6PEW9",
+        0,
+        0,
+        true,
+        "2026-10-19T05:44:16.144Z"
+      ],
+      [
+        "BV1ZgHa63Ezh",
+        0,
+        0,
+        true,
+        "2026-10-19T05:44:19.303Z"
+      ],
+      [
+        "BV1nbak6KEBa",
+        1,
+        1,
+        false,
+        "2026-10-19T05:44:22.602Z"
+      ],
+      [
+        "BV13paD6GENC",
+        0,
+        0,
+        true,
+        "2026-10-19T05:48:58.322Z"
+      ],
+      [
+        "BV1CZa66qEwP",
+        0,
+        0,
+        true,
+        "2026-10-19T05:44:50.671Z"
+      ],
+      [
+        "BV1ovak6cEwb",
+        2,
+        2,
+        true,
+        "2026-10-19T05:48:12.074Z"
+      ],
+      [
+        "BV1QGaZ6wEP8",
+        37,
+        37,
+        false,
+        "2026-10-19T05:45:04.800Z"
+      ],
+      [
+        "BV1MXJa6dEuu",
+        2,
+        2,
+        false,
+        "2026-10-19T05:45:08.770Z"
+      ]
+    ],
+    "unavailable_page": {
+      "bvid": "BV1wBJB68EJV",
+      "url": "https://www.bilibili.com/video/BV1wBJB68EJV/",
+      "observed_at_UTC": "2026-10-19T05:47:22.746Z",
+      "visible_message": "啊叻？视频不见了？",
+      "redirect_notice": "3秒后为您自动跳转至首页",
+      "interpretation": "Current page unavailable; cannot distinguish deletion, private visibility or another site-side cause. Original 97 saved IDs and the locked source remain retained."
+    }
+  },
+  "sources": [
+    {
+      "bvid": "BV1jjJY6MEwP",
+      "saved_total": 0,
+      "page_total": 1,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:25:01.000Z",
+      "page_url": "https://www.bilibili.com/video/BV1jjJY6MEwP/",
+      "review_status": "accepted",
+      "reconciliation": "Original empty capture; new comment 321119894896 is 2026-10-18 18:23:06 BJT, after fixed T0. Current complete one-root cursor and UI terminal corroborate zero window IDs. Raw master stays unchanged."
+    },
+    {
+      "bvid": "BV14zJv6wEy9",
+      "saved_total": 14,
+      "page_total": 37,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:25:06.107Z",
+      "page_url": "https://www.bilibili.com/video/BV14zJv6wEy9/",
+      "review_status": "pending_temporal_reconciliation"
+    },
+    {
+      "bvid": "BV1r6JS6oEAp",
+      "saved_total": 36,
+      "page_total": 37,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:25:09.182Z",
+      "page_url": "https://www.bilibili.com/video/BV1r6JS6oEAp/",
+      "review_status": "pending_temporal_reconciliation"
+    },
+    {
+      "bvid": "BV1F2JQ6aEsJ",
+      "saved_total": 16,
+      "page_total": 18,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:25:53.154Z",
+      "page_url": "https://www.bilibili.com/video/BV1F2JQ6aEsJ/",
+      "review_status": "pending_temporal_reconciliation"
+    },
+    {
+      "bvid": "BV1uTJ86UEej",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:26:23.474Z",
+      "page_url": "https://www.bilibili.com/video/BV1uTJ86UEej/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1CuJq68Ee1",
+      "saved_total": 1,
+      "page_total": 1,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:26:28.129Z",
+      "page_url": "https://www.bilibili.com/video/BV1CuJq68Ee1/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV174JD6xEuG",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:26:32.579Z",
+      "page_url": "https://www.bilibili.com/video/BV174JD6xEuG/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1TxJS6ME8g",
+      "saved_total": 6,
+      "page_total": 6,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:26:38.129Z",
+      "page_url": "https://www.bilibili.com/video/BV1TxJS6ME8g/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1yoJX6CEvn",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:26:42.836Z",
+      "page_url": "https://www.bilibili.com/video/BV1yoJX6CEvn/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1UzJv6wEFw",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:26:46.832Z",
+      "page_url": "https://www.bilibili.com/video/BV1UzJv6wEFw/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1hfJS6yEQ2",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:26:51.339Z",
+      "page_url": "https://www.bilibili.com/video/BV1hfJS6yEQ2/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1fkJB6dERS",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:27:29.284Z",
+      "page_url": "https://www.bilibili.com/video/BV1fkJB6dERS/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1ReJ86FECd",
+      "saved_total": 2,
+      "page_total": 2,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:27:33.791Z",
+      "page_url": "https://www.bilibili.com/video/BV1ReJ86FECd/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1iSJS6DEtJ",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:27:37.450Z",
+      "page_url": "https://www.bilibili.com/video/BV1iSJS6DEtJ/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1CFJh6GEt6",
+      "saved_total": 66,
+      "page_total": 73,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:27:41.208Z",
+      "page_url": "https://www.bilibili.com/video/BV1CFJh6GEt6/",
+      "review_status": "pending_temporal_reconciliation"
+    },
+    {
+      "bvid": "BV1pYJ46PEaX",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:27:45.721Z",
+      "page_url": "https://www.bilibili.com/video/BV1pYJ46PEaX/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1SrJt62En3",
+      "saved_total": 10,
+      "page_total": 10,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:28:19.972Z",
+      "page_url": "https://www.bilibili.com/video/BV1SrJt62En3/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1Q9Ji66Eid",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:28:50.325Z",
+      "page_url": "https://www.bilibili.com/video/BV1Q9Ji66Eid/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1iGHC6zE1w",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:28:53.104Z",
+      "page_url": "https://www.bilibili.com/video/BV1iGHC6zE1w/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV19Gpw6HEfN",
+      "saved_total": 2,
+      "page_total": 2,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:28:57.530Z",
+      "page_url": "https://www.bilibili.com/video/BV19Gpw6HEfN/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1dQJ66tEGz",
+      "saved_total": 1,
+      "page_total": 1,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:29:02.231Z",
+      "page_url": "https://www.bilibili.com/video/BV1dQJ66tEGz/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1ScpZ6TEZZ",
+      "saved_total": 1,
+      "page_total": 1,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:38:20.020Z",
+      "page_url": "https://www.bilibili.com/video/BV1ScpZ6TEZZ/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1DAYA6CEji",
+      "saved_total": 1,
+      "page_total": 1,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:30:58.298Z",
+      "page_url": "https://www.bilibili.com/video/BV1DAYA6CEji/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1fuYP6tEva",
+      "saved_total": 794,
+      "page_total": 806,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:31:24.908Z",
+      "page_url": "https://www.bilibili.com/video/BV1fuYP6tEva/",
+      "review_status": "pending_temporal_reconciliation"
+    },
+    {
+      "bvid": "BV1s7YA6PEW9",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:44:16.144Z",
+      "page_url": "https://www.bilibili.com/video/BV1s7YA6PEW9/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1ZgHa63Ezh",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:44:19.303Z",
+      "page_url": "https://www.bilibili.com/video/BV1ZgHa63Ezh/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1qHao6TEYB",
+      "saved_total": 194,
+      "page_total": 194,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:38:47.413Z",
+      "page_url": "https://www.bilibili.com/video/BV1qHao6TEYB/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1jGpP6cEaG",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:38:52.420Z",
+      "page_url": "https://www.bilibili.com/video/BV1jGpP6cEaG/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1nbak6KEBa",
+      "saved_total": 1,
+      "page_total": 1,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:44:22.602Z",
+      "page_url": "https://www.bilibili.com/video/BV1nbak6KEBa/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV13paD6GENC",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:48:58.322Z",
+      "page_url": "https://www.bilibili.com/video/BV13paD6GENC/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1CZa66qEwP",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:44:50.671Z",
+      "page_url": "https://www.bilibili.com/video/BV1CZa66qEwP/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1Kiar6kE4i",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:39:36.759Z",
+      "page_url": "https://www.bilibili.com/video/BV1Kiar6kE4i/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV168Hd61E3u",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:32:45.845Z",
+      "page_url": "https://www.bilibili.com/video/BV168Hd61E3u/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1UtYP6LEX5",
+      "saved_total": 34,
+      "page_total": 34,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:32:49.483Z",
+      "page_url": "https://www.bilibili.com/video/BV1UtYP6LEX5/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1g5Hj6WE67",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:32:54.318Z",
+      "page_url": "https://www.bilibili.com/video/BV1g5Hj6WE67/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1PFYP6vEME",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:33:00.800Z",
+      "page_url": "https://www.bilibili.com/video/BV1PFYP6vEME/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1ovak6cEwb",
+      "saved_total": 2,
+      "page_total": 2,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:48:12.074Z",
+      "page_url": "https://www.bilibili.com/video/BV1ovak6cEwb/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1RUaU61Eix",
+      "saved_total": 2,
+      "page_total": 2,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:33:20.159Z",
+      "page_url": "https://www.bilibili.com/video/BV1RUaU61Eix/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1myaB6BEm8",
+      "saved_total": 34,
+      "page_total": 34,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:33:23.677Z",
+      "page_url": "https://www.bilibili.com/video/BV1myaB6BEm8/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV16caz6oEd9",
+      "saved_total": 511,
+      "page_total": 512,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:33:33.382Z",
+      "page_url": "https://www.bilibili.com/video/BV16caz6oEd9/",
+      "review_status": "pending_temporal_reconciliation"
+    },
+    {
+      "bvid": "BV1Bwpm6dEdc",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:33:36.442Z",
+      "page_url": "https://www.bilibili.com/video/BV1Bwpm6dEdc/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1ZnHL68EAG",
+      "saved_total": 498,
+      "page_total": 502,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:40:26.898Z",
+      "page_url": "https://www.bilibili.com/video/BV1ZnHL68EAG/",
+      "review_status": "pending_temporal_reconciliation"
+    },
+    {
+      "bvid": "BV1E9pM6UEuf",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:34:23.581Z",
+      "page_url": "https://www.bilibili.com/video/BV1E9pM6UEuf/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1PwHe6xEpg",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:34:28.278Z",
+      "page_url": "https://www.bilibili.com/video/BV1PwHe6xEpg/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1LBpz6FEJk",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:34:33.158Z",
+      "page_url": "https://www.bilibili.com/video/BV1LBpz6FEJk/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1QGaZ6wEP8",
+      "saved_total": 37,
+      "page_total": 37,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:45:04.800Z",
+      "page_url": "https://www.bilibili.com/video/BV1QGaZ6wEP8/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1MXJa6dEuu",
+      "saved_total": 2,
+      "page_total": 2,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:45:08.770Z",
+      "page_url": "https://www.bilibili.com/video/BV1MXJa6dEuu/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1wBJB68EJV",
+      "saved_total": 97,
+      "page_total": null,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:35:01.923Z",
+      "page_url": "https://www.bilibili.com/video/BV1wBJB68EJV/",
+      "review_status": "pending_page_unavailable"
+    },
+    {
+      "bvid": "BV1BTJb6fEak",
+      "saved_total": 1,
+      "page_total": 1,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:36:19.387Z",
+      "page_url": "https://www.bilibili.com/video/BV1BTJb6fEak/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1EBaZ6VE29",
+      "saved_total": 323,
+      "page_total": 323,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:36:25.805Z",
+      "page_url": "https://www.bilibili.com/video/BV1EBaZ6VE29/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1LhYc62EWa",
+      "saved_total": 363,
+      "page_total": 363,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:36:30.633Z",
+      "page_url": "https://www.bilibili.com/video/BV1LhYc62EWa/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV1d5p76KEZp",
+      "saved_total": 0,
+      "page_total": 0,
+      "no_more_comments_visible": true,
+      "observed_at_UTC": "2026-10-19T05:36:35.263Z",
+      "page_url": "https://www.bilibili.com/video/BV1d5p76KEZp/",
+      "review_status": "accepted"
+    },
+    {
+      "bvid": "BV14zJv6wEUY",
+      "saved_total": 2,
+      "page_total": 2,
+      "no_more_comments_visible": false,
+      "observed_at_UTC": "2026-10-19T05:41:00.894Z",
+      "page_url": "https://www.bilibili.com/video/BV14zJv6wEUY/",
+      "review_status": "accepted"
+    }
+  ],
+  "summary": {
+    "sources": 53,
+    "page_counters_observed": 52,
+    "displayed_total_equal_saved": 44,
+    "post_T0_zero_change_reconciled": 1,
+    "accepted": 45,
+    "pending_temporal_reconciliation": 7,
+    "pending_page_unavailable": 1,
+    "existing_integrity_holds": 7,
+    "formal_comment_sample_generated": false
+  },
+  "reviewer_kind": "AI independent cached-response audit plus separately rendered page-counter review; not an independent human coding review",
+  "scope": "Verifies original captured inventory using complete cached page/ancestor audit and separate rendered counters. UI reply pages were not all re-enumerated. Current count drift is not accepted without reconciliation."
+}

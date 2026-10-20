@@ -1,0 +1,88 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317223882385",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:39:38.997767+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317223882385,
+        "rpid_str": "317223882385",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792140452,
+        "like": 7,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_ab87e37434d1761b38983ee0",
+        "content": {
+          "message": "这期绫华简简单单[嘟嘟]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/358d8508de7f4f826ff32958407699c7514919262.jpg",
+              "img_width": 1080,
+              "img_height": 2376,
+              "img_size": 1135.71,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[嘟嘟]": {
+              "id": 3303,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[嘟嘟]",
+              "url": "https://i0.hdslb.com/bfs/emote/abd7404537d8162720ccbba9e0a8cdf75547e07a.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "嘟嘟"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "108aabb5865bb40fa3236c1b48d06171dd2bd680a416156b0523931b2de9bc66",
+  "original_bytes_sha256": "f651f5d5660092b551d47601dcd5fadec85a15ad108d2bd025b4aa24186ac9a4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

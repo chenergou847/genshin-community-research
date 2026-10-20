@@ -1,0 +1,83 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317191953217",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:45:14.949348+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317192751457,
+          "rpid_str": "317192751457",
+          "root": 317191953217,
+          "root_str": "317191953217",
+          "parent": 317191953217,
+          "parent_str": "317191953217",
+          "ctime": 1792117088,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5fa15a70753423da1ae2f3c2",
+          "content": {
+            "message": "没那么弱，两间超过一分半算炸单"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317191953217,
+        "rpid_str": "317191953217",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792116406,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_cc669d06dc4b15c49199589f",
+        "content": {
+          "message": "木偶+skk，一间超过一分半算炸单"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "15afd4f287cc1c1718028f811d0a6ce6327b6c1a380c6199a00551f409c46783",
+  "original_bytes_sha256": "f7b0c43b2bc0fdd54286ef77e67107710ba11c4e999d5417e8912142f8f3542d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

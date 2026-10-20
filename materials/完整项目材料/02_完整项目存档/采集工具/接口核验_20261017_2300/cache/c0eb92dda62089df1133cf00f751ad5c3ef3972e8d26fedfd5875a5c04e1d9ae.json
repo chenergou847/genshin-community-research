@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447474547463",
+    "root": "320974322704",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-17T15:05:09.604893+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317325243137,
+          "rpid_str": "317325243137",
+          "root": 320974322704,
+          "root_str": "320974322704",
+          "parent": 320974322704,
+          "parent_str": "320974322704",
+          "ctime": 1792221440,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fe53ef9db0ac6c040f8ada82",
+          "content": {
+            "message": "可以，上半打月幻蝶要带个奶冰主奥黛塔神子七七可以"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320974322704,
+        "rpid_str": "320974322704",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792215319,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_d69879c8b1070e7ddcb6df07",
+        "content": {
+          "message": "阿罗夏换神子能打吗"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "2cbb1c768f3292e11ff5fbbf1885acb99b895eb10b18f530044e69396f7a3cfe",
+  "original_bytes_sha256": "6d7fd0e5504be0da0b05ada51d0dae184aae17b03c7e967cd7bc824c2e74faf1",
+  "author_key_id": "8c23bcfed5ae30867b344493dd2308dca225917cb9e451b91f6e2b592fe91e67",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "317028779777",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:42:08.649219+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320677843104,
+          "rpid_str": "320677843104",
+          "root": 317028779777,
+          "root_str": "317028779777",
+          "parent": 317028779777,
+          "parent_str": "317028779777",
+          "dialog": 320677843104,
+          "ctime": 1791969013,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "能过，还有钢叉是什么武器"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317051234609,
+          "rpid_str": "317051234609",
+          "root": 317028779777,
+          "root_str": "317028779777",
+          "parent": 320677843104,
+          "parent_str": "320677843104",
+          "dialog": 320677843104,
+          "ctime": 1791979971,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_09a56337c8675975334d8653",
+          "content": {
+            "message": "回复 @夜星Wetchin :爱可菲专武"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317028779777,
+        "rpid_str": "317028779777",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791964927,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_09a56337c8675975334d8653",
+        "content": {
+          "message": "主播，这个面板，6伊3欧钢叉6夏能过吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/70c9ad4228b0b34fc64ea67ed6742ca71566542279.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1723.95
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "03e5cd176246cc0a89a12e20ab62653ba69b87047f8796c3ee8a181cbef18d36",
+  "original_bytes_sha256": "0d6e7c1bed7d3052ecab957d3230f3bd495d913b9ec421296beb3bd9c97b0d7f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

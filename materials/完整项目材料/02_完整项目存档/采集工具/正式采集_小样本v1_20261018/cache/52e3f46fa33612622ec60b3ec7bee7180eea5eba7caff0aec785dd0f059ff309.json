@@ -1,0 +1,173 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319419945616",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:06:05.068114+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319442921872,
+          "rpid_str": "319442921872",
+          "root": 319419945616,
+          "root_str": "319419945616",
+          "parent": 319419945616,
+          "parent_str": "319419945616",
+          "dialog": 319442921872,
+          "ctime": 1791007931,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6735b2e3e61a1b0469bdf01e",
+          "content": {
+            "message": "奥黛塔单人好像要满命还是四命才行啊，不然队友吃不到华彩[妙啊]",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319447041200,
+          "rpid_str": "319447041200",
+          "root": 319419945616,
+          "root_str": "319419945616",
+          "parent": 319419945616,
+          "parent_str": "319419945616",
+          "dialog": 319447041200,
+          "ctime": 1791010412,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6c1da5785664dcce13b9b3e2",
+          "content": {
+            "message": "只是需要破机制[OK]",
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319419945616,
+        "rpid_str": "319419945616",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790995519,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_6c1da5785664dcce13b9b3e2",
+        "content": {
+          "message": "四个人一起打n4，只有我抽了奥黛塔和沃雅尼莎[笑哭][笑哭][笑哭]消息轰炸我上号",
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d054ee6069f4d8d9a6a9f21f1298989958bcf71278b69712d3247adf901659c0",
+  "original_bytes_sha256": "a186a976d21df6d0f84a0e06c86b8ff40ab3052c13d37656241ac4d8f4cb0708",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319416532592",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:06:42.179749+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319418904528,
+          "rpid_str": "319418904528",
+          "root": 319416532592,
+          "root_str": "319416532592",
+          "parent": 319416532592,
+          "parent_str": "319416532592",
+          "dialog": 319418904528,
+          "ctime": 1790994857,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_60991ab80687f178be608442",
+          "content": {
+            "message": "兄弟，你这个在哪看的？是在微信小程序吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319419688624,
+          "rpid_str": "319419688624",
+          "root": 319416532592,
+          "root_str": "319416532592",
+          "parent": 319418904528,
+          "parent_str": "319418904528",
+          "dialog": 319418904528,
+          "ctime": 1790995349,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0cf4473590dcbe2e0f688ee3",
+          "content": {
+            "message": "回复 @独孤夕静雪 :对的对的，微信小程序 提瓦特小助手"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319416532592,
+        "rpid_str": "319416532592",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790993389,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_0cf4473590dcbe2e0f688ee3",
+        "content": {
+          "message": "星超导里一脚160万+是真的爽[doge_金箍]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2ee6d12b1f7cabcea9e5f70dde3fcd371057383925.jpg",
+              "img_width": 1280,
+              "img_height": 2800,
+              "img_size": 1457.41
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "124808a0f10f97c8250ac96937826df83ee4ec55652cb13495afaae4599815c0",
+  "original_bytes_sha256": "0fcdb230d5ab425bcb103f7d6ea2846e7bc785c50b18064751bb419321af380c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

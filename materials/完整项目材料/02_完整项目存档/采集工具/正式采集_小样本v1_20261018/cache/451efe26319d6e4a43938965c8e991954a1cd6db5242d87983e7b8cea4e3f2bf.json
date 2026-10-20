@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319446884368",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:04:21.682001+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 15
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319446884368,
+        "rpid_str": "319446884368",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791010276,
+        "like": 63,
+        "rcount": 15,
+        "count": 16,
+        "state": 0,
+        "author_id": "U_7e5dd831affc1e67444b3a06",
+        "content": {
+          "message": "强度在线，建模颜值剧情也在线，鹅宝还有缺点吗[喜欢]",
+          "emote": {
+            "[喜欢]": {
+              "id": 3,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[喜欢]",
+              "url": "https://i0.hdslb.com/bfs/emote/8a10a4d73a89f665feff3d46ca56e83dc68f9eb8.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "喜欢"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e942fd37112bba1666c9f61c2d974a20227afefcc96cea44e7dbb68428980e18",
+  "original_bytes_sha256": "cfaae16c00539b13bd277777170996d5b8b68258d71ebf9b888af012eac397b3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "315895458257",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:54:21.161635+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315984150529,
+          "rpid_str": "315984150529",
+          "root": 315895458257,
+          "root_str": "315895458257",
+          "parent": 315895458257,
+          "parent_str": "315895458257",
+          "dialog": 315984150529,
+          "ctime": 1791095147,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fa6965f0021d2fdaa2f61f7b",
+          "content": {
+            "message": "有没有一种可能星月神像不连接地脉呢？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316002713873,
+          "rpid_str": "316002713873",
+          "root": 315895458257,
+          "root_str": "315895458257",
+          "parent": 315984150529,
+          "parent_str": "315984150529",
+          "dialog": 315984150529,
+          "ctime": 1791106663,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a61f90a26892b4dde89ee3dd",
+          "content": {
+            "message": "回复 @没有名_那维莱特 :那火主不照样送，不给月主单纯就是不想给"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316178881697,
+          "rpid_str": "316178881697",
+          "root": 315895458257,
+          "root_str": "315895458257",
+          "parent": 316002713873,
+          "parent_str": "316002713873",
+          "dialog": 315984150529,
+          "ctime": 1791236363,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c8b07bab5a69df2e02e6bb56",
+          "content": {
+            "message": "回复 @违规封禁中 :去看看解说和游戏文本吧孩子，原因很明确的就是因为月神像不连接地脉，七天神像靠近甚至能听到大慈树王的“遗忘我”"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315895458257,
+        "rpid_str": "315895458257",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791024938,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_a61f90a26892b4dde89ee3dd",
+        "content": {
+          "message": "这下知道为什么不给月主了吧[妙啊]",
+          "emote": {
+            "[妙啊]": {
+              "id": 435,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[妙啊]",
+              "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "妙啊"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0efca3f9455293c905848f0b7ff869f49099470599e13d2865997c4e59cd2195",
+  "original_bytes_sha256": "cb12a58f4573ba467712057ca6fbe5670d5c81e5f79ad7f54b4220aa2e7555f6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,128 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315923981105",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:02:17.281954+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319517141760,
+          "rpid_str": "319517141760",
+          "root": 315923981105,
+          "root_str": "315923981105",
+          "parent": 315923981105,
+          "parent_str": "315923981105",
+          "dialog": 319517141760,
+          "ctime": 1791049901,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9c04dbcc20eb1520842fdda7",
+          "content": {
+            "message": "[鸣潮·致予新世界静态表情包_打call！]俺也一样",
+            "emote": {
+              "[鸣潮·致予新世界静态表情包_打call！]": {
+                "id": 145250,
+                "package_id": 10194,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[鸣潮·致予新世界静态表情包_打call！]",
+                "url": "https://i0.hdslb.com/bfs/garb/7b2a70e88a02d313ab4d2ac9128de30a7c29308b.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1786507201,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=113956&hybrid_set_header=2&anchor_task=1&lottery_id=113957&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22113987%22%2C%22sub_id%22%3A%22%5B%E9%B8%A3%E6%BD%AE%C2%B7%E8%87%B4%E4%BA%88%E6%96%B0%E4%B8%96%E7%95%8C%E9%9D%99%E6%80%81%E8%A1%A8%E6%83%85%E5%8C%85_%E6%89%93call%EF%BC%81%5D%22%7D",
+                "jump_title": "打call！"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315923981105,
+        "rpid_str": "315923981105",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791040249,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_1af1f11138a543393d898681",
+        "content": {
+          "message": "@是碳烤鱼吗 为了小天鹅的颜值抽的我到底看了多远[doge][doge][doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e223ea37a15eb61eaaca1a102a457e8db7381adb13f8284cef73fbbcaacff4ec",
+  "original_bytes_sha256": "fcb2b368605b650ce990ee806b62ea7e51c38c677dff78116abebb9802372792",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

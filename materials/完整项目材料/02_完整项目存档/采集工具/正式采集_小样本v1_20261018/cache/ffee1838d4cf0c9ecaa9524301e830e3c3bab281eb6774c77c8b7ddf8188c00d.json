@@ -1,0 +1,221 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "321026423520",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:44:13.446773+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317422445393,
+          "rpid_str": "317422445393",
+          "root": 321026423520,
+          "root_str": "321026423520",
+          "parent": 321026423520,
+          "parent_str": "321026423520",
+          "dialog": 317422445393,
+          "ctime": 1792298158,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c7387d32c32cbea964cd0b10",
+          "content": {
+            "message": "火影忍者里面的三代火影战斗曲"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321086603952,
+          "rpid_str": "321086603952",
+          "root": 321026423520,
+          "root_str": "321026423520",
+          "parent": 317422445393,
+          "parent_str": "317422445393",
+          "dialog": 317422445393,
+          "ctime": 1792298759,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9917719037c3c6d4eb781b58",
+          "content": {
+            "message": "回复 @沉着冷静的小黑 : 不是啊是木偶前面打得冰锅啊[大哭]好像8分40那里[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321099646848,
+          "rpid_str": "321099646848",
+          "root": 321026423520,
+          "root_str": "321026423520",
+          "parent": 321086603952,
+          "parent_str": "321086603952",
+          "dialog": 317422445393,
+          "ctime": 1792306309,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e68463d57b366dedab71a6b0",
+          "content": {
+            "message": "回复 @团子当足球踢 :英雄联盟云顶之弈s10烬主题曲，b站视频的话大概4min左右"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321100108208,
+          "rpid_str": "321100108208",
+          "root": 321026423520,
+          "root_str": "321026423520",
+          "parent": 321099646848,
+          "parent_str": "321099646848",
+          "dialog": 317422445393,
+          "ctime": 1792306586,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9917719037c3c6d4eb781b58",
+          "content": {
+            "message": "回复 @3rdEye_Ayase : 谢谢——[大哭][大哭][大哭]只恨不能给评论三连啊[大哭][大哭][大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321026423520,
+        "rpid_str": "321026423520",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792245137,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_9917719037c3c6d4eb781b58",
+        "content": {
+          "message": "@沉着冷静的小黑up我直接来问你了你木偶打冰锅那里的bgm是什么[大哭]",
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5dcaa2f7c9b8032ff6fc8d7416e9b4395d8f82af199caeb5e1308f5c27ee74ca",
+  "original_bytes_sha256": "118c4fb87ac4b0330b76a18438725b8128499dd710d744e4cc353e95aa334b8a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

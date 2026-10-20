@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316513733505",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:43:15.570355+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320130984896,
+          "rpid_str": "320130984896",
+          "root": 316513733505,
+          "root_str": "316513733505",
+          "parent": 316513733505,
+          "parent_str": "316513733505",
+          "dialog": 320130984896,
+          "ctime": 1791517121,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "刚打一个00赤角，6夏6伊5欧很极限"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316513733505,
+        "rpid_str": "316513733505",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791513585,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_7910eae234b58510c50d7b99",
+        "content": {
+          "message": "00赤角火神，6伊5夏4欧能过吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "79828b4c330b6648c7be575b8d6210118633dbdb1008b1248b1913a8d68d14e8",
+  "original_bytes_sha256": "df4616c8940576cd6a58c5e78b9adf0e867e3a5251d092cd071c931a36d36a20",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

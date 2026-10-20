@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318509605824",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:17:06.934368+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318509605824,
+        "rpid_str": "318509605824",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790300301,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_556b0913b64eaaf94cff1678",
+        "content": {
+          "message": "好家伙，这一期我只能东拼西凑了，毕竟没有爱，我的00丝打不了第二间，那我只能第一间用瑞希奥黛塔少女伊涅芙，第二间用木偶神子迪奥娜北斗，第三间用薇斯纳七七冰主珐露珊"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0ab3139d65d1d08e62c25afe652c0f0ca4c69620b25c352bde35ad9a616b3b96",
+  "original_bytes_sha256": "5c37547b1f78d3ce483bb6d1389722ec0af1aafe3e1d89ae9f5a2e50965851db",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

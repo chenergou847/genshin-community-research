@@ -1,0 +1,84 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315968853249",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:27:31.408543+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315968853249,
+        "rpid_str": "315968853249",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791086700,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_6b437ccc1f0027752006863c",
+        "content": {
+          "message": "@虞霖溪寒 @Red-Loner 我们省吃俭用打8关的角色人家上在同一关[间奏时光表情包_狂点]",
+          "emote": {
+            "[间奏时光表情包_狂点]": {
+              "id": 122451,
+              "package_id": 8813,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[间奏时光表情包_狂点]",
+              "url": "https://i0.hdslb.com/bfs/garb/08a1e0fdd1927187823ff3b5ef985d78dd6387a2.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1759388402,
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=109845&hybrid_set_header=2&anchor_task=1&lottery_id=109846&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22109848%22%2C%22sub_id%22%3A%22%5B%E9%97%B4%E5%A5%8F%E6%97%B6%E5%85%89%E8%A1%A8%E6%83%85%E5%8C%85_%E7%8B%82%E7%82%B9%5D%22%7D",
+              "jump_title": "狂点"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8d23ed8e2c425af7f8d009ce9646ba5389d97d20d003359570ddacdfe5feeeb2",
+  "original_bytes_sha256": "809fb517f04641b019e306016b75b4b705e6ddd749fffbf117da6d58cabf68de",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

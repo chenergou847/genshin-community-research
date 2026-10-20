@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117448078596976",
+    "root": "320901408448",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:59:09.842377+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320901408448,
+        "rpid_str": "320901408448",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792153966,
+        "like": 2,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_ec551e7e42dba6eed45ebd14",
+        "content": {
+          "message": "莱依拉能换成猫猫吗"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "12e159a3b1a206a8af4f1bbb61a3faa36c8630d70686219cd68930d20385faa9",
+  "original_bytes_sha256": "c46d8639ae31cc7bf63b05ab2c4ec034924158546cdd2e03ca23105c3a621d61",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

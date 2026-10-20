@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319300162848",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:18:47.948012+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319300162848,
+        "rpid_str": "319300162848",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790910533,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_ad6c66e128865725edd28963",
+        "content": {
+          "message": "凹了十个小时艰难拿下了，用的短轴一轮只打六融",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6f985d3d42a9b802bffa127109d7184c35519936.png",
+              "img_width": 2560,
+              "img_height": 1440,
+              "img_size": 3375.98
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0d7091f04ce9ad6be92f74329b5af13b58d1b6b3840b97b80ef55cce5b453eeb",
+  "original_bytes_sha256": "a70e021e7def07a0074b890b703e707bfc2e0c6d4f8d533d3b70525ddfe4d4a6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

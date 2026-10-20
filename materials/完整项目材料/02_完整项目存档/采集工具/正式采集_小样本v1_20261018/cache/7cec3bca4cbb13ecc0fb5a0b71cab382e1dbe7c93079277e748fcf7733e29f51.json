@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318532249296",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:10:19.870021+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314996456625,
+          "rpid_str": "314996456625",
+          "root": 318532249296,
+          "root_str": "318532249296",
+          "parent": 318532249296,
+          "parent_str": "318532249296",
+          "dialog": 314996456625,
+          "ctime": 1790314286,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间冰锅木偶可以打的，带奥黛塔神子+希诺宁，双冰压够了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314996478849,
+          "rpid_str": "314996478849",
+          "root": 318532249296,
+          "root_str": "318532249296",
+          "parent": 318532249296,
+          "parent_str": "318532249296",
+          "dialog": 314996478849,
+          "ctime": 1790314325,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间菲林斯少女砂糖，带冰主就能过机制，转星超导。二命菲林斯数值够。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314996546977,
+          "rpid_str": "314996546977",
+          "root": 318532249296,
+          "root_str": "318532249296",
+          "parent": 318532249296,
+          "parent_str": "318532249296",
+          "dialog": 314996546977,
+          "ctime": 1790314383,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间法尔伽尼可杜林+温迪/布伦妮就行。风扩火就可破。冰棺火雷风元素都克她。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314996557889,
+          "rpid_str": "314996557889",
+          "root": 318532249296,
+          "root_str": "318532249296",
+          "parent": 318532249296,
+          "parent_str": "318532249296",
+          "dialog": 314996557889,
+          "ctime": 1790314404,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。中午下班时间有在看的。有帮助的话视频点赞推荐一下就行了，帮助更多人看到配队"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318532249296,
+        "rpid_str": "318532249296",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790313487,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_74f4c583759398a2726ca437",
+        "content": {
+          "message": "能打n5吗？抽木偶之前一个冰也没，就没打过冰锅[保卫萝卜_哭哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/954680e3dc81dbb5591d0cbe2fb5ad133546916449159742.jpg",
+              "img_width": 1256,
+              "img_height": 12872,
+              "img_size": 1641.35
+            }
+          ],
+          "emote": {
+            "[保卫萝卜_哭哭]": {
+              "id": 4945,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[保卫萝卜_哭哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/7d249f7c990111d3e2982f7477af15b7eb29cbd9.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  "哭哭"
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哭哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8a2de45d5a146bd022d60f24cd2ecccd1c4051c7c4375d6490560758d61ec516",
+  "original_bytes_sha256": "3967c406bc544b25c556a8199db8d9013d93c3931a1486c94166fb4ec59f5cb4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

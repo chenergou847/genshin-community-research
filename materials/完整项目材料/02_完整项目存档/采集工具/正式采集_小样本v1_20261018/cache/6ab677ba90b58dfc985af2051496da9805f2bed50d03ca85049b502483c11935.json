@@ -1,0 +1,196 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314953635457",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:20:20.804403+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318495024928,
+          "rpid_str": "318495024928",
+          "root": 314953635457,
+          "root_str": "314953635457",
+          "parent": 314953635457,
+          "parent_str": "314953635457",
+          "dialog": 318495024928,
+          "ctime": 1790278961,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8b42e1f0bd7447f5a76f585",
+          "content": {
+            "message": "感觉没有"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314959984929,
+          "rpid_str": "314959984929",
+          "root": 314953635457,
+          "root_str": "314953635457",
+          "parent": 314953635457,
+          "parent_str": "314953635457",
+          "dialog": 314959984929,
+          "ctime": 1790279809,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7b4a6296a63bc8819216631a",
+          "content": {
+            "message": "有啊，能打的还挺多，就是都有凹点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314960499889,
+          "rpid_str": "314960499889",
+          "root": 314953635457,
+          "root_str": "314953635457",
+          "parent": 314953635457,
+          "parent_str": "314953635457",
+          "dialog": 314960499889,
+          "ctime": 1790280761,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_97db794e4dc2b95c768fda1f",
+          "content": {
+            "message": "除了第二间冰锅别的都要凹，都是拉表打桩理论能过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318495867104,
+          "rpid_str": "318495867104",
+          "root": 314953635457,
+          "root_str": "314953635457",
+          "parent": 314953635457,
+          "parent_str": "314953635457",
+          "dialog": 318495867104,
+          "ctime": 1790280967,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0496e749672f0763cd9ba6a1",
+          "content": {
+            "message": "凹点满满噢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318501511856,
+          "rpid_str": "318501511856",
+          "root": 314953635457,
+          "root_str": "314953635457",
+          "parent": 314953635457,
+          "parent_str": "314953635457",
+          "dialog": 318501511856,
+          "ctime": 1790293435,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5eb919e6f6d089d330dd7705",
+          "content": {
+            "message": "老头过去不，没机会。\n你要是有2奥还有点机会"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314953635457,
+        "rpid_str": "314953635457",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790270030,
+        "like": 0,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_cc66301b9315a45e53c1299b",
+        "content": {
+          "message": "有N6風險嗎 下禮拜能換二夢",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/37ecfde829f71527453854899635f9b82106247558.jpg",
+              "img_width": 780,
+              "img_height": 10238,
+              "img_size": 2142
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5389af6cee25323c94bd89eea2dc971698c1980880783e7ca10c4ed1d7ae29f5",
+  "original_bytes_sha256": "d48c85312ade8235b1b0a89fe0cf84b5e19ac215b52a6bcb5cb8d8f528ce378c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

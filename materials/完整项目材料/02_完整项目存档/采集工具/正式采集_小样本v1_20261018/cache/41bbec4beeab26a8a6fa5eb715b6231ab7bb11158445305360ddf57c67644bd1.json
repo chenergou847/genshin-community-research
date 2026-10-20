@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "317368890945",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:41:05.509425+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317370958353,
+          "rpid_str": "317370958353",
+          "root": 317368890945,
+          "root_str": "317368890945",
+          "parent": 317368890945,
+          "parent_str": "317368890945",
+          "dialog": 317370958353,
+          "ctime": 1792247869,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_85321b2ef776c98b969bd533",
+          "content": {
+            "message": "[爱心][爱心][爱心]",
+            "emote": {
+              "[爱心]": {
+                "id": 550,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[爱心]",
+                "url": "https://i0.hdslb.com/bfs/emote/ed04066ea7124106d17ffcaf75600700e5442f5c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "爱心"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317368890945,
+        "rpid_str": "317368890945",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792246718,
+        "like": 8,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_9ccb68a7d544b57e63dc0dd7",
+        "content": {
+          "message": "支持，建议选一个好一点字幕模板，红色和背景有点重叠"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "056d76dc48f3489da5cfda3ea1a1b981454ca1e949f57442b96ca82414a61e6f",
+  "original_bytes_sha256": "ef2496ede5537dc81f98b734cb4d1fcb8304213743e363d839361ba2558d9593",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

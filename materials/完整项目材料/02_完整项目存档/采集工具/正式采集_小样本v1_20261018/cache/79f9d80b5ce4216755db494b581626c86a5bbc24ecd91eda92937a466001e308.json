@@ -1,0 +1,125 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "317319250609",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:52:54.571858+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320981426656,
+          "rpid_str": "320981426656",
+          "root": 317319250609,
+          "root_str": "317319250609",
+          "parent": 317319250609,
+          "parent_str": "317319250609",
+          "ctime": 1792219855,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da19f08179a924305bcf901b",
+          "content": {
+            "message": "刻晴是谁？不熟"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321003628768,
+          "rpid_str": "321003628768",
+          "root": 317319250609,
+          "root_str": "317319250609",
+          "parent": 317319250609,
+          "parent_str": "317319250609",
+          "ctime": 1792233171,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_148275ff7d0e079a9b03652b",
+          "content": {
+            "message": "你别说，刻的DPS真够碾深渊了，深渊DPS需求也就七八万，新时代刻皇能达到10W左右，但这期环境应该不好上，又是雷盾又是冰锅的"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321017405856,
+          "rpid_str": "321017405856",
+          "root": 317319250609,
+          "root_str": "317319250609",
+          "parent": 321003628768,
+          "parent_str": "321003628768",
+          "ctime": 1792240307,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a73e1f070f47cc94365f1453",
+          "content": {
+            "message": "回复 @之之cccccc :我有00尼杜，带个10刻，主播可以接我号打"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317368759409,
+          "rpid_str": "317368759409",
+          "root": 317319250609,
+          "root_str": "317319250609",
+          "parent": 321003628768,
+          "parent_str": "321003628768",
+          "ctime": 1792246638,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d54eeb00aac0094936c9960b",
+          "content": {
+            "message": "回复 @之之cccccc :现在是妮杜带刻"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317319250609,
+        "rpid_str": "317319250609",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792217446,
+        "like": 4,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_d3cbf1d3797b5d7a8b1ecbff",
+        "content": {
+          "message": "可以用刻晴轻松通关吗"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "0b3259665f9ee47efe3e4bfe0252021b3053c3497b738f1822aba23b56ecde7d",
+  "original_bytes_sha256": "ffc720b2e37df4852580e551427d7472ff5414f0dab4d78321dbee83fb99649a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

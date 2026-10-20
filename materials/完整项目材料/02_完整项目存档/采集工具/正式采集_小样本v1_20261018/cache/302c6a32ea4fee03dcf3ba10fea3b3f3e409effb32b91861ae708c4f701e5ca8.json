@@ -1,0 +1,121 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317243818433",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:06:47.282833+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 321064386224,
+          "rpid_str": "321064386224",
+          "root": 317243818433,
+          "root_str": "317243818433",
+          "parent": 317243818433,
+          "parent_str": "317243818433",
+          "ctime": 1792285130,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9c1c1477cd90e3ae931f784",
+          "content": {
+            "message": "牛逼，这司凤角色又买环境[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317243818433,
+        "rpid_str": "317243818433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792151977,
+        "like": 2,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_f0103153be8b2eb89070f0eb",
+        "content": {
+          "message": "[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/366bd4d15647cd46a8833ffcaba5fed93546855386384985.jpg",
+              "img_width": 1264,
+              "img_height": 1080,
+              "img_size": 200.61,
+              "picture_badge": {
+                "text": "该内容由人工智能生成",
+                "icon": "https://i0.hdslb.com/bfs/activity-plat/static/20250822/b18edb11c3c16964fd77b1cb6d700b43/6PRNG2LQdB.png"
+              }
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "e1fce10ddbbf82ce8b55a6f004ca539d3866d2d0bf96b7c24626869b93c28b3c",
+  "original_bytes_sha256": "59b94c6fb4e99ca299aeb4744c98dfcd352e9caed5c28ba7e8dd1cb04792a977",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

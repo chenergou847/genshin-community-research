@@ -1,0 +1,162 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "319489903168",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:54:05.467855+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315939629841,
+          "rpid_str": "315939629841",
+          "root": 319489903168,
+          "root_str": "319489903168",
+          "parent": 319489903168,
+          "parent_str": "319489903168",
+          "dialog": 315939629841,
+          "ctime": 1791052258,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3757a78d738a81e2cf4df80d",
+          "content": {
+            "message": "牢在哪[香奈美·追寻那道光 应援装扮_让我看看]",
+            "emote": {
+              "[香奈美·追寻那道光 应援装扮_让我看看]": {
+                "id": 62386,
+                "package_id": 4408,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[香奈美·追寻那道光 应援装扮_让我看看]",
+                "url": "https://i0.hdslb.com/bfs/garb/e03da69588a074b12b99049291891d16c78ca6c4.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1706688000,
+                "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=1706087271001&isdiy=0&part=emoji_package&from=emoji&f_source=garb&vmid=497318214&native.theme=1&navhide=1",
+                "jump_title": "让我看看"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315965271569,
+          "rpid_str": "315965271569",
+          "root": 319489903168,
+          "root_str": "319489903168",
+          "parent": 319489903168,
+          "parent_str": "319489903168",
+          "dialog": 315965271569,
+          "ctime": 1791084672,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f1b54358c30c6bb1d24b55ff",
+          "content": {
+            "message": "引以为傲的xp，居然被污蔑为投资啊[原神_哼]",
+            "emote": {
+              "[原神_哼]": {
+                "id": 4260,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[原神_哼]",
+                "url": "https://i0.hdslb.com/bfs/emote/91ed33b74bc36873c3ac8b2648f70d7ab6d8ab78.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319489903168,
+        "rpid_str": "319489903168",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791033691,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_8310edfd594d8a288c203917",
+        "content": {
+          "message": "可以给我p个牢大头吗，我也想笑",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/337528e9d13425a9c8dd258c7249a25414242621.png",
+              "img_width": 261,
+              "img_height": 396,
+              "img_size": 96.66,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "3df274a55147999e3229afb26307ccd839bdf6ed27f741e3ae3173f419a03ea4",
+  "original_bytes_sha256": "740c08526608af9ce43b406abf7a5b7ada68724112475268b208b731919629b0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

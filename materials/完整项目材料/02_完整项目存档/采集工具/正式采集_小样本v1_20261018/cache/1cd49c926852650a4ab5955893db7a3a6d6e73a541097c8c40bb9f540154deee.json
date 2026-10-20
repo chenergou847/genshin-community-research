@@ -1,0 +1,197 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117456634910208",
+    "root": "317386969057",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:39:37.305668+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321050396048,
+          "rpid_str": "321050396048",
+          "root": 317386969057,
+          "root_str": "317386969057",
+          "parent": 317386969057,
+          "parent_str": "317386969057",
+          "dialog": 321050396048,
+          "ctime": 1792260635,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_36112d0e4671e9fff57915b7",
+          "content": {
+            "message": "那可不一定哦，龙这种毛用没有的，数值溢出的年代作威作福，宝莲可是真一个21玩两年，给xp队伍省了多少[吃瓜]。",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317389711633,
+          "rpid_str": "317389711633",
+          "root": 317386969057,
+          "root_str": "317386969057",
+          "parent": 321050396048,
+          "parent_str": "321050396048",
+          "dialog": 321050396048,
+          "ctime": 1792261496,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e8dc15cdef37f5ded7b3ef86",
+          "content": {
+            "message": "回复 @-风之灵- :那我等着看好戏呗[笑哭]都多少次了还不长记性，以前怎么龙王仆人踩胡桃之类的不见得有人这样说胡桃打了这么久，火神后续被踩的时候不可能这样良心发现，说白了狗改不了赤石",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321051499024,
+          "rpid_str": "321051499024",
+          "root": 317386969057,
+          "root_str": "317386969057",
+          "parent": 321050396048,
+          "parent_str": "321050396048",
+          "dialog": 321050396048,
+          "ctime": 1792262160,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b1f71a886e4dde30399f6a3d",
+          "content": {
+            "message": "回复 @-风之灵- :那可不一定哦，强度过去了说曾经再多么辉煌都显得很无力，你要想火神不被辱最好是看下火u的素质了，希望别被太多人记恨，当初火神刚出被爆火后台我只不过问了句能不能压住莱欧的冰就被贴脸说不如火神站场[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317386969057,
+        "rpid_str": "317386969057",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792258264,
+        "like": 0,
+        "rcount": 3,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_e8dc15cdef37f5ded7b3ef86",
+        "content": {
+          "message": "等着版本更迭，大多数也会开始辱玛，历史是个圈，单纯想辱骂角色，各种理由也是借口"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9212a065eea06370a2cbdf544d123a171b32d622ec6a0e53866f842687bcac8b",
+  "original_bytes_sha256": "c3d227240cdd0c731f982f01154ca0a7be254b4d0ce2aaf004c597cf791cfdb7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

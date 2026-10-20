@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-17T15:56:22.446500+00:00",
+  "status": "stopped_access_challenge",
+  "study": "正式采集_v6_20261017",
+  "main_attempted": 1,
+  "main_complete": 0,
+  "main_registered": 54,
+  "reasons": {
+    "access_challenge_voucher_present": 1
+  },
+  "candidate_videos": 2147,
+  "candidate_mode_rows": 2154,
+  "decisions": {
+    "pending": 1514,
+    "exclude": 640
+  },
+  "formal_video_frame": false,
+  "formal_comment_frame": false,
+  "formal_random_draw": false,
+  "video_publish_start": "2026-09-01T00:00:00+08:00",
+  "t0": "2026-10-17T23:09:00+08:00",
+  "authenticated_session_file_verified": true,
+  "credential_contents_logged": false
+}

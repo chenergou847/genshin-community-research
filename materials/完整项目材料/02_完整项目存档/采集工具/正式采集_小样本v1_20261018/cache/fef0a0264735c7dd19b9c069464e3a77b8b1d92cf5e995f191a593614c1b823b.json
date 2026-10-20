@@ -1,0 +1,79 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117453329801174",
+    "root": "320951487520",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:00:44.939980+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320951487520,
+        "rpid_str": "320951487520",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792202046,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_4112c6a62fe596cd67962704",
+        "content": {
+          "message": "以防你不知道，0限定金配队的2命梦见月已经30多W一下了[doge_金箍]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/15a61c74169eb4cb3f83ebec2262eb403493110296348833.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1148.17
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "7ac9251121556fda6c8aeb8764900b5c8f218c11b62e16507c4918128bbca9db",
+  "original_bytes_sha256": "a65f0fb567d8a0a985c70ab16bea4af2e4e01b6df8d61697ebb8aceae8689d32",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

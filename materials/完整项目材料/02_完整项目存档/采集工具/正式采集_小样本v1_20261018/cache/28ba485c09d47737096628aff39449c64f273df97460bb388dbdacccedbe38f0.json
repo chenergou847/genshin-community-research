@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318590750880",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:03:54.829001+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318590750880,
+        "rpid_str": "318590750880",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790346675,
+        "like": 0,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_97206085609ecd1403e98942",
+        "content": {
+          "message": "大佬们我这能过吗，感觉第一间上星超导有点极限",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0a12e5e44d164d1de21a40c45b30f111243877726.jpg",
+              "img_width": 1080,
+              "img_height": 12813,
+              "img_size": 1567.72
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "45203fbddbb342b4f3bb284da2e15b97c54fb582490b873cd12e5f029b5d7d21",
+  "original_bytes_sha256": "63276d32b4cf26a0de04135e8803eaef3f802f1bb9280dd6b11d9c08f812c1d3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

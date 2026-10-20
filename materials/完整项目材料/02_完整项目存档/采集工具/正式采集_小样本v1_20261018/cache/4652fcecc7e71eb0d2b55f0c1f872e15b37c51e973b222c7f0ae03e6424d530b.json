@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315812758961",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:46.748456+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315812758961,
+        "rpid_str": "315812758961",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790956367,
+        "like": 2,
+        "rcount": 6,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_4764ac1c285dc4959664cd09",
+        "content": {
+          "message": "有人换牌吗，多一张魔法师",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a6ef1a0e02095bcb3f283ee2aeb39d4e1542063953.jpg",
+              "img_width": 720,
+              "img_height": 5060,
+              "img_size": 361.81
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "150c6c7a030504cdae764135842072a572d1ae5e48945880b9baded78b2be815",
+  "original_bytes_sha256": "ca14151e35db045d73a453dfa32e53e5700d61ff18860c1c562e11675b2577d9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

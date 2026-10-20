@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315702307441",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:58:51.247511+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319270692432,
+          "rpid_str": "319270692432",
+          "root": 315702307441,
+          "root_str": "315702307441",
+          "parent": 315702307441,
+          "parent_str": "315702307441",
+          "dialog": 319270692432,
+          "ctime": 1790874918,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f5edaa41a797bcb8846bcae7",
+          "content": {
+            "message": "第一个带了三个奶，两个瞬抬一个持续，带一个龙王嗯扛，还死了两奶妈，第二个必须留到后面用成品队打，不然过不去"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315711479825,
+          "rpid_str": "315711479825",
+          "root": 315702307441,
+          "root_str": "315702307441",
+          "parent": 315702307441,
+          "parent_str": "315702307441",
+          "dialog": 315711479825,
+          "ctime": 1790888050,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_46de4dfac331f630dab3d496",
+          "content": {
+            "message": "散兵开局刷个夜兰行秋就行了，另外能进还打不过的话应该是你c不够吧，跟开幕关系不大"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320231786832,
+          "rpid_str": "320231786832",
+          "root": 315702307441,
+          "root_str": "315702307441",
+          "parent": 315702307441,
+          "parent_str": "315702307441",
+          "dialog": 320231786832,
+          "ctime": 1791603946,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6eeb6a3f979a211cb20a6012",
+          "content": {
+            "message": "把所有的挂件都升90，天赋升满然后刷一套圣遗物就好打了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315702307441,
+        "rpid_str": "315702307441",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790873819,
+        "like": 2,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_5d6e19ac0509acffca530b1e",
+        "content": {
+          "message": "这次给的这两个开幕真的恶心死了，第一次没有拿到月喻牌，真的恶心坏了，玩一次恶心一次这个模式，这东西到底算是肉鸽嘛？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "02cec3a52b2fc067b4d9e82854fde17645f47f0acf3929944dca42c1c57ff505",
+  "original_bytes_sha256": "2a61caf1899f35b5c07a741239d77a152ef27759387868907147c61c3d65d765",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

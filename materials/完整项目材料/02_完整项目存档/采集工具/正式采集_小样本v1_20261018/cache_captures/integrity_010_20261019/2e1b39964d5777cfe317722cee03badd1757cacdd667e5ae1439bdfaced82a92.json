@@ -1,0 +1,313 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "315055702433",
+    "ps": 20,
+    "next": 1
+  },
+  "captured_at": "2026-10-19T05:25:42.272552+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315055702433,
+        "rpid_str": "315055702433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790348953,
+        "like": 0,
+        "rcount": 8,
+        "count": 10,
+        "state": 0,
+        "floor": 430,
+        "author_id": "U_fc5b952e1203b7c8886ad85d",
+        "content": {
+          "message": "各位，我这个打六会很难吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5a2f8a8cab93c12812b1def4b16f32f01168413574.jpg",
+              "img_width": 1440,
+              "img_height": 14359,
+              "img_size": 1957.59
+            }
+          ]
+        },
+        "replies": [
+          {
+            "rpid": 315055845265,
+            "rpid_str": "315055845265",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315055702433,
+            "parent_str": "315055702433",
+            "dialog": 315055845265,
+            "ctime": 1790349049,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 1,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "0+1薇，奥，沃有极限。四金打桩可以"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315055838321,
+            "rpid_str": "315055838321",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315055702433,
+            "parent_str": "315055702433",
+            "dialog": 315055838321,
+            "ctime": 1790349102,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 2,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "第二间丝柯克队。第三间火神纯火，超载都能，视频有演示"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315056173585,
+            "rpid_str": "315056173585",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315055890289,
+            "parent_str": "315055890289",
+            "dialog": 315055890289,
+            "ctime": 1790349209,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 5,
+            "author_id": "U_fc5b952e1203b7c8886ad85d",
+            "content": {
+              "message": "回复 @星光璀璨之时 :n5不重要，我只是想看看n6有没有办法[无语]",
+              "emote": {
+                "[无语]": {
+                  "id": 7,
+                  "package_id": 1,
+                  "state": 0,
+                  "type": 1,
+                  "attr": 0,
+                  "text": "[无语]",
+                  "url": "https://i0.hdslb.com/bfs/emote/44667b7d9349957e903b1b62cb91fb9b13720f04.png",
+                  "meta": {
+                    "size": 1,
+                    "suggest": [
+                      ""
+                    ]
+                  },
+                  "mtime": 1668688325,
+                  "jump_title": "无语"
+                }
+              }
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315056187937,
+            "rpid_str": "315056187937",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315055845265,
+            "parent_str": "315055845265",
+            "dialog": 315055845265,
+            "ctime": 1790349232,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 6,
+            "author_id": "U_fc5b952e1203b7c8886ad85d",
+            "content": {
+              "message": "回复 @星光璀璨之时 :薇斯纳过几天就拉95级"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315056219697,
+            "rpid_str": "315056219697",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315055702433,
+            "parent_str": "315055702433",
+            "dialog": 315056219697,
+            "ctime": 1790349285,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 7,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "丝柯克第二间丝芙爱都有，四号位自由，看你带莫娜，夜兰还是谁，都行。极限有机会，她专怪"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315056400625,
+            "rpid_str": "315056400625",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315056187937,
+            "parent_str": "315056187937",
+            "dialog": 315055845265,
+            "ctime": 1790349322,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 8,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "回复 @宫园薰的a人友 :你把第一间薇斯纳练下，极限四金应该也够。丝柯克，火神二三间够了。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315056301313,
+            "rpid_str": "315056301313",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315055702433,
+            "parent_str": "315055702433",
+            "dialog": 315056301313,
+            "ctime": 1790349338,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 9,
+            "author_id": "U_bc1892273f3e332af2c83dd7",
+            "content": {
+              "message": "祝中秋假期快乐，晚安💤。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 315172289793,
+            "rpid_str": "315172289793",
+            "root": 315055702433,
+            "root_str": "315055702433",
+            "parent": 315056301313,
+            "parent_str": "315056301313",
+            "dialog": 315056301313,
+            "ctime": 1790437487,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 10,
+            "author_id": "U_fc5b952e1203b7c8886ad85d",
+            "content": {
+              "message": "回复 @星光璀璨之时 :主播主播，那我可以1，3换着来吗，有火神打邱林跟风仙打冰棺的视频"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "b02f72ea8db44bde7ced771b8f9d948d749f32391a34d7edabb8f54b504c5548",
+  "original_bytes_sha256": "744b1b3e9d63f48964c5cb4197e2cad015b6b01a5fc360286e75f19964f49240",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

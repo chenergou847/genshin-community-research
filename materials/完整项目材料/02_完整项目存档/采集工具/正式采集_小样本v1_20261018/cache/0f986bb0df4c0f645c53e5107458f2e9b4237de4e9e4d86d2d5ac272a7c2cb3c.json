@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318511261696",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:16:32.140591+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318511261696,
+        "rpid_str": "318511261696",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790301491,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_0615371699d9886e26cf281e",
+        "content": {
+          "message": "问问我这个box能打吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d0efa2fcabba2487f7a39fc924128bd174211618.jpg",
+              "img_width": 1220,
+              "img_height": 12480,
+              "img_size": 1575.17
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "8bb87ce4168f5af31fe6046535fe109821414ba983cc1cc8405c2c6247647731",
+  "original_bytes_sha256": "b8e81042c7e17bcffd401b5f38aadbd1683cb9178378004fa9d9d516ff0fc5c4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

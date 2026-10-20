@@ -1,0 +1,120 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317335728145",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-19T05:28:27.314774+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 21
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317432924545,
+          "rpid_str": "317432924545",
+          "root": 317335728145,
+          "root_str": "317335728145",
+          "parent": 317358696529,
+          "parent_str": "317358696529",
+          "dialog": 317358696529,
+          "ctime": 1792304201,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ca3e503bd1367544073378e4",
+          "content": {
+            "message": "回复 @雨恹 :皇女有满命我就用了😭"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317335728145,
+        "rpid_str": "317335728145",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792228406,
+        "like": 7,
+        "rcount": 21,
+        "count": 22,
+        "state": 0,
+        "author_id": "U_ca3e503bd1367544073378e4",
+        "content": {
+          "message": "我这配置还有n7风险吗[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f179e963a8fe2919d657de4d363f72af479011299.jpg",
+              "img_width": 2800,
+              "img_height": 1260,
+              "img_size": 1320.41
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1a8b35357dc70874273ebe947b077bf0b38278a131e1061a576e63183e34e168",
+  "original_bytes_sha256": "6a3fe52d57f1ab4ac882e0ae5d58377ca63f47e0681aac9857612c606a569e15",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

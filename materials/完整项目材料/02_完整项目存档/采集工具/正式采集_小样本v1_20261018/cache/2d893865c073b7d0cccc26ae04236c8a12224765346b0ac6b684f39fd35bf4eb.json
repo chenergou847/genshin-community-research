@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314983405697",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:12:45.846994+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315004282465,
+          "rpid_str": "315004282465",
+          "root": 314983405697,
+          "root_str": "314983405697",
+          "parent": 314983405697,
+          "parent_str": "314983405697",
+          "dialog": 315004282465,
+          "ctime": 1790319236,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "梦见月+冰主+七七+珐露珊，第一间。第二间丝柯克队，木偶星超导也可以。第三间仆人希诺宁班尼特万叶，万叶扩火班尼特战场他都能破"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315004285681,
+          "rpid_str": "315004285681",
+          "root": 314983405697,
+          "root_str": "314983405697",
+          "parent": 314983405697,
+          "parent_str": "314983405697",
+          "dialog": 315004285681,
+          "ctime": 1790319242,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "祝中秋快乐。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314983405697,
+        "rpid_str": "314983405697",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790306765,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_8ec556bd743c9949e556225a",
+        "content": {
+          "message": "要求不高N5能过就行[委屈][委屈]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/84e8a1d0522fb4194a0d981a64228c28446982855.jpg",
+              "img_width": 1260,
+              "img_height": 14326,
+              "img_size": 1788.65
+            }
+          ],
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "70ebec2fa411527ae7ab957e58d51729a4de0cc0498e04cf4599c1d22c57b490",
+  "original_bytes_sha256": "751b4e7e42ce5380c181122e93fe08cec4b3216b1274c9f674119d1fc1811205",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

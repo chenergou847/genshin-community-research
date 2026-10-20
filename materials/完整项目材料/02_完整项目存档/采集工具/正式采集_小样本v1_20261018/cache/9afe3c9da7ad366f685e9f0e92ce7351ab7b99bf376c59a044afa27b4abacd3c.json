@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318879613792",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:41:25.847541+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318879613792,
+        "rpid_str": "318879613792",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790575106,
+        "like": 0,
+        "rcount": 6,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_943f04a9833f5a423ff6238d",
+        "content": {
+          "message": "没有怕黑男，但是有机娘🤔别的队友也有，第三间能玩月感电么？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "548725cbf9d1d4c9b6cf5f9798cbe44915f728cc14344015a4de127e1e69047a",
+  "original_bytes_sha256": "e2723a18237b4513fa1cf39af1813f2bdf282397192432c7387cb98d6fc94503",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

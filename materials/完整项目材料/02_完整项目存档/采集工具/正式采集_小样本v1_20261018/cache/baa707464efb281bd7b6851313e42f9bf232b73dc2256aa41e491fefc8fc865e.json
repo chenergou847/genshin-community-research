@@ -1,0 +1,172 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314919169361",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:27:17.830390+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314920849009,
+          "rpid_str": "314920849009",
+          "root": 314919169361,
+          "root_str": "314919169361",
+          "parent": 314919169361,
+          "parent_str": "314919169361",
+          "dialog": 314920849009,
+          "ctime": 1790250111,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0174687a8ccf219fa1606cd7",
+          "content": {
+            "message": "散，冰主能过小老头，木奥爱阿过冰锅，妮杜菲少冰棺"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318455096832,
+          "rpid_str": "318455096832",
+          "root": 314919169361,
+          "root_str": "314919169361",
+          "parent": 314919169361,
+          "parent_str": "314919169361",
+          "dialog": 318455096832,
+          "ctime": 1790250615,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_61b8ba513daa20ec9b2324fa",
+          "content": {
+            "message": "随便n5，"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314923624993,
+          "rpid_str": "314923624993",
+          "root": 314919169361,
+          "root_str": "314919169361",
+          "parent": 314919169361,
+          "parent_str": "314919169361",
+          "dialog": 314923624993,
+          "ctime": 1790251668,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0814a2df3efdf65959949ea0",
+          "content": {
+            "message": "你这配置够上n6了，弄个二梦加二奥打个老头，木偶打冰锅，菲带班打冰棺"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314931963505,
+          "rpid_str": "314931963505",
+          "root": 314919169361,
+          "root_str": "314919169361",
+          "parent": 314919169361,
+          "parent_str": "314919169361",
+          "dialog": 314931963505,
+          "ctime": 1790256487,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "你这二命尼可，二命奥黛塔，二命杜林都有。主C配置也够了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314919169361,
+        "rpid_str": "314919169361",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790249194,
+        "like": 1,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_a25e4f26d25d68e43addf448",
+        "content": {
+          "message": "有机会n5吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/faad797058755086b8e2c3219acc59f2519071367.jpg",
+              "img_width": 1284,
+              "img_height": 12342,
+              "img_size": 3428
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1dd0ada05fa5eefee6b79bc0cde543ddef4058cf7fc1497c289a694d3d9170b1",
+  "original_bytes_sha256": "47ed89927ad7f4634b38892875b79ee46ab4b290f43c4048737ef5d805af9a65",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

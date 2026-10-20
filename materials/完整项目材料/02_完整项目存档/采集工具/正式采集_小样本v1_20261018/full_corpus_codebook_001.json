@@ -1,0 +1,139 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T11:12:15.500484+00:00",
+  "source_hash": "819cfa0f2be9a6cb10a33bacb12670dc0f20cb3d419a54f529d52c6a2ddab8ab",
+  "codebook": {
+    "version": "full-corpus-calibrated-v1",
+    "status": "AI_CODEBOOK_CALIBRATED_WITH_30_HUMAN_ACCEPTANCES",
+    "reviewer": "Codex_AI",
+    "unit": "one_selected_comment_ID; ancestors_disambiguate_without_inheriting_their_claims",
+    "relevance_rules": {
+      "related": "可读正文及必要祖先明确指向目标副本本期玩法、配置、攻略、结果或评价；策略讨论可相关但与本人经历分开。",
+      "irrelevant": "可判断为跨副本、旧大世界经历、平台发评、催更、社交/粉圈而无本期玩法内容。",
+      "unknown": "无法判断指向、纯表情缺语境或必要图片/上文不可读；不得按视频标题补出体验。"
+    },
+    "context_rules": "核对祖先、自述者身份、指向的玩法和期次；不把父评论说法继承为当前作者观点。图片未读不填图中数值，文字足够时可判主题。",
+    "uncertainty_rules": "相关性不明与已知相关但主题不明分开；不明不补抽。缺父不自动等于不明，正文足够可正常判断。",
+    "first_person_rules": "明确自述本人实际对局、操作、结果或账号条件才记self；预期、建议、他人经历及旧期经历不冒充本期实战。自述仅为评论主张，不代表事实已核实。",
+    "problem_rules": "themes表示话题，不自动表示问题。仅本期明确受阻/不满用current_reported及problem_themes；建议、角色强弱、预期奖励与旧期卡点不能直接变成本期问题。",
+    "commercial_rules": "疑似推广单独标记，不凭一个平台名称判机器人。含可识别相关文字可记相关，但不把推广自述采信为真实第一手证据；后续报告排除此标记的敏感性。",
+    "sentiment_rules": "仅按当前发言可识别的评价记录；角色强度赞许注明目标，不解释为副本整体满意；不从表情或通关结果自动推定态度。",
+    "themes": [
+      {
+        "id": "roster_build",
+        "label": "角色池、配队与养成条件",
+        "definition": "角色覆盖、练度、命座装备、角色替换、借用、配队功能及本期角色表现。",
+        "include": "角色覆盖、练度、命座装备、角色替换、借用、配队功能及本期角色表现。",
+        "exclude": "只出现角色名的粉圈争论；未指向本期的旧经历。",
+        "observed_pilot_IDs": [
+          "317372849121",
+          "319448744784",
+          "317352475521"
+        ]
+      },
+      {
+        "id": "damage_threshold",
+        "label": "通关门槛与难易感受",
+        "definition": "明确打不过、输出不足、通关难易或对难度的预期；需区分预期与已发生。",
+        "include": "明确打不过、输出不足、通关难易或对难度的预期；需区分预期与已发生。",
+        "exclude": "单纯报通关不自动编码为困难；不据标题给评论补难度。",
+        "observed_pilot_IDs": [
+          "317372849121",
+          "315621236001",
+          "319241551296"
+        ]
+      },
+      {
+        "id": "mechanic_understanding",
+        "label": "机制信息与理解",
+        "definition": "机制触发、克制、说明、可利用条件与机制理解；中性提示也可编码。",
+        "include": "机制触发、克制、说明、可利用条件与机制理解；中性提示也可编码。",
+        "exclude": "只推荐角色而未谈机制；评论区发布异常。",
+        "observed_pilot_IDs": [
+          "315713207649"
+        ]
+      },
+      {
+        "id": "operation_control",
+        "label": "操作与控制体验",
+        "definition": "走位、连招、聚怪、锁定、容错或操作执行的明确描述。",
+        "include": "走位、连招、聚怪、锁定、容错或操作执行的明确描述。",
+        "exclude": "祖先提到操作但当前仅安抚或玩梗；仅从攻略失败推定机制错误。",
+        "observed_pilot_IDs": []
+      },
+      {
+        "id": "encounter_timing",
+        "label": "敌人与战斗时序",
+        "definition": "位移、转阶段、无敌、动画、刷新、战斗时间限制造成的体验。",
+        "include": "位移、转阶段、无敌、动画、刷新、战斗时间限制造成的体验。",
+        "exclude": "未说明来源的难；旧大世界打狼耗时。",
+        "observed_pilot_IDs": []
+      },
+      {
+        "id": "buff_and_route",
+        "label": "增益与路线决策",
+        "definition": "祝福、圣牌、选取/获取增益、角色出战与关卡路线等策略；只有明确随机时才记录随机问题。",
+        "include": "祝福、圣牌、选取/获取增益、角色出战与关卡路线等策略；只有明确随机时才记录随机问题。",
+        "exclude": "角色养成配置单独归roster；选择不当不自动认定系统故障。",
+        "observed_pilot_IDs": [
+          "316956178209"
+        ]
+      },
+      {
+        "id": "retry_time_cost",
+        "label": "重试与流程成本",
+        "definition": "反复重开、准备切队、单次与累计耗时、失败恢复成本。",
+        "include": "反复重开、准备切队、单次与累计耗时、失败恢复成本。",
+        "exclude": "仅说打不过但未谈重试或时间；旧期耗时。",
+        "observed_pilot_IDs": []
+      },
+      {
+        "id": "reward_motivation",
+        "label": "奖励与参与动机",
+        "definition": "奖励目标、兑现预期、领取、参与或放弃动机。",
+        "include": "奖励目标、兑现预期、领取、参与或放弃动机。",
+        "exclude": "视频投币点赞感谢；尚未领取不能写成已领取。",
+        "observed_pilot_IDs": [
+          "320159850736"
+        ]
+      },
+      {
+        "id": "co_op_social",
+        "label": "联机与互助体验",
+        "definition": "匹配、队友协作、互助过程、角色借用的社交可得性。",
+        "include": "匹配、队友协作、互助过程、角色借用的社交可得性。",
+        "exclude": "单纯借主C配队建议先归roster；辱骂或粉圈立场不自动归联机。",
+        "observed_pilot_IDs": []
+      },
+      {
+        "id": "technical_interface",
+        "label": "游戏性能与界面",
+        "definition": "本期副本中的卡顿、崩溃、输入或界面可用性。",
+        "include": "本期副本中的卡顿、崩溃、输入或界面可用性。",
+        "exclude": "防吞评、B站加载、平台删评；这些不是游戏内故障。",
+        "observed_pilot_IDs": []
+      },
+      {
+        "id": "other_current_experience",
+        "label": "其他本期体验",
+        "definition": "明确与本期玩法相关但上述主题未覆盖的体验与通关结果。",
+        "include": "明确与本期玩法相关但上述主题未覆盖的体验与通关结果。",
+        "exclude": "完全无语义表情用unknown；已可判断无关的聊天用irrelevant。",
+        "observed_pilot_IDs": [
+          "315522586593"
+        ]
+      }
+    ],
+    "method_sources": [
+      "https://doi.org/10.1177/1525822X980100020301",
+      "https://aapor.org/standards-and-ethics/disclosure-standards/"
+    ],
+    "all_codes_AI_initial_only": false,
+    "intercoder_reliability_measured": false,
+    "thematic_saturation_claimed": false,
+    "human_calibration_hash": "714fefa76215a0d4c065aebd459c2601c34eef225e25fbf075b2515b5a5e17de",
+    "root_nonverbal_rule": "根评论无可读语义词，仅表情、符号或不可读图片占位，记unknown；不从视频标题补体验。",
+    "calibration_is_not_model_training": true
+  },
+  "registration_hash": "9359731f26481a2403edcf782f75c11a18308be92bb219a4ef292f4f3fcaada9"
+}

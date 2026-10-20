@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "315539332689",
+    "pn": 4,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:57:26.447598+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 4,
+        "size": 20,
+        "count": 49
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315539332689,
+        "rpid_str": "315539332689",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790759787,
+        "like": 66,
+        "rcount": 49,
+        "count": 61,
+        "state": 0,
+        "author_id": "U_6ed730f87f101517fd63d6aa",
+        "content": {
+          "message": "真正的通解是奥黛塔"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "05ad682f21cee557874bd756231c19532da1371120fcd4a4ed2d347d67062fd8",
+  "original_bytes_sha256": "2ced0d3c808ae3ce91ba93ea5c614d065f4ab91fb927324f9ee8f939bc9d1c1a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

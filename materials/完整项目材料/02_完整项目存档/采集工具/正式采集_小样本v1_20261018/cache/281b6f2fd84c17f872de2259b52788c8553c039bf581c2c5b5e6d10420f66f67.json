@@ -1,0 +1,389 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315655224801",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:21:38.881739+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 11
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315660296049,
+          "rpid_str": "315660296049",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315655224801,
+          "parent_str": "315655224801",
+          "dialog": 315660296049,
+          "ctime": 1790849746,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_47f483912a340429dc5d7967",
+          "content": {
+            "message": "魔女追忆练度高点应该也可以的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315707879473,
+          "rpid_str": "315707879473",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315655224801,
+          "parent_str": "315655224801",
+          "dialog": 315707879473,
+          "ctime": 1790879837,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5713907a2295d40f1058fb5f",
+          "content": {
+            "message": "理论是随便过 今晚直播2闲带罗莎过了 0茜就比罗莎强了 不过你没下落套也不好说 下落套提升对比魔女都有15%了[捂脸]如果有下落套但是面板正常水平就可以了",
+            "emote": {
+              "[捂脸]": {
+                "id": 15,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[捂脸]",
+                "url": "https://i0.hdslb.com/bfs/emote/6921bb43f0c634870b92f4a8ad41dada94a5296d.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "捂脸"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315708048225,
+          "rpid_str": "315708048225",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315655224801,
+          "parent_str": "315655224801",
+          "dialog": 315708048225,
+          "ctime": 1790880097,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "没登场的话下落是 78.9/205.5 222精通[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315708112977,
+          "rpid_str": "315708112977",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315708048225,
+          "parent_str": "315708048225",
+          "dialog": 315708048225,
+          "ctime": 1790880110,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "回复 @Rybakiki :这个算正常吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315708132353,
+          "rpid_str": "315708132353",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315655224801,
+          "parent_str": "315655224801",
+          "dialog": 315708132353,
+          "ctime": 1790880188,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "如果够了的话我再拉一下天赋 普攻没升[脸红]",
+            "emote": {
+              "[脸红]": {
+                "id": 5406,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脸红]",
+                "url": "https://i0.hdslb.com/bfs/emote/0922c375da40e6b69002bd89b858572f424dcfca.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脸红"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319493748016,
+          "rpid_str": "319493748016",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315707879473,
+          "parent_str": "315707879473",
+          "dialog": 315707879473,
+          "ctime": 1791035638,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_050cb73af84791e0d089c4ea",
+          "content": {
+            "message": "回复 @Hamlat :请问闲云是带充能沙吗？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315924054001,
+          "rpid_str": "315924054001",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 319493748016,
+          "parent_str": "319493748016",
+          "dialog": 315707879473,
+          "ctime": 1791040240,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "回复 @永远蓝白三星 : 有专武吗 今天up帮我打 换的攻击沙 充能185+"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319504952368,
+          "rpid_str": "319504952368",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315924054001,
+          "parent_str": "315924054001",
+          "dialog": 315707879473,
+          "ctime": 1791041434,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_050cb73af84791e0d089c4ea",
+          "content": {
+            "message": "回复 @Rybakiki :有专武"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315932041649,
+          "rpid_str": "315932041649",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 319504952368,
+          "parent_str": "319504952368",
+          "dialog": 315707879473,
+          "ctime": 1791045204,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "回复 @永远蓝白三星 :那我不知道诶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316235955089,
+          "rpid_str": "316235955089",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315707879473,
+          "parent_str": "315707879473",
+          "dialog": 315707879473,
+          "ctime": 1791279139,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "回复 @Hamlat :主播 前两天直播请你帮忙打过 不过当时练度有点低 配置是10茜20闲 现在茜闲已经练的差不多了 等级也都拉到了89 不过冰主 现在 普攻8级+暴击有点低 自己在千星奇遇里打的50.5w有机会过吗 还是我继续练 菜叶61.8/300  星峰剑81.5/272.9"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316236487345,
+          "rpid_str": "316236487345",
+          "root": 315655224801,
+          "root_str": "315655224801",
+          "parent": 315707879473,
+          "parent_str": "315707879473",
+          "dialog": 315707879473,
+          "ctime": 1791279362,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "回复 @Hamlat :拉完天赋能达到要求  只不过暴击太不稳定了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315655224801,
+        "rpid_str": "315655224801",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790846704,
+        "like": 0,
+        "rcount": 11,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_2d46187b724f41c3aeddf5ad",
+        "content": {
+          "message": "woc 这面板真牛啊 现在就差第一间了 20闲 10茜 现在差在下落套和班闲的充能 不知道有没有希望了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bcabf238f8a140dff6ac76b511c5504cd12c5ccc5da3fdb509a01d98b6afa513",
+  "original_bytes_sha256": "7fe7907fd5aa460cbc69cc433203e826cf10909d4d40a03a464bbfc2fa0708d7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,169 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359209613190",
+    "root": "315581338561",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:38:00.106107+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319156722592,
+          "rpid_str": "319156722592",
+          "root": 315581338561,
+          "root_str": "315581338561",
+          "parent": 315581338561,
+          "parent_str": "315581338561",
+          "dialog": 319156722592,
+          "ctime": 1790793480,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ecbbb0f8be7d2d94685736c9",
+          "content": {
+            "message": "感觉差点意思"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315581338561,
+        "rpid_str": "315581338561",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790782422,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_0e9972a3b80c354625265ad4",
+        "content": {
+          "message": "我这个可以打过吗[大哭][大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/6f835a0d3d2ce47c056199fc62b9b70c441443339.jpg",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 157.643,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/17adb90e581ebf8f5abc098d5f4c4809441443339.jpg",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 117.294,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/892b796021fbfe4fc32730a951a45744441443339.jpg",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 150.863,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/82cb9ba46c358a9d8a7ffe61670accd3441443339.jpg",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 219.386,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a731067d74a37dc3dd6cad353cfbdaf5441443339.jpg",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 236.996,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/98810ff4e59534b3ac600ecc4990bdf6441443339.jpg",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 141.437,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7efdf1c55131796cf3fcf468174851b2441443339.jpg",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 172.555,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e4e161edd34acf22ef2950b5a64e2aafcb8a259de59ce2d7b80e934856fee1ef",
+  "original_bytes_sha256": "bd1b8ceee332cca67ada79a17b03915b9c82953dae3478260c29b1f160cf1e9f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

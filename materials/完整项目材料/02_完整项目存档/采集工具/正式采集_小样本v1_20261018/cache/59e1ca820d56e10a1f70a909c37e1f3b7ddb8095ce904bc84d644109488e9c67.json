@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447239669367",
+    "root": "317183870033",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:58:14.585627+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320850005936,
+          "rpid_str": "320850005936",
+          "root": 317183870033,
+          "root_str": "317183870033",
+          "parent": 317183870033,
+          "parent_str": "317183870033",
+          "ctime": 1792121108,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5e58473b5c67cf307f41340f",
+          "content": {
+            "message": "@去薯条整点码头zzz"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317183870033,
+        "rpid_str": "317183870033",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792107847,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_e1c0ebf83aefb7110b27c16f",
+        "content": {
+          "message": "我开大运的，我管你这那的，跟我的保险说去吧"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "9d6ec0215ade21d3da1b0d241b776d81e50f95cd65d76de8f335767b38598331",
+  "original_bytes_sha256": "03bbb2ab8960f70c2789a0e320d15c49cf7606b9914110bf9798f993122f51d4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

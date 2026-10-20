@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318876236544",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:42:02.929801+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315323126337,
+          "rpid_str": "315323126337",
+          "root": 318876236544,
+          "root_str": "318876236544",
+          "parent": 318876236544,
+          "parent_str": "318876236544",
+          "dialog": 315323126337,
+          "ctime": 1790573733,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "带冰系压进度条呀。比如迪奥娜，莱依拉，工具人那么多。。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315323377713,
+          "rpid_str": "315323377713",
+          "root": 318876236544,
+          "root_str": "318876236544",
+          "parent": 318876236544,
+          "parent_str": "318876236544",
+          "dialog": 315323377713,
+          "ctime": 1790573924,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队思路"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315323702129,
+          "rpid_str": "315323702129",
+          "root": 318876236544,
+          "root_str": "318876236544",
+          "parent": 318876236544,
+          "parent_str": "318876236544",
+          "dialog": 315323702129,
+          "ctime": 1790574140,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "超导是可以压冰锅。不止木偶那个星超导。菲林斯可以走第二间"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318876236544,
+        "rpid_str": "318876236544",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790572695,
+        "like": 1,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_2217815d113fd56df6f0be6d",
+        "content": {
+          "message": "月感电能打第二间吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7b7f505d11bb809dce7756d63646c56750bde1448c9f50d2d45f5a718f992847",
+  "original_bytes_sha256": "7d892a9e7aa8e8fca662aeaeacb3b8261556127d5eeeca85c381ba7b787c6fd6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

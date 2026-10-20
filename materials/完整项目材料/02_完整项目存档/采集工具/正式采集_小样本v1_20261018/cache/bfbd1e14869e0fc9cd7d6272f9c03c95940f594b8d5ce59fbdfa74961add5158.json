@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "315694694225",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:50:57.732092+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319262538896,
+          "rpid_str": "319262538896",
+          "root": 315694694225,
+          "root_str": "315694694225",
+          "parent": 315694694225,
+          "parent_str": "315694694225",
+          "dialog": 319262538896,
+          "ctime": 1790869271,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "别的四星呢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315772939201,
+          "rpid_str": "315772939201",
+          "root": 315694694225,
+          "root_str": "315694694225",
+          "parent": 319262538896,
+          "parent_str": "319262538896",
+          "dialog": 319262538896,
+          "ctime": 1790935703,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b86de55cf32ee5168ff2237e",
+          "content": {
+            "message": "回复 @夜星Wetchin :都6"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319355387872,
+          "rpid_str": "319355387872",
+          "root": 315694694225,
+          "root_str": "315694694225",
+          "parent": 315772939201,
+          "parent_str": "315772939201",
+          "dialog": 319262538896,
+          "ctime": 1790941354,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "回复 @Kevin萌萌哒- :随便打吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315694694225,
+        "rpid_str": "315694694225",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790868521,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b86de55cf32ee5168ff2237e",
+        "content": {
+          "message": "21火，但0夏OK吗？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2c066b05c3ca09b6f1857ce6cef174e075196523ab8ea326bcace16aaa8a7045",
+  "original_bytes_sha256": "68377a5c44b4ec6c7d2d26b50a59be62fa112f46c1976286042f49467a06c4ee",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

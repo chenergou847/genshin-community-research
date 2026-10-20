@@ -1,0 +1,109 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315752629201",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:12:41.767788+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315752629201,
+        "rpid_str": "315752629201",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790923445,
+        "like": 2,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_51572b1e655e1f3df560a5e9",
+        "content": {
+          "message": "推荐朋友抽奥2真是做好事了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1288355c938bd3eddcde1ea69b99ec761731128355.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 2100.65,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/fb5e6d83e0f182c29c9d097e18f68a141731128355.jpg",
+              "img_width": 1440,
+              "img_height": 2856,
+              "img_size": 3842.58,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/88c91e65ef95b2a7d06a218a8e99d4931731128355.jpg",
+              "img_width": 1440,
+              "img_height": 2865,
+              "img_size": 3522.48,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/71ac7c1a9b0d084f1a9e69782da313431731128355.jpg",
+              "img_width": 1440,
+              "img_height": 2813,
+              "img_size": 3691.03,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f17d558484a13732a7bc6d9b6a21cbcb1731128355.png",
+              "img_width": 1338,
+              "img_height": 456,
+              "img_size": 434.58,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d37873e345c739b3f2cf95e91718a837801cb80b6fffdbc61d21beec7920ccf8",
+  "original_bytes_sha256": "ff8abfe91a06f05492e94a5bfe61fa18ad15a0c36703edf03913164633e47b85",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

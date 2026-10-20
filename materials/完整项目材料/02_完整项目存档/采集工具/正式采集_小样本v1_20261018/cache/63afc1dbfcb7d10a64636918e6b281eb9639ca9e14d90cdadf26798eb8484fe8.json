@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319059249664",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:21:48.974013+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319059249664,
+        "rpid_str": "319059249664",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790730014,
+        "like": 1,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_7762798f70f44736550e0573",
+        "content": {
+          "message": "我这个咋配队哇",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3828a6cd2abe5270347713fadc230d3a1382710012.jpg",
+              "img_width": 1260,
+              "img_height": 11161,
+              "img_size": 1421.98,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cee1ed16177db3f277401a3a6ad8a0b10559f200a397e080a403d44b892936c7",
+  "original_bytes_sha256": "a0df2c3c86a85aaddd8da83fb961610252626f8394adf6e6b9772461e37a1890",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

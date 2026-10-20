@@ -1,0 +1,229 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315427851457",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:28:22.994883+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315429737633,
+          "rpid_str": "315429737633",
+          "root": 315427851457,
+          "root_str": "315427851457",
+          "parent": 315427851457,
+          "parent_str": "315427851457",
+          "dialog": 315429737633,
+          "ctime": 1790668582,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0a482efbcdaeedbc17fc6a9",
+          "content": {
+            "message": "第一间薇，沃，冰主/77，珐，第二间丝爱芙夜，第三间木偶奥黛塔神子希诺宁，随便打，13间奥黛塔和冰主可以换着用，哪个难打就带奥，如果感觉第二间难打备选第三间牛牛尼杜伊安珊，把木偶队放第二间然后希诺宁换爱可菲压冰条就行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315431825649,
+          "rpid_str": "315431825649",
+          "root": 315427851457,
+          "root_str": "315427851457",
+          "parent": 315427851457,
+          "parent_str": "315427851457",
+          "dialog": 315431825649,
+          "ctime": 1790670130,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间带薇斯纳带冰主也能打，第二间丝柯克队。第三间木偶星超导带奥黛塔。冰主奥黛塔自选一三间"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315435162049,
+          "rpid_str": "315435162049",
+          "root": 315427851457,
+          "root_str": "315427851457",
+          "parent": 315429737633,
+          "parent_str": "315429737633",
+          "dialog": 315429737633,
+          "ctime": 1790672563,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8411359a09c23a9e29d71359",
+          "content": {
+            "message": "回复 @鸱情 :谢谢老大[FGO_好耶]",
+            "emote": {
+              "[FGO_好耶]": {
+                "id": 142680,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[FGO_好耶]",
+                "url": "https://i0.hdslb.com/bfs/emote/bb2279baa660dd196fd944a2c7bd2f7f22e55f80.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1783596150,
+                "jump_title": "好耶"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315435164625,
+          "rpid_str": "315435164625",
+          "root": 315427851457,
+          "root_str": "315427851457",
+          "parent": 315431825649,
+          "parent_str": "315431825649",
+          "dialog": 315431825649,
+          "ctime": 1790672568,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8411359a09c23a9e29d71359",
+          "content": {
+            "message": "回复 @星光璀璨之时 :谢谢老大[FGO_好耶]",
+            "emote": {
+              "[FGO_好耶]": {
+                "id": 142680,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[FGO_好耶]",
+                "url": "https://i0.hdslb.com/bfs/emote/bb2279baa660dd196fd944a2c7bd2f7f22e55f80.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1783596150,
+                "jump_title": "好耶"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315427851457,
+        "rpid_str": "315427851457",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790667013,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_8411359a09c23a9e29d71359",
+        "content": {
+          "message": "老大我想问问n5怎么打，奥黛塔感觉星反应队都要，感觉不是很好组第三队[FGO_跪]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0e08f5c417c491243eef2c05da7441f612310983.jpg",
+              "img_width": 1084,
+              "img_height": 14628,
+              "img_size": 1798.28
+            }
+          ],
+          "emote": {
+            "[FGO_跪]": {
+              "id": 142679,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[FGO_跪]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2fecbdcac237b801e9354d5f6671875ae0cce1b.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1783596150,
+              "jump_title": "跪"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1a4c8843e8cb249ee5883f05c7223c060114628f1319282a8411a97cd3a697b8",
+  "original_bytes_sha256": "86d30409722a0f88dc0b329e28cc66dd42fe0de7eb848f46621435e6f8194e84",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

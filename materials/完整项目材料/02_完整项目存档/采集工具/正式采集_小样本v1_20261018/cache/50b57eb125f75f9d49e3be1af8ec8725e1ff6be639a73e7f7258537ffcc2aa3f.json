@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315668890449",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:00:39.284356+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 17
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315668890449,
+        "rpid_str": "315668890449",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790854424,
+        "like": 33,
+        "rcount": 17,
+        "count": 18,
+        "state": 0,
+        "author_id": "U_f0c513290089a934859da4ef",
+        "content": {
+          "message": "开头那散兵我是真用不来 还是用牢龙过的\n后面还抽到了牢丝的复活币 直接群星寂灭完了冰锅"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a23ff04f743626a9a9d5f68de5e2ba308a1c9b55695a833f0fbf8407138357f4",
+  "original_bytes_sha256": "427cb5df519e69ca689832dd7acf1a792d275ebc4d92d1a399fef6ebcf0e6012",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

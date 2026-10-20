@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314928169281",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:26:27.315556+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314928169281,
+        "rpid_str": "314928169281",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790254259,
+        "like": 0,
+        "rcount": 2,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_3cf43de2303f6136e77834d5",
+        "content": {
+          "message": "n5没有奥黛塔 第一间能用月体系吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1cf411141ceb46dc13645f2e9f90ccf2c941d3cc76d93e5038ed0279e1cabc86",
+  "original_bytes_sha256": "9f647d851c655af493598ea7ce06afc59f537f4ec9aee3126378c6d2d645545d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

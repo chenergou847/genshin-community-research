@@ -1,0 +1,73 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317274551569",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:35:41.499917+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317274551569,
+        "rpid_str": "317274551569",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792170780,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_1b8158f8a2369d31a0ac86fc",
+        "content": {
+          "message": "莱龙耍起🌚",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/03f557b4a32d640299c6c7d7378ba99f522708990.jpg",
+              "img_width": 2412,
+              "img_height": 1080,
+              "img_size": 1216.42
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/88192df41c23a91cbbe67bab4fbfef4d522708990.jpg",
+              "img_width": 2412,
+              "img_height": 1080,
+              "img_size": 291.83
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "0ad0a0b382c3ddc1ee956d2b6d407745e588f72d9f8f2cc078e051e0744417b8",
+  "original_bytes_sha256": "d7ef4ddb759916b7b4ea575c1089ea073ac2c0bbc753415bee3e87bda7756491",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

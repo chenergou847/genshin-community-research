@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359209613190",
+    "root": "319188925504",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:37:56.075827+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319188925504,
+        "rpid_str": "319188925504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790827969,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b520893d10a08efa309a1217",
+        "content": {
+          "message": "好久之前退坑的 现在想回坑 应该创新号还是就拿这个号玩啊",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/c20d771653e551ec23c708a6445ea0f4475792045.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1760.93
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ee9b6794d1f8b61e5590852e04a55cf08f4f347b9c36835b9071d35d1fa8636c",
+  "original_bytes_sha256": "c541d9dfcf219729439f804ae4e4d7242971eb5adeca747c0c62fb5563e1841a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

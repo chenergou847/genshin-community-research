@@ -1,0 +1,320 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "315839570001",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:06:57.803529+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319414891216,
+          "rpid_str": "319414891216",
+          "root": 315839570001,
+          "root_str": "315839570001",
+          "parent": 315839570001,
+          "parent_str": "315839570001",
+          "dialog": 319414891216,
+          "ctime": 1790992261,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf0b5ed444e3084e80107a59",
+          "content": {
+            "message": "暴击是不是应该高了，85 我记得不是满爆吗[妙啊]",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315840410449,
+          "rpid_str": "315840410449",
+          "root": 315839570001,
+          "root_str": "315839570001",
+          "parent": 319414891216,
+          "parent_str": "319414891216",
+          "dialog": 319414891216,
+          "ctime": 1790992411,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1bec52a2b120982b5fe9cf85",
+          "content": {
+            "message": "回复 @IM_ChenPi :没办法，不好压啊，绿剑有44暴击了，圣遗物没刷好[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319419028928,
+          "rpid_str": "319419028928",
+          "root": 315839570001,
+          "root_str": "315839570001",
+          "parent": 315840410449,
+          "parent_str": "315840410449",
+          "dialog": 319414891216,
+          "ctime": 1790995026,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bf0b5ed444e3084e80107a59",
+          "content": {
+            "message": "回复 @雷萤术士老公 :我 69 暴击率 感觉经常不暴击挺难受的[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315844570401,
+          "rpid_str": "315844570401",
+          "root": 315839570001,
+          "root_str": "315839570001",
+          "parent": 319419028928,
+          "parent_str": "319419028928",
+          "dialog": 319414891216,
+          "ctime": 1790995240,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1bec52a2b120982b5fe9cf85",
+          "content": {
+            "message": "回复 @IM_ChenPi :双冰加炉火套加了31暴击率，你69不是刚好百暴？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315844626001,
+          "rpid_str": "315844626001",
+          "root": 315839570001,
+          "root_str": "315839570001",
+          "parent": 319419028928,
+          "parent_str": "319419028928",
+          "dialog": 319414891216,
+          "ctime": 1790995346,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1bec52a2b120982b5fe9cf85",
+          "content": {
+            "message": "回复 @IM_ChenPi :记错了，我带的幻灭[笑哭]超了太多暴击了…，还得慢慢刷",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319429354752,
+          "rpid_str": "319429354752",
+          "root": 315839570001,
+          "root_str": "315839570001",
+          "parent": 315844570401,
+          "parent_str": "315844570401",
+          "dialog": 319414891216,
+          "ctime": 1791000740,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1c8379c77c812c3b0274e2ad",
+          "content": {
+            "message": "回复 @雷萤术士老公 :炉火不加暴击啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319445375968,
+          "rpid_str": "319445375968",
+          "root": 315839570001,
+          "root_str": "315839570001",
+          "parent": 315839570001,
+          "parent_str": "315839570001",
+          "dialog": 319445375968,
+          "ctime": 1791009400,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_704eda8444f75780ddfe651f",
+          "content": {
+            "message": "攻击力太低了，暴击太高了，攻击至少要有个2.8k左右才小毕业"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315839570001,
+        "rpid_str": "315839570001",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790991820,
+        "like": 123,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_1bec52a2b120982b5fe9cf85",
+        "content": {
+          "message": "建模太好了，还有这个二命太无敌了，上去踢一脚摔炮都有好几十万了，还能减20抗和42大攻击加成…，就算女皇不够二命我也忍不住抽了。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e1cb54dec6b2423493f5fcbdb89281020668163.jpg",
+              "img_width": 1080,
+              "img_height": 2376,
+              "img_size": 814.49
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b2a0b029e20c5438f3c9c08100d79286aed2d06f72105ba07029b81f1593e77b",
+  "original_bytes_sha256": "beb1d4e40bd9af66ba8ddfbfb2df2f6c203fe662758497809e43ec0902e494d0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,221 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315635006129",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:22:38.289438+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315650600337,
+          "rpid_str": "315650600337",
+          "root": 315635006129,
+          "root_str": "315635006129",
+          "parent": 315635006129,
+          "parent_str": "315635006129",
+          "dialog": 315650600337,
+          "ctime": 1790843826,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_00eb3d9b9d949eb083982528",
+          "content": {
+            "message": "带冰主是为了星扩散破机制，嘉明打不了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319250052432,
+          "rpid_str": "319250052432",
+          "root": 315635006129,
+          "root_str": "315635006129",
+          "parent": 315650600337,
+          "parent_str": "315650600337",
+          "dialog": 315650600337,
+          "ctime": 1790862664,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_194aa7fa6d7e653a6bb9e470",
+          "content": {
+            "message": "回复 @次元志 :问的是冰主圣遗物，没说用嘉明"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315685893537,
+          "rpid_str": "315685893537",
+          "root": 315635006129,
+          "root_str": "315635006129",
+          "parent": 319250052432,
+          "parent_str": "319250052432",
+          "dialog": 315650600337,
+          "ctime": 1790863785,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_00eb3d9b9d949eb083982528",
+          "content": {
+            "message": "回复 @Hhaol-M :误会了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315781138497,
+          "rpid_str": "315781138497",
+          "root": 315635006129,
+          "root_str": "315635006129",
+          "parent": 315635006129,
+          "parent_str": "315635006129",
+          "dialog": 315781138497,
+          "ctime": 1790939820,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c8641d5e0de2d7a7868f5de8",
+          "content": {
+            "message": "魔女不是主打蒸发的嘛，下落套好像给近一百增伤，虽然说吃不满"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315635006129,
+        "rpid_str": "315635006129",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790833802,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_7ef874b24ad4423358a13b7c",
+        "content": {
+          "message": "魔女套和下落套差了多少呢，我嘉明有现成的魔女套[星星眼]",
+          "emote": {
+            "[星星眼]": {
+              "id": 1956,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[星星眼]",
+              "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "星星眼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "20288387504ac7793182e4cde1301707da09f6241838729203dc68d66fb84afa",
+  "original_bytes_sha256": "5e176da209cb76790b087be94a8304091783e954136ed68b37a568b9bb5e0b7f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

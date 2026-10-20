@@ -1,0 +1,108 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454638418193",
+    "root": "317380004977",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:50:33.178609+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317379911585,
+          "rpid_str": "317379911585",
+          "root": 317380004977,
+          "root_str": "317380004977",
+          "parent": 317380004977,
+          "parent_str": "317380004977",
+          "ctime": 1792252969,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_be4cdc404beeb3a89b6e2dff",
+          "content": {
+            "message": "上半薇斯纳一分钟左右就结束了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321056899584,
+          "rpid_str": "321056899584",
+          "root": 317380004977,
+          "root_str": "317380004977",
+          "parent": 317380004977,
+          "parent_str": "317380004977",
+          "ctime": 1792274327,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_387c01c9191b05ed6646edc3",
+          "content": {
+            "message": "草神在打的过程中讲到了暴击率要点要求，行秋圣遗物也尽量不要抠搜你在试试呐[鼓掌]",
+            "emote": {
+              "[鼓掌]": {
+                "id": 1964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[鼓掌]",
+                "url": "https://i0.hdslb.com/bfs/emote/895d1fc616b4b6c830cf96012880818c0e1de00d.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "鼓掌"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317380004977,
+        "rpid_str": "317380004977",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792252944,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_be4cdc404beeb3a89b6e2dff",
+        "content": {
+          "message": "为啥我下半二命草神感觉输出完全不够啊，97忍也是1000精通往上了，每次下半都超时"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "42de3fcfa1ba71f70a7d12ba920ed44aac8afa9e4b410e82e1cc3fa21b7d6faa",
+  "original_bytes_sha256": "25c54fed225bdab6c0a0bc94c3d4cd3508c34662d804e0e72b05169eddc63c64",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

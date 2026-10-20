@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319652467904",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:34:45.516402+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319655211056,
+          "rpid_str": "319655211056",
+          "root": 319652467904,
+          "root_str": "319652467904",
+          "parent": 319652467904,
+          "parent_str": "319652467904",
+          "dialog": 319655211056,
+          "ctime": 1791160157,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e220475eccc57edecc945f0f",
+          "content": {
+            "message": "n5及以上都不行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316069136417,
+          "rpid_str": "316069136417",
+          "root": 319652467904,
+          "root_str": "319652467904",
+          "parent": 319652467904,
+          "parent_str": "319652467904",
+          "dialog": 316069136417,
+          "ctime": 1791161474,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f89ed892ec9f9d2c79335e97",
+          "content": {
+            "message": "n5 及以上都不行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319652467904,
+        "rpid_str": "319652467904",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791157189,
+        "like": 0,
+        "rcount": 2,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_97a3212e4d829ddd90b854de",
+        "content": {
+          "message": "n6可以联机拿奖励吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "df7ab31ebdd9b3e3630df60c9d3d5f775f9ffb43f7e920a7d1250f2f545ed9c9",
+  "original_bytes_sha256": "60b52122514077e29f61280c873cf1d42205f071a4104c75014ef36b224beb3e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

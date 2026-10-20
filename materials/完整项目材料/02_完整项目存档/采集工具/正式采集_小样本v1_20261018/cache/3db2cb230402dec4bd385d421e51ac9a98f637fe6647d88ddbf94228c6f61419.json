@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319064932160",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:18:41.788800+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319064932160,
+        "rpid_str": "319064932160",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790735056,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_0ab3b5d77797593046f24475",
+        "content": {
+          "message": "老师问问N6能打吗？以及问问配队",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ea0640901c71a4ea010232c895bf3eff13115442.jpg",
+              "img_width": 1320,
+              "img_height": 19611,
+              "img_size": 5575
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "996cd2d7abd4892b9fa64e1bea2234a64127370d48a1c1490208a5fe3d012cd1",
+  "original_bytes_sha256": "3110c98f3627e500f488c00b2bff02a307d7d0a42679295f79df9cc14c21cc92",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

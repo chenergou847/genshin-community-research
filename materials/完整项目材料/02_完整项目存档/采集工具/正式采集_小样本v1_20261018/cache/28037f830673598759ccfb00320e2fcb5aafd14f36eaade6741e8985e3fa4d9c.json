@@ -1,0 +1,196 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315477520657",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:24:16.491672+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315497309617,
+          "rpid_str": "315497309617",
+          "root": 315477520657,
+          "root_str": "315477520657",
+          "parent": 315477520657,
+          "parent_str": "315477520657",
+          "dialog": 315497309617,
+          "ctime": 1790730255,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶奥黛塔神子+ 尼可/砂糖。四号位带减抗位"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315497197073,
+          "rpid_str": "315497197073",
+          "root": 315477520657,
+          "root_str": "315477520657",
+          "parent": 315477520657,
+          "parent_str": "315477520657",
+          "dialog": 315497197073,
+          "ctime": 1790730271,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间丝柯克战舰"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315497320225,
+          "rpid_str": "315497320225",
+          "root": 315477520657,
+          "root_str": "315477520657",
+          "parent": 315477520657,
+          "parent_str": "315477520657",
+          "dialog": 315497320225,
+          "ctime": 1790730282,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间火神战舰"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315497367009,
+          "rpid_str": "315497367009",
+          "root": 315477520657,
+          "root_str": "315477520657",
+          "parent": 315477520657,
+          "parent_str": "315477520657",
+          "dialog": 315497367009,
+          "ctime": 1790730311,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。凌晨不看评论区的，置顶评论写了的。个人是工作党"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315530064401,
+          "rpid_str": "315530064401",
+          "root": 315477520657,
+          "root_str": "315477520657",
+          "parent": 315497367009,
+          "parent_str": "315497367009",
+          "dialog": 315497367009,
+          "ctime": 1790754077,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e5476a7c93a13e5915d985b9",
+          "content": {
+            "message": "回复 @星光璀璨之时 :已点赞投币了谢谢up主"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315477520657,
+        "rpid_str": "315477520657",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790698212,
+        "like": 0,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_e5476a7c93a13e5915d985b9",
+        "content": {
+          "message": "我这怎么分配打n6怪",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4af676ffe0de1c4d94dec1ca5cef988034898955.jpg",
+              "img_width": 1284,
+              "img_height": 14397,
+              "img_size": 4076
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "96a0ad237e1bfc8aa9656dd0e62a77030a6206cb422613e7a885cf0fd17c6346",
+  "original_bytes_sha256": "57db6d8ea231801f35d0b63f2b728e5d90915e4c88d7b6cb03bd3903cbb16cc1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

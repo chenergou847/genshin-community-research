@@ -1,0 +1,59 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317224272993",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:39:23.077764+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317224272993,
+        "rpid_str": "317224272993",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792140722,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_e17903e09fd374f5fc20ce02",
+        "content": {
+          "message": "冰主一个重击64万，再加大招又是60万，星反应的恩情还不完"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "b153d2dc69bdc10c96469f3136516923cfce6d55d1b57646d45e3cc83aa10b21",
+  "original_bytes_sha256": "3b25de273a463ab804401c87d1cb835b8a468e139b9d81521c0a827d4b47fe6e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

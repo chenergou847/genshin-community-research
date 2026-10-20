@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315039720433",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:05:17.783399+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315039720433,
+        "rpid_str": "315039720433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790340294,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_4aeda7d317cc42fe3b0a1443",
+        "content": {
+          "message": "up，看看这个可以极限过吗，过不了就算了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3f6536918ef4a818a38c8ef198c00f151982045450.jpg",
+              "img_width": 1264,
+              "img_height": 14368,
+              "img_size": 1773.68
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ee6766f7e92eaaad93d6f1f6d935e3988d419615ef7b012b984c03db9ff94a0d",
+  "original_bytes_sha256": "f8d3c3d7794ef38322b9a6200e46a6d3e9d389008e22fc67f0d73f4113a843a6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

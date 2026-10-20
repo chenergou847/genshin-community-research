@@ -1,0 +1,96 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "316460799537",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:07:41.417130+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316460799537,
+        "rpid_str": "316460799537",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791458447,
+        "like": 0,
+        "rcount": 3,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_352004a3ec59ef1c9574bb4d",
+        "content": {
+          "message": "7.0回坑的 想问一下n5怎么配队能过 还是说手法有问题 n5只能打过小矮人[tv_流泪]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e916f52de09c10dd462d56c061ef6d8539583753.jpg",
+              "img_width": 1179,
+              "img_height": 11613,
+              "img_size": 3845,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[tv_流泪]": {
+              "id": 77,
+              "package_id": 2,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[tv_流泪]",
+              "url": "https://i0.hdslb.com/bfs/emote/7e71cde7858f0cd50d74b0264aa26db612a8a167.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1756886884,
+              "jump_title": "流泪"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a12dab8b277051a201fd253d4e42ddda458a40367dcf63ce73cf65064882131d",
+  "original_bytes_sha256": "cd03d388f21e68fe6b785682d0a2d48c2c0949a18c2b0e1a8aa17e7345031b80",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,207 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "316490684673",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:43:31.759279+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320101276544,
+          "rpid_str": "320101276544",
+          "root": 316490684673,
+          "root_str": "316490684673",
+          "parent": 316490684673,
+          "parent_str": "316490684673",
+          "dialog": 320101276544,
+          "ctime": 1791477270,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "能"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316491294353,
+          "rpid_str": "316491294353",
+          "root": 316490684673,
+          "root_str": "316490684673",
+          "parent": 320101276544,
+          "parent_str": "320101276544",
+          "dialog": 320101276544,
+          "ctime": 1791477406,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9cff5d7769252e207366542",
+          "content": {
+            "message": "回复 @夜星Wetchin :能帮我试试吗[脱单doge]",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320101623728,
+          "rpid_str": "320101623728",
+          "root": 316490684673,
+          "root_str": "316490684673",
+          "parent": 316491294353,
+          "parent_str": "316491294353",
+          "dialog": 320101276544,
+          "ctime": 1791477485,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "回复 @samlords : 私"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316677642129,
+          "rpid_str": "316677642129",
+          "root": 316490684673,
+          "root_str": "316490684673",
+          "parent": 320101623728,
+          "parent_str": "320101623728",
+          "dialog": 320101276544,
+          "ctime": 1791644418,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db107b2ccd3f81033c3c87c7",
+          "content": {
+            "message": "回复 @夜星Wetchin :01火神01奶奶20希诺宁 超载队的三个四星辅助都是满命，我是融化更好过，还是超载更好过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316677687041,
+          "rpid_str": "316677687041",
+          "root": 316490684673,
+          "root_str": "316490684673",
+          "parent": 320101623728,
+          "parent_str": "320101623728",
+          "dialog": 320101276544,
+          "ctime": 1791644456,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db107b2ccd3f81033c3c87c7",
+          "content": {
+            "message": "回复 @夜星Wetchin :另外两间我应该没什么大的问题，就差一间了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316490684673,
+        "rpid_str": "316490684673",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791476974,
+        "like": 2,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_d9cff5d7769252e207366542",
+        "content": {
+          "message": "01火240分圣遗物，6餐叉夏6伊1欧能过吗"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a10cffd1cdceceb7035d95d8b1f28af996ce31d50bd149960fd7adea38e59d44",
+  "original_bytes_sha256": "62dbf4a0ea4f50bfdfed006401632e23d9ddc96c0ed399823c0f8293c8709001",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

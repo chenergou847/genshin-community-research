@@ -1,0 +1,188 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "317362105473",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:44:28.997716+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317362265057,
+          "rpid_str": "317362265057",
+          "root": 317362105473,
+          "root_str": "317362105473",
+          "parent": 317362105473,
+          "parent_str": "317362105473",
+          "dialog": 317362265057,
+          "ctime": 1792243138,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a08eae38ea15eca627ff5d6e",
+          "content": {
+            "message": "然后第一间前辈换成6命猫猫试试，也许还能再提点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321023368304,
+          "rpid_str": "321023368304",
+          "root": 317362105473,
+          "root_str": "317362105473",
+          "parent": 317362105473,
+          "parent_str": "317362105473",
+          "dialog": 321023368304,
+          "ctime": 1792243503,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_83fc4886f0a01c49323655e2",
+          "content": {
+            "message": "100W最强一击能出28s"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317386700193,
+          "rpid_str": "317386700193",
+          "root": 317362105473,
+          "root_str": "317362105473",
+          "parent": 321023368304,
+          "parent_str": "321023368304",
+          "dialog": 321023368304,
+          "ctime": 1792258124,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a08eae38ea15eca627ff5d6e",
+          "content": {
+            "message": "回复 @阿帆帆子 :我知道还能更快，但我这不是懒得凹吗，本来手法就一般，不折磨自己了[脱单doge]",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317362105473,
+        "rpid_str": "317362105473",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792243029,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_a08eae38ea15eca627ff5d6e",
+        "content": {
+          "message": "@ii银 因为楼中楼发不了图片，只能单发一条频率@你了，别带莫娜了，试试讨龙宗室夏洛蒂吧，我这手法不太行，其实还能凹，可以b站搜一下带夏洛蒂轴就行[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/7f05b2da5b59c4145f0d4d2c714ddf0c161082362.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1444.9,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bcbe530893c4604133a026cd972dad3a4254d8c66a886c66e126c9f6ecb148c9",
+  "original_bytes_sha256": "8e57a1cc64464788944509928a9cd3aa70bd4341b07dc29454458604981b04c9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

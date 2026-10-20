@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319517572544",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:01:42.844423+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315939235777,
+          "rpid_str": "315939235777",
+          "root": 319517572544,
+          "root_str": "319517572544",
+          "parent": 319517572544,
+          "parent_str": "319517572544",
+          "dialog": 315939235777,
+          "ctime": 1791051778,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_45b7af90db7b57f71e81be29",
+          "content": {
+            "message": "好像是7.3不过怕是没抽数，上半女皇和女仆，下半鹅和木偶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315963987457,
+          "rpid_str": "315963987457",
+          "root": 319517572544,
+          "root_str": "319517572544",
+          "parent": 319517572544,
+          "parent_str": "319517572544",
+          "dialog": 315963987457,
+          "ctime": 1791083892,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bad18b1fb488068c0d35170b",
+          "content": {
+            "message": "还早着呢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319553969248,
+          "rpid_str": "319553969248",
+          "root": 319517572544,
+          "root_str": "319517572544",
+          "parent": 315939235777,
+          "parent_str": "315939235777",
+          "dialog": 315939235777,
+          "ctime": 1791088250,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c3d0439be91c3ae6428b2769",
+          "content": {
+            "message": "回复 @Diavolo___ :坏了，女仆和女皇我也想要[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319517572544,
+        "rpid_str": "319517572544",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791050359,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_c3d0439be91c3ae6428b2769",
+        "content": {
+          "message": "啥时候复刻啊？当时抽歪了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1146343ad1ef253f0a83b9fa3253c508fbd3b8f5d4a9dc0a239b0f48fe9fd386",
+  "original_bytes_sha256": "8caeb5ef0554f90c60494c336e7aaca0258fcaf286f59950aa9794812bc30805",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,138 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "316014068945",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:00:54.981597+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319598374576,
+          "rpid_str": "319598374576",
+          "root": 316014068945,
+          "root_str": "316014068945",
+          "parent": 316014068945,
+          "parent_str": "316014068945",
+          "dialog": 319598374576,
+          "ctime": 1791112762,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6a115254bb21b63fd1343875",
+          "content": {
+            "message": "同7点2来了，早知道多肝一点了[大哭]",
+            "emote": {
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316014068945,
+        "rpid_str": "316014068945",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791112550,
+        "like": 0,
+        "rcount": 1,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_cbbcdd3fcf68e471465b6e47",
+        "content": {
+          "message": "7.2%來了，絕對不是歪了[墨镜]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/35573248eac9e53e5d7ef4c6a483cf3e2067692492.jpg",
+              "img_width": 1170,
+              "img_height": 2177,
+              "img_size": 2188
+            }
+          ],
+          "emote": {
+            "[墨镜]": {
+              "id": 1953,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[墨镜]",
+              "url": "https://i0.hdslb.com/bfs/emote/3a03aebfc06339d86a68c2d893303b46f4b85771.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "墨镜"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b51e2751886017ca4cd4a24d6e3cf46d3bc91f464aa6c6415c064c620eccaaa3",
+  "original_bytes_sha256": "145b1029980df23d10f919d8cd313b37b8fea7eff4dac932a941f64b6c4a68d2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

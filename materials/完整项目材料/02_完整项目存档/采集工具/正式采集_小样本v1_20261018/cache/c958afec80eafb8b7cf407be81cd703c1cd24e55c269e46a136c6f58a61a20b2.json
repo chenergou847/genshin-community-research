@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319449425360",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:28:59.711870+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319449425360,
+        "rpid_str": "319449425360",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791011969,
+        "like": 7,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_b3f6d08b7f368b836937e789",
+        "content": {
+          "message": "原神现在越来越强调体系，剧诗现在还挺烧脑的，很需要你的规划，像这一期我感觉尤为明显，对我来说，少机两个搭配两个挂件角色可以轻松刷掉大部分关卡。梦见月，奥黛塔，木偶，七七等组成基本可以通刷这期。还有玉米大队，永冻队。但是都需要至少两人甚至三人乘体系才能比较容易刷过去关卡，所以我在开始的时候就得规划好，抽到哪些怎么用。论趣味性，说实话比幽境强，我幽境通过n6。但是有时候就是感觉玩的累，抽不到想要的。或者规划出了些失误，没什么回转余地，重开的代价太高了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "77eb7fc23116c46b6f1795e52b7651dac53deaa88c78f9b13e7ef2327078085a",
+  "original_bytes_sha256": "a640acb7ac94c3531828e2e0d6aec80bc70ad50cd198c7c46a679db0ffeb5274",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

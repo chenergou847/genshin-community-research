@@ -1,0 +1,162 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319071715504",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:16:28.587139+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319072329680,
+          "rpid_str": "319072329680",
+          "root": 319071715504,
+          "root_str": "319071715504",
+          "parent": 319071715504,
+          "parent_str": "319071715504",
+          "dialog": 319072329680,
+          "ctime": 1790740593,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_760b78fbffbf16b66a0fab8c",
+          "content": {
+            "message": "少机奥➕雷打冰棺，梦见月沃雅妮莎冰主七七一间，神子木偶猫砂糖可以冰锅"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319076931808,
+          "rpid_str": "319076931808",
+          "root": 319071715504,
+          "root_str": "319071715504",
+          "parent": 319072329680,
+          "parent_str": "319072329680",
+          "dialog": 319072329680,
+          "ctime": 1790743455,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_abb49f79e803b70610b97668",
+          "content": {
+            "message": "回复 @昔の挚友 :谢谢兄弟思路，奥黛塔给冰棺真过了[给心心]",
+            "emote": {
+              "[给心心]": {
+                "id": 3302,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[给心心]",
+                "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "给心心"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319071715504,
+        "rpid_str": "319071715504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790740263,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_abb49f79e803b70610b97668",
+        "content": {
+          "message": "佬们看我这个有过n5的可能吗，木偶三路都能走，梦见月能处理老头，就是剩下那路冰锅或者冰棺死活打不过[委屈]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a6e9779e9570dfb24b21be3b807f982f318937927.jpg",
+              "img_width": 1080,
+              "img_height": 4361,
+              "img_size": 2291.97
+            }
+          ],
+          "emote": {
+            "[委屈]": {
+              "id": 8,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[委屈]",
+              "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "委屈"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f1a7bc9bfead3e48c1f48b23d90f57f15eea02d04f146979bac98ec900ae15b1",
+  "original_bytes_sha256": "5d49bfbec2ad4bf61500a8bcdb35006dd48ef450d2ba715c03be10513eec9e28",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

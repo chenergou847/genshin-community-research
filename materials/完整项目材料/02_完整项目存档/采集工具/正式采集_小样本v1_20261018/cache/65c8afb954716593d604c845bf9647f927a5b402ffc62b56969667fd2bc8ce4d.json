@@ -1,0 +1,111 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316208048977",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:31:50.767943+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316215972369,
+          "rpid_str": "316215972369",
+          "root": 316208048977,
+          "root_str": "316208048977",
+          "parent": 316208048977,
+          "parent_str": "316208048977",
+          "dialog": 316215972369,
+          "ctime": 1791266906,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d25571cf7a5509811231bd95",
+          "content": {
+            "message": "能联机，但是没有奖励"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316208048977,
+        "rpid_str": "316208048977",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791262433,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_fc79fe8619efa3de9e8e4130",
+        "content": {
+          "message": "[哦呼]N6能聯機？",
+          "emote": {
+            "[哦呼]": {
+              "id": 1940,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[哦呼]",
+              "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哦呼"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9ef6cb536d8a8409ba0c1e95e38c2250ba65f7a72f4a2577110e3ba039c76339",
+  "original_bytes_sha256": "20ee9b5347bd51b07024684671bae1ee56609914e79883362c5b2821a27863f9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

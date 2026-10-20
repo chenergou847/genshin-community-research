@@ -1,0 +1,552 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314962655345",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:18:40.992970+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 15
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314962807297,
+          "rpid_str": "314962807297",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314962655345,
+          "parent_str": "314962655345",
+          "dialog": 314962807297,
+          "ctime": 1790288480,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8bda283590d3fe2842eff2a",
+          "content": {
+            "message": "月绽能硬打，大概二三十秒，这么高配置凹一凹感觉能五六十秒"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314963466593,
+          "rpid_str": "314963466593",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314962807297,
+          "parent_str": "314962807297",
+          "dialog": 314962807297,
+          "ctime": 1790290009,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @零批 :[笑哭][笑哭]我勒个豆我最快的一期只有80多过，五六十我感觉我这个配置到不了[笑哭][笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318499552048,
+          "rpid_str": "318499552048",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314963466593,
+          "parent_str": "314963466593",
+          "dialog": 314962807297,
+          "ctime": 1790290757,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f4ae6e067aaa6cf131ebd064",
+          "content": {
+            "message": "回复 @桃花香花桃啊 :这可是秒伤能几百万的队伍，自信点"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314963855441,
+          "rpid_str": "314963855441",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314962655345,
+          "parent_str": "314962655345",
+          "dialog": 314963855441,
+          "ctime": 1790290854,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8bda283590d3fe2842eff2a",
+          "content": {
+            "message": "哦原来火神队友不是全满，我没细看，那火神这间要慢不少，感觉还是八九十秒的样子"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314964056369,
+          "rpid_str": "314964056369",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314963855441,
+          "parent_str": "314963855441",
+          "dialog": 314963855441,
+          "ctime": 1790291140,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @零批 :okok多谢！"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314963977009,
+          "rpid_str": "314963977009",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 318499552048,
+          "parent_str": "318499552048",
+          "dialog": 314962807297,
+          "ctime": 1790291187,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @加油阿铭 :我不知道这个秒伤什么的平常[笑哭]我上期月绽放就是没过机制得打40多秒[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314964277569,
+          "rpid_str": "314964277569",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314963977009,
+          "parent_str": "314963977009",
+          "dialog": 314962807297,
+          "ctime": 1790291517,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8bda283590d3fe2842eff2a",
+          "content": {
+            "message": "回复 @桃花香花桃啊 :如果你练度都毕业，月绽强杀老头可以2开，丝柯克打冰锅要手法2开，火神打冰棺不太清楚，满配应该默认是一二十秒，6火2奶我就拿不准了，可能要四十秒往后这样子。\n上面是理想情况，如果练度手法都一般，月绽可能要四五十秒，冰锅三四十秒，火神这个手法差距有点大，见仁见智[妙啊]",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314964670641,
+          "rpid_str": "314964670641",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314964277569,
+          "parent_str": "314964277569",
+          "dialog": 314962807297,
+          "ctime": 1790292088,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @零批 :okok，我月绽放没打过这个新怪确实还不太清楚，因为这期送的妮露让我成功2妮了，但是我不确定2妮提升有多少[笑哭]，其他队友倒是练度基本拉满了。\nskk的话我之前打冰锅基本都是26这样，这期多了个1 1沃，不太清楚血量有没有加，但应该感觉还是能2开\n火神我也不确定了，大概率是40-50秒这样我感觉[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318651461632,
+          "rpid_str": "318651461632",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314962655345,
+          "parent_str": "314962655345",
+          "dialog": 318651461632,
+          "ctime": 1790400889,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fa24272fa044838bce2ed062",
+          "content": {
+            "message": "上面评论是都没打过这个新boss吗，第一间不走机制就不是秒不秒伤的问题，是你活不活得下来的问题，没看视频也说了两个霜精炮台不走机制就是秒杀，钟离也抗不了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318660059184,
+          "rpid_str": "318660059184",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314962655345,
+          "parent_str": "314962655345",
+          "dialog": 318660059184,
+          "ctime": 1790406272,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d9fe8697385c94b17956b8b0",
+          "content": {
+            "message": "丘林3200w 星扩散 星超导等效2700w血 星超导30抗 常规dps需要27w左右 星扩散24w所有 都不是00木偶和薇丝娜能碰瓷的 想打必须2+1 ，2奥的提升不如主c"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315146991825,
+          "rpid_str": "315146991825",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 318651461632,
+          "parent_str": "318651461632",
+          "dialog": 318651461632,
+          "ctime": 1790423847,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @神级马坑 :大家都没打过应该[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315146999873,
+          "rpid_str": "315146999873",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 318660059184,
+          "parent_str": "318660059184",
+          "dialog": 318660059184,
+          "ctime": 1790423861,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @摸鱼的非鱼 :你好像回复错人了hh"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315521204417,
+          "rpid_str": "315521204417",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 318651461632,
+          "parent_str": "318651461632",
+          "dialog": 318651461632,
+          "ctime": 1790747713,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @神级马坑 :强杀39秒，破不了机制就是肉，但是死还是死不掉"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315521119489,
+          "rpid_str": "315521119489",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 314964277569,
+          "parent_str": "314964277569",
+          "dialog": 314962807297,
+          "ctime": 1790747752,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19c604e88dbd922234d2238b",
+          "content": {
+            "message": "回复 @零批 :打完了，没有2开，39秒差点4开，这老头比想象的肉太多了不过机制[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315528221201,
+          "rpid_str": "315528221201",
+          "root": 314962655345,
+          "root_str": "314962655345",
+          "parent": 315521119489,
+          "parent_str": "315521119489",
+          "dialog": 314962807297,
+          "ctime": 1790752810,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8bda283590d3fe2842eff2a",
+          "content": {
+            "message": "回复 @桃花香花桃啊 :那应该是多打了一轮，我之前在千星打模拟老头，全满月绽是26s"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314962655345,
+        "rpid_str": "314962655345",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790288092,
+        "like": 0,
+        "rcount": 15,
+        "count": 15,
+        "state": 0,
+        "author_id": "U_19c604e88dbd922234d2238b",
+        "content": {
+          "message": "这期极限秒数大概能多少？第一间不过机制月绽放能强过吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9e4ba6d366c9b74b42050a332281cb08281385988.jpg",
+              "img_width": 1290,
+              "img_height": 19182,
+              "img_size": 5540,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6eb861424d771ca773279636da45c705ba97cf3b03f883cc377afae4085a2c98",
+  "original_bytes_sha256": "7981930cc3b401cc4776754c7003be0bbd31698c3eb64dec1890edaa0377ab74",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

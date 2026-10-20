@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315881818977",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:28:39.374250+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315881876161,
+          "rpid_str": "315881876161",
+          "root": 315881818977,
+          "root_str": "315881818977",
+          "parent": 315881818977,
+          "parent_str": "315881818977",
+          "dialog": 315881876161,
+          "ctime": 1791017368,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ec018ff3a9f6ee7895cd6204",
+          "content": {
+            "message": "结果最后一个是冰锅，斯科特带三个挂件打过了。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315881818977,
+        "rpid_str": "315881818977",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791017339,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_ec018ff3a9f6ee7895cd6204",
+        "content": {
+          "message": "我新抽的角色都没养起来，只能靠他给的龙王，还有借的一个斯柯克当主c最后一关大boss。去赌那个回复体力的。直接给斯特克重返卡池，然后又给他拿出来了，正好一点都没剩。真的太狗运了。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "99dd3c113890a08856ea5b0dbf1e0b88634af87f32661d4ef66a30cf3e0fc885",
+  "original_bytes_sha256": "729f6edadd5dce3ed51991901027ad4f353c1ad832fb6f4d3cf156dedb0acfc2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

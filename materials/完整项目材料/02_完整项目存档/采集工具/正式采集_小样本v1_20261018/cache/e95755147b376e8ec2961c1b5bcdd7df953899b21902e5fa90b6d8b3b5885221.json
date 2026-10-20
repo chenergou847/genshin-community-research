@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359209613190",
+    "root": "319126139440",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:38:20.180017+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319126139440,
+        "rpid_str": "319126139440",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790773201,
+        "like": 4,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_2bdc1a50dc47d97488c7b5fb",
+        "content": {
+          "message": "我也没有至冬角色，只能说梦见月牛逼。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a088f98ae498211588612bb15694942b240850002.png",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 1573.06
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "341cf67e7329fa663503d79173d601f4be53c45f8d5f65cc81bf182288272285",
+  "original_bytes_sha256": "b646bb1603cb14456e01748eee2003518bce6b04af93d1e45c02a211401edd47",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,537 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319603806400",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:36:58.612851+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 12
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316037834817,
+          "rpid_str": "316037834817",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319603806400,
+          "parent_str": "319603806400",
+          "dialog": 316037834817,
+          "ctime": 1791124705,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d3eb2a31cf4c9a2cbe5f1382",
+          "content": {
+            "message": "什么阵容"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316038879905,
+          "rpid_str": "316038879905",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319603806400,
+          "parent_str": "319603806400",
+          "dialog": 316038879905,
+          "ctime": 1791125250,
+          "like": 59,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6c2f70dc1c113ccd66d8662d",
+          "content": {
+            "message": "肝哪了，肝天空岛了？[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319624623456,
+          "rpid_str": "319624623456",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 316038879905,
+          "parent_str": "316038879905",
+          "dialog": 316038879905,
+          "ctime": 1791125752,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ed24409b5caae3f4a736627e",
+          "content": {
+            "message": "回复 @inkSound :[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319650457632,
+          "rpid_str": "319650457632",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319603806400,
+          "parent_str": "319603806400",
+          "dialog": 319650457632,
+          "ctime": 1791153027,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b82db9354e501e5c90eb4e44",
+          "content": {
+            "message": "532299372，太菜了喵，怪打不过可以摇你吗🥺"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319654995488,
+          "rpid_str": "319654995488",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319624623456,
+          "parent_str": "319624623456",
+          "dialog": 316038879905,
+          "ctime": 1791159989,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4bc431bc0548a760e10574e9",
+          "content": {
+            "message": "回复 @奔涌的 :同是B服沦落人😭"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316078487729,
+          "rpid_str": "316078487729",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319603806400,
+          "parent_str": "319603806400",
+          "dialog": 316078487729,
+          "ctime": 1791168350,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_395047f2cda2b6db16fecfa9",
+          "content": {
+            "message": "大佬装萌新，联机进危战直接上65老角色或辅助[笑哭]我已经见怪不怪了",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319674766384,
+          "rpid_str": "319674766384",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319650457632,
+          "parent_str": "319650457632",
+          "dialog": 319650457632,
+          "ctime": 1791173118,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ed24409b5caae3f4a736627e",
+          "content": {
+            "message": "回复 @竹笋挺好吃 :满了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316095707633,
+          "rpid_str": "316095707633",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319603806400,
+          "parent_str": "319603806400",
+          "dialog": 316095707633,
+          "ctime": 1791178277,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_53f921ff7ae88f8779a9199c",
+          "content": {
+            "message": "印象中，不道在直播间看到你这号几次了[滑稽][滑稽][滑稽]",
+            "emote": {
+              "[滑稽]": {
+                "id": 27,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[滑稽]",
+                "url": "https://i0.hdslb.com/bfs/emote/d15121545a99ac46774f1f4465b895fe2d1411c3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "滑稽"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319686826272,
+          "rpid_str": "319686826272",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 316095707633,
+          "parent_str": "316095707633",
+          "dialog": 316095707633,
+          "ctime": 1791179584,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ed24409b5caae3f4a736627e",
+          "content": {
+            "message": "回复 @这周我摸瑜 :不会吧，我都没给别人上过号[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319690386928,
+          "rpid_str": "319690386928",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319650457632,
+          "parent_str": "319650457632",
+          "dialog": 319650457632,
+          "ctime": 1791181724,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_db6026f687d90ad111079042",
+          "content": {
+            "message": "回复 @竹笋挺好吃 :506381358，可以加我，虽菜但打怪应该是没有问题的[原神_哇]",
+            "emote": {
+              "[原神_哇]": {
+                "id": 4259,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[原神_哇]",
+                "url": "https://i0.hdslb.com/bfs/emote/8188ddf95bace929d382c7a83214afde79d83bfc.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哇"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316134372705,
+          "rpid_str": "316134372705",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319686826272,
+          "parent_str": "319686826272",
+          "dialog": 316095707633,
+          "ctime": 1791200746,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_53f921ff7ae88f8779a9199c",
+          "content": {
+            "message": "回复 @奔涌的 :那就是你们这些满命大佬都喜欢取这个名字用个男主头像[吃瓜][吃瓜][吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316211001185,
+          "rpid_str": "316211001185",
+          "root": 319603806400,
+          "root_str": "319603806400",
+          "parent": 319603806400,
+          "parent_str": "319603806400",
+          "dialog": 316211001185,
+          "ctime": 1791263968,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0afe1e91c86aa24e5aaacdfa",
+          "content": {
+            "message": "藏金是吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319603806400,
+        "rpid_str": "319603806400",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791115430,
+        "like": 96,
+        "rcount": 12,
+        "count": 15,
+        "state": 0,
+        "author_id": "U_ed24409b5caae3f4a736627e",
+        "content": {
+          "message": "肝了好久[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/aa7ed091a2d974cceb426ccc9bcb204384114503.png",
+              "img_width": 1589,
+              "img_height": 950,
+              "img_size": 755,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2d52ab7e1f7f66916d9c15f860c199c013a7f9a799fb53325298e13b04190b01",
+  "original_bytes_sha256": "7dd7dbacd29fa8ea7c7b6a159e83bc7100a3edb36209db5d2bba1da3b9138d41",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

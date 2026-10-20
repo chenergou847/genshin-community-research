@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317217882545",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:40:45.154521+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317217882545,
+        "rpid_str": "317217882545",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792135702,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_ea0c88390f1d9894c715472d",
+        "content": {
+          "message": "这期真是一点压力没有，12-3打完还有70秒",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2e7ac4c869adb16b8c7d6a8bba781e693461581570574687.jpg",
+              "img_width": 1604,
+              "img_height": 720,
+              "img_size": 682.31
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "d23bc2caae15ac9a32c9f305b44d76fba556344375a932be5939d3dc07825497",
+  "original_bytes_sha256": "a1214124af4d622f7dc36f354b43fed4bafc665b2479d5f612259b4dc598aaff",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

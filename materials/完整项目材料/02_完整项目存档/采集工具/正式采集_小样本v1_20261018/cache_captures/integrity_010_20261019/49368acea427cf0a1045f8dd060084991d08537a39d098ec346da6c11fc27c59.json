@@ -1,0 +1,311 @@
+{
+  "route": "reply_detail_web",
+  "params": {
+    "oid": "117365148746080",
+    "type": 1,
+    "root": "315680903009",
+    "ps": 20,
+    "next": 1
+  },
+  "captured_at": "2026-10-19T05:26:07.861329+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "mode": 2,
+        "mode_text": "按时间",
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "FoldRpids": null,
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315680903009,
+        "rpid_str": "315680903009",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790861017,
+        "like": 0,
+        "rcount": 9,
+        "count": 13,
+        "state": 0,
+        "floor": 17,
+        "author_id": "U_fa7fab844dd716dfc407cea2",
+        "content": {
+          "message": "啥玩意一金超载火就能过吗？？？"
+        },
+        "replies": [
+          {
+            "rpid": 315817367905,
+            "rpid_str": "315817367905",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 315680903009,
+            "parent_str": "315680903009",
+            "dialog": 315817367905,
+            "ctime": 1790959514,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 1,
+            "author_id": "U_70b4d31149bc6b8fd1ffbe0e",
+            "content": {
+              "message": "配置高"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316161512737,
+            "rpid_str": "316161512737",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 315817367905,
+            "parent_str": "315817367905",
+            "dialog": 315817367905,
+            "ctime": 1791214874,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 2,
+            "author_id": "U_2d2d2ba34071287cf5cd04b1",
+            "content": {
+              "message": "回复 @玖枫归 :一金是怎么和配置高沾上边的"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316162084289,
+            "rpid_str": "316162084289",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 316161512737,
+            "parent_str": "316161512737",
+            "dialog": 315817367905,
+            "ctime": 1791215087,
+            "like": 2,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 3,
+            "author_id": "U_70b4d31149bc6b8fd1ffbe0e",
+            "content": {
+              "message": "回复 @因为又胖又能吃 :展现出原神玩家游戏理解时刻"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316162021425,
+            "rpid_str": "316162021425",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 316161512737,
+            "parent_str": "316161512737",
+            "dialog": 315817367905,
+            "ctime": 1791215102,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 4,
+            "author_id": "U_70b4d31149bc6b8fd1ffbe0e",
+            "content": {
+              "message": "回复 @因为又胖又能吃 :低金不等于低配，需要明白这个道理"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316162161665,
+            "rpid_str": "316162161665",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 316161512737,
+            "parent_str": "316161512737",
+            "dialog": 315817367905,
+            "ctime": 1791215162,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 5,
+            "author_id": "U_70b4d31149bc6b8fd1ffbe0e",
+            "content": {
+              "message": "回复 @因为又胖又能吃 :你把那几个四星换成别的金好像好打似的"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316163334129,
+            "rpid_str": "316163334129",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 316162654353,
+            "parent_str": "316162654353",
+            "dialog": 315817367905,
+            "ctime": 1791215932,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 10,
+            "author_id": "U_70b4d31149bc6b8fd1ffbe0e",
+            "content": {
+              "message": "回复 @因为又胖又能吃 :换成五星差不多就是4金，而且拐力还没这个高"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316164068881,
+            "rpid_str": "316164068881",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 316162654353,
+            "parent_str": "316162654353",
+            "dialog": 315817367905,
+            "ctime": 1791216416,
+            "like": 1,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 11,
+            "author_id": "U_70b4d31149bc6b8fd1ffbe0e",
+            "content": {
+              "message": "回复 @因为又胖又能吃 :顶级圣遗物，顶级满命四星队友低配在哪里"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 316230923057,
+            "rpid_str": "316230923057",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 316161512737,
+            "parent_str": "316161512737",
+            "dialog": 315817367905,
+            "ctime": 1791276194,
+            "like": 0,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 12,
+            "author_id": "U_7e3b276da6a7ab5c24ab18f0",
+            "content": {
+              "message": "回复 @因为又胖又能吃 :配置高应该指的是四个角色都要高练度吧"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          },
+          {
+            "rpid": 319949524896,
+            "rpid_str": "319949524896",
+            "root": 315680903009,
+            "root_str": "315680903009",
+            "parent": 316161512737,
+            "parent_str": "316161512737",
+            "dialog": 315817367905,
+            "ctime": 1791360131,
+            "like": 2,
+            "rcount": 0,
+            "count": 0,
+            "state": 0,
+            "floor": 13,
+            "author_id": "U_e884ddb17b69024d1d5139bc",
+            "content": {
+              "message": "回复 @因为又胖又能吃 :就火神是金不代表配置低好吧，精五大月卡也要花钱的，满命四星队友你也要专门去抽的，没有这些东西二命火神都打不过，楼上就一个二命火神up也表示打不过呢，为什么一金反而比三金厉害呢，你真当抽四星没成本吗，只抽火神凑齐这四个四星很难。"
+            },
+            "replies": [],
+            "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+            }
+          }
+        ],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "FoldRpids",
+      "Likes",
+      "Mid",
+      "MixedCards",
+      "SubjectTitle",
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "note",
+      "root",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "5b3087241b0e1ceb7f6b9dfc9d5d634690318a32299a059573d17422bc7d021d",
+  "original_bytes_sha256": "003e86a087ff4b5b226f18ad0f67da08bc9e31ad110c12354b5c1865ff8c56d4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_010_20261019"
+}

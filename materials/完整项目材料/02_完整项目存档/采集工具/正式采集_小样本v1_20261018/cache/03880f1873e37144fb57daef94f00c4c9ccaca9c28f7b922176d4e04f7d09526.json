@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314962655345",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:18:45.192524+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 15
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314962655345,
+        "rpid_str": "314962655345",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790288092,
+        "like": 0,
+        "rcount": 15,
+        "count": 15,
+        "state": 0,
+        "author_id": "U_19c604e88dbd922234d2238b",
+        "content": {
+          "message": "这期极限秒数大概能多少？第一间不过机制月绽放能强过吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9e4ba6d366c9b74b42050a332281cb08281385988.jpg",
+              "img_width": 1290,
+              "img_height": 19182,
+              "img_size": 5540,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ccd89c7c3678dbbb47ec9cd1f4f80921dbdce69c50ac82b94c1c2c3d761209e5",
+  "original_bytes_sha256": "5a55c80f4dfbca6c6e24c956b223b2ce1027c827317fa8107ec1e9c65aeb5191",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,170 @@
+{
+  "at": "2026-10-17T15:00:32.204907+00:00",
+  "purpose": "CONTRACT_PROBE_NOT_FORMAL_SAMPLE",
+  "requests": [
+    {
+      "path": "/x/web-interface/nav",
+      "captured_at": "2026-10-17T15:00:35.234361+00:00",
+      "api_code": -101
+    },
+    {
+      "path": "/x/web-interface/wbi/view",
+      "captured_at": "2026-10-17T15:00:38.336643+00:00",
+      "api_code": 0
+    },
+    {
+      "path": "/x/v2/reply/wbi/main",
+      "captured_at": "2026-10-17T15:00:41.163855+00:00",
+      "api_code": 0
+    }
+  ],
+  "video": {
+    "bvid": "BV1vSJS6DEEs",
+    "aid": 117447474547463,
+    "title": "【深渊】0限金冰主10月16日深渊全间连打满星(3命阿罗夏，冰冰冰？(≖֊≖)",
+    "pubdate": 1792106295,
+    "owner": {
+      "mid": 2112456963,
+      "name": "noobsuckの転生",
+      "face": "https://i0.hdslb.com/bfs/face/97cfb29bb67afb5b3861447e2c09d98951104ebe.jpg"
+    },
+    "stat": {
+      "aid": 117447474547463,
+      "view": 411,
+      "danmaku": 0,
+      "reply": 3,
+      "favorite": 2,
+      "coin": 0,
+      "share": 8,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 8,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    }
+  },
+  "first_comment_page": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 3,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320986886432,
+          "rpid_str": "320986886432",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792223259,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7dc124f627b819022808ebfb",
+          "content": {
+            "message": "本来雷神打上半狮子打了2分钟出头感觉打不过了，下半冰主30多秒速通冰锅，冰主大人[保佑][保佑][保佑]。如果冰锅在上半不敢想有多快[笑哭]",
+            "emote": {
+              "[保佑]": {
+                "id": 1903,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[保佑]",
+                "url": "https://i0.hdslb.com/bfs/emote/fafe8d3de0dc139ebe995491d2dac458a865fb30.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "保佑"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320974322704,
+          "rpid_str": "320974322704",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792215319,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_d69879c8b1070e7ddcb6df07",
+          "content": {
+            "message": "阿罗夏换神子能打吗"
+          },
+          "replies": [
+            {
+              "rpid": 317325243137,
+              "rpid_str": "317325243137",
+              "root": 320974322704,
+              "root_str": "320974322704",
+              "parent": 320974322704,
+              "parent_str": "320974322704",
+              "ctime": 1792221440,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_fe53ef9db0ac6c040f8ada82",
+              "content": {
+                "message": "可以，上半打月幻蝶要带个奶冰主奥黛塔神子七七可以"
+              },
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "status": "returned_first_page_only_not_completeness_verified"
+}

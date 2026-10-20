@@ -1,0 +1,97 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318538633136",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:08:37.523245+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318538633136,
+        "rpid_str": "318538633136",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790317291,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_def53ba4132080bf37d620cd",
+        "content": {
+          "message": "n5有希望过吗，另外up有什么配队建议嘛[tv_doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f690b3176b7f71d219a7a31011206f6e35337718.jpg",
+              "img_width": 1220,
+              "img_height": 13086,
+              "img_size": 1658.35,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[tv_doge]": {
+              "id": 34,
+              "package_id": 2,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[tv_doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1756886884,
+              "gif_url": "https://i0.hdslb.com/bfs/emote/302d6c88c63ed162c81a49cafe7ed2709e6fb955.gif",
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d81e0bb48c76201d3cfd04fc5b413b2deedc23a8bb6a076173780610555c5b43",
+  "original_bytes_sha256": "6acb567df9ad9d4852a3138d2b4d8de80f8a1a6943c642d563cf2f1b1299ba8f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

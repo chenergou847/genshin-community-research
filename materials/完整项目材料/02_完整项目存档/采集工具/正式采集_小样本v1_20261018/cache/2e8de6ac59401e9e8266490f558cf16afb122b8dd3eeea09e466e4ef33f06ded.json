@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315120459793",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:55:15.903341+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315125008801,
+          "rpid_str": "315125008801",
+          "root": 315120459793,
+          "root_str": "315120459793",
+          "parent": 315120459793,
+          "parent_str": "315120459793",
+          "dialog": 315125008801,
+          "ctime": 1790411620,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_18c23166c1772159a732ab78",
+          "content": {
+            "message": "第一间木偶奥黛塔，第二间兹白莉奈亚七七凌华，凌华全堆充能，七七可以带兹白圣遗物本的另一套，莉奈亚带少女那套，第三间仆人菲谢尔杜林班尼特，注意班尼特菲谢尔都带西风，综合看也就第二间有难度"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318672690432,
+          "rpid_str": "318672690432",
+          "root": 315120459793,
+          "root_str": "315120459793",
+          "parent": 315120459793,
+          "parent_str": "315120459793",
+          "dialog": 318672690432,
+          "ctime": 1790414044,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b15b83a9bae4c19c7b3becca",
+          "content": {
+            "message": "第一间桑多涅七七伊涅芙猫，第二间冰主奥黛塔阿罗夏砂糖，第三间仆人菲谢尔杜林夏沃蕾，这n5随便打啊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315120459793,
+        "rpid_str": "315120459793",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790408684,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_fe2b85253fdf8898ca4e1fdb",
+        "content": {
+          "message": "N5可以怎么凑三队 感觉有点难打",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e3d59ccf36cb4515114342304664fcbc475503666.jpg",
+              "img_width": 1260,
+              "img_height": 14067,
+              "img_size": 1807.31
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "4f8400024aec7fb9ac6fef08352e0a710e3f578be341fe14688d82695d41c1c6",
+  "original_bytes_sha256": "4844094b10d9544a3cafa7e0c9358a14b5b3f2e2f3e89cc63fb44f5de9cfb2e6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

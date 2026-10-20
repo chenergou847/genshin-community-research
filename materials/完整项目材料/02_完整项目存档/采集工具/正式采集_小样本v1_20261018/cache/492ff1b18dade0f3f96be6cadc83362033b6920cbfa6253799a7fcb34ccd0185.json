@@ -1,0 +1,858 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "316018017537",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:37:10.121616+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 17
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316046076337,
+          "rpid_str": "316046076337",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316018017537,
+          "parent_str": "316018017537",
+          "dialog": 316046076337,
+          "ctime": 1791129168,
+          "like": 10,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_90e22f877c3d0fb4911b729a",
+          "content": {
+            "message": "艰难在哪[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316048035393,
+          "rpid_str": "316048035393",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316018017537,
+          "parent_str": "316018017537",
+          "dialog": 316048035393,
+          "ctime": 1791130350,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_21718a08ef600f07925bc6e7",
+          "content": {
+            "message": "木偶没雷怎么打星超导？？[妙啊]",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316048400497,
+          "rpid_str": "316048400497",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316048035393,
+          "parent_str": "316048035393",
+          "dialog": 316048035393,
+          "ctime": 1791130503,
+          "like": 11,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5343761517ac7c75a3a8504d",
+          "content": {
+            "message": "回复 @星果栗子 :带的2+2打扩散，木偶也是有星扩散倍率的，只是有点亏模[吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316264599857,
+          "rpid_str": "316264599857",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316018017537,
+          "parent_str": "316018017537",
+          "dialog": 316264599857,
+          "ctime": 1791293608,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1ad7306984031f8fb690bf92",
+          "content": {
+            "message": "满命木偶厨表示不能理解，居然有人抽维斯纳不满命木偶。[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316275152193,
+          "rpid_str": "316275152193",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316264599857,
+          "parent_str": "316264599857",
+          "dialog": 316264599857,
+          "ctime": 1791298724,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5343761517ac7c75a3a8504d",
+          "content": {
+            "message": "回复 @优菈用洛伦兹莉 :没环境大人，命座区大人[大哭]我偶命座不行多给点环境很合理吧[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              },
+              "[大哭]": {
+                "id": 5,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316275702929,
+          "rpid_str": "316275702929",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316275152193,
+          "parent_str": "316275152193",
+          "dialog": 316264599857,
+          "ctime": 1791298971,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1ad7306984031f8fb690bf92",
+          "content": {
+            "message": "回复 @就这么浪费了六个币 :[呆]我说XP，你说强度。都是命座战神，强度有啥用，都是溢出。",
+            "emote": {
+              "[呆]": {
+                "id": 4,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[呆]",
+                "url": "https://i0.hdslb.com/bfs/emote/33ad6000d9f9f168a0976bc60937786f239e5d8c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "呆"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319942813936,
+          "rpid_str": "319942813936",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316018017537,
+          "parent_str": "316018017537",
+          "dialog": 319942813936,
+          "ctime": 1791355993,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d6a2e511a5572b3b384ba037",
+          "content": {
+            "message": "我是4P，这不巧了吗[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319953725280,
+          "rpid_str": "319953725280",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316018017537,
+          "parent_str": "316018017537",
+          "dialog": 319953725280,
+          "ctime": 1791362689,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "兄弟还有没好友位，想借角色打真镜剧诗[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316368309921,
+          "rpid_str": "316368309921",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 319942813936,
+          "parent_str": "319942813936",
+          "dialog": 319942813936,
+          "ctime": 1791373247,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5343761517ac7c75a3a8504d",
+          "content": {
+            "message": "回复 @Freezing冷逸 :你小子[笑哭][吃瓜]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316368429681,
+          "rpid_str": "316368429681",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 319953725280,
+          "parent_str": "319953725280",
+          "dialog": 319953725280,
+          "ctime": 1791373296,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5343761517ac7c75a3a8504d",
+          "content": {
+            "message": "回复 @狗fei老母鸡 :好友位倒是有，不过一般前两天就借完了，要借得看手速[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319973385904,
+          "rpid_str": "319973385904",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316368429681,
+          "parent_str": "316368429681",
+          "dialog": 319953725280,
+          "ctime": 1791373813,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "回复 @就这么浪费了六个币 :可以可以，加一个我id101301834。感谢[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316371010721,
+          "rpid_str": "316371010721",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 319973385904,
+          "parent_str": "319973385904",
+          "dialog": 319953725280,
+          "ctime": 1791374844,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5343761517ac7c75a3a8504d",
+          "content": {
+            "message": "回复 @狗fei老母鸡 :你直接去加我吧，图片右下角就是我uid"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319990774112,
+          "rpid_str": "319990774112",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316018017537,
+          "parent_str": "316018017537",
+          "dialog": 319990774112,
+          "ctime": 1791383767,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3469f1330c5955848c3ec1b2",
+          "content": {
+            "message": "看见好友了[喜极而泣]",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316394757025,
+          "rpid_str": "316394757025",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 319990774112,
+          "parent_str": "319990774112",
+          "dialog": 319990774112,
+          "ctime": 1791389119,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5343761517ac7c75a3a8504d",
+          "content": {
+            "message": "回复 @卖萌第一名 :哪个是你好友[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320195702160,
+          "rpid_str": "320195702160",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316394757025,
+          "parent_str": "316394757025",
+          "dialog": 319990774112,
+          "ctime": 1791559877,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3469f1330c5955848c3ec1b2",
+          "content": {
+            "message": "回复 @就这么浪费了六个币 :我是天青[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316616904833,
+          "rpid_str": "316616904833",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 320195702160,
+          "parent_str": "320195702160",
+          "dialog": 319990774112,
+          "ctime": 1791605950,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5343761517ac7c75a3a8504d",
+          "content": {
+            "message": "回复 @卖萌第一名 :[给心心]",
+            "emote": {
+              "[给心心]": {
+                "id": 3302,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[给心心]",
+                "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "给心心"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317265867745,
+          "rpid_str": "317265867745",
+          "root": 316018017537,
+          "root_str": "316018017537",
+          "parent": 316046076337,
+          "parent_str": "316046076337",
+          "dialog": 316046076337,
+          "ctime": 1792164385,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fdda4b0d853bf0d3d56dedca",
+          "content": {
+            "message": "回复 @私生活混乱染上三角洲 :艰难没个位数打完[脱单doge]",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316018017537,
+        "rpid_str": "316018017537",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791114518,
+        "like": 105,
+        "rcount": 17,
+        "count": 18,
+        "state": 0,
+        "author_id": "U_5343761517ac7c75a3a8504d",
+        "content": {
+          "message": "联机1.5倍血量还是太权威了[笑哭]三间70限金艰难拿下139[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d723ac83523bd619bfe032b5d0810000691121080.jpg",
+              "img_width": 3168,
+              "img_height": 1440,
+              "img_size": 1555.6
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            },
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f93f4469e52b3e0ff1abb946561c86ba4f701e5be4ca63c2435b2e29ad96f4ba",
+  "original_bytes_sha256": "80f487575c92a06390be01d35a1dffd65d9a2132493c478b139e46b31b2f5622",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

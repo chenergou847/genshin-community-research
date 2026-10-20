@@ -1,0 +1,167 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319785566944",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:26:48.323358+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316512892017,
+          "rpid_str": "316512892017",
+          "root": 319785566944,
+          "root_str": "319785566944",
+          "parent": 319785566944,
+          "parent_str": "319785566944",
+          "dialog": 316512892017,
+          "ctime": 1791512766,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_94bb164c2903b19ad9215a41",
+          "content": {
+            "message": "纯菜，挽尊来的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320470866320,
+          "rpid_str": "320470866320",
+          "root": 319785566944,
+          "root_str": "319785566944",
+          "parent": 319785566944,
+          "parent_str": "319785566944",
+          "dialog": 320470866320,
+          "ctime": 1791790398,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_52999853b3f7062654299a1d",
+          "content": {
+            "message": "这种box不应该随便打吗？这个代打纯水平不行，顺便求求大佬好友位[星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320480449408,
+          "rpid_str": "320480449408",
+          "root": 319785566944,
+          "root_str": "319785566944",
+          "parent": 320470866320,
+          "parent_str": "320470866320",
+          "dialog": 320470866320,
+          "ctime": 1791797619,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0e7aa84682d70bb5a683d596",
+          "content": {
+            "message": "回复 @Umiino :不好意思已经满了，自从出月谕牌和满花奖励大家疯狂相互加好友。\n我是菜没操作没耐心，但付费不是来被指点的，觉得12块低了、难打他可以不接"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319785566944,
+        "rpid_str": "319785566944",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791252439,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_0e7aa84682d70bb5a683d596",
+        "content": {
+          "message": "说出来不怕大家笑，打这期前两关的散喵+第三关镇守给我打红温了，找了代打\n上来就说选错了关不好打，然后开始说为什么不用好友的C助战，后面刷列表时抱怨很多四星的技能等级只点到188、水神没命座、薇斯纳专武凸了不留……但我这也不存在打不过去和难打的问题吧？\n很不舒服，不知道这样说是能提现他技术好还是为了让气氛更热闹。已拉黑，其实上次就该拉黑，一直反复念叨我把精5蛇专给菈精2蛇专给奈是什么心理\n尤其昨天又刷到一个up哭诉：免费给人打，打完立刻取关，旱的旱死涝的涝死",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d4d6d3954196631e1acaffa0ec139e7a4269907.jpg",
+              "img_width": 1080,
+              "img_height": 1244,
+              "img_size": 772.82
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d73e981ebd8c805c5de920ca547a558deb5222e6f3411bf549b25754af1fb3c2",
+  "original_bytes_sha256": "459b567b28040e4e396da639545cfba707f5d64510bdaa7a11f51d12ab86a462",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

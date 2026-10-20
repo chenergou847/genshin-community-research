@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315228363137",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:48:57.217982+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315228363137,
+        "rpid_str": "315228363137",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790491372,
+        "like": 0,
+        "rcount": 6,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_71bb3283b2639b32fcada72e",
+        "content": {
+          "message": "大佬n5有机会吗[蹲蹲]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b4ad094c6eedfcf487a2963cb44cd25d517859788.jpg",
+              "img_width": 750,
+              "img_height": 6996,
+              "img_size": 1487
+            }
+          ],
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "30308ccfef1a2eece19b669dcec3731886ab4a9627c18cb37c09e3646f8c0fd3",
+  "original_bytes_sha256": "8dfcd48b0e8cd3e8a2a3639115e0836766b2cc04d800c4380ccf059ca8b82e54",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

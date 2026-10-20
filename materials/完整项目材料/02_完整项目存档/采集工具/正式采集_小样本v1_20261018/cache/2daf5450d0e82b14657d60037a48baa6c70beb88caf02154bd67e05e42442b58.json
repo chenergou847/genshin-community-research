@@ -1,0 +1,156 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317210043265",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:11:50.072255+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317211865505,
+          "rpid_str": "317211865505",
+          "root": 317210043265,
+          "root_str": "317210043265",
+          "parent": 317210043265,
+          "parent_str": "317210043265",
+          "ctime": 1792130702,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_abe4d70befddc5a190f5eeb3",
+          "content": {
+            "message": "我上半纯月感电[脱单doge]也可以打",
+            "emote": {
+              "[脱单doge]": {
+                "id": 3301,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[脱单doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "脱单doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317217356081,
+          "rpid_str": "317217356081",
+          "root": 317210043265,
+          "root_str": "317210043265",
+          "parent": 317210043265,
+          "parent_str": "317210043265",
+          "ctime": 1792135394,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_862cf7888dbb481cdb28287e",
+          "content": {
+            "message": "上半场：无聊[滑稽]",
+            "emote": {
+              "[滑稽]": {
+                "id": 27,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[滑稽]",
+                "url": "https://i0.hdslb.com/bfs/emote/d15121545a99ac46774f1f4465b895fe2d1411c3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "滑稽"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317210043265,
+        "rpid_str": "317210043265",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792129301,
+        "like": 4,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_2769d36a1b87acc1bda4ed3f",
+        "content": {
+          "message": "月感电＋星超导的队伍居然玩的还挺爽的[脱单doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d1cd9129e229b4866003500719fe235475059857.jpg",
+              "img_width": 1080,
+              "img_height": 2753,
+              "img_size": 758.34,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[脱单doge]": {
+              "id": 3301,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[脱单doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "脱单doge"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "a8cac9667f8f5ccfb3aee586abb71ff29a7395601b1d0ae216f01520fc3256ed",
+  "original_bytes_sha256": "eab821834dede02d1d5be3bb056b5abe62592352e85d3133a7fd2e919ea65899",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

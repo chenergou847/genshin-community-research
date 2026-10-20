@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318486292736",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:20:53.670978+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318494689888,
+          "rpid_str": "318494689888",
+          "root": 318486292736,
+          "root_str": "318486292736",
+          "parent": 318486292736,
+          "parent_str": "318486292736",
+          "dialog": 318494689888,
+          "ctime": 1790278378,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8b42e1f0bd7447f5a76f585",
+          "content": {
+            "message": "12随便打。感觉3菲少机带个冰主应该也能打。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318501392592,
+          "rpid_str": "318501392592",
+          "root": 318486292736,
+          "root_str": "318486292736",
+          "parent": 318486292736,
+          "parent_str": "318486292736",
+          "dialog": 318501392592,
+          "ctime": 1790293302,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5eb919e6f6d089d330dd7705",
+          "content": {
+            "message": "随便打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318486292736,
+        "rpid_str": "318486292736",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790268507,
+        "like": 1,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_730de954929984160f47716f",
+        "content": {
+          "message": "能碰n5吗[藏狐]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b29538faf0a356500377959cbe753d3c319717235.jpg",
+              "img_width": 1080,
+              "img_height": 10830,
+              "img_size": 1319.53
+            }
+          ],
+          "emote": {
+            "[藏狐]": {
+              "id": 4000,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[藏狐]",
+              "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "藏狐"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "9cfbcff4c04902a9d79b69cbc68c48eefaf8fec14dcf066569dab96051d5baa5",
+  "original_bytes_sha256": "b02e4f7e47fdf607a62b70b7066ec2afbbbe3753dafff3a35b2ee525c593c2c9",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

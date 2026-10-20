@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319183359984",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:23:47.229107+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319183719312,
+          "rpid_str": "319183719312",
+          "root": 319183359984,
+          "root_str": "319183359984",
+          "parent": 319183359984,
+          "parent_str": "319183359984",
+          "dialog": 319183719312,
+          "ctime": 1790824955,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_32818954790176697807f6ae",
+          "content": {
+            "message": "谢谢你简介使"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319183359984,
+        "rpid_str": "319183359984",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790824837,
+        "like": 4,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_75cb4d65c4b0998a7424c4a3",
+        "content": {
+          "message": "明年大概率要出国？也许等不到卢加强的那一天了 老了的🦌干什么都辛酸 也不知道发啥视频了 既然和下落这么有缘就当水点攻略视频看吧（虽然没咋标注出细节 我不是很爱标）"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "394e96b26dc3efe7e48040e1542a1e106afa3db4a5bad69ac392616a4bd15503",
+  "original_bytes_sha256": "72457b00f2799e9b1c63cee1a7f53d2011067c8ea5591c1e177cd656d5633ade",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

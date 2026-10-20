@@ -1,0 +1,430 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "315747518785",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:17:35.415578+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 10
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315752373585,
+          "rpid_str": "315752373585",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315747518785,
+          "parent_str": "315747518785",
+          "dialog": 315752373585,
+          "ctime": 1790923269,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d5ff0402652f168360e9f70f",
+          "content": {
+            "message": "大佬，为啥我和你一样的配置，伤害只有53万，怎么做到80+W的啊[微笑]",
+            "emote": {
+              "[微笑]": {
+                "id": 1,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[微笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "微笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315754326001,
+          "rpid_str": "315754326001",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315752373585,
+          "parent_str": "315752373585",
+          "dialog": 315752373585,
+          "ctime": 1790924413,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d5ff0402652f168360e9f70f",
+          "content": {
+            "message": "回复 @龙嬌天 : 我怎么感觉你这个数据不对啊，565的精通， 78暴击，296爆伤，还有火伤杯，这个装备是怎么做到的这个分数的[疼]",
+            "emote": {
+              "[疼]": {
+                "id": 21,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[疼]",
+                "url": "https://i0.hdslb.com/bfs/emote/905fd9a99ec316e353b9bd4ecd49a5f0a301eabf.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "疼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319325113744,
+          "rpid_str": "319325113744",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315747518785,
+          "parent_str": "315747518785",
+          "dialog": 319325113744,
+          "ctime": 1790924851,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_610d479e6b7d1a937e8ad5ad",
+          "content": {
+            "message": "主包现在还开直播帮忙凹吗？我把冰主普通攻击等级拉满了看看自己能一跳多少W，下落套我有的，因为以前主包就帮过我用迪卢克过那个跳楼机，我是老粉[打call]",
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315757249873,
+          "rpid_str": "315757249873",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315754326001,
+          "parent_str": "315754326001",
+          "dialog": 315752373585,
+          "ctime": 1790926345,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_eb1436eb780fe84d3040def3",
+          "content": {
+            "message": "回复 @龙嬌天 :吃冰主专武效果了，不是裸面板。双爆分大概在240左右"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319329510448,
+          "rpid_str": "319329510448",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315754326001,
+          "parent_str": "315754326001",
+          "dialog": 315752373585,
+          "ctime": 1790927571,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ad3ae2b70a006547d3370f2f",
+          "content": {
+            "message": "回复 @龙嬌天 :专武旅行者裸面板48.1暴率112爆伤，公认的数值怪"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315769338673,
+          "rpid_str": "315769338673",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315757249873,
+          "parent_str": "315757249873",
+          "dialog": 315752373585,
+          "ctime": 1790933689,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d5ff0402652f168360e9f70f",
+          "content": {
+            "message": "回复 @真正的原初-尼伯龙根 : N6打完刷新当前状态，只能看到裸面板，不吃BUFF[无语]",
+            "emote": {
+              "[无语]": {
+                "id": 7,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[无语]",
+                "url": "https://i0.hdslb.com/bfs/emote/44667b7d9349957e903b1b62cb91fb9b13720f04.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "无语"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315770663729,
+          "rpid_str": "315770663729",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315769338673,
+          "parent_str": "315769338673",
+          "dialog": 315752373585,
+          "ctime": 1790934452,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d5ff0402652f168360e9f70f",
+          "content": {
+            "message": "回复 @龙嬌天 : 算了下，基本算是全有效词条，整个套装最多歪了2到4次，已经可以说是到顶的圣遗物了，这么离谱的吗？[疑惑]",
+            "emote": {
+              "[疑惑]": {
+                "id": 1938,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[疑惑]",
+                "url": "https://i0.hdslb.com/bfs/emote/b7840db4b1f9f4726b7cb23c0972720c1698d661.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "疑惑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315770880849,
+          "rpid_str": "315770880849",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315770663729,
+          "parent_str": "315770663729",
+          "dialog": 315752373585,
+          "ctime": 1790934548,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d5ff0402652f168360e9f70f",
+          "content": {
+            "message": "回复 @龙嬌天 : 问题是就算全有效，也不会出现他90W伤害，我50W伤害这么大的差距啊，我就差个闲云专武，到底是哪里的问题[辣眼睛]",
+            "emote": {
+              "[辣眼睛]": {
+                "id": 2374,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[辣眼睛]",
+                "url": "https://i0.hdslb.com/bfs/emote/35d62c496d1e4ea9e091243fa812866f5fecc101.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "辣眼睛"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319347614656,
+          "rpid_str": "319347614656",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315770880849,
+          "parent_str": "315770880849",
+          "dialog": 315752373585,
+          "ctime": 1790937605,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_747f1d95a7acb3e621ca07b1",
+          "content": {
+            "message": "回复 @龙嬌天 :其他不知道，但。。。闲云专武很强"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319629488064,
+          "rpid_str": "319629488064",
+          "root": 315747518785,
+          "root_str": "315747518785",
+          "parent": 315770880849,
+          "parent_str": "315770880849",
+          "dialog": 315752373585,
+          "ctime": 1791128283,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d71c8e56b1fc729d0a5df45f",
+          "content": {
+            "message": "回复 @龙嬌天 :闲云的风套吃到了嘛？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315747518785,
+        "rpid_str": "315747518785",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790920254,
+        "like": 19,
+        "rcount": 10,
+        "count": 11,
+        "state": 0,
+        "author_id": "U_5713907a2295d40f1058fb5f",
+        "content": {
+          "message": "再次重新置顶 已确认0命茜特菈莉+2闲能通关 因为2闲罗莎不带茜奶奶已通关N6丘林老头！【全网首发！无奥黛塔3金冰主携手枫丹队友通关N6丘林老头！（修远-1 严格4金)】 https://www.bilibili.com/video/BV121am6fEUh/?share_source=copy_web&amp;vd_source=1e51c9f4690b269cd5401349e348f4cc",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8a582c55c83202d4d6a70026baebec1d65371594.png",
+              "img_width": 963,
+              "img_height": 156,
+              "img_size": 36.543
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a48fb1e11fa29aa5a5aaf88389b5bb4d927f5ff19cc05b613729a3578545fb68",
+  "original_bytes_sha256": "2ad84e159f81cf65b11af1d8a85735944cde6325fa1e5f9c996b4a1a8ff17a29",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

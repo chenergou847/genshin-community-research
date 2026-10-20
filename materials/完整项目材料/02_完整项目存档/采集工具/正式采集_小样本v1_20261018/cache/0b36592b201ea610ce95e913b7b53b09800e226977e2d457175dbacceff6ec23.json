@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314998920225",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:09:29.686609+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314999048657,
+          "rpid_str": "314999048657",
+          "root": 314998920225,
+          "root_str": "314998920225",
+          "parent": 314998920225,
+          "parent_str": "314998920225",
+          "dialog": 314999048657,
+          "ctime": 1790315804,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "置顶评论补充了😂不好意思哈"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314999079377,
+          "rpid_str": "314999079377",
+          "root": 314998920225,
+          "root_str": "314998920225",
+          "parent": 314999048657,
+          "parent_str": "314999048657",
+          "dialog": 314999048657,
+          "ctime": 1790315860,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a347980b1ebe704f3a83dc34",
+          "content": {
+            "message": "回复 @星光璀璨之时 :哦哦不好意思我没看到"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315000153953,
+          "rpid_str": "315000153953",
+          "root": 314998920225,
+          "root_str": "314998920225",
+          "parent": 314999079377,
+          "parent_str": "314999079377",
+          "dialog": 314999048657,
+          "ctime": 1790316538,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "没事，我自己没讲到。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314998920225,
+        "rpid_str": "314998920225",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790315758,
+        "like": 1,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_a347980b1ebe704f3a83dc34",
+        "content": {
+          "message": "up视频里是不是漏了，第三间大团长也是很推荐的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "0652772b1d0775baad6bdaedf71754270048ea5201ff49764fa5739999ddc838",
+  "original_bytes_sha256": "f165175edaeee727f25bc39ed63c33e2223829976b62b1cd4fba64fffad14d9a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

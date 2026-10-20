@@ -1,0 +1,186 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314966447089",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:18:24.228333+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 314971359585,
+          "rpid_str": "314971359585",
+          "root": 314966447089,
+          "root_str": "314966447089",
+          "parent": 314966447089,
+          "parent_str": "314966447089",
+          "dialog": 314971359585,
+          "ctime": 1790298909,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "菲林斯第一间带奥黛塔过机制，二菲二少可以过。第二间丝柯克有2命芙宁娜，最好补个1命爱可菲，那可以。第三间火神超载纯火都行，但要极限，"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314971522657,
+          "rpid_str": "314971522657",
+          "root": 314966447089,
+          "root_str": "314966447089",
+          "parent": 314966447089,
+          "parent_str": "314966447089",
+          "dialog": 314971522657,
+          "ctime": 1790298916,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "建议是这样。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314971956721,
+          "rpid_str": "314971956721",
+          "root": 314966447089,
+          "root_str": "314966447089",
+          "parent": 314971359585,
+          "parent_str": "314971359585",
+          "dialog": 314971359585,
+          "ctime": 1790299312,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_754a5c27fc81ee681a62f230",
+          "content": {
+            "message": "回复 @星光璀璨之时 :好的好的[初音未来_大笑][初音未来_大笑]",
+            "emote": {
+              "[初音未来_大笑]": {
+                "id": 10844,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[初音未来_大笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/8e7f71cda83ce407b0684702983399f8ed982f17.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1669206764,
+                "jump_title": "大笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314966447089,
+        "rpid_str": "314966447089",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790294415,
+        "like": 4,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_754a5c27fc81ee681a62f230",
+        "content": {
+          "message": "那看来这次也无缘N6了[笑哭]上期是最接近的一次，第一间差个6，7秒，第二间过了，第三间差个10来秒",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1ab83203acd4970b2aab98cd2d877d3b40455091.jpg",
+              "img_width": 1080,
+              "img_height": 12069,
+              "img_size": 1464.77
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "017e86642f9482b4979ffabcb94f1270b6013b7d21d6d1fa5350bedea0003711",
+  "original_bytes_sha256": "36b4866dabac46f258fff319a4f4e9274464c98e120a90b9916e3a84a2d13700",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

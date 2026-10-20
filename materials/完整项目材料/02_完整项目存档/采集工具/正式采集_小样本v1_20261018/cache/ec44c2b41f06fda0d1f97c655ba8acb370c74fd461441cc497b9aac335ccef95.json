@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319371035520",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:31:29.181432+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319371518896,
+          "rpid_str": "319371518896",
+          "root": 319371035520,
+          "root_str": "319371035520",
+          "parent": 319371035520,
+          "parent_str": "319371035520",
+          "dialog": 319371518896,
+          "ctime": 1790949518,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_296c4f7da7e951eec9c5f37b",
+          "content": {
+            "message": "162112166"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319383902224,
+          "rpid_str": "319383902224",
+          "root": 319371035520,
+          "root_str": "319371035520",
+          "parent": 319371035520,
+          "parent_str": "319371035520",
+          "dialog": 319383902224,
+          "ctime": 1790955671,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e1aa2920602d964eba3fedf9",
+          "content": {
+            "message": "我用死神和你换月亮ok吗？id272867466"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319388360160,
+          "rpid_str": "319388360160",
+          "root": 319371035520,
+          "root_str": "319371035520",
+          "parent": 319383902224,
+          "parent_str": "319383902224",
+          "dialog": 319383902224,
+          "ctime": 1790958367,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_296c4f7da7e951eec9c5f37b",
+          "content": {
+            "message": "回复 @新野结夏 :还在吗？加你了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319371035520,
+        "rpid_str": "319371035520",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790949293,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_296c4f7da7e951eec9c5f37b",
+        "content": {
+          "message": "多一张正义和月亮有人和我换吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/441e73091c8d83d591c73ca63fea39a7364325844.jpg",
+              "img_width": 1272,
+              "img_height": 8950,
+              "img_size": 828.21
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "12d205365c2ac70211b9a4d46100ab2b734ac24ca2de93c67a0e70a4a3966e5f",
+  "original_bytes_sha256": "f95f10d8042456a358d13209da84ef767615b4fca21bd7d7e6a97eb16acb8f6d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

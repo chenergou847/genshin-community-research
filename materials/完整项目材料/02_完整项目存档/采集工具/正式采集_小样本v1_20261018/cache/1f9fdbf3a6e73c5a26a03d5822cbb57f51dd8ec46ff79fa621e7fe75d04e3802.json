@@ -1,0 +1,94 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318942387056",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:34:35.482478+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 10
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318942387056,
+        "rpid_str": "318942387056",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790617757,
+        "like": 0,
+        "rcount": 10,
+        "count": 12,
+        "state": 0,
+        "author_id": "U_b44b4b0801befd05373dfd5b",
+        "content": {
+          "message": "可以打下n5么[doge_金箍][doge_金箍]还是说很勉强",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2707be2afa52847b510d940cdcc48856316318614.jpg",
+              "img_width": 1080,
+              "img_height": 3993,
+              "img_size": 2051.25
+            }
+          ],
+          "emote": {
+            "[doge_金箍]": {
+              "id": 83964,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge_金箍]",
+              "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1724910828,
+              "jump_title": "金箍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7f3bbfe6d50076ea512c229eb9f2d964c71591aa5f0356e9159e365078c5eaf7",
+  "original_bytes_sha256": "07fc4c56169bde990ef002cf8e498dca9093b95ed87ef889586cf1edf7ad9694",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

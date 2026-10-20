@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315573318337",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:11:02.074902+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315573318337,
+        "rpid_str": "315573318337",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790777800,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_da926ca936dd522ad66cc5a9",
+        "content": {
+          "message": "感谢up的推荐配队。\n好久没打N6了，主要是4星武器皮没兴趣，5星武器皮懒得凹，结果今天打了把n5发现90秒就过了，想着凹一凹N6拿5星武器皮。结果两把就结束了。一开始还以为我很有手法，结果一看配置。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5b2bde3be3bda32fd5cedc101cba659b16073952.png",
+              "img_width": 3840,
+              "img_height": 2160,
+              "img_size": 4533.67,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d941e5bd3b539a72f65a4b5f332d4e197788b706cee5bd6d71716f80144ec681",
+  "original_bytes_sha256": "a3f172df4915a5c7e525169900c869238423098e2d0d332d5c604c2b3abc3e0a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

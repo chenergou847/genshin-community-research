@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315437552545",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:27:19.750229+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315461112385,
+          "rpid_str": "315461112385",
+          "root": 315437552545,
+          "root_str": "315437552545",
+          "parent": 315437552545,
+          "parent_str": "315437552545",
+          "dialog": 315461112385,
+          "ctime": 1790688422,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c4bed7df22112fb86e8eb71f",
+          "content": {
+            "message": "练度好点1命梦见月加冰主能打第一间，莱欧奥黛塔神子砂糖第二间，少机菲带班尼特打第三间。梦见月没练度就让莱欧阿罗夏打1，奥黛塔冰主神子打2"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315467927377,
+          "rpid_str": "315467927377",
+          "root": 315437552545,
+          "root_str": "315437552545",
+          "parent": 315461112385,
+          "parent_str": "315461112385",
+          "dialog": 315461112385,
+          "ctime": 1790692313,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_45b4e4e47fcc58a3ad83ec59",
+          "content": {
+            "message": "回复 @盈月迷津渡 :莱欧和阿罗夏能一起上场嘛，我砺行修远这周五就2命莱欧了，莱欧可以带一队，就是不知道梦见月或者冰主能不能带一队了，都是用的超导套或者新本的星扩散练度还行，可以现拉"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315437552545,
+        "rpid_str": "315437552545",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790674241,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_45b4e4e47fcc58a3ad83ec59",
+        "content": {
+          "message": "问问三间怎么配队",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0c438e73d11176054d40d56d2ed8d39a33239279.jpg",
+              "img_width": 1179,
+              "img_height": 12981,
+              "img_size": 3531
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "01f8e7b13c2800bf9f2ebeb3b11945d0c367a4ad99a71f7e449843a097a9bdb1",
+  "original_bytes_sha256": "8eedaf1bee97fc85dc908116109ce6600082d0bf980d73444aef5636c2a60aaf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

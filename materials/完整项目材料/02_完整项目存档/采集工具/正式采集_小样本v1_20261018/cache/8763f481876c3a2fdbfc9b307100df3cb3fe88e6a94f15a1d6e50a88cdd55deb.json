@@ -1,0 +1,60 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317372737281",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:04:13.760081+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317372737281,
+        "rpid_str": "317372737281",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792248770,
+        "like": 2,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_888d5af8d28bc27f6997a60e",
+        "content": {
+          "message": "加强。弱势。月感电。。。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1167ac6a9323a5285e838260913281523493087435295593.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1648.35
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "1ee5976ad57660fdb2af7029f8b87add8e61419f895c183e881841413eebd1d9",
+  "original_bytes_sha256": "2779a85d81be31df4ad7fd1088c8b22322713315a7d5864113a541ecc66e3258",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

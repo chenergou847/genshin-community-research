@@ -1,0 +1,178 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454554537546",
+    "root": "320990400464",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:46:14.565485+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 317356021969,
+          "rpid_str": "317356021969",
+          "root": 320990400464,
+          "root_str": "320990400464",
+          "parent": 320990400464,
+          "parent_str": "320990400464",
+          "dialog": 317356021969,
+          "ctime": 1792239589,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d0636803a0ca8232002be6db",
+          "content": {
+            "message": "我27金火都打了两轮[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317369345313,
+          "rpid_str": "317369345313",
+          "root": 320990400464,
+          "root_str": "320990400464",
+          "parent": 320990400464,
+          "parent_str": "320990400464",
+          "dialog": 317369345313,
+          "ctime": 1792247050,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dcfd18a3d65ea1107348f69e",
+          "content": {
+            "message": "抗性这一块[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321099465040,
+          "rpid_str": "321099465040",
+          "root": 320990400464,
+          "root_str": "320990400464",
+          "parent": 320990400464,
+          "parent_str": "320990400464",
+          "dialog": 321099465040,
+          "ctime": 1792306125,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c13091a7dc1fc76d532a4daf",
+          "content": {
+            "message": "呵呵，再过两个版本3500万和4300万的怪要端上来了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320990400464,
+        "rpid_str": "320990400464",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792225581,
+        "like": 60,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_5b1dbbf2c9d18eb15d954d6d",
+        "content": {
+          "message": "丘林这血量真吓人，满火融化一刀感觉就掉了层皮。"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "16080256940f6b90323b1dcd4f0662ebf4d0b48f087884b8a7a879e35443d9dc",
+  "original_bytes_sha256": "17bde9b232bd285b862a13387a3796a079334d86531af05ea7cef7a6700af915",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "319463585472",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:56:23.798042+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319469035936,
+          "rpid_str": "319469035936",
+          "root": 319463585472,
+          "root_str": "319463585472",
+          "parent": 319463585472,
+          "parent_str": "319463585472",
+          "dialog": 319469035936,
+          "ctime": 1791022988,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_66ab789b5da1175cf393174e",
+          "content": {
+            "message": "提瓦特最强coser"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319463585472,
+        "rpid_str": "319463585472",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791020093,
+        "like": 11,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_b204008bf0850d1390365697",
+        "content": {
+          "message": "孩子们别怕，看我直接伪装一波去打n6",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/cfab8f3c858e95062057f52ad094e1931592787040.jpg",
+              "img_width": 608,
+              "img_height": 1558,
+              "img_size": 476.52
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "76de89471b87f14611fd44ed79c7ee28b8f3a361070f17d62014ffbb0b21073a",
+  "original_bytes_sha256": "25a5e787dc0227a7d94743281a86a532c589c06e9db8a6f14a81249bc4d0955d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

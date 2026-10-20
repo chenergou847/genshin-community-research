@@ -1,0 +1,92 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "316525591473",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:16:45.711447+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316525758513,
+          "rpid_str": "316525758513",
+          "root": 316525591473,
+          "root_str": "316525591473",
+          "parent": 316525591473,
+          "parent_str": "316525591473",
+          "dialog": 316525758513,
+          "ctime": 1791522300,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d46187b724f41c3aeddf5ad",
+          "content": {
+            "message": "升到90级51.4245  95级伤害就够了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316525591473,
+        "rpid_str": "316525591473",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791522188,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_2d46187b724f41c3aeddf5ad",
+        "content": {
+          "message": "主播主播 现在差一丝丝达到52w标准啦 之前扫上了但是练度太差 现在打了512825 满暴 差一手爆伤 有一套304爆伤的 伤害期望没这个高"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f2a269e4dce0003d19c2129083eef8a8fd137b1e77b8ae8d6c862a9426ac7bd8",
+  "original_bytes_sha256": "885c65ecff41b28af329d34a6ef9b705553ff972cf306e4be1b2ed3903d818c6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

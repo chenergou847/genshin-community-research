@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320873933248",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:09:59.878728+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320879219648,
+          "rpid_str": "320879219648",
+          "root": 320873933248,
+          "root_str": "320873933248",
+          "parent": 320873933248,
+          "parent_str": "320873933248",
+          "ctime": 1792141813,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b6538481f8f3880e7c38e72d",
+          "content": {
+            "message": "丝柯克还逆版本，现在不正在up吗[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320922823600,
+          "rpid_str": "320922823600",
+          "root": 320873933248,
+          "root_str": "320873933248",
+          "parent": 320879219648,
+          "parent_str": "320879219648",
+          "ctime": 1792165657,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_62dfeff8bcd1cd9c29da449a",
+          "content": {
+            "message": "回复 @滨冰冰困了 :额…我说的不是逆行者，是横行者"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320873933248,
+        "rpid_str": "320873933248",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792137993,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_62dfeff8bcd1cd9c29da449a",
+        "content": {
+          "message": "版本横行者",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/56a8c986679417f197f62cbcd700fd601368945837.jpg",
+              "img_width": 1080,
+              "img_height": 2866,
+              "img_size": 1327.72
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "d79ba20b14e2bec40c503122dee79fd79a7aa024198d7732c6648c032df2f55a",
+  "original_bytes_sha256": "67108bfc4f1941523edfac9944693faaf6cf195e6c23f0613674aa9a26bf189a",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

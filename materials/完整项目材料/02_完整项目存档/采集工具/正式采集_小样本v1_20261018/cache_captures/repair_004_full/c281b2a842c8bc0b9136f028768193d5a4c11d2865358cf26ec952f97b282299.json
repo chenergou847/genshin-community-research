@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320889528480",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:38:12.201471+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320889528480,
+        "rpid_str": "320889528480",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792147564,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_3061736114748c0caa6b72e0",
+        "content": {
+          "message": "求配队🥺",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/884f3c21f118cf36555258c622440dca445925845.jpg",
+              "img_width": 1076,
+              "img_height": 6468,
+              "img_size": 4159.3
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "b089a32b81abd9bd71a5dacd9770bf33eef7b6c09fcdc9a783d6d45831b08c41",
+  "original_bytes_sha256": "a44e978339c0731480afe201b452087cca13dc393a068dcb1fad8607a229b6c3",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

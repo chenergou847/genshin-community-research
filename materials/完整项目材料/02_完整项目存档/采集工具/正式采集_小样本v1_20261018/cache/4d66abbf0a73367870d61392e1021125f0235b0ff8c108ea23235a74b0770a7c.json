@@ -1,0 +1,186 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "316108398433",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:27:11.762415+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319701572928,
+          "rpid_str": "319701572928",
+          "root": 316108398433,
+          "root_str": "316108398433",
+          "parent": 316108398433,
+          "parent_str": "316108398433",
+          "dialog": 319701572928,
+          "ctime": 1791188498,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b3d6ae5213d47f4eaceed72f",
+          "content": {
+            "message": "buff选对了还是挺逆天的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319735947872,
+          "rpid_str": "319735947872",
+          "root": 316108398433,
+          "root_str": "316108398433",
+          "parent": 316108398433,
+          "parent_str": "316108398433",
+          "dialog": 319735947872,
+          "ctime": 1791206241,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fef1af183a6e0207e31598e3",
+          "content": {
+            "message": "不是好多不带圣遗物0没几个金打的[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316175067233,
+          "rpid_str": "316175067233",
+          "root": 316108398433,
+          "root_str": "316108398433",
+          "parent": 316108398433,
+          "parent_str": "316108398433",
+          "dialog": 316175067233,
+          "ctime": 1791226741,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_33e310917f612b28e4e4ba0f",
+          "content": {
+            "message": "我也是用神里打的，一开始还怕打不过，沃的加成还是太给力了，buff也选对的话没啥压力"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 316108398433,
+        "rpid_str": "316108398433",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791186288,
+        "like": 2,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_52e11a471ebe56ae82702e03",
+        "content": {
+          "message": "我是没招了，回坑玩家没抽丝柯克，借了大佬的6命丝柯克过的双月喻，10幕只好用全0命的神鹤万沃试着凹，结果居然能过，只能说buff还是太逆天了，沃沃头拐力也好强[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1eeb2f2ae7bebc21c0476f14006d4e884506654.jpg",
+              "img_width": 1200,
+              "img_height": 1438,
+              "img_size": 1489.09
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ae796eb791e0033777f114760d7d9e2799cc8479bf3c4e13a05e22cf057802b1",
+  "original_bytes_sha256": "a97d61c78603d85d4d25bd482aeba5457940d818cbf357eb1bae3a2f4a310561",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,490 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319237576864",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:51:48.610742+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319238692576,
+          "rpid_str": "319238692576",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319237576864,
+          "parent_str": "319237576864",
+          "dialog": 319238692576,
+          "ctime": 1790856576,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_07c304c0d5afb317202496a7",
+          "content": {
+            "message": "躲伤害不就行了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315674062593,
+          "rpid_str": "315674062593",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319238692576,
+          "parent_str": "319238692576",
+          "dialog": 319238692576,
+          "ctime": 1790857261,
+          "like": 78,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4be864c7c5230c8db548d153",
+          "content": {
+            "message": "回复 @千束qianshu :说的容易，你给我不掉伤害的躲一个"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319255120304,
+          "rpid_str": "319255120304",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319237576864,
+          "parent_str": "319237576864",
+          "dialog": 319255120304,
+          "ctime": 1790865198,
+          "like": 33,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ceca9ca4eec6609f75665bd6",
+          "content": {
+            "message": "有二火能保证开大的话应该可以用班，踩班大能消冰吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315693462833,
+          "rpid_str": "315693462833",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 315674062593,
+          "parent_str": "315674062593",
+          "dialog": 319238692576,
+          "ctime": 1790867803,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c467a3afb0c253d29fd048f6",
+          "content": {
+            "message": "回复 @做纯白 :逆时针转[doge]然后怪准备跳劈你，你就开大或者切人[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319266991184,
+          "rpid_str": "319266991184",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319255120304,
+          "parent_str": "319255120304",
+          "dialog": 319255120304,
+          "ctime": 1790872077,
+          "like": 13,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dfe4949d5f294797043570f3",
+          "content": {
+            "message": "回复 @好昵称都寄了 :我试了，伤害不行而且轴很乱，最后还是经典超载出分"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319272110432,
+          "rpid_str": "319272110432",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 315693462833,
+          "parent_str": "315693462833",
+          "dialog": 319238692576,
+          "ctime": 1790876198,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c4e653ec8b345ae8cefc53db",
+          "content": {
+            "message": "回复 @我就是雪上加霜 :请教，逆时针转的原因是什么"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315725137617,
+          "rpid_str": "315725137617",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319237576864,
+          "parent_str": "319237576864",
+          "dialog": 315725137617,
+          "ctime": 1790906917,
+          "like": 4,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0d98f17a47abdbcf9b93a50a",
+          "content": {
+            "message": "难怪啊，我说我有时候转不出来"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319366458752,
+          "rpid_str": "319366458752",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319237576864,
+          "parent_str": "319237576864",
+          "dialog": 319366458752,
+          "ctime": 1790947065,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dadadc6e5578d1bfba4ea891",
+          "content": {
+            "message": "只要在怪的背面就行"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315863209329,
+          "rpid_str": "315863209329",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319237576864,
+          "parent_str": "319237576864",
+          "dialog": 315863209329,
+          "ctime": 1791005712,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_62fc2f18bb203456a1e068d5",
+          "content": {
+            "message": "这怪模型也怪怪的，有时候贴着她打马头还会丢伤害"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319687553568,
+          "rpid_str": "319687553568",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319255120304,
+          "parent_str": "319255120304",
+          "dialog": 319255120304,
+          "ctime": 1791180019,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_243862263d47c4bd90b5e914",
+          "content": {
+            "message": "回复 @好昵称都寄了 :二火也换不了班，这队的攻击区是爆满的但是班只有15火伤不如伊增伤多词条数上也拉不开差距夏欧又不能动，班得吃球而且轴也容易乱孙子还得切出来放技能在后台充不上战意，伤害上不如伊还增加了更多繁琐的操作拖时间只会更慢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316103076737,
+          "rpid_str": "316103076737",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319237576864,
+          "parent_str": "319237576864",
+          "dialog": 316103076737,
+          "ctime": 1791182848,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_199b87fad0fb010dbbea9c47",
+          "content": {
+            "message": "如果有一命的话可以把伊安珊换班尼特，两者满命情况下伊安珊只比班尼特多10增伤，但舒适度被班尼特暴打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320016426944,
+          "rpid_str": "320016426944",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 316103076737,
+          "parent_str": "316103076737",
+          "dialog": 316103076737,
+          "ctime": 1791416657,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a0cd99e9fc59b6557b7148eb",
+          "content": {
+            "message": "回复 @炽天使zdc :第一次听说火神超载队，伊安珊被班尼特暴打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320071535360,
+          "rpid_str": "320071535360",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 319237576864,
+          "parent_str": "319237576864",
+          "dialog": 320071535360,
+          "ctime": 1791459378,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a5bcf6a5e23f4f4fe53d4d58",
+          "content": {
+            "message": "那就是不够熟练，继续练，蛐蛐一个冰减速就不会双码头了是吧，怕不是宏[抠鼻]",
+            "emote": {
+              "[抠鼻]": {
+                "id": 18,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[抠鼻]",
+                "url": "https://i0.hdslb.com/bfs/emote/cb89184c97e3f6d50acfd7961c313ce50360d70f.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "抠鼻"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316488248385,
+          "rpid_str": "316488248385",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 315863209329,
+          "parent_str": "315863209329",
+          "dialog": 315863209329,
+          "ctime": 1791475064,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3d6317fe24ff6fc840f79651",
+          "content": {
+            "message": "回复 @其碎 :神秘技能前摇判定，我小玛一口咬空直接废一轮轴"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317412093873,
+          "rpid_str": "317412093873",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 316103076737,
+          "parent_str": "316103076737",
+          "dialog": 316103076737,
+          "ctime": 1792292208,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_28f831794050b6f4120243f6",
+          "content": {
+            "message": "回复 @炽天使zdc :你确定不是伊安珊舒适度吊打班尼特"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317475293473,
+          "rpid_str": "317475293473",
+          "root": 319237576864,
+          "root_str": "319237576864",
+          "parent": 317412093873,
+          "parent_str": "317412093873",
+          "dialog": 316103076737,
+          "ctime": 1792330781,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_199b87fad0fb010dbbea9c47",
+          "content": {
+            "message": "回复 @Kdush-Kula :班尼特能削怪的挂冰，带伊安珊的情况下被挂冰你可以体验一下攻速降低多少"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319237576864,
+        "rpid_str": "319237576864",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790856009,
+        "like": 134,
+        "rcount": 16,
+        "count": 17,
+        "state": 0,
+        "author_id": "U_b20d513d66997dbba1a0619e",
+        "content": {
+          "message": "超载队打这个挺折磨的 冰馆会挂冰让你减速 双码头节奏超容易乱"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2a0d835912dd2d6a49ae8aea7da004fd6aa3505f55a7bfffb18f4af81541c382",
+  "original_bytes_sha256": "4d28a14d638b7beabeda4676d2a58d863edf5ccb70f1fd0bc963098247065996",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

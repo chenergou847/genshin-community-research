@@ -1,0 +1,140 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315764753841",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:32:48.970048+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319641714560,
+          "rpid_str": "319641714560",
+          "root": 315764753841,
+          "root_str": "315764753841",
+          "parent": 315764753841,
+          "parent_str": "315764753841",
+          "dialog": 319641714560,
+          "ctime": 1791136990,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cd1b8668a48199d938a2f959",
+          "content": {
+            "message": "不是大佬，前面怎么运营的，剩这么多，甚至开幕的龙王都还在[哦呼]",
+            "emote": {
+              "[哦呼]": {
+                "id": 1940,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[哦呼]",
+                "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哦呼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315764753841,
+        "rpid_str": "315764753841",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790931029,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_34c1b483fc32e791b5b3abcd",
+        "content": {
+          "message": "打到最后剩这些角色求冰锅心理阴影面积[傲娇]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/27bac8fffb16434ac4d2f1eed4a86534200922788.jpg",
+              "img_width": 2376,
+              "img_height": 1080,
+              "img_size": 886.87,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[傲娇]": {
+              "id": 20,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[傲娇]",
+              "url": "https://i0.hdslb.com/bfs/emote/010540d0f61220a0db4922e4a679a1d8eca94f4e.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "傲娇"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "19cfc13b4af73fdf07a556ac1d4b4fd2123100eb7d1b849c11d0075b64e906b0",
+  "original_bytes_sha256": "e64b9c8b8e0ee616aafd2fe955278420dd587ee42312b705810e179acc039728",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,38 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-19T11:03:03.360430+00:00",
+  "source_hash": "819cfa0f2be9a6cb10a33bacb12670dc0f20cb3d419a54f529d52c6a2ddab8ab",
+  "user_confirmation": "确认，按此执行",
+  "authority": "direct_user_reply_in_current_chat",
+  "confirmed_task": "对全部6526条评论编码；先人工审核30条校准，再审核30条独立随机结果；AI负责其余最终项目编码，低把握或规则冲突集中由用户裁决；保留AI审核标记，交付全量编码表与分副本报告。",
+  "target_frame_hash": "46a6d4e3de4289919e584f5ce260d805dca322f88b114efd0e6318b249c75611",
+  "target_keys_hash": "b87833e075f6b5d1c656e72ed3434eeb28085d8c8378fcab389386e7db395186",
+  "total_target_rows": 6526,
+  "by_mode": {
+    "abyss": 1451,
+    "theater": 879,
+    "stygian": 4196
+  },
+  "calibration_n": 30,
+  "validation_n": 30,
+  "calibration_source_queue_hash": "22b767ddd10d8d27ad7efa027e9984913157e4e58bc1fcafe208f0b4b27f7bc9",
+  "calibration_selection": "reuse existing source-diverse pilot, 10 per mode; not a random accuracy test",
+  "baseline_AI_labels_hash": "b15adb57778f95d0f04b1e546efe46b943a7f551ed0f7604ce96b716e798f757",
+  "baseline_codebook_hash": "8af70b0453ae717d9384a7d6ed124450eb9b4571cbea5b3f15231d7d1ce3e93e",
+  "human_approval_for_AI_project_final": true,
+  "all_rows_human_review_required": false,
+  "final_label_authorship": "human calibration / AI project coding / human adjudication, recorded per row",
+  "scope": "saved_normalized_in_window_bodies_of_60_fixed_sources; not whole Bilibili",
+  "model_training": false,
+  "learning_method": "versioned project codebook, human decisions and examples",
+  "ambiguous_media": "unread media recorded; self-contained text may be coded; unresolvable content stays unknown",
+  "exception_policy": "batch substantive rule conflicts; reuse existing decisions; do not ask repeatedly about the same rule",
+  "audit_policy": "holdout excludes calibration, uses fresh seed and 10 SRS per mode; reveal after full AI labels are frozen; compare human independent labels before showing AI; report raw disagreements and uncertainty, no accuracy guarantee from 30 cases",
+  "audit_disagreement_policy": "trace disagreement types through the corpus; if rules are tuned on holdout, disclose it is no longer independent validation",
+  "weights": "full-corpus descriptive counts use weight 1; original sampled-case weights are not used for full-corpus proportions",
+  "raw_master_sha256": {
+    "small_collection.json": "45302078b3780d19f973bd7e813209dadff76ecda0e0fb4e38f3d37ae3e73ff4",
+    "small_comments.jsonl": "eaf1b16b03cc973a724da175f914a2b272890e4ac26a2422ee34bfad56e8a070",
+    "small_observations.jsonl": "ce83b10f8cc27fedc563710a8b20553ce13e00ea180b0218cc0ac985a1a9d53e"
+  }
+}

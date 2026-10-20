@@ -1,0 +1,808 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117447776536436",
+    "type": "1",
+    "mode": "2",
+    "next": "663",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzMTQ5MDU3NTQ4MzQaADIDCJcF\"}"
+  },
+  "captured_at": "2026-10-18T05:02:25.848271+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 664,
+        "next": 635,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzMTQ5MDU3NTQ4MzQaADIDCPsE",
+          "prev_offset": "CAISEDE4MzUzMTQ5MDU3NTQ4MzQaADIDCJgF"
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 1212,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320939353712,
+          "rpid_str": "320939353712",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792187282,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7e8f820ac7d7fc35bac3e072",
+          "content": {
+            "message": "宝宝巴士罢了[吃瓜][滑稽]",
+            "emote": {
+              "[吃瓜]": {
+                "id": 415,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[吃瓜]",
+                "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "吃瓜"
+              },
+              "[滑稽]": {
+                "id": 27,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[滑稽]",
+                "url": "https://i0.hdslb.com/bfs/emote/d15121545a99ac46774f1f4465b895fe2d1411c3.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "滑稽"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320939342736,
+          "rpid_str": "320939342736",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792187210,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_564bb8f88f1aa5ae70e0feae",
+          "content": {
+            "message": "蛮简单的这次，瑞希一队 冰主一队，一遍过。"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320938686592,
+          "rpid_str": "320938686592",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792184958,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_d03ad9d93fa7e2ae16b310f8",
+          "content": {
+            "message": "艱難取勝[委屈][委屈][委屈]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/d1317f7e15c3261eb94a066a14a42bef3493297844652802.jpg",
+                "img_width": 804,
+                "img_height": 2039,
+                "img_size": 436
+              }
+            ],
+            "emote": {
+              "[委屈]": {
+                "id": 8,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[委屈]",
+                "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "委屈"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317345619745,
+              "rpid_str": "317345619745",
+              "root": 320938686592,
+              "root_str": "320938686592",
+              "parent": 320938686592,
+              "parent_str": "320938686592",
+              "ctime": 1792234065,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_6e243f7a0983717c37c88082",
+              "content": {
+                "message": "？我也是这个配对，轻轻松松就过了啊[哦呼]不难啊，而且我只有少女有专武其他全部0+0[思考][思考]",
+                "emote": {
+                  "[哦呼]": {
+                    "id": 1940,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[哦呼]",
+                    "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "哦呼"
+                  },
+                  "[思考]": {
+                    "id": 1941,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[思考]",
+                    "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "思考"
+                  }
+                }
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317282311041,
+          "rpid_str": "317282311041",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792184911,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8269888f10a2c745daa0722d",
+          "content": {
+            "message": "薇斯纳等级武器都没升[鸭科夫_流汗鸭]圣遗物也没刷",
+            "emote": {
+              "[鸭科夫_流汗鸭]": {
+                "id": 124985,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[鸭科夫_流汗鸭]",
+                "url": "https://i0.hdslb.com/bfs/emote/b49b325224cef1ef8313728022aa86e93e65bd08.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1762163627,
+                "jump_title": "流汗鸭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317282382289,
+          "rpid_str": "317282382289",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792184767,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8269888f10a2c745daa0722d",
+          "content": {
+            "message": "只有星，没冰队，1命绫华能过吗[鸭科夫_流汗鸭]",
+            "emote": {
+              "[鸭科夫_流汗鸭]": {
+                "id": 124985,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[鸭科夫_流汗鸭]",
+                "url": "https://i0.hdslb.com/bfs/emote/b49b325224cef1ef8313728022aa86e93e65bd08.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1762163627,
+                "jump_title": "流汗鸭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320937601552,
+          "rpid_str": "320937601552",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792181758,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1d9c3cdff0ea2878a3eeaacf",
+          "content": {
+            "message": "一个冰c都没抽๐·°(৹˃ᗝ˂৹)°·๐",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/7aec63e0c1e4259a8b64e130c7da1cbc38100515.jpg",
+                "img_width": 1080,
+                "img_height": 2374,
+                "img_size": 1125.09
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320937309184,
+          "rpid_str": "320937309184",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792181250,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1e4ced908c3267b2173b47b8",
+          "content": {
+            "message": "孩子们我上半星扩散，下半木偶带个少女挂水能过吗[思考]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317281074593,
+          "rpid_str": "317281074593",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792180805,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_50ae904867e09409cbf6aa97",
+          "content": {
+            "message": "上半梦见月冰主砂糖猫猫 下半木偶神子七七 我随便塞了个万叶 很好打的 梦见月就开e逛街伤害打完了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320937100672,
+          "rpid_str": "320937100672",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792180695,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ee943a3b83b9f5213d88d0df",
+          "content": {
+            "message": "没啥难度，上半00木偶星超导，下半00丝爱芙，每间上下加起来也就打一分钟左右"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317280626225,
+          "rpid_str": "317280626225",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792179833,
+          "like": 0,
+          "rcount": 2,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_5ecd255354f9337c3824954c",
+          "content": {
+            "message": "新手只有菲林斯伊涅芙薇斯纳沃雅妮莎怎么办"
+          },
+          "replies": [
+            {
+              "rpid": 317283260193,
+              "rpid_str": "317283260193",
+              "root": 317280626225,
+              "root_str": "317280626225",
+              "parent": 317280626225,
+              "parent_str": "317280626225",
+              "ctime": 1792188088,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a3864d09165ced995bc5588b",
+              "content": {
+                "message": "上半正常星扩散，下半带个猫猫或者莱依拉就行"
+              },
+              "replies": []
+            },
+            {
+              "rpid": 320936822448,
+              "rpid_str": "320936822448",
+              "root": 317280626225,
+              "root_str": "317280626225",
+              "parent": 317280626225,
+              "parent_str": "317280626225",
+              "ctime": 1792180074,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_106c25452214331cea5bceef",
+              "content": {
+                "message": "那还说啥了，12层给你了[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 320934993136,
+          "rpid_str": "320934993136",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792176756,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6656fd53b89e79638876480a",
+          "content": {
+            "message": "上21仆下丝过了[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317279228177,
+          "rpid_str": "317279228177",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792176623,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_06b7dae9415ac6138319be29",
+          "content": {
+            "message": "这次深渊很舒服[doge_金箍]，丝柯克和梦见一路打过去。",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320934845712,
+          "rpid_str": "320934845712",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792176493,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_64214140395af948ce7f538e",
+          "content": {
+            "message": "上半微斯纳下半冰主随便打"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317278950593,
+          "rpid_str": "317278950593",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792176405,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ade334b4967c77e84cb77917",
+          "content": {
+            "message": "最简单的一集[OK]",
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320934787120,
+          "rpid_str": "320934787120",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792176361,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a325ad8dfdb3790cfa180d7a",
+          "content": {
+            "message": "话说星扩散出伤逻辑路我到现在都没有玩懂，二命的瑞希拿在手里感觉跟个花瓶一样[热]",
+            "emote": {
+              "[热]": {
+                "id": 7647,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[热]",
+                "url": "https://i0.hdslb.com/bfs/emote/4e58a2a6f5f1580ac33df2d2cf7ecad7d9ab3635.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "热"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320934438336,
+          "rpid_str": "320934438336",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792175836,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a1685da4407e10ce6d101ec2",
+          "content": {
+            "message": "第一次用手机打[doge]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c2f34f16dad9b8fd0c92fc9582a56fe610857218.png",
+                "img_width": 1125,
+                "img_height": 2436,
+                "img_size": 1975,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320933960384,
+          "rpid_str": "320933960384",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792175164,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c62c5b7b9e76d9fd8b20d9cf",
+          "content": {
+            "message": "打得最爽的一集"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317278029121,
+          "rpid_str": "317278029121",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792174760,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_e89ab8c54f7b14c1df64b750",
+          "content": {
+            "message": "上半1金梦见月奥黛塔冰主珐露珊被肘飞几次鼻青脸肿的过了\n下半8金丝柯克战舰进boss房十秒就结束了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317278486929,
+              "rpid_str": "317278486929",
+              "root": 317278029121,
+              "root_str": "317278029121",
+              "parent": 317278029121,
+              "parent_str": "317278029121",
+              "ctime": 1792175509,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f79f57d70280e1f607dfd99b",
+              "content": {
+                "message": "你好啊，在吗，能求你借点钱买个饭吃吗，真的遇到困难了"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317278007393,
+          "rpid_str": "317278007393",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792174685,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a231825e193699bb2b4e1414",
+          "content": {
+            "message": "依旧随便打",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/6982c5619ba2eabba6e52d4aff9760c23546660529506452.jpg",
+                "img_width": 2640,
+                "img_height": 1216,
+                "img_size": 802.94
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/e1a4bfd49b1e85f6b018ecdbf639e4a53546660529506452.jpg",
+                "img_width": 2640,
+                "img_height": 1216,
+                "img_size": 1301.66
+              }
+            ]
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320933515392,
+          "rpid_str": "320933515392",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792174565,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0f741ce64978d8d2503a6794",
+          "content": {
+            "message": "刚回坑上期没有月感电折磨死我了，这期用凌华配人鱼压线过"
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    }
+  },
+  "response_hash": "1dd8190a62d952bcbce05214438f9cd88363229dc9f88d3d922d397c9b7e0c97",
+  "original_bytes_sha256": "f553a4c5f051c3af7f08eb28065b96a956ad1270ce68beaac0e079ab35d4b1e6",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

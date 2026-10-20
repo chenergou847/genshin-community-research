@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319447449504",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:29:19.848619+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319447449504,
+        "rpid_str": "319447449504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791010655,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_ba14fcaa5de7caba2f26ec4b",
+        "content": {
+          "message": "没抽龙王恰斯卡散兵，试用的打的挺勉强，我水冰风的主C也少，能打的就丝薇桑，跟好友借了个2+1的恰斯卡以为能轻松过，带6珐加两个辅助buff全开结果附加关打不满，只能借星扩散但是前置天赋的队友太少，结果还是靠回溯拿回了主角，靠星扩散过的，我打剧诗都是点数尽量换角色，祝福基本就用的上的点个一级不知是否和此有关，不太清楚祝福影响大不大，毕竟凑不出队友更致命\n风光时差不多是11分钟左右，而实际花了我两个小时该有的"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "84585f38d5c586555216a6d708d569f3df15a43cfdb67716a37ce4dbc2bb94ba",
+  "original_bytes_sha256": "af9fdfbc9c66708f8843fa524d9953ef812b3b9b84bef3083b3130b09f834be1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

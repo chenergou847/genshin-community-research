@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359209613190",
+    "root": "319126139440",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:38:16.262211+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315585277457,
+          "rpid_str": "315585277457",
+          "root": 319126139440,
+          "root_str": "319126139440",
+          "parent": 319126139440,
+          "parent_str": "319126139440",
+          "dialog": 315585277457,
+          "ctime": 1790784843,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_800396c95998b61afb6edecd",
+          "content": {
+            "message": "这个要换成星扩散的圣遗物吗？我有二命梦见月，但是没怎么刷这个新圣遗物"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319146981232,
+          "rpid_str": "319146981232",
+          "root": 319126139440,
+          "root_str": "319126139440",
+          "parent": 315585277457,
+          "parent_str": "315585277457",
+          "dialog": 315585277457,
+          "ctime": 1790784934,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2bdc1a50dc47d97488c7b5fb",
+          "content": {
+            "message": "回复 @月下之妖 :我是用的新圣遗物，但是我看好多攻略是用2+2堆精通，哪个好用哪个就行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319158053664,
+          "rpid_str": "319158053664",
+          "root": 319126139440,
+          "root_str": "319126139440",
+          "parent": 315585277457,
+          "parent_str": "315585277457",
+          "dialog": 315585277457,
+          "ctime": 1790796033,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_76082cc91b0b50d29d7daafa",
+          "content": {
+            "message": "回复 @月下之妖 :你把久其忍圣遗物扒下来给梦见月用就行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319126139440,
+        "rpid_str": "319126139440",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790773201,
+        "like": 4,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_2bdc1a50dc47d97488c7b5fb",
+        "content": {
+          "message": "我也没有至冬角色，只能说梦见月牛逼。",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a088f98ae498211588612bb15694942b240850002.png",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 1573.06
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "2c28d28d3c956dc85fc5964412dc7c37b2490c868639bf7e15731e5dee4e8cbf",
+  "original_bytes_sha256": "41d4660ff8ea352a323426560c12a917fd50faa8b4d90f40feb155b6fb0b51e1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,188 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315362895825",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:37:25.862373+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315362925489,
+          "rpid_str": "315362925489",
+          "root": 315362895825,
+          "root_str": "315362895825",
+          "parent": 315362895825,
+          "parent_str": "315362895825",
+          "dialog": 315362925489,
+          "ctime": 1790601345,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7b2de60c1ef131b5218d3cf7",
+          "content": {
+            "message": "实在不行，只有在下半加金"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315362940113,
+          "rpid_str": "315362940113",
+          "root": 315362895825,
+          "root_str": "315362895825",
+          "parent": 315362895825,
+          "parent_str": "315362895825",
+          "dialog": 315362940113,
+          "ctime": 1790601371,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7b2de60c1ef131b5218d3cf7",
+          "content": {
+            "message": "主C圣遗物通常在240分到230分之间双爆"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315366124897,
+          "rpid_str": "315366124897",
+          "root": 315362895825,
+          "root_str": "315362895825",
+          "parent": 315362895825,
+          "parent_str": "315362895825",
+          "dialog": 315366124897,
+          "ctime": 1790603223,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "火神2命冰棺可以，还能打纯火带万叶班尼特。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315366196609,
+          "rpid_str": "315366196609",
+          "root": 315362895825,
+          "root_str": "315362895825",
+          "parent": 315362895825,
+          "parent_str": "315362895825",
+          "dialog": 315366196609,
+          "ctime": 1790603243,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "菲林斯第一间凹的情况下有机会"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315366250401,
+          "rpid_str": "315366250401",
+          "root": 315362895825,
+          "root_str": "315362895825",
+          "parent": 315362895825,
+          "parent_str": "315362895825",
+          "dialog": 315366250401,
+          "ctime": 1790603254,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "丝柯克其实爱芙三金就够了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315362895825,
+        "rpid_str": "315362895825",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790601294,
+        "like": 0,
+        "rcount": 5,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_7b2de60c1ef131b5218d3cf7",
+        "content": {
+          "message": "主播，31菲11少机00奥n6老头\n00蝶变丝00爱10芙莫n6冰锅\n20火6命夏洛蕾，班尼班，大孙子，伊安姗n6\n这个配置能过吗？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "80f59d9d6d94829af65ef4ac3e0177fd65f012b58ca5379536d77fc5cc60f5a2",
+  "original_bytes_sha256": "1dbf809042a34bc3b702dd405b9e49a8da1d2917b0a8ffbeb9269778237346bf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

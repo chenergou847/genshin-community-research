@@ -1,0 +1,150 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318944440704",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:33:56.959391+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315401620609,
+          "rpid_str": "315401620609",
+          "root": 318944440704,
+          "root_str": "318944440704",
+          "parent": 318944440704,
+          "parent_str": "318944440704",
+          "dialog": 315401620609,
+          "ctime": 1790646905,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶，丝柯克，菲林斯"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315401552977,
+          "rpid_str": "315401552977",
+          "root": 318944440704,
+          "root_str": "318944440704",
+          "parent": 318944440704,
+          "parent_str": "318944440704",
+          "dialog": 315401552977,
+          "ctime": 1790646923,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间菲林斯要么带冰主，要么带个火系工具人"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315401554577,
+          "rpid_str": "315401554577",
+          "root": 318944440704,
+          "root_str": "318944440704",
+          "parent": 318944440704,
+          "parent_str": "318944440704",
+          "dialog": 315401554577,
+          "ctime": 1790646928,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "视频也可以看看配队都有讲你的角色，你这配置已经够牛了。有帮助的话，视频点赞推荐一下就行了，帮助更多人看到视频配队。下班时间有在看的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318944440704,
+        "rpid_str": "318944440704",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790620671,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_b6a213bde3f190832142ba2f",
+        "content": {
+          "message": "uu们帮我看看有可能n6吗，感觉这期打不过后面就没机会了，21菲01机00少，00偶21奥6狼，01丝00爱沃",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/367de9137cd635c8a7ff1ff17648bc973690983227132133.jpg",
+              "img_width": 1080,
+              "img_height": 2400,
+              "img_size": 1174.47,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "d6dd814170a67db3c3ec3a4b2b4a50eb1d356869cc6f35661ffb369b29ba66c5",
+  "original_bytes_sha256": "6a80c5b6cc5a6761fd71331e87ccc5cde7ed653df8d9ec3e4fd56c665629fdef",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

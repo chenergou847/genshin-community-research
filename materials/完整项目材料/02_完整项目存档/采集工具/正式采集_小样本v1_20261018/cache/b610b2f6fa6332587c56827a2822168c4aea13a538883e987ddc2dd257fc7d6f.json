@@ -1,0 +1,125 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315034434321",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:05:29.371027+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315125182977,
+          "rpid_str": "315125182977",
+          "root": 315034434321,
+          "root_str": "315034434321",
+          "parent": 315034434321,
+          "parent_str": "315034434321",
+          "dialog": 315125182977,
+          "ctime": 1790411742,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_18c23166c1772159a732ab78",
+          "content": {
+            "message": "第一间木偶八重七七砂糖，第二间等下半池子开了抽个00爱，第三间菲林斯人机少女奥黛塔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315034434321,
+        "rpid_str": "315034434321",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790337351,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_57a690df1ed70b5a9bf3842d",
+        "content": {
+          "message": "打n5怎么分配队伍呀[大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/3770bc838fbafbc171b6ceffb01487cc3546891321084188.png",
+              "img_width": 1170,
+              "img_height": 2532,
+              "img_size": 2115
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a91770304eb2577d016c93d7761c87db3546891321084188.png",
+              "img_width": 1170,
+              "img_height": 2532,
+              "img_size": 2074
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e418fbb9d42203ed866aa1cd1f17860cdc2b0538c9419acce1255b3f908d9c32",
+  "original_bytes_sha256": "3c166d3634ca69a8e9f1ed2e8c991f72dd3c35ee019823874505f1da76e7cd28",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

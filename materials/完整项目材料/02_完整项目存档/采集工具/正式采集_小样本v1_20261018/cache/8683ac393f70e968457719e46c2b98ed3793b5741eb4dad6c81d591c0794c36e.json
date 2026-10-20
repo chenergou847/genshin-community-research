@@ -1,0 +1,96 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319061815040",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:20:45.053029+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319061815040,
+        "rpid_str": "319061815040",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790732422,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_e30dcf33cd98747dab1c5412",
+        "content": {
+          "message": "能过n6吗？[魔法少女的魔女审判动态表情包_kiang]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0a66d83a3e48c8a429eebf1ff0c64781513158614.jpg",
+              "img_width": 1290,
+              "img_height": 16527,
+              "img_size": 4700,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[魔法少女的魔女审判动态表情包_kiang]": {
+              "id": 135933,
+              "package_id": 9661,
+              "state": 0,
+              "type": 3,
+              "attr": 0,
+              "text": "[魔法少女的魔女审判动态表情包_kiang]",
+              "url": "https://i0.hdslb.com/bfs/garb/5906bd3d252aebe39e315312f4da3119bfdde600.png",
+              "meta": {
+                "size": 2
+              },
+              "mtime": 1775793601,
+              "gif_url": "https://i0.hdslb.com/bfs/garb/939e96c5dac15ad9874d19b7a8f91d9e70a7654d.gif",
+              "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=111546&hybrid_set_header=2&anchor_task=1&lottery_id=111547&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22112475%22%2C%22sub_id%22%3A%22%5B%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E7%9A%84%E9%AD%94%E5%A5%B3%E5%AE%A1%E5%88%A4%E5%8A%A8%E6%80%81%E8%A1%A8%E6%83%85%E5%8C%85_kiang%5D%22%7D",
+              "jump_title": "kiang",
+              "webp_url": "https://i0.hdslb.com/bfs/garb/466a78bfb6230a52e340c343674cd6056d3e19fa.webp"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f5f64e0e8a251f872c912287d03367a0ffd19b8b08399f07c1f3effd2b6e0fd0",
+  "original_bytes_sha256": "e3e642b80a61a455633dd215b47764f9429b9ba70d67f61759b2d6481ee4ca2d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

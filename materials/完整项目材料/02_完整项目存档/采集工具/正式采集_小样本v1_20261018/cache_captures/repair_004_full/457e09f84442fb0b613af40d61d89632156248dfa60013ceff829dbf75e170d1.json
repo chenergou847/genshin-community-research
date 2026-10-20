@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317228922881",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:38:52.016421+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317228922881,
+        "rpid_str": "317228922881",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792143725,
+        "like": 0,
+        "rcount": 2,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_18291d601a17655418cc1a08",
+        "content": {
+          "message": "瑕不掩瑜[OK]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f46ebc77946007b0ca58ab35b4c59e03700162890.jpg",
+              "img_width": 1280,
+              "img_height": 2772,
+              "img_size": 1365.11
+            }
+          ],
+          "emote": {
+            "[OK]": {
+              "id": 1950,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[OK]",
+              "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "OK"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "cc954a8a700c530331b0bfed2b9071fc05772a6f116bdfb792e9161483da84ed",
+  "original_bytes_sha256": "0012dc3d9b161bee905d2124cafd0ef23ef67bd65e8ebf9bb7f129d0a61583e1",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

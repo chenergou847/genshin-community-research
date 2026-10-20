@@ -1,0 +1,81 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315737862881",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T12:57:43.076969+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315737862881,
+        "rpid_str": "315737862881",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790914690,
+        "like": 94,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_ab89249e67a0e4a019ece3dc",
+        "content": {
+          "message": "谁懂龙王在最后一关的顶级救场啊✋️😭✋️",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/84c87a088b5ea7bf13b431b2b87a9012359372785.png",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 1415.53
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d3c7c6c2272f705b443de7e9f03408f9359372785.png",
+              "img_width": 1920,
+              "img_height": 1080,
+              "img_size": 1560.61
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "903fdaa87b384bf7f8c7f572c66129f7d5453c837d768004f9ac448998f5110d",
+  "original_bytes_sha256": "be01882680a31cfe2759c11d40f4761cb9ed139c1332a4a932a58a9f05aa3634",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

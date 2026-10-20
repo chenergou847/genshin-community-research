@@ -1,0 +1,86 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "319435895344",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:48:08.681924+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319435895344,
+        "rpid_str": "319435895344",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791004166,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_6bc2720c260ac6c11d0678c3",
+        "content": {
+          "message": "1火带的苇海信标，60，250双爆，队友6夏6欧4伊可以过n6吗[保卫萝卜_哇]",
+          "emote": {
+            "[保卫萝卜_哇]": {
+              "id": 4946,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[保卫萝卜_哇]",
+              "url": "https://i0.hdslb.com/bfs/emote/5f2370e561c32d841245f7b1aab2eef43aeb9544.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  "哇"
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哇"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "32a744c8332b5d1ecebe99023e3f0dfff040af6cd229828f0d8eca45feb4a3e7",
+  "original_bytes_sha256": "e05150fe3212b3d13e60f33790e554a3080f91cda1400ac9af0d411c40811649",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

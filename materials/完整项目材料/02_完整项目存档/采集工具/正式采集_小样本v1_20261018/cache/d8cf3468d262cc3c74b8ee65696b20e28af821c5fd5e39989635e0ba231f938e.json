@@ -1,0 +1,72 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454739081849",
+    "root": "321017282160",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:51:17.648719+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 321017282160,
+        "rpid_str": "321017282160",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792240218,
+        "like": 1,
+        "rcount": 7,
+        "count": 7,
+        "state": 0,
+        "author_id": "U_a73e1f070f47cc94365f1453",
+        "content": {
+          "message": "我真得黑原神了，异环体验太好了，90抽大保底一版本200多抽，我自己也是原玩家，但是老米是真的扣完了，现在我自己充了3000多块钱的号打不过n5，（2梦0奥一队，0尼1沃1偶一队，11蛇10鹿00少一队）但是隔壁小月卡都只充过一张的都能争锋8万多分（10万分差不多就是n6水准了）（下附官b双号练度自证，可加好友）",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ccf9589e5ac625469e2ae7ef6b1d14c03493136061958607.jpg",
+              "img_width": 1280,
+              "img_height": 2781,
+              "img_size": 367.07
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9853c9f5ebb7ecc02c5bcd04fdbfc0713493136061958607.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1776.33
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/9f304f8472ced8e69c035641f0690fb13493136061958607.jpg",
+              "img_width": 1440,
+              "img_height": 3200,
+              "img_size": 1802.98
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "3ccf309eb1792060c8d4308bb2000901387476815aaf41af2d3e801f53f22a03",
+  "original_bytes_sha256": "771504b109e8e0ee4eede7b9edb7517b05291e57f9f68b4d24822454200af9cf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

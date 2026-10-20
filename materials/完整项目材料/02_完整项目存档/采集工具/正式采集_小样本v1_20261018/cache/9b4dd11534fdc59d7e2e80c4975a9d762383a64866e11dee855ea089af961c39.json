@@ -1,0 +1,146 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117454638418193",
+    "root": "317381125009",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T04:50:25.382933+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317387015713,
+          "rpid_str": "317387015713",
+          "root": 317381125009,
+          "root_str": "317381125009",
+          "parent": 317381125009,
+          "parent_str": "317381125009",
+          "ctime": 1792258379,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_68a8e9419971898f77a7cbce",
+          "content": {
+            "message": "我领取的梦见月散件2+2，神鹤万沃[OK]  剩几十秒",
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321056866576,
+          "rpid_str": "321056866576",
+          "root": 317381125009,
+          "root_str": "317381125009",
+          "parent": 317381125009,
+          "parent_str": "317381125009",
+          "ctime": 1792274283,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_387c01c9191b05ed6646edc3",
+          "content": {
+            "message": "能帮到你就好哦[鼓掌]",
+            "emote": {
+              "[鼓掌]": {
+                "id": 1964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[鼓掌]",
+                "url": "https://i0.hdslb.com/bfs/emote/895d1fc616b4b6c830cf96012880818c0e1de00d.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "鼓掌"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317381125009,
+        "rpid_str": "317381125009",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792253712,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_d2c20dc6205c0efbf78b68c3",
+        "content": {
+          "message": "厉害了  关注了  对回坑玩家太有用了[打call]",
+          "emote": {
+            "[打call]": {
+              "id": 510,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[打call]",
+              "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "打call"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "203aec7cd5e1d9b6693b804c23575bf5306d6fde051f2fccbb125388e5ae28af",
+  "original_bytes_sha256": "f509ee8450d599db61e7f6b5d725eeb009eb63d498e63602dca530d190a6a52e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

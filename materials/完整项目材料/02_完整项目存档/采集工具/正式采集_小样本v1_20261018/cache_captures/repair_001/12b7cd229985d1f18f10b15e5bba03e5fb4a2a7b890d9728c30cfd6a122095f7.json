@@ -1,0 +1,768 @@
+{
+  "route": "reply_jump_web",
+  "params": {
+    "oid": "117454739081849",
+    "type": 1,
+    "rpid": "320985385296"
+  },
+  "captured_at": "2026-10-18T05:24:58.867859+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "acount": 180,
+        "count": 0,
+        "num": 1,
+        "rt_num": 1,
+        "size": 20
+      },
+      "config": {
+        "showadmin": 1,
+        "showentry": 1
+      },
+      "replies": [
+        {
+          "rpid": 317394474801,
+          "rpid_str": "317394474801",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792273207,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_284464ae33710f4092309f98",
+          "content": {
+            "message": "up到底经历了什么"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321043524976,
+          "rpid_str": "321043524976",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792254613,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_5d5560638ecfe19c3b6de1ef",
+          "content": {
+            "message": "是不是下半满命芙没刮过去"
+          },
+          "replies": [
+            {
+              "rpid": 321047314960,
+              "rpid_str": "321047314960",
+              "root": 321043524976,
+              "root_str": "321043524976",
+              "parent": 321043524976,
+              "parent_str": "321043524976",
+              "ctime": 1792257599,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_da19f08179a924305bcf901b",
+              "content": {
+                "message": "冰锅？"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317378504993,
+          "rpid_str": "317378504993",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792252044,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_76b016a6ef1ab9cb89738982",
+          "content": {
+            "message": "瑞希开E后点按冲刺两次伤害会更高一点"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321038168912,
+          "rpid_str": "321038168912",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792251331,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0173fc6cb64b315265c56bd1",
+          "content": {
+            "message": "感觉有和无2命的瑞希是两个角色[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317370137729,
+          "rpid_str": "317370137729",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792247418,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_adea035c7aeb30f8a5ab81e9",
+          "content": {
+            "message": "我要是拿出fgo你不是炸了吗[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321029541088,
+          "rpid_str": "321029541088",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792246764,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7882b2207f04e37d39ef8e94",
+          "content": {
+            "message": "原来这期深渊要用五星过的啊[哦呼]",
+            "emote": {
+              "[哦呼]": {
+                "id": 1940,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[哦呼]",
+                "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "哦呼"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321019679440,
+          "rpid_str": "321019679440",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792241583,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc9efa6cb8e4f218ae65e152",
+          "content": {
+            "message": "怎么没流量？串子没流量头一次见"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321019230256,
+          "rpid_str": "321019230256",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792241279,
+          "like": 6,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dac77ddb303f941f256b3b49",
+          "content": {
+            "message": "为什么7.1是原神最适合回坑的版本[笑哭][鸣潮2周年同人绘画_对的][鸣潮2周年同人绘画_对的]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              },
+              "[鸣潮2周年同人绘画_对的]": {
+                "id": 141661,
+                "package_id": 9996,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[鸣潮2周年同人绘画_对的]",
+                "url": "https://i0.hdslb.com/bfs/garb/7e111636620c661db980f055cf3d9cae24520e19.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1782464401,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=113353&hybrid_set_header=2&anchor_task=1&lottery_id=113354&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22113355%22%2C%22sub_id%22%3A%22%5B%E9%B8%A3%E6%BD%AE2%E5%91%A8%E5%B9%B4%E5%90%8C%E4%BA%BA%E7%BB%98%E7%94%BB_%E5%AF%B9%E7%9A%84%5D%22%7D",
+                "jump_title": "对的"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321018729648,
+          "rpid_str": "321018729648",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792240987,
+          "like": 1,
+          "rcount": 2,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_9f1edcac87f5f6596103003c",
+          "content": {
+            "message": "这个标题我懂，以前打不过深渊的时候天天在评论区阴阳，练度上来之后再看那些话，自己都觉得脸红。我这号也是熬了两年才凑出两套能打的队，现在12层能稳过，回头看那些卡关的夜晚还挺怀念。中间有段时间实在打不动，动过换号的念头，在氪金兽上翻过几个成品号，最后还是没换，换来的号再强也不是自己一步步打上来的。"
+          },
+          "replies": [
+            {
+              "rpid": 317371709313,
+              "rpid_str": "317371709313",
+              "root": 321018729648,
+              "root_str": "321018729648",
+              "parent": 321018729648,
+              "parent_str": "321018729648",
+              "ctime": 1792248248,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_cbc546d1376477edcb0802bc",
+              "content": {
+                "message": "我不一样\n我跑地图的时候就开始诅咒大伟亲妈\n过剧情的时候诅咒大伟亲妈\n抽卡大保底更加诅咒\n打深渊过的短短五分钟不够大伟亲妈返航的"
+              },
+              "replies": []
+            },
+            {
+              "rpid": 321080601040,
+              "rpid_str": "321080601040",
+              "root": 321018729648,
+              "root_str": "321018729648",
+              "parent": 321018729648,
+              "parent_str": "321018729648",
+              "ctime": 1792295534,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_2d3ed5b90f6cc8148bf2d36e",
+              "content": {
+                "message": "深渊大部分人都是能过的，过不了肯定是哪里有问题[笑哭]。",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317357373665,
+          "rpid_str": "317357373665",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792240350,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d218affc16ec820fbc9821c0",
+          "content": {
+            "message": "有香里要和麗貝卡 一定不是說鳴潮[傲娇]",
+            "emote": {
+              "[傲娇]": {
+                "id": 20,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[傲娇]",
+                "url": "https://i0.hdslb.com/bfs/emote/010540d0f61220a0db4922e4a679a1d8eca94f4e.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "傲娇"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321017282160,
+          "rpid_str": "321017282160",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792240218,
+          "like": 1,
+          "rcount": 7,
+          "count": 7,
+          "state": 0,
+          "author_id": "U_a73e1f070f47cc94365f1453",
+          "content": {
+            "message": "我真得黑原神了，异环体验太好了，90抽大保底一版本200多抽，我自己也是原玩家，但是老米是真的扣完了，现在我自己充了3000多块钱的号打不过n5，（2梦0奥一队，0尼1沃1偶一队，11蛇10鹿00少一队）但是隔壁小月卡都只充过一张的都能争锋8万多分（10万分差不多就是n6水准了）（下附官b双号练度自证，可加好友）",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/ccf9589e5ac625469e2ae7ef6b1d14c03493136061958607.jpg",
+                "img_width": 1280,
+                "img_height": 2781,
+                "img_size": 367.07
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/9853c9f5ebb7ecc02c5bcd04fdbfc0713493136061958607.jpg",
+                "img_width": 1440,
+                "img_height": 3200,
+                "img_size": 1776.33
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/9f304f8472ced8e69c035641f0690fb13493136061958607.jpg",
+                "img_width": 1440,
+                "img_height": 3200,
+                "img_size": 1802.98
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 317371268353,
+              "rpid_str": "317371268353",
+              "root": 321017282160,
+              "root_str": "321017282160",
+              "parent": 321017282160,
+              "parent_str": "321017282160",
+              "ctime": 1792248060,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_fcca172b7e3ca8a9dec3d015",
+              "content": {
+                "message": "原抽数少了，对非酋来说就是灾难，我奥和沃加起来俩0命310多抽才出"
+              },
+              "replies": []
+            },
+            {
+              "rpid": 321065670256,
+              "rpid_str": "321065670256",
+              "root": 321017282160,
+              "root_str": "321017282160",
+              "parent": 321017282160,
+              "parent_str": "321017282160",
+              "ctime": 1792286227,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_17ee1961fcd3831d60ccc7d1",
+              "content": {
+                "message": "米池是这样的，我崩铁530多抽4金白厄队和4金欢愉破船，你就算再怎么规划，福利到110-120抽一个版本，也抵不过卡池一歪导致版本白玩[doge_金箍]",
+                "emote": {
+                  "[doge_金箍]": {
+                    "id": 83964,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge_金箍]",
+                    "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1724910828,
+                    "jump_title": "金箍"
+                  }
+                }
+              },
+              "replies": []
+            },
+            {
+              "rpid": 321078876576,
+              "rpid_str": "321078876576",
+              "root": 321017282160,
+              "root_str": "321017282160",
+              "parent": 321065670256,
+              "parent_str": "321065670256",
+              "ctime": 1792294637,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a73e1f070f47cc94365f1453",
+              "content": {
+                "message": "回复 @听音丷 :😭"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 317352629585,
+          "rpid_str": "317352629585",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792237767,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0633073b036de4574cfcb8e8",
+          "content": {
+            "message": "主播黑过原神马"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317348060961,
+          "rpid_str": "317348060961",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792235371,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4851fee83b67bee336ae6442",
+          "content": {
+            "message": "让你串爽了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 321004868400,
+          "rpid_str": "321004868400",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792233879,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e6bc43acd69ef5cd463a1235",
+          "content": {
+            "message": "有阔以能的帮我活动日常？仨百可①月"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317344289889,
+          "rpid_str": "317344289889",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792233352,
+          "like": 16,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_80ae8c614e105bf655427d0a",
+          "content": {
+            "message": "这BGM一出我就感觉你在串，但我退坑太久了又不知道你串在哪[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317342978161,
+          "rpid_str": "317342978161",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792232616,
+          "like": 3,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_06094f80f6f0670ba65ddcc0",
+          "content": {
+            "message": "没有77奥黛塔又拆不成两个，遗憾用残疾星超导过关",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/d3a462c787bf7ee9158bda444b660f2735312179.jpg",
+                "img_width": 1080,
+                "img_height": 2374,
+                "img_size": 1100.6
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 321047495920,
+              "rpid_str": "321047495920",
+              "root": 317342978161,
+              "root_str": "317342978161",
+              "parent": 317342978161,
+              "parent_str": "317342978161",
+              "ctime": 1792257638,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_da19f08179a924305bcf901b",
+              "content": {
+                "message": "冰主也行"
+              },
+              "replies": []
+            }
+          ]
+        },
+        {
+          "rpid": 320999705760,
+          "rpid_str": "320999705760",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792231109,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a689a88d81d10de3a9ab3750",
+          "content": {
+            "message": "有人可以接托管吗"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320999696496,
+          "rpid_str": "320999696496",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792231094,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_86f27f3e3a6508d7eab6ff06",
+          "content": {
+            "message": "玩原神玩的"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320992805616,
+          "rpid_str": "320992805616",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792227139,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_01b0ee96faede726b12b48ba",
+          "content": {
+            "message": "机长二号[doge]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/c0fa58747b307b389fe1d02acced14ef23931420.jpg",
+                "img_width": 715,
+                "img_height": 655,
+                "img_size": 53.58
+              }
+            ],
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317333097569,
+          "rpid_str": "317333097569",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "ctime": 1792226813,
+          "like": 8,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0756494497738bf2c734f79a",
+          "content": {
+            "message": "评论区见证生物多样性，这两天周末[星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "24e90c710253731848675fe15a88ee1a99a273539aa770b6f7dd4b895203c5db",
+  "original_bytes_sha256": "5988d9919c29fd5f574d6c73bdc86f72ce3e3bdf979b6e3c83651312b4d449dd",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_001"
+}

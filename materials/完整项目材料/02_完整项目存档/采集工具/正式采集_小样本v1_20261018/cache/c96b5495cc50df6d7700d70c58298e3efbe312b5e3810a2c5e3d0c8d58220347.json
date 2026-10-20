@@ -1,0 +1,77 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314949050401",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:22:11.332933+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 6
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314949050401,
+        "rpid_str": "314949050401",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790266334,
+        "like": 2,
+        "rcount": 6,
+        "count": 6,
+        "state": 0,
+        "author_id": "U_a8965689bc845dd729bb11e2",
+        "content": {
+          "message": "求N6解，薇和沃明天能拉满",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/bd37f042b705a0d09faab97b1d9d0cf46062065.jpg",
+              "img_width": 1198,
+              "img_height": 15000,
+              "img_size": 8390.78,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6e4c7890e175bbf426b106c23574a01c5912ff682108dfa8a6b4b30bd76ac5ea",
+  "original_bytes_sha256": "4244c29718e62a89e51688e4f554283a27a0f5929ab9638d679b76d7b9b5c72b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

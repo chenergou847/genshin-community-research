@@ -1,0 +1,130 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319547102288",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:08:34.101123+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319563858592,
+          "rpid_str": "319563858592",
+          "root": 319547102288,
+          "root_str": "319547102288",
+          "parent": 319547102288,
+          "parent_str": "319547102288",
+          "dialog": 319563858592,
+          "ctime": 1791093357,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d8a96b648e1cd1ae428df9b",
+          "content": {
+            "message": "梦见月再拉一拉，第二间神子冰主砂糖猫猫应该能打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319565925040,
+          "rpid_str": "319565925040",
+          "root": 319547102288,
+          "root_str": "319547102288",
+          "parent": 319563858592,
+          "parent_str": "319563858592",
+          "dialog": 319563858592,
+          "ctime": 1791094509,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f83f2f61e9fc721deaf37817",
+          "content": {
+            "message": "回复 @TCwlf :好，谢谢，我去试试"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319547102288,
+        "rpid_str": "319547102288",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791084575,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_f83f2f61e9fc721deaf37817",
+        "content": {
+          "message": "求过n5配队，第二间。其他动不了感觉好极限",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ac21ac14173d4b0d3a7a21a24b9f96431678252817.jpg",
+              "img_width": 1080,
+              "img_height": 9591,
+              "img_size": 1157.58
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/543f507fdd0192a511194bb57d97f0a11678252817.jpg",
+              "img_width": 2352,
+              "img_height": 1080,
+              "img_size": 1231.16
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "6f96418a7019fd1bc97f7e6318da175e2037018085416558e053477ca0a9a5d6",
+  "original_bytes_sha256": "444539dde8a70754d868fd1fccbb2d56cac4187b90d6a7856d4c46002d1c018b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

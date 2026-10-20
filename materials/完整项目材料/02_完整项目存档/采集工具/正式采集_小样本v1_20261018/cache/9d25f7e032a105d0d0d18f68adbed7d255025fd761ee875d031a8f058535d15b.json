@@ -1,0 +1,100 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315129230081",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:54:47.718377+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315129230081,
+        "rpid_str": "315129230081",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790414248,
+        "like": 1,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_7c9811d6a10fca585825cadf",
+        "content": {
+          "message": "已三连，大佬问问n5怎么配[惊喜]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8ac95c974b3a3f6405c318bc94d0c057517824356.jpg",
+              "img_width": 1080,
+              "img_height": 2224,
+              "img_size": 1316.86
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0bd56f9de40415f17cef9e4d5f76954f517824356.jpg",
+              "img_width": 1080,
+              "img_height": 4444,
+              "img_size": 2382.71
+            }
+          ],
+          "emote": {
+            "[惊喜]": {
+              "id": 19,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[惊喜]",
+              "url": "https://i0.hdslb.com/bfs/emote/0afecaf3a3499479af946f29749e1a6c285b6f65.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "惊喜"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b14fc9db9ecc3c5199b3845d0be0c8290b088152cc074761b7e080100d50c0d4",
+  "original_bytes_sha256": "7b6ca71e1e77ef57ab8c999706ed35703f3990b00108b4b2d008ffc6a8c39a77",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

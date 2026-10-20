@@ -1,0 +1,71 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320862229200",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:12:02.472916+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320862229200,
+        "rpid_str": "320862229200",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792128833,
+        "like": 27,
+        "rcount": 16,
+        "count": 16,
+        "state": 0,
+        "author_id": "U_372bacb4706aa2e3963ec34c",
+        "content": {
+          "message": "月结晶依旧没环境，但依旧能力大砖飞[吃瓜]",
+          "emote": {
+            "[吃瓜]": {
+              "id": 415,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[吃瓜]",
+              "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "吃瓜"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "d84058771b2d89f9422003fd63da7bb1417f67ba21dff31881a9b55ea9cdeb98",
+  "original_bytes_sha256": "159a2a4ecc4b438cfa9c02d5c0f0b0d861b4967aaa0353987b23b0aa7100e91f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

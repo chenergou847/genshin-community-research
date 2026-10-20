@@ -1,0 +1,191 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319389040368",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:30:33.818992+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315817613473,
+          "rpid_str": "315817613473",
+          "root": 319389040368,
+          "root_str": "319389040368",
+          "parent": 319389040368,
+          "parent_str": "319389040368",
+          "dialog": 315817613473,
+          "ctime": 1790959694,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b8d0623e33910004756a2154",
+          "content": {
+            "message": "恋人换星"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315817630961,
+          "rpid_str": "315817630961",
+          "root": 319389040368,
+          "root_str": "319389040368",
+          "parent": 319389040368,
+          "parent_str": "319389040368",
+          "dialog": 315817630961,
+          "ctime": 1790959732,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b8d0623e33910004756a2154",
+          "content": {
+            "message": "uid 222126659"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319390527328,
+          "rpid_str": "319390527328",
+          "root": 319389040368,
+          "root_str": "319389040368",
+          "parent": 315817630961,
+          "parent_str": "315817630961",
+          "dialog": 315817630961,
+          "ctime": 1790959822,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_df0fc6888086606d5d3de5d7",
+          "content": {
+            "message": "回复 @小夜行 :可以，我上线加你"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319423897696,
+          "rpid_str": "319423897696",
+          "root": 319389040368,
+          "root_str": "319389040368",
+          "parent": 319389040368,
+          "parent_str": "319389040368",
+          "dialog": 319423897696,
+          "ctime": 1790997854,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_cf04c2d1656b1c5e4d7d9cda",
+          "content": {
+            "message": "牌子怎么拿呀？是要打越狱吗？[委屈]",
+            "emote": {
+              "[委屈]": {
+                "id": 8,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[委屈]",
+                "url": "https://i0.hdslb.com/bfs/emote/d2f26cbdd6c96960320af03f5514c5b524990840.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "委屈"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319389040368,
+        "rpid_str": "319389040368",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790958717,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_df0fc6888086606d5d3de5d7",
+        "content": {
+          "message": "多一张星，有人换吗？",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8eb18c9645e352cfe525b858e787db5a2029058001.jpg",
+              "img_width": 1080,
+              "img_height": 7596,
+              "img_size": 654.26
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7e3c43bdb09c109cdedcac391f5e02606ef163d5d3c330fbc82aee5de1c0e06b",
+  "original_bytes_sha256": "3116d7ac2da47d914ed7361797beaca23a76ea24a02bf7daafc7f392df33cedf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

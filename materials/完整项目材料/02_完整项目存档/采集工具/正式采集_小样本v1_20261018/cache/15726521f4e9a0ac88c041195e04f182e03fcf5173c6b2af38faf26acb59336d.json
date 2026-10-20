@@ -1,0 +1,102 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "315924056353",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:27:52.309647+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319525739696,
+          "rpid_str": "319525739696",
+          "root": 315924056353,
+          "root_str": "315924056353",
+          "parent": 315924056353,
+          "parent_str": "315924056353",
+          "dialog": 319525739696,
+          "ctime": 1791065507,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2eaa37c323670b6d5abfa77e",
+          "content": {
+            "message": "最后一关木偶战舰爽飞了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315924056353,
+        "rpid_str": "315924056353",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791040244,
+        "like": 6,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_362b64e6162604a36b81fef1",
+        "content": {
+          "message": "省吃俭用，就为了这一刻",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b8679fc4b0080f8cf01babda33709e6b407208548.jpg",
+              "img_width": 1481,
+              "img_height": 1080,
+              "img_size": 144.19,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "05f1a82a90b226a2d676a834b7cba230d7c1efc74ef985582bd9a6707c9a80da",
+  "original_bytes_sha256": "fde26526c6c6624fa45eadad1d2d521de59b94a4775030c9f95e8b3c408efa9c",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

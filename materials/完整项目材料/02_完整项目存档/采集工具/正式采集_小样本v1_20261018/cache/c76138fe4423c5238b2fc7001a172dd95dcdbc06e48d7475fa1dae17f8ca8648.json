@@ -1,0 +1,103 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315491588753",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:22:29.393349+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315491588753,
+        "rpid_str": "315491588753",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790722725,
+        "like": 0,
+        "rcount": 1,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_1b86c9b4ae34b6a5c760c275",
+        "content": {
+          "message": "我嘞个豆这期我有机会摸到n6吗[哦呼]\n木偶1命裁断，00奥，01薇01沃，01丝柯克，2命芙，00爱，无神子，1命阿罗夏[思考]\n怎么配队是个问题，奥给谁？另一队带冰主吗？",
+          "emote": {
+            "[哦呼]": {
+              "id": 1940,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[哦呼]",
+              "url": "https://i0.hdslb.com/bfs/emote/362bded07ea5434886271d23fa25f5d85d8af06c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "哦呼"
+            },
+            "[思考]": {
+              "id": 1941,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[思考]",
+              "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "思考"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "1a0ea8507589798d2660f1cd0bc49f9f7f20cdef69f43c67eef6a32f84f73929",
+  "original_bytes_sha256": "4d0d09ec2d3ed1950524f937f5323c8a881a30e3f006db59e1e463ee509eec52",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

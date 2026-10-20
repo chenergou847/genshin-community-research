@@ -1,0 +1,52 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320847871520",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:14:21.759471+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320847871520,
+        "rpid_str": "320847871520",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792119582,
+        "like": 5,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_5ed6a035510e623a279bae52",
+        "content": {
+          "message": "一开始没注意那个，超雄老太，直接给秒了，又现换的角色，不过整体感觉难度不是太大，还能打"
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "3a891c63a68602a1f855f9ed656088cd926e314684d421348071e69413891778",
+  "original_bytes_sha256": "ac35769af51cd68b3ee23bd9cfafe8699d08e17dae6fda06d99e0b1758115af0",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

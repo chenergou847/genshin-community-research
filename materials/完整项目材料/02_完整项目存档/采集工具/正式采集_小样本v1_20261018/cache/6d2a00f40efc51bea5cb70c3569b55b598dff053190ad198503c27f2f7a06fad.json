@@ -1,0 +1,1223 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117456634910208",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-18T14:38:53.537188+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 21,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzNTAzNTgyNjM3MTMaADICCBU="
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 97,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 321056772480,
+          "rpid_str": "321056772480",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792274006,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bd07e2fb109aefb0393ce5e5",
+          "content": {
+            "message": "up火吹人物志什么时候出？我好久没听到火神20s螃蟹n6的笑话了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317391696129,
+          "rpid_str": "317391696129",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792264783,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_94f11dbabf83463d382a4a93",
+          "content": {
+            "message": "@甘雨落尽始刻晴"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321051786768,
+          "rpid_str": "321051786768",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792262361,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_d6a2a23028821cc1e7b04ba0",
+          "content": {
+            "message": "老大老大，我现在说龙王数值低下期视频能有我吗？[星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 321056369744,
+              "rpid_str": "321056369744",
+              "root": 321051786768,
+              "root_str": "321051786768",
+              "parent": 321051786768,
+              "parent_str": "321051786768",
+              "dialog": 321056369744,
+              "ctime": 1792273491,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_bd07e2fb109aefb0393ce5e5",
+              "content": {
+                "message": "攻击性不够强，你要善意对比龙王玛拉妮伤害"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321051063488,
+          "rpid_str": "321051063488",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792261462,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fb7438b2bbf5052b1ef6902d",
+          "content": {
+            "message": "咋那么喜欢护这大肥区呢[喜极而泣][喜极而泣]",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321050671120,
+          "rpid_str": "321050671120",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792260865,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_36112d0e4671e9fff57915b7",
+          "content": {
+            "message": "你敢做一份糕黑/吹，火黑/吹成绩单吗。"
+          },
+          "replies": [
+            {
+              "rpid": 321051012768,
+              "rpid_str": "321051012768",
+              "root": 321050671120,
+              "root_str": "321050671120",
+              "parent": 321050671120,
+              "parent_str": "321050671120",
+              "dialog": 321051012768,
+              "ctime": 1792261410,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b1f71a886e4dde30399f6a3d",
+              "content": {
+                "message": "身份证不见了请通过正规渠道补办"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317388827665,
+          "rpid_str": "317388827665",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792260331,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6df019cfb0aa6c9872a029d1",
+          "content": {
+            "message": "[笑哭]还有封神榜",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317387512353,
+          "rpid_str": "317387512353",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792259045,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d2d0bef2ed0194a53b7225ba",
+          "content": {
+            "message": "我是龙黑可以上榜吗[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317387638961,
+          "rpid_str": "317387638961",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792258968,
+          "like": 0,
+          "rcount": 11,
+          "count": 12,
+          "state": 0,
+          "author_id": "U_761bf5ec67afd72a0b04c63e",
+          "content": {
+            "message": "yysy，n7的嘲讽龙确实没问题啊，65夜某些时候比3龙速度快似乎问题也不大，n7现在用龙主C你确定不做牢？ 除非你抽了沃，沃之前你用龙还不如可莉温迪带个妮可。。。 不过n6都不能随手过或者带任意角色躺过的确实也没啥资格讨论强度就是了。。"
+          },
+          "replies": [
+            {
+              "rpid": 317389270241,
+              "rpid_str": "317389270241",
+              "root": 317387638961,
+              "root_str": "317387638961",
+              "parent": 321050505728,
+              "parent_str": "321050505728",
+              "dialog": 321050505728,
+              "ctime": 1792260996,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_761bf5ec67afd72a0b04c63e",
+              "content": {
+                "message": "回复 @柔软体操大王 : 不打n6本来就和强度没啥关系，按照强度区的理论是这样。然后纳塔角色没必要讨论这个是强度区那套压金观点。社区人认为枫丹角色甚至更早的都可以，因为社区默认告诉金有自己的折算系统。比如社区默认枫丹以前的61=0金，65=1金（没加强过的），枫丹满命算2金，65算3金，纳塔满命算3金，65算5金。按这个换算其实完全可以讨论。"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 321050505728,
+              "rpid_str": "321050505728",
+              "root": 317387638961,
+              "root_str": "317387638961",
+              "parent": 317387638961,
+              "parent_str": "317387638961",
+              "dialog": 321050505728,
+              "ctime": 1792260723,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b1f71a886e4dde30399f6a3d",
+              "content": {
+                "message": "问题是现在不打n6确实没有必要讨论什么强度，马上又要加星怪了，其实很多纳塔角色也没有必要参与强度讨论这是可以说的吗？"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321048520272,
+          "rpid_str": "321048520272",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792258543,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6098ee6041830d7324c791c3",
+          "content": {
+            "message": "评论区混了这么久，没抹黑过一次龙王，除了说龙王数值低这种客观事实外，压根没有说过其他的[兔兔岛_吃面]",
+            "emote": {
+              "[兔兔岛_吃面]": {
+                "id": 97384,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[兔兔岛_吃面]",
+                "url": "https://i0.hdslb.com/bfs/emote/7277d90e321bf4407377ff18cc0bfcde106234d9.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1733906651,
+                "jump_title": "吃面"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317387003505,
+          "rpid_str": "317387003505",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792258349,
+          "like": 4,
+          "rcount": 6,
+          "count": 9,
+          "state": 0,
+          "author_id": "U_a7e00647c88bd3907c4758fe",
+          "content": {
+            "message": "那个大码打小码我以为是个高手的 结果打的只是n5吗？[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 317388036305,
+              "rpid_str": "317388036305",
+              "root": 317387003505,
+              "root_str": "317387003505",
+              "parent": 321048481008,
+              "parent_str": "321048481008",
+              "dialog": 321048481008,
+              "ctime": 1792259440,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_a7e00647c88bd3907c4758fe",
+              "content": {
+                "message": "回复 @大玛打小玛被老玛打 :那挺厉害了[笑哭]",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 321048481008,
+              "rpid_str": "321048481008",
+              "root": 317387003505,
+              "root_str": "317387003505",
+              "parent": 317387003505,
+              "parent_str": "317387003505",
+              "dialog": 321048481008,
+              "ctime": 1792258449,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_6098ee6041830d7324c791c3",
+              "content": {
+                "message": "全队最高金就龙王和小玛队有6金\n其他队就1-3金左右，[doge]拿头打n6\n就拿过一次n6而已",
+                "emote": {
+                  "[doge]": {
+                    "id": 26,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "doge"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317386969057,
+          "rpid_str": "317386969057",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792258264,
+          "like": 0,
+          "rcount": 3,
+          "count": 5,
+          "state": 0,
+          "author_id": "U_e8dc15cdef37f5ded7b3ef86",
+          "content": {
+            "message": "等着版本更迭，大多数也会开始辱玛，历史是个圈，单纯想辱骂角色，各种理由也是借口"
+          },
+          "replies": [
+            {
+              "rpid": 317389711633,
+              "rpid_str": "317389711633",
+              "root": 317386969057,
+              "root_str": "317386969057",
+              "parent": 321050396048,
+              "parent_str": "321050396048",
+              "dialog": 321050396048,
+              "ctime": 1792261496,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_e8dc15cdef37f5ded7b3ef86",
+              "content": {
+                "message": "回复 @-风之灵- :那我等着看好戏呗[笑哭]都多少次了还不长记性，以前怎么龙王仆人踩胡桃之类的不见得有人这样说胡桃打了这么久，火神后续被踩的时候不可能这样良心发现，说白了狗改不了赤石",
+                "emote": {
+                  "[笑哭]": {
+                    "id": 509,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[笑哭]",
+                    "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "笑哭"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 321050396048,
+              "rpid_str": "321050396048",
+              "root": 317386969057,
+              "root_str": "317386969057",
+              "parent": 317386969057,
+              "parent_str": "317386969057",
+              "dialog": 321050396048,
+              "ctime": 1792260635,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_36112d0e4671e9fff57915b7",
+              "content": {
+                "message": "那可不一定哦，龙这种毛用没有的，数值溢出的年代作威作福，宝莲可是真一个21玩两年，给xp队伍省了多少[吃瓜]。",
+                "emote": {
+                  "[吃瓜]": {
+                    "id": 415,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[吃瓜]",
+                    "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "吃瓜"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321048109520,
+          "rpid_str": "321048109520",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792258216,
+          "like": 0,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_32cc17dd3396fbbda526a7f1",
+          "content": {
+            "message": "主播到底是什么成分[思考]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 321056806480,
+              "rpid_str": "321056806480",
+              "root": 321048109520,
+              "root_str": "321048109520",
+              "parent": 321048109520,
+              "parent_str": "321048109520",
+              "dialog": 321056806480,
+              "ctime": 1792273803,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_bd07e2fb109aefb0393ce5e5",
+              "content": {
+                "message": "主播是玩蛇鹿少龙的纯良龙u"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321047493392,
+          "rpid_str": "321047493392",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792257633,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_893c8402043e4ba081976b60",
+          "content": {
+            "message": "竟然小半都在黑名单里，我从来不关注龙王社区的其实[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321043397920,
+          "rpid_str": "321043397920",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792254654,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_66ab789b5da1175cf393174e",
+          "content": {
+            "message": "龙吹榜呢[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317381150641,
+          "rpid_str": "317381150641",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792253765,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8aea71b4ed7935534ce42247",
+          "content": {
+            "message": "我可以上榜吗[doge_金箍]虽然只是一个n6小菜鸡",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321041371472,
+          "rpid_str": "321041371472",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792253299,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ccad25579596b280d0834030",
+          "content": {
+            "message": "明天还能见到这视频吗[星星眼]",
+            "emote": {
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321039458544,
+          "rpid_str": "321039458544",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792252121,
+          "like": 2,
+          "rcount": 3,
+          "count": 3,
+          "state": 0,
+          "author_id": "U_49e8e74daa7774b253eb785b",
+          "content": {
+            "message": "说实话不知道为什么 看了这多角色 目前就刷到的一下黑子吹子 基本就是那维莱特常常有这些 龙吹恨龙的 很少刷到过其他角色的一些 x黑 x吹",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/591c97726e864dd7afdab0f647c2d211701241905.jpg",
+                "img_width": 806,
+                "img_height": 756,
+                "img_size": 57
+              }
+            ]
+          },
+          "replies": [
+            {
+              "rpid": 321043339072,
+              "rpid_str": "321043339072",
+              "root": 321039458544,
+              "root_str": "321039458544",
+              "parent": 321039458544,
+              "parent_str": "321039458544",
+              "dialog": 321043339072,
+              "ctime": 1792254565,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_66ab789b5da1175cf393174e",
+              "content": {
+                "message": "看看木偶的，比如这位@三笑川258"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 321043729120,
+              "rpid_str": "321043729120",
+              "root": 321039458544,
+              "root_str": "321039458544",
+              "parent": 321039458544,
+              "parent_str": "321039458544",
+              "dialog": 321043729120,
+              "ctime": 1792254845,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_b1f71a886e4dde30399f6a3d",
+              "content": {
+                "message": "人红是非多，有热度是这样的，要是是个女角色没那么多人恨"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321038246320,
+          "rpid_str": "321038246320",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792251397,
+          "like": 0,
+          "rcount": 3,
+          "count": 3,
+          "state": 0,
+          "author_id": "U_cddc8bdb7252cdd0179bac80",
+          "content": {
+            "message": "怎么才能上榜[doge][doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 321039540352,
+              "rpid_str": "321039540352",
+              "root": 321038246320,
+              "root_str": "321038246320",
+              "parent": 321038246320,
+              "parent_str": "321038246320",
+              "dialog": 321039540352,
+              "ctime": 1792252158,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_bd07e2fb109aefb0393ce5e5",
+              "content": {
+                "message": "在这里串几句就行了，比如龙的黑称"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 321044384512,
+              "rpid_str": "321044384512",
+              "root": 321038246320,
+              "root_str": "321038246320",
+              "parent": 321039540352,
+              "parent_str": "321039540352",
+              "dialog": 321039540352,
+              "ctime": 1792255363,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_3f5cdeae5fe56e1799d523fa",
+              "content": {
+                "message": "回复 @雪落棋枰 :有几句吗？我玩了三年多了，好像我还没听过，顺便看看某些人到底有多恨男（甚至不能说是恨龙）"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321036058544,
+          "rpid_str": "321036058544",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792250226,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_dc9256a66858d4326fc2db87",
+          "content": {
+            "message": "轻雨寄浮生强烈要求上榜我好像都听过好几次了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [
+        {
+          "rpid": 317394705761,
+          "rpid_str": "317394705761",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792273876,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d8b262383232a16c2fec24c",
+          "content": {
+            "message": "视频发布后某些人私信我不想上榜，我已删除，如果还有不想上榜的直接找我就行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "hots": [],
+      "top": {
+        "upper": {
+          "rpid": 317394705761,
+          "rpid_str": "317394705761",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1792273876,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2d8b262383232a16c2fec24c",
+          "content": {
+            "message": "视频发布后某些人私信我不想上榜，我已删除，如果还有不想上榜的直接找我就行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      }
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "1534363f6efe2129aa210f63044ec080e2aa4ddf6e9c104de4f88e23a20df757",
+  "original_bytes_sha256": "990a085410a76ab431dfdf357d8ee85ad962e2ab4079a5b51e3049c7b9e359fa",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

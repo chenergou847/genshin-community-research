@@ -1,0 +1,116 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117365148746080",
+    "root": "317207885905",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:41:53.153796+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320871832384,
+          "rpid_str": "320871832384",
+          "root": 317207885905,
+          "root_str": "317207885905",
+          "parent": 317207885905,
+          "parent_str": "317207885905",
+          "dialog": 320871832384,
+          "ctime": 1792136521,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2fe57b17e175b12795ca3a1d",
+          "content": {
+            "message": "过不了，最好的一个带赤角的00火是60/300的面板，满伊夏，5欧带终末"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 317222863969,
+          "rpid_str": "317222863969",
+          "root": 317207885905,
+          "root_str": "317207885905",
+          "parent": 320871832384,
+          "parent_str": "320871832384",
+          "dialog": 320871832384,
+          "ctime": 1792139712,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d49f148623e0daba78466a9b",
+          "content": {
+            "message": "回复 @夜星Wetchin : 我双爆59/310 攻2000，如果有满伊在抽个餐叉呢"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317207885905,
+        "rpid_str": "317207885905",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1792127742,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_d49f148623e0daba78466a9b",
+        "content": {
+          "message": "想问问如果是看打木桩的话要多少DPS能过，我00赤角火，4伊，6夏，61终末欧，带狼末的话是1560w总伤，赤角还没测"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "23caa02c692e8be59315686041b07357717602c3a1665d23db82949436f25058",
+  "original_bytes_sha256": "ebb93d567ffe38e76dd06d229136c235a88c24d05a51a18043dc8736317d5397",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

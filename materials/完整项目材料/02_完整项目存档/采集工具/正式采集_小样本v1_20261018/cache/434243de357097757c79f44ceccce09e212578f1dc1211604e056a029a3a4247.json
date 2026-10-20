@@ -1,0 +1,207 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "315648228353",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:02:06.582070+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 5
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315648324705,
+          "rpid_str": "315648324705",
+          "root": 315648228353,
+          "root_str": "315648228353",
+          "parent": 315648228353,
+          "parent_str": "315648228353",
+          "dialog": 315648324705,
+          "ctime": 1790842285,
+          "like": 9,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ea0233ab99afc177e1f1d56c",
+          "content": {
+            "message": "这也能这也能赢？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315648640305,
+          "rpid_str": "315648640305",
+          "root": 315648228353,
+          "root_str": "315648228353",
+          "parent": 315648324705,
+          "parent_str": "315648324705",
+          "dialog": 315648324705,
+          "ctime": 1790842465,
+          "like": 7,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_89ec03458193dbb523fc361a",
+          "content": {
+            "message": "回复 @今天开始成为宝藏 :自导自演这一块"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319246812400,
+          "rpid_str": "319246812400",
+          "root": 315648228353,
+          "root_str": "315648228353",
+          "parent": 315648228353,
+          "parent_str": "315648228353",
+          "dialog": 319246812400,
+          "ctime": 1790860893,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bed434e0634e6121ef126a41",
+          "content": {
+            "message": "调侃而已，别认真"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315689409553,
+          "rpid_str": "315689409553",
+          "root": 315648228353,
+          "root_str": "315648228353",
+          "parent": 319246812400,
+          "parent_str": "319246812400",
+          "dialog": 319246812400,
+          "ctime": 1790865605,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ea0233ab99afc177e1f1d56c",
+          "content": {
+            "message": "回复 @加里妹妹 : 你再看看这楼的评论呢[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315700743233,
+          "rpid_str": "315700743233",
+          "root": 315648228353,
+          "root_str": "315648228353",
+          "parent": 315648228353,
+          "parent_str": "315648228353",
+          "dialog": 315700743233,
+          "ctime": 1790872501,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f00291eeefd9a9abb8ecddf2",
+          "content": {
+            "message": "确实赢了，剧诗一人成军还是太超模了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315648228353,
+        "rpid_str": "315648228353",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790842279,
+        "like": 2,
+        "rcount": 5,
+        "count": 5,
+        "state": 0,
+        "author_id": "U_ea0233ab99afc177e1f1d56c",
+        "content": {
+          "message": "这也能赢？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "56e0535426bf498787c09d0ddaa18429ee03b795a7aaf5f0d5143b42c8def9f8",
+  "original_bytes_sha256": "c8e916faa33c2d5cc9dfea3d73d502359568ee3fd49db695d6fc86798e705f8b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

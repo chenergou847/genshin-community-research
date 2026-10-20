@@ -1,0 +1,148 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318991696976",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:27:50.999953+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315435033505,
+          "rpid_str": "315435033505",
+          "root": 318991696976,
+          "root_str": "318991696976",
+          "parent": 318991696976,
+          "parent_str": "318991696976",
+          "dialog": 315435033505,
+          "ctime": 1790672580,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "梦见月奥黛塔沃雅妮莎+珐露珊"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315435102001,
+          "rpid_str": "315435102001",
+          "root": 318991696976,
+          "root_str": "318991696976",
+          "parent": 318991696976,
+          "parent_str": "318991696976",
+          "dialog": 315435102001,
+          "ctime": 1790672606,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶神子迪奥娜+砂糖等"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315435281617,
+          "rpid_str": "315435281617",
+          "root": 318991696976,
+          "root_str": "318991696976",
+          "parent": 318991696976,
+          "parent_str": "318991696976",
+          "dialog": 315435281617,
+          "ctime": 1790672644,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间火神超载。或者纯火带万叶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318991696976,
+        "rpid_str": "318991696976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790670690,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_1576dccbc4bcffda7d32a47f",
+        "content": {
+          "message": "有过N5的可能性吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/064146d6414699e63a140149b5552c9494909842.jpg",
+              "img_width": 1260,
+              "img_height": 14388,
+              "img_size": 1843.12
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "dd43e3a8003616fa2a962187adf1175e2ef883f07013a401d079c22d8454f310",
+  "original_bytes_sha256": "699f20c8671b0c8d0ae5d21ec814239bf45dd795347d5d794cb420dd53230897",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,124 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319645211616",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:35:03.139634+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319668193152,
+          "rpid_str": "319668193152",
+          "root": 319645211616,
+          "root_str": "319645211616",
+          "parent": 319645211616,
+          "parent_str": "319645211616",
+          "dialog": 319668193152,
+          "ctime": 1791169409,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4756407b24febc8e1cfb8875",
+          "content": {
+            "message": "6木2奥就8开了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319668310656,
+          "rpid_str": "319668310656",
+          "root": 319645211616,
+          "root_str": "319645211616",
+          "parent": 319645211616,
+          "parent_str": "319645211616",
+          "dialog": 319668310656,
+          "ctime": 1791169516,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4756407b24febc8e1cfb8875",
+          "content": {
+            "message": "星扩的奥太拉了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319645211616,
+        "rpid_str": "319645211616",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791141227,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_6ed025268720ad92406d6a87",
+        "content": {
+          "message": "联机奥偶双6可以6开，薇奥双6七开，这纯纯我自己三命木偶打不过带了一个6薇（圣遗物很差所以一开始没选）",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0ecdd67f4d9de39f8c857084af349a863546628552133003.jpg",
+              "img_width": 1080,
+              "img_height": 2340,
+              "img_size": 866.93
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "157be794716a72be01705267d1fad344d7d0870b6f7d4a5c8af10c03209de481",
+  "original_bytes_sha256": "649617f27f8aba4ceaddd86249918e83435db63fcbde05e5b0212ae1355966fa",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

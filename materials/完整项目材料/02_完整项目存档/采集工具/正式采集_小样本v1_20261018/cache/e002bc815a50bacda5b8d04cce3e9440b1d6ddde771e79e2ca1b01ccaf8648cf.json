@@ -1,0 +1,129 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117393602909788",
+    "type": "1",
+    "mode": "2",
+    "next": "0",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875"
+  },
+  "captured_at": "2026-10-18T11:24:34.997908+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": true,
+        "prev": 0,
+        "next": 0,
+        "is_end": true,
+        "pagination_reply": {},
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 2,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316288511521,
+          "rpid_str": "316288511521",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791307038,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b81e7d4fb121aaee658947db",
+          "content": {
+            "message": "(｀・ω・´)"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319846622624,
+          "rpid_str": "319846622624",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1791286017,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f217059984e26820944bde2d",
+          "content": {
+            "message": "[巧克甜恋_挠挠]",
+            "emote": {
+              "[巧克甜恋_挠挠]": {
+                "id": 94110,
+                "package_id": 7067,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[巧克甜恋_挠挠]",
+                "url": "https://i0.hdslb.com/bfs/garb/16e8ce523ed10620c1f29280c59e72d86e69dea4.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1730980260,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=104587&hybrid_set_header=2&anchor_task=1&lottery_id=104594&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22104597%22%2C%22sub_id%22%3A%22%5B%E5%B7%A7%E5%85%8B%E7%94%9C%E6%81%8B_%E6%8C%A0%E6%8C%A0%5D%22%7D",
+                "jump_title": "挠挠"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "4c99f5f0851ea506209f54789d2063e7cf2788250a58aa5067b28b2e1cc2f860",
+  "original_bytes_sha256": "c0446352495cee1e530016f5580a37e15656d446a5600abd307368054a4cf723",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

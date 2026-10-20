@@ -1,0 +1,143 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315113752401",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:55:39.866312+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315235917553,
+          "rpid_str": "315235917553",
+          "root": 315113752401,
+          "root_str": "315113752401",
+          "parent": 315113752401,
+          "parent_str": "315113752401",
+          "dialog": 315235917553,
+          "ctime": 1790496500,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9c53d44a02de3a54c44eb339",
+          "content": {
+            "message": "命座和武器这么多肯定能过吧"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315294222753,
+          "rpid_str": "315294222753",
+          "root": 315113752401,
+          "root_str": "315113752401",
+          "parent": 315113752401,
+          "parent_str": "315113752401",
+          "dialog": 315294222753,
+          "ctime": 1790539007,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_f403840fc7403a83dcefa198",
+          "content": {
+            "message": "N5乱杀，这么可能难受，月点带冰主走一，丝2，偶3，无凹稳过"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315113752401,
+        "rpid_str": "315113752401",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790404274,
+        "like": 1,
+        "rcount": 2,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_439fa3a21cf97ef45d373ca9",
+        "content": {
+          "message": "xdm,我这配置n5有没机会[笑哭]，凹得难受就不打了",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/080d5dd7c669f2c67b4ee6239988f36487928498.jpg",
+              "img_width": 1260,
+              "img_height": 13171,
+              "img_size": 1694.3
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "a2c4ef0e4270d56e2fbef71c9a6efe070b8574e5bc8dbcd3f6f6ea27f3808ca5",
+  "original_bytes_sha256": "6824148cc294a550654f3a8b9f9bbc3b277faea9501e14d7bb966aecb6b4de17",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

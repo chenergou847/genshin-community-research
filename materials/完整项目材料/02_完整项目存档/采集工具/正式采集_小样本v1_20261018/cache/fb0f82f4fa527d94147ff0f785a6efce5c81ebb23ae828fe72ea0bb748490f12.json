@@ -1,0 +1,1315 @@
+{
+  "route": "roots_web",
+  "params": {
+    "oid": "117369108174481",
+    "type": "1",
+    "mode": "2",
+    "next": "62",
+    "ps": "20",
+    "plat": "1",
+    "web_location": "1315875",
+    "pagination_str": "{\"offset\":\"CAESEDE4MzUzNTE1NTU1NzI5MjAaADICCD4=\"}"
+  },
+  "captured_at": "2026-10-18T14:59:25.775222+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "is_begin": false,
+        "prev": 63,
+        "next": 39,
+        "is_end": false,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzUzNTE1NTU1NzI5MjAaADICCCc=",
+          "prev_offset": "CAISEDE4MzUzNTE1NTU1NzI5MjAaADICCD8="
+        },
+        "session_id": "",
+        "mode": 2,
+        "mode_text": "",
+        "all_count": 1092,
+        "support_mode": [
+          2,
+          3
+        ],
+        "name": "最新评论"
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319339517104,
+          "rpid_str": "319339517104",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790933434,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fefcadbbcb34fb16405e0b95",
+          "content": {
+            "message": "7.7%的玩家没能到达那个地方[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319339382784,
+          "rpid_str": "319339382784",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790933265,
+          "like": 44,
+          "rcount": 7,
+          "count": 9,
+          "state": 0,
+          "author_id": "U_c2a973aa3a5391507430dde2",
+          "content": {
+            "message": "奥蛋挞是我第二个恨不得掰开用的角色[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315781566849,
+              "rpid_str": "315781566849",
+              "root": 319339382784,
+              "root_str": "319339382784",
+              "parent": 319339382784,
+              "parent_str": "319339382784",
+              "dialog": 315781566849,
+              "ctime": 1790940091,
+              "like": 6,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f53dbbd921a71c2e0048be60",
+              "content": {
+                "message": "我也想[doge]",
+                "emote": {
+                  "[doge]": {
+                    "id": 26,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge]",
+                    "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "doge"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 315813038049,
+              "rpid_str": "315813038049",
+              "root": 319339382784,
+              "root_str": "319339382784",
+              "parent": 315781566849,
+              "parent_str": "315781566849",
+              "dialog": 315781566849,
+              "ctime": 1790956602,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_ae6e578eeaa4017050792858",
+              "content": {
+                "message": "回复 @喜欢486酱 :[doge_金箍]",
+                "emote": {
+                  "[doge_金箍]": {
+                    "id": 83964,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge_金箍]",
+                    "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1724910828,
+                    "jump_title": "金箍"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319338074768,
+          "rpid_str": "319338074768",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790932571,
+          "like": 3,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_66ab789b5da1175cf393174e",
+          "content": {
+            "message": "笑死我了当初一堆不推荐抽奥黛塔的[喜极而泣][喜极而泣]",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319337517824,
+          "rpid_str": "319337517824",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790932286,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8a480aa2beca945467ffd705",
+          "content": {
+            "message": "什么时候复刻我要补二命[蹲蹲]（目前一命玩的很爽[doge_金箍]），偶奥尼夏能打冰锅，但我这边的造价小老头多半打不过（本人没什么手法），然后菲机少带奥能当第三间的对策卡[doge_金箍]（不过玩原神不到一年能过n5我很满足了）\nps：10偶10奥00枫丹锻造尼可4命阿罗夏，奥带的杜林专但没开大感觉能用旅行者的武器平替一下。\n月感电是21菲10机（带菲专）00少女带精4玉珑",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/67f972d5f9d742a1d9fc380b845b61a2227492303.jpg",
+                "img_width": 2700,
+                "img_height": 1224,
+                "img_size": 1639.36
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/14c990e4a82aef778f2d3df6d4bc9d97227492303.jpg",
+                "img_width": 2700,
+                "img_height": 1224,
+                "img_size": 1628.21
+              }
+            ],
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              },
+              "[蹲蹲]": {
+                "id": 91170,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[蹲蹲]",
+                "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1730108348,
+                "jump_title": "蹲蹲"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315766712193,
+          "rpid_str": "315766712193",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790932208,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3ec374f7ba52de8cd2e3ae8a",
+          "content": {
+            "message": "奥黛塔唯一的缺点就是不能掰成两个用[喜极而泣]",
+            "emote": {
+              "[喜极而泣]": {
+                "id": 791,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜极而泣]",
+                "url": "https://i0.hdslb.com/bfs/emote/485a7e0c01c2d70707daae53bee4a9e2e31ef1ed.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜极而泣"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319336968960,
+          "rpid_str": "319336968960",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790931874,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_24847d7cc5ac9c7c43e14071",
+          "content": {
+            "message": "谁当时不推荐抽天鹅 我笑谁[大笑]",
+            "emote": {
+              "[大笑]": {
+                "id": 12,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[大笑]",
+                "url": "https://i0.hdslb.com/bfs/emote/ca94ad1c7e6dac895eb5b33b7836b634c614d1c0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "大笑"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315766024497,
+          "rpid_str": "315766024497",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790931735,
+          "like": 1,
+          "rcount": 2,
+          "count": 2,
+          "state": 0,
+          "author_id": "U_f3ba9730e0fdc985cb7d1dd9",
+          "content": {
+            "message": "这个使用率独断万古了吧，而且这大概率是要持续整个大版本的[笑哭]\n21女皇入队的提升不会比不过2奥比6奥吧[思考]\n真比不过我就六奥了，不过要是比得过那也太逆天了[星星眼]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              },
+              "[星星眼]": {
+                "id": 1956,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[星星眼]",
+                "url": "https://i0.hdslb.com/bfs/emote/63c9d1a31c0da745b61cdb35e0ecb28635675db2.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "星星眼"
+              },
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 316173065921,
+              "rpid_str": "316173065921",
+              "root": 315766024497,
+              "root_str": "315766024497",
+              "parent": 319596936784,
+              "parent_str": "319596936784",
+              "dialog": 319596936784,
+              "ctime": 1791223986,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_f3ba9730e0fdc985cb7d1dd9",
+              "content": {
+                "message": "回复 @凌雁爱吃鱼 :嗯，給瑞希抽一個變相加強木偶了[藏狐]",
+                "emote": {
+                  "[藏狐]": {
+                    "id": 4000,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[藏狐]",
+                    "url": "https://i0.hdslb.com/bfs/emote/ba0937ef6f3ccca85e2e0047e6263f3b4da37201.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "藏狐"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319596936784,
+              "rpid_str": "319596936784",
+              "root": 315766024497,
+              "root_str": "315766024497",
+              "parent": 315766024497,
+              "parent_str": "315766024497",
+              "dialog": 319596936784,
+              "ctime": 1791112080,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_4325484245c91e4c5f8c2274",
+              "content": {
+                "message": "你就没有想把奥黛塔拆成两个用的想法吗[doge_金箍]万一奥黛塔和女皇直接霸占整个7.0的两路呢",
+                "emote": {
+                  "[doge_金箍]": {
+                    "id": 83964,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[doge_金箍]",
+                    "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1724910828,
+                    "jump_title": "金箍"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315765536321,
+          "rpid_str": "315765536321",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790931432,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da705d7965b3514f9b962cef",
+          "content": {
+            "message": "只有真正抽过二奥的人才知道"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315764271441,
+          "rpid_str": "315764271441",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790930730,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d98373eadb46a93854f15748",
+          "content": {
+            "message": "我唯一一个首发抽二命的角色[喜欢]",
+            "emote": {
+              "[喜欢]": {
+                "id": 3,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[喜欢]",
+                "url": "https://i0.hdslb.com/bfs/emote/8a10a4d73a89f665feff3d46ca56e83dc68f9eb8.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "喜欢"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319333385952,
+          "rpid_str": "319333385952",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790929825,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_22c471ffb07c193d81386859",
+          "content": {
+            "message": "当年不推荐抽奥黛特的人呢，站出来！"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315762541473,
+          "rpid_str": "315762541473",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790929676,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6da1099ce06391bfc97fdc3d",
+          "content": {
+            "message": "感觉良好[打call][打call]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/af12cbc343166cb458c9562870a8fb721780254599.png",
+                "img_width": 1428,
+                "img_height": 2808,
+                "img_size": 2000.88
+              }
+            ],
+            "emote": {
+              "[打call]": {
+                "id": 510,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[打call]",
+                "url": "https://i0.hdslb.com/bfs/emote/431432c43da3ee5aab5b0e4f8931953e649e9975.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "打call"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315762091009,
+          "rpid_str": "315762091009",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790929335,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a713893b595dfe303957a72f",
+          "content": {
+            "message": "五命的都梭哈六命了？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319332524208,
+          "rpid_str": "319332524208",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790929323,
+          "like": 1,
+          "rcount": 7,
+          "count": 7,
+          "state": 0,
+          "author_id": "U_f484c632cbe28cc3665cd2c4",
+          "content": {
+            "message": "看来抽1命的基本都抽2命了[笑哭]，星扩散队里2命奥黛塔和1命薇斯纳对比上一个命座哪个提升更多一些",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 319333139296,
+              "rpid_str": "319333139296",
+              "root": 319332524208,
+              "root_str": "319332524208",
+              "parent": 319332524208,
+              "parent_str": "319332524208",
+              "dialog": 319333139296,
+              "ctime": 1790929670,
+              "like": 1,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_4e6105489aedb3757a62b672",
+              "content": {
+                "message": "哈哈，卡一命了[灵魂出窍]",
+                "emote": {
+                  "[灵魂出窍]": {
+                    "id": 16,
+                    "package_id": 1,
+                    "state": 0,
+                    "type": 1,
+                    "attr": 0,
+                    "text": "[灵魂出窍]",
+                    "url": "https://i0.hdslb.com/bfs/emote/43d3db7d97343c01b47e22cfabeca84b4251f35a.png",
+                    "meta": {
+                      "size": 1,
+                      "suggest": [
+                        ""
+                      ]
+                    },
+                    "mtime": 1668688325,
+                    "jump_title": "灵魂出窍"
+                  }
+                }
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319341392160,
+              "rpid_str": "319341392160",
+              "root": 319332524208,
+              "root_str": "319332524208",
+              "parent": 319332524208,
+              "parent_str": "319332524208",
+              "dialog": 319341392160,
+              "ctime": 1790934460,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_684707fecc1b9986c2ab25fb",
+              "content": {
+                "message": "2奥＞2薇，01薇>10薇>1奥 看你几金预算"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319331851824,
+          "rpid_str": "319331851824",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790928933,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8f249f40c8a4d91d76de9ce2",
+          "content": {
+            "message": "@瑞枫酱MR"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315760643409,
+          "rpid_str": "315760643409",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790928423,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_95d4004e9feb7c28ceeb06b2",
+          "content": {
+            "message": "花了好大代价抽出来，感觉不亏怎么说[OK]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/5c5fd9e15b50ad36c3f5ecab80370715626814155.jpg",
+                "img_width": 1080,
+                "img_height": 2358,
+                "img_size": 607.14,
+                "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+                "play_gif_thumbnail": true
+              }
+            ],
+            "emote": {
+              "[OK]": {
+                "id": 1950,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[OK]",
+                "url": "https://i0.hdslb.com/bfs/emote/4683fd9ffc925fa6423110979d7dcac5eda297f4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "OK"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315759279857,
+          "rpid_str": "315759279857",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790927670,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_229aa25cc103f517d246b99f",
+          "content": {
+            "message": "[思考]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/39290fa2996fa19b73164be7bbf7397e3546639354563374.jpg",
+                "img_width": 2400,
+                "img_height": 1080,
+                "img_size": 936.75
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/a14e25e54b870c2e24839b88d2838dc33546639354563374.jpg",
+                "img_width": 2400,
+                "img_height": 1080,
+                "img_size": 1100.31
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/1800e12d04cb6187e86f8344b4c3c7fd3546639354563374.jpg",
+                "img_width": 1500,
+                "img_height": 4487,
+                "img_size": 1520.53
+              },
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/4e10d8f8e07b5334f7c917ec6b13f85c3546639354563374.jpg",
+                "img_width": 1080,
+                "img_height": 2373,
+                "img_size": 202.82
+              }
+            ],
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315757122177,
+          "rpid_str": "315757122177",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790926175,
+          "like": 1,
+          "rcount": 1,
+          "count": 1,
+          "state": 0,
+          "author_id": "U_d7e7cc8dda8942cde5077f47",
+          "content": {
+            "message": "目前手上有200抽，肝到7.3大概能有400多抽,目前月结晶少个莉奈娅，奥黛塔目前只有0命，听说7.3会up女皇和奥黛塔，给没有大佬给个说法，莉奈娅值不值得补，因为现在特别想要2奥和女皇，怕抽了莉奈娅抽数不够[给心心]",
+            "emote": {
+              "[给心心]": {
+                "id": 3302,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[给心心]",
+                "url": "https://i0.hdslb.com/bfs/emote/1597302b98827463f5b75c7cac1f29ea6ce572c4.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "给心心"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315762401809,
+              "rpid_str": "315762401809",
+              "root": 315757122177,
+              "root_str": "315757122177",
+              "parent": 315757122177,
+              "parent_str": "315757122177",
+              "dialog": 315762401809,
+              "ctime": 1790929551,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_d97f5d61ade67ad0a61833f4",
+              "content": {
+                "message": "看你女皇想几命吧，我估计四百多抽正常水平你就抽个2奥加21女皇的要命座的话只能等复刻了，运气不好的就要少算两个金"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315755832177,
+          "rpid_str": "315755832177",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790925450,
+          "like": 3,
+          "rcount": 4,
+          "count": 4,
+          "state": 0,
+          "author_id": "U_4cfd04fb87981f7e4c50a919",
+          "content": {
+            "message": "薇小妹不如偶小妹好用，只能哭哭唧唧去三间当破盾工具人了[笑哭][笑哭]",
+            "pictures": [
+              {
+                "img_src": "http://i0.hdslb.com/bfs/new_dyn/cfb35d7c34fa6182a59105efe227c989192371.jpg",
+                "img_width": 1080,
+                "img_height": 2400,
+                "img_size": 1350.57
+              }
+            ],
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 316000211873,
+              "rpid_str": "316000211873",
+              "root": 315755832177,
+              "root_str": "315755832177",
+              "parent": 319580069168,
+              "parent_str": "319580069168",
+              "dialog": 319580069168,
+              "ctime": 1791105156,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_4cfd04fb87981f7e4c50a919",
+              "content": {
+                "message": "回复 @WiのFi : 10神子在木偶队里伤害占比大概1/4-1/3，木偶配置越低，八重伤害占比越高，自己还有拐力，6夏最多和0命八重五五开，1命八重40雷伤+50星增伤，就可以把6夏爆了，你这个配置是三拐一，偶八队是双核队，拐力互相左脚踩右脚，提升不是一个概念的"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319580069168,
+              "rpid_str": "319580069168",
+              "root": 315755832177,
+              "root_str": "315755832177",
+              "parent": 315755832177,
+              "parent_str": "315755832177",
+              "dialog": 319580069168,
+              "ctime": 1791103066,
+              "like": 0,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_02814d302553b2793a9cc2b2",
+              "content": {
+                "message": "多少？我11偶20奥6夏01沃打不过老头，没有神子，神子这么强吗"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315755813921,
+          "rpid_str": "315755813921",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790925414,
+          "like": 60,
+          "rcount": 8,
+          "count": 9,
+          "state": 0,
+          "author_id": "U_a5da6b20544616cae1f6f9ea",
+          "content": {
+            "message": "现在想起7.0的时候，“怕冰神是大奥黛塔，感觉可以观望等复刻”就憋不住笑，啥✓8游戏理解，这角色能跳的，奥黛塔这种角色如果有两个，有个大的，那也是两个都拿下，而不是放弃其中一个。这么喜欢吃那点剩饭是真拦不住，别人首发抽完先玩几个月，某些人只能等复刻坐末班车。守财奴思维，这个跳那个跳，一个游戏6年了，他们还是没长出来脑子，就学会了一个等神，神不出来之前不会抽卡了，抽不明白了，大脑直接超载，抽神没错，但眼里只有神属于是没脑子。至冬前面全跳然后等7.3冰神，然后发现这个队友要找下位替代，那个队友要找下位替代，要不就是擅自期待冰神以辅助为主掏不出来一个像样的的C，又眼巴巴的干望着等队友复刻补队友，别人爽玩了大半个至冬，他才刚刚把人给凑齐，小丑完了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [
+            {
+              "rpid": 315756312561,
+              "rpid_str": "315756312561",
+              "root": 315755813921,
+              "root_str": "315755813921",
+              "parent": 315755813921,
+              "parent_str": "315755813921",
+              "dialog": 315756312561,
+              "ctime": 1790925763,
+              "like": 4,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_51572b1e655e1f3df560a5e9",
+              "content": {
+                "message": "早抽早享受，晚抽吃尾气"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            },
+            {
+              "rpid": 319326586240,
+              "rpid_str": "319326586240",
+              "root": 315755813921,
+              "root_str": "315755813921",
+              "parent": 315755813921,
+              "parent_str": "315755813921",
+              "dialog": 319326586240,
+              "ctime": 1790925679,
+              "like": 2,
+              "rcount": 0,
+              "count": 0,
+              "state": 0,
+              "author_id": "U_7ab18abe75f2d636329147a6",
+              "content": {
+                "message": "好说"
+              },
+              "replies": [],
+              "folder": {
+                "has_folded": false,
+                "is_folded": false,
+                "rule": ""
+              }
+            }
+          ],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315755029921,
+          "rpid_str": "315755029921",
+          "root": 0,
+          "root_str": "0",
+          "parent": 0,
+          "parent_str": "0",
+          "dialog": 0,
+          "ctime": 1790924941,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_84837204f395bf3990c77eca",
+          "content": {
+            "message": "恨不得把小天鹅分成三份用"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "callbacks",
+      "config",
+      "control",
+      "cursor",
+      "effects",
+      "note",
+      "replies",
+      "top",
+      "top_replies",
+      "upper",
+      "vote"
+    ]
+  },
+  "response_hash": "0518268a19fe8614de4f816d07b2bcb94edf215fa8022216b1ba2036a6788a83",
+  "original_bytes_sha256": "26cc57c5d7fff1ea8790676daf33a3674c2cc00f47ad3b066d38a415be4cff2d",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

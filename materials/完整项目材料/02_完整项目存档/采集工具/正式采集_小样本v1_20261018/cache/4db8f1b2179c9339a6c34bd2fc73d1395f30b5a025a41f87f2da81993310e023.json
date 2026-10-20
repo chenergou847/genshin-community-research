@@ -1,0 +1,488 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117382311904089",
+    "root": "319674762480",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:33:56.315056+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 13
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316091163537,
+          "rpid_str": "316091163537",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319674762480,
+          "parent_str": "319674762480",
+          "dialog": 316091163537,
+          "ctime": 1791175766,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0625c252cdfb238fe43d4b61",
+          "content": {
+            "message": "我可以带[25年度表情包_一][25年度表情包_摸][25年度表情包_猫]",
+            "emote": {
+              "[25年度表情包_一]": {
+                "id": 127414,
+                "package_id": 9046,
+                "state": 0,
+                "type": 8,
+                "attr": 0,
+                "text": "[25年度表情包_一]",
+                "url": "https://i0.hdslb.com/bfs/emote/f29e58450db3d486cfa4884779e657a360e34383.png",
+                "meta": {
+                  "size": 2,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1766146524,
+                "jump_title": "一"
+              },
+              "[25年度表情包_摸]": {
+                "id": 127967,
+                "package_id": 9046,
+                "state": 0,
+                "type": 8,
+                "attr": 0,
+                "text": "[25年度表情包_摸]",
+                "url": "https://i0.hdslb.com/bfs/emote/85c8f573a628b1e469390a2df1a505b2150bd05c.png",
+                "meta": {
+                  "size": 2,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1766146524,
+                "jump_title": "摸"
+              },
+              "[25年度表情包_猫]": {
+                "id": 127489,
+                "package_id": 9046,
+                "state": 0,
+                "type": 8,
+                "attr": 0,
+                "text": "[25年度表情包_猫]",
+                "url": "https://i0.hdslb.com/bfs/emote/88d27590ff91e634e4c4d094c57da310d50d1049.png",
+                "meta": {
+                  "size": 2,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1766146524,
+                "jump_title": "猫"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319692216128,
+          "rpid_str": "319692216128",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 316091163537,
+          "parent_str": "316091163537",
+          "dialog": 316091163537,
+          "ctime": 1791182826,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1a128090997488d2954a888f",
+          "content": {
+            "message": "回复 @蓝莓芙猫猫 :太好了，大佬是官服的还是B服的？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316103564113,
+          "rpid_str": "316103564113",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319692216128,
+          "parent_str": "319692216128",
+          "dialog": 316091163537,
+          "ctime": 1791183159,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0625c252cdfb238fe43d4b61",
+          "content": {
+            "message": "回复 @今州烟雨梦 :官的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316103578513,
+          "rpid_str": "316103578513",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319674762480,
+          "parent_str": "319674762480",
+          "dialog": 316103578513,
+          "ctime": 1791183185,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0625c252cdfb238fe43d4b61",
+          "content": {
+            "message": "b的话只能说你多匹配吧[鸣潮·共鸣与群星_捏捏]",
+            "emote": {
+              "[鸣潮·共鸣与群星_捏捏]": {
+                "id": 128820,
+                "package_id": 9189,
+                "state": 0,
+                "type": 3,
+                "attr": 0,
+                "text": "[鸣潮·共鸣与群星_捏捏]",
+                "url": "https://i0.hdslb.com/bfs/garb/item/da81b7cf658330c7ae6aa4ad59276e6d7b4e48c3.png",
+                "meta": {
+                  "size": 2
+                },
+                "mtime": 1766560135,
+                "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=111160&hybrid_set_header=2&anchor_task=1&lottery_id=111161&navhide=1&f_source=garb&from=emoji&window_params=%7B%22type%22%3A5%2C%22id%22%3A%22111181%22%2C%22sub_id%22%3A%22%5B%E9%B8%A3%E6%BD%AE%C2%B7%E5%85%B1%E9%B8%A3%E4%B8%8E%E7%BE%A4%E6%98%9F_%E6%8D%8F%E6%8D%8F%5D%22%7D",
+                "jump_title": "捏捏"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316114022897,
+          "rpid_str": "316114022897",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319692216128,
+          "parent_str": "319692216128",
+          "dialog": 316091163537,
+          "ctime": 1791189782,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da60cf4ca1601ec97abf0bae",
+          "content": {
+            "message": "回复 @今州烟雨梦 :b可以加我 500162244"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319712087280,
+          "rpid_str": "319712087280",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 316091163537,
+          "parent_str": "316091163537",
+          "dialog": 316091163537,
+          "ctime": 1791194358,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_deac2b5b24cf2eace8e8623a",
+          "content": {
+            "message": "回复 @蓝莓芙猫猫 :大佬能带带我不 刚回归凑不出第三队 打不过 官163888279"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316122169169,
+          "rpid_str": "316122169169",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319712087280,
+          "parent_str": "319712087280",
+          "dialog": 316091163537,
+          "ctime": 1791194396,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0625c252cdfb238fe43d4b61",
+          "content": {
+            "message": "回复 @你是不是老馋 :可以的，我在吃饭，吃完饭带你"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319712140432,
+          "rpid_str": "319712140432",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 316122169169,
+          "parent_str": "316122169169",
+          "dialog": 316091163537,
+          "ctime": 1791194439,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_deac2b5b24cf2eace8e8623a",
+          "content": {
+            "message": "回复 @蓝莓芙猫猫 :好好好[嘟嘟]",
+            "emote": {
+              "[嘟嘟]": {
+                "id": 3303,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[嘟嘟]",
+                "url": "https://i0.hdslb.com/bfs/emote/abd7404537d8162720ccbba9e0a8cdf75547e07a.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "嘟嘟"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316128693121,
+          "rpid_str": "316128693121",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319712140432,
+          "parent_str": "319712140432",
+          "dialog": 316091163537,
+          "ctime": 1791197827,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0625c252cdfb238fe43d4b61",
+          "content": {
+            "message": "回复 @你是不是老馋 :我吃完了，你看看啥时候打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319855595152,
+          "rpid_str": "319855595152",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 316114022897,
+          "parent_str": "316114022897",
+          "dialog": 316091163537,
+          "ctime": 1791290413,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1a128090997488d2954a888f",
+          "content": {
+            "message": "回复 @だいすきシャナ :我加你了，记得同意"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319869241184,
+          "rpid_str": "319869241184",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 316128693121,
+          "parent_str": "316128693121",
+          "dialog": 316091163537,
+          "ctime": 1791296719,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_deac2b5b24cf2eace8e8623a",
+          "content": {
+            "message": "回复 @蓝莓芙猫猫 :我看你昨天没加我 还以为你有事 我现在可以打 如果你没时间的话我们可以先加个好友[呲牙]",
+            "emote": {
+              "[呲牙]": {
+                "id": 1902,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[呲牙]",
+                "url": "https://i0.hdslb.com/bfs/emote/b5a5898491944a4268360f2e7a84623149672eb6.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "呲牙"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316274073233,
+          "rpid_str": "316274073233",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319869241184,
+          "parent_str": "319869241184",
+          "dialog": 316091163537,
+          "ctime": 1791298185,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0625c252cdfb238fe43d4b61",
+          "content": {
+            "message": "回复 @你是不是老馋 :因为我不加好友"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316283511233,
+          "rpid_str": "316283511233",
+          "root": 319674762480,
+          "root_str": "319674762480",
+          "parent": 319855595152,
+          "parent_str": "319855595152",
+          "dialog": 316091163537,
+          "ctime": 1791303346,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_da60cf4ca1601ec97abf0bae",
+          "content": {
+            "message": "回复 @今州烟雨梦 :👌"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319674762480,
+        "rpid_str": "319674762480",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791173111,
+        "like": 1,
+        "rcount": 13,
+        "count": 14,
+        "state": 0,
+        "author_id": "U_1a128090997488d2954a888f",
+        "content": {
+          "message": "有没有大佬带我这个新手打n4的，想要一个羽毛，己急哭"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b62b7ce08cb0294c853994445a31ae67081f090254d26d36c7cac11925300826",
+  "original_bytes_sha256": "70f4dd9a115bf4af568ec23febcaa8c9302ebcd44fe90fd033c9f54339cd1650",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

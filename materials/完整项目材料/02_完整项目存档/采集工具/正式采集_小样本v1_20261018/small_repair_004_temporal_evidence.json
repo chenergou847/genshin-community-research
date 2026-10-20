@@ -1,0 +1,34 @@
+{
+  "config_hash": "b8cd05d1b00f65ce05a642b5ce68bdce3c3779a9a52fbe7482ed37ef59cb2280",
+  "at": "2026-10-18T05:38:54.936477+00:00",
+  "source_hash": "8be80284e34922c35a6624f25109924317c4d381afacbf84f17c2e347a7a3bab",
+  "bvid": "BV1AQJU6hE93",
+  "old_root_count": 639,
+  "new_root_count": 640,
+  "old_declared_reply_sum": 572,
+  "new_declared_reply_sum": 573,
+  "old_server_total": 1212,
+  "new_server_total": 1214,
+  "root_reply_count_changes": [
+    {
+      "id": "317186872241",
+      "before": 16,
+      "after": 17
+    }
+  ],
+  "new_root_IDs_and_times": [
+    {
+      "id": "321090834448",
+      "ctime": 1792300992
+    }
+  ],
+  "observed_new_reply": {
+    "id": "317426000129",
+    "ctime": 1792300037
+  },
+  "both_appended_comments_after_T0": true,
+  "missing_old_root_IDs": [],
+  "complete_child_enumeration_still_required": true,
+  "unresolved_declared_total_gap": 1,
+  "note": "The observed appends explain the total change, but not the remaining one-ID gap between server total and root-declared sums. All counts still require strict actual pagination verification."
+}

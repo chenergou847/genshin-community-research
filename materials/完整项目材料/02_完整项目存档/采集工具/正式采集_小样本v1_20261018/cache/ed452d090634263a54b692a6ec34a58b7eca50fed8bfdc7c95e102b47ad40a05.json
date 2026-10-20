@@ -1,0 +1,121 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319481821792",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:03:00.168919+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319482064560,
+          "rpid_str": "319482064560",
+          "root": 319481821792,
+          "root_str": "319481821792",
+          "parent": 319481821792,
+          "parent_str": "319481821792",
+          "dialog": 319482064560,
+          "ctime": 1791029624,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_19964689fb834f25a1052854",
+          "content": {
+            "message": "配置0偶0鹅3夏6七\n        0丝0爱0沃3莫\n        6龙2芙0希6香\n我们小众那维莱特信仰玩家真的一点也不苦一点也不累"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319481821792,
+        "rpid_str": "319481821792",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791029493,
+        "like": 4,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_19964689fb834f25a1052854",
+        "content": {
+          "message": "我的天呐，沃雅尼莎大人[笑哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/4a2ca4d413f650a9372a44fc859ac8191913682924.png",
+              "img_width": 2622,
+              "img_height": 1206,
+              "img_size": 3376,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[笑哭]": {
+              "id": 509,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[笑哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "笑哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "ae97cd1822cdc413c4a6fe1f80d2d7a14624c373cd379f3d63a7c6156a8e9d78",
+  "original_bytes_sha256": "3a70d68efab139be2a560c36df3727f990badf5f4d4a75b2ba3ee49bf175e895",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

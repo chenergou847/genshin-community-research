@@ -1,0 +1,135 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319734781360",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:26:56.042861+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316174867185,
+          "rpid_str": "316174867185",
+          "root": 319734781360,
+          "root_str": "319734781360",
+          "parent": 319734781360,
+          "parent_str": "319734781360",
+          "dialog": 316174867185,
+          "ctime": 1791226656,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_33e310917f612b28e4e4ba0f",
+          "content": {
+            "message": "我感觉还好，虽然体系但体系够多而且也有一定灵活度，同一体系没必要4人上齐可以拆成两队打，我去年11月回坑的前几期一直摆烂都没打，这期打了下居然打满了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316369650705,
+          "rpid_str": "316369650705",
+          "root": 319734781360,
+          "root_str": "319734781360",
+          "parent": 319734781360,
+          "parent_str": "319734781360",
+          "dialog": 316369650705,
+          "ctime": 1791374048,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2b1171e259d48e0ca28bcd8a",
+          "content": {
+            "message": "体系队，但是只绑元素，不还是利好这个模式"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319734781360,
+        "rpid_str": "319734781360",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791205705,
+        "like": 1,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_6b6e399ad22d5904fe0d9106",
+        "content": {
+          "message": "原神现在全是体系队，对剧诗太不友好了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f07f5247021b71d51517a4748f82c810d67de42ad4a161fadf1672a3bd93a7fe",
+  "original_bytes_sha256": "56850d0d4c23e38c9c72478f4b90eba76bc9cb5aaf57c8d0e719c1329003a9a2",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

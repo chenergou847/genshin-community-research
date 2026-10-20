@@ -1,0 +1,179 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315397774641",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:32:50.596789+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315397842049,
+          "rpid_str": "315397842049",
+          "root": 315397774641,
+          "root_str": "315397774641",
+          "parent": 315397774641,
+          "parent_str": "315397774641",
+          "dialog": 315397842049,
+          "ctime": 1790643075,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2466fdfab2e596bd24ba9c12",
+          "content": {
+            "message": "31神子，01木，20奥，满夏\n01机，21少，21菲，满砂\n21火，00希茜爱"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315397880929,
+          "rpid_str": "315397880929",
+          "root": 315397774641,
+          "root_str": "315397774641",
+          "parent": 315397774641,
+          "parent_str": "315397774641",
+          "dialog": 315397880929,
+          "ctime": 1790643235,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c4bed7df22112fb86e8eb71f",
+          "content": {
+            "message": "我试了一下，菲林斯把砂糖换成班尼特过机制更快"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315402129281,
+          "rpid_str": "315402129281",
+          "root": 315397774641,
+          "root_str": "315397774641",
+          "parent": 315397774641,
+          "parent_str": "315397774641",
+          "dialog": 315402129281,
+          "ctime": 1790647435,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间冰棺要么带火系工具人，要么带冰主转伤害盾，，视频有演示。\n第二间火神带双冰是队的。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315397774641,
+        "rpid_str": "315397774641",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790643067,
+        "like": 0,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_2466fdfab2e596bd24ba9c12",
+        "content": {
+          "message": "木偶打丘林，火神打冰锅，菲林斯打冰棺，有说法吗[[微笑]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8d3f5b8760ede42f60889d4c85bed737442559982.jpg",
+              "img_width": 2400,
+              "img_height": 1500,
+              "img_size": 869.92
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/43a38eb7ce5ad5859f0a531c886faccb442559982.jpg",
+              "img_width": 2400,
+              "img_height": 1500,
+              "img_size": 856.07
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/b43b78819e0766917466850b1bd81b37442559982.jpg",
+              "img_width": 2400,
+              "img_height": 1500,
+              "img_size": 872.97
+            }
+          ],
+          "emote": {
+            "[微笑]": {
+              "id": 1,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[微笑]",
+              "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "微笑"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "e1b61c1570bea63901de0ba657d423cff4bf6508b1be69d28efc1364f2eb5f8b",
+  "original_bytes_sha256": "4f4656294b9f8645f3f591aae7c1fbc5bcd06247c2519db5534db1e8dd62eef7",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

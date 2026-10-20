@@ -1,0 +1,106 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318906275504",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:38:11.781907+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318906275504,
+        "rpid_str": "318906275504",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790594384,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_19b4e8b463b6a93cfe71b18b",
+        "content": {
+          "message": "只打n5，怎么分[蹲蹲]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/f41cd5af2e14cf90ce6792e192616888266511046.jpg",
+              "img_width": 1220,
+              "img_height": 2712,
+              "img_size": 1477.94
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0c9de0624017172763925ffe2fb8ed38266511046.jpg",
+              "img_width": 1220,
+              "img_height": 2712,
+              "img_size": 1450.98
+            },
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/8523fd59f002b25379ecbc334e4ee965266511046.jpg",
+              "img_width": 1220,
+              "img_height": 2712,
+              "img_size": 1435.47
+            }
+          ],
+          "emote": {
+            "[蹲蹲]": {
+              "id": 91170,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[蹲蹲]",
+              "url": "https://i0.hdslb.com/bfs/emote/878f1dfac79622050f730d1fee5f7b1a55951c74.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1730108348,
+              "jump_title": "蹲蹲"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "bf4fc5f5def1e31f89c6dee27642dd21ceb0e7373e6c980a6828f6c1d3f1c41c",
+  "original_bytes_sha256": "34a56d3b0bbcfec96d23c864a3a8cddcb557c40d9cb91b175fd05dec31448132",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

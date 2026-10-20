@@ -1,0 +1,159 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117363823352388",
+    "root": "319318530624",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T11:33:12.733690+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319341341264,
+          "rpid_str": "319341341264",
+          "root": 319318530624,
+          "root_str": "319318530624",
+          "parent": 319318530624,
+          "parent_str": "319318530624",
+          "dialog": 319341341264,
+          "ctime": 1790934405,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a6c2734b6301b9f4a14b1c2e",
+          "content": {
+            "message": "玛德，我只加了一个满命的大佬，但已经被借完了太悲催了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319348090720,
+          "rpid_str": "319348090720",
+          "root": 319318530624,
+          "root_str": "319318530624",
+          "parent": 319341341264,
+          "parent_str": "319341341264",
+          "dialog": 319341341264,
+          "ctime": 1790937826,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_45f223b8658006fca27c106b",
+          "content": {
+            "message": "回复 @狗fei老母鸡 :我经常联机周本，看到大佬就加，就攒了好多大佬的好友位"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315793556177,
+          "rpid_str": "315793556177",
+          "root": 319318530624,
+          "root_str": "319318530624",
+          "parent": 319348090720,
+          "parent_str": "319348090720",
+          "dialog": 319341341264,
+          "ctime": 1790946409,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_5881035b80f12fbe66e579e6",
+          "content": {
+            "message": "回复 @向北遇长安 :我也是，我是亚服，有个大佬所有女角色全6命，每次稍微晚一点就借不到了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319318530624,
+        "rpid_str": "319318530624",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790920788,
+        "like": 3,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_45f223b8658006fca27c106b",
+        "content": {
+          "message": "这期借了满命恰斯卡是非常正确的决定[doge]",
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "de962f9b41a415f9c75f4b596bb0d18c24184236f6524d08482f4627e6f7634b",
+  "original_bytes_sha256": "a331f254d8d003e103a16fb097261e095d10c3320d5b7cac389c76b561fe802b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

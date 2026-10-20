@@ -1,0 +1,162 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315525040113",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:13:15.399018+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319087721936,
+          "rpid_str": "319087721936",
+          "root": 315525040113,
+          "root_str": "315525040113",
+          "parent": 315525040113,
+          "parent_str": "315525040113",
+          "dialog": 319087721936,
+          "ctime": 1790750996,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1807e4d811f40acdbce6d4a1",
+          "content": {
+            "message": "梦见月冰主珐露珊七七 就可以打第一间的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315525872737,
+          "rpid_str": "315525872737",
+          "root": 315525040113,
+          "root_str": "315525040113",
+          "parent": 315525040113,
+          "parent_str": "315525040113",
+          "dialog": 315525872737,
+          "ctime": 1790751120,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_c059b656860dce2ffb55bd5c",
+          "content": {
+            "message": "真的吗，这个队伍没C啊，冰主在N5的话环境真能C得起来吗[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315525040113,
+        "rpid_str": "315525040113",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790750437,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_c059b656860dce2ffb55bd5c",
+        "content": {
+          "message": "谁懂我开服老玩家没抽星体系没抽挪爷强杀N5第一间的痛苦[大哭][大哭][大哭]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/1ba0bbaa3773753f9526969cc0cf2afb36089666.jpg",
+              "img_width": 2800,
+              "img_height": 1272,
+              "img_size": 1292.75
+            }
+          ],
+          "emote": {
+            "[大哭]": {
+              "id": 5,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[大哭]",
+              "url": "https://i0.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "大哭"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "fd99a9d5566ac0c7d9dbeaf728e46bea328fff9a265b3dc1499fcfe5733c7c04",
+  "original_bytes_sha256": "8b06bd1d042f2e18d161cdd8c86cd36e7e87c57b35767077bc3595c4317ea7d4",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

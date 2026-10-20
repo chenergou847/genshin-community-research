@@ -1,0 +1,126 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315398252561",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:32:42.844630+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 2
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315401996081,
+          "rpid_str": "315401996081",
+          "root": 315398252561,
+          "root_str": "315398252561",
+          "parent": 315398252561,
+          "parent_str": "315398252561",
+          "dialog": 315401996081,
+          "ctime": 1790647356,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间四号位减抗的，2希诺宁，砂糖都行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315410308113,
+          "rpid_str": "315410308113",
+          "root": 315398252561,
+          "root_str": "315398252561",
+          "parent": 315401996081,
+          "parent_str": "315401996081",
+          "dialog": 315401996081,
+          "ctime": 1790654170,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_25c755d47a0d81b00eac36a0",
+          "content": {
+            "message": "回复 @星光璀璨之时 :我打算带砂糖，综合收益应该最高，就是排轴会困难"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315398252561,
+        "rpid_str": "315398252561",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790643481,
+        "like": 0,
+        "rcount": 2,
+        "count": 2,
+        "state": 0,
+        "author_id": "U_25c755d47a0d81b00eac36a0",
+        "content": {
+          "message": "木偶，奥黛塔，阿罗夏。我在想第一间四号位到底是带谁好，第二间丝柯克有完整队伍不是问题，第三间仆人超载应该也不难",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/2bb14dd78ce0e46ef0d128b9641ea290100916069.jpg",
+              "img_width": 2700,
+              "img_height": 1224,
+              "img_size": 999.9,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "50934b6e71b4e82aa2dcb373f50700dad266176ca7d6f0668c6711681575557c",
+  "original_bytes_sha256": "966c019870d8c571189f8c4529e816294e484d96dfbe6d28d4a7835da6703f64",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

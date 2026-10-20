@@ -1,0 +1,202 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117369108174481",
+    "root": "319655704320",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:00:39.241497+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 316109039953,
+          "rpid_str": "316109039953",
+          "root": 319655704320,
+          "root_str": "319655704320",
+          "parent": 319655704320,
+          "parent_str": "319655704320",
+          "dialog": 316109039953,
+          "ctime": 1791186707,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_35a65acf5615d0c88240b916",
+          "content": {
+            "message": "你可以用下位替代七七[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319702340144,
+          "rpid_str": "319702340144",
+          "root": 319655704320,
+          "root_str": "319655704320",
+          "parent": 316109039953,
+          "parent_str": "316109039953",
+          "dialog": 316109039953,
+          "ctime": 1791188978,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7da066fb355990a40e7bb232",
+          "content": {
+            "message": "回复 @我不想爆肝啦 :下位替代其实是冰主。。。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 316127141473,
+          "rpid_str": "316127141473",
+          "root": 319655704320,
+          "root_str": "319655704320",
+          "parent": 319702340144,
+          "parent_str": "319702340144",
+          "dialog": 316109039953,
+          "ctime": 1791197006,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_35a65acf5615d0c88240b916",
+          "content": {
+            "message": "回复 @肥肉Meat :冰主只有6命才有点辅助能力"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319744298848,
+          "rpid_str": "319744298848",
+          "root": 319655704320,
+          "root_str": "319655704320",
+          "parent": 316127141473,
+          "parent_str": "316127141473",
+          "dialog": 316109039953,
+          "ctime": 1791210312,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_7da066fb355990a40e7bb232",
+          "content": {
+            "message": "回复 @我不想爆肝啦 :冰主主要需要的是她转化星反应的能力，拐力是其次"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319655704320,
+        "rpid_str": "319655704320",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1791160646,
+        "like": 7,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_38d55a99a84e73ff28fc2395",
+        "content": {
+          "message": "奥黛塔可不可以拆成三份哇，真的不够用[捂脸]",
+          "emote": {
+            "[捂脸]": {
+              "id": 15,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[捂脸]",
+              "url": "https://i0.hdslb.com/bfs/emote/6921bb43f0c634870b92f4a8ad41dada94a5296d.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "捂脸"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "62e5f867c3e2f2612529e4c47b2a16207f12ada9892e6959dadad4d5c3e76a3f",
+  "original_bytes_sha256": "5c02a5802ba9bb8a97d2009a95daed1a64ccee249f9a0418e224391a6d61a73b",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

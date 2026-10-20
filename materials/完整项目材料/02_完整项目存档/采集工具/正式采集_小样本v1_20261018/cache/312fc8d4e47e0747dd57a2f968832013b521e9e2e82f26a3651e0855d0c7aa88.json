@@ -1,0 +1,75 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117364628657999",
+    "root": "319214894976",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:01:20.559297+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319214894976,
+        "rpid_str": "319214894976",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790843298,
+        "like": 28,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_c92b18872d13b5f2a4cb11b0",
+        "content": {
+          "message": "我也可以是你的小蛋糕阿龙王大人",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/fe4bc6d6327aade5bca15db0a91c2cd43461564833204232.png",
+              "img_width": 1080,
+              "img_height": 1080,
+              "img_size": 835.43
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "b24b063ab513e2c0b5cccee68b8880632233c001a04764fdfdfde29fe43f97a0",
+  "original_bytes_sha256": "e39aff82652c44b149fcbbc6d434416a043b38d59fe75afd79d811cfccb55505",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

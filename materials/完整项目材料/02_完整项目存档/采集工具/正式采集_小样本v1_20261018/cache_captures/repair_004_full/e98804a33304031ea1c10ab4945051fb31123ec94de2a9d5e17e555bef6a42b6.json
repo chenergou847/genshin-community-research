@@ -1,0 +1,420 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320877361568",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:39:26.946221+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 12
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 320967319712,
+          "rpid_str": "320967319712",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320877361568,
+          "parent_str": "320877361568",
+          "ctime": 1792211548,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4974b499c8b4eb666ac6a7d6",
+          "content": {
+            "message": "你给下半弄个炉火套阿罗夏或者别的一样能增伤[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320968176816,
+          "rpid_str": "320968176816",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320967319712,
+          "parent_str": "320967319712",
+          "ctime": 1792211982,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8bf500cf39924038e4ec38ff",
+          "content": {
+            "message": "回复 @稲槭 :因为我阿罗夏才3命就没养，这就回去匀点资源给他"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320968452480,
+          "rpid_str": "320968452480",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320968176816,
+          "parent_str": "320968176816",
+          "ctime": 1792212177,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4974b499c8b4eb666ac6a7d6",
+          "content": {
+            "message": "回复 @倾月落 :我二命我也养了，之前测DPS，阿罗夏宗师套木偶一喷11万，炉火套直接16万了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320971382544,
+          "rpid_str": "320971382544",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320968452480,
+          "parent_str": "320968452480",
+          "ctime": 1792213700,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8bf500cf39924038e4ec38ff",
+          "content": {
+            "message": "回复 @稲槭 :能问下配置吗，我木桩测试最高16万一喷，但大部分是10万到11万，我的是00影中套木偶，10饰金套神子，60千岩套七七，01炉火套奥黛塔"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320971989680,
+          "rpid_str": "320971989680",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320971382544,
+          "parent_str": "320971382544",
+          "ctime": 1792214096,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4974b499c8b4eb666ac6a7d6",
+          "content": {
+            "message": "回复 @倾月落 :11影中套木偶，10饰金套神子，2命炉火套阿罗夏，4宗师满命猫[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320971999648,
+          "rpid_str": "320971999648",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320971382544,
+          "parent_str": "320971382544",
+          "ctime": 1792214112,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4974b499c8b4eb666ac6a7d6",
+          "content": {
+            "message": "回复 @倾月落 :可能差在武器上了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 320981623584,
+          "rpid_str": "320981623584",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320877361568,
+          "parent_str": "320877361568",
+          "ctime": 1792219924,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4da3471fc126a63da808e9b6",
+          "content": {
+            "message": "主角跟0命奥黛塔差不了太多"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321024106160,
+          "rpid_str": "321024106160",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 320877361568,
+          "parent_str": "320877361568",
+          "ctime": 1792243934,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_49767f2ccdfd91d87008ee33",
+          "content": {
+            "message": "上莫娜不如上冰主阿罗夏，刚把木偶切出来莫娜buff快掉光了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321024153664,
+          "rpid_str": "321024153664",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 321024106160,
+          "parent_str": "321024106160",
+          "ctime": 1792244016,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8bf500cf39924038e4ec38ff",
+          "content": {
+            "message": "回复 @镜枫渊 :不是，莫娜是为了破冰锅机制，那是我二次打换的，一次是带的冰主，你看我12-3就知道了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321024415488,
+          "rpid_str": "321024415488",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 321024153664,
+          "parent_str": "321024153664",
+          "ctime": 1792244055,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_49767f2ccdfd91d87008ee33",
+          "content": {
+            "message": "回复 @倾月落 :冰锅不是冰伤吗，水也能破吗[妙啊]",
+            "emote": {
+              "[妙啊]": {
+                "id": 435,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[妙啊]",
+                "url": "https://i0.hdslb.com/bfs/emote/b4cb77159d58614a9b787b91b1cd22a81f383535.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "妙啊"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321024398720,
+          "rpid_str": "321024398720",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 321024415488,
+          "parent_str": "321024415488",
+          "ctime": 1792244158,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8bf500cf39924038e4ec38ff",
+          "content": {
+            "message": "回复 @镜枫渊 :冰冻啊，一次打的时候冰被八重耗了，差几秒，换莫娜就过了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 321025250032,
+          "rpid_str": "321025250032",
+          "root": 320877361568,
+          "root_str": "320877361568",
+          "parent": 321024415488,
+          "parent_str": "321024415488",
+          "ctime": 1792244517,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8bf500cf39924038e4ec38ff",
+          "content": {
+            "message": "回复 @镜枫渊 :啊，抱歉记错了，是那个老奶，一次打的时候被老奶爆杀了，但幸亏我七七是满命"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320877361568,
+        "rpid_str": "320877361568",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792140591,
+        "like": 3,
+        "rcount": 12,
+        "count": 12,
+        "state": 0,
+        "author_id": "U_8bf500cf39924038e4ec38ff",
+        "content": {
+          "message": "能不能把奥黛塔分掰两半用啊，两队都抢",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/0b9d836d0ba015f5b49535e9852634dc504122025.jpg",
+              "img_width": 1220,
+              "img_height": 2712,
+              "img_size": 1314.61
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    }
+  },
+  "response_hash": "915b5f654e56f338cb8191e7ae2772e1f559073abead21bb23a48db257b589a7",
+  "original_bytes_sha256": "0a9be07b4114e2a6413e3076a9216fb9812715c68dfd0562be677c07ef92e141",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "repair_004_full"
+}

@@ -1,0 +1,174 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "319032756192",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:25:28.592319+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315477166465,
+          "rpid_str": "315477166465",
+          "root": 319032756192,
+          "root_str": "319032756192",
+          "parent": 319032756192,
+          "parent_str": "319032756192",
+          "dialog": 315477166465,
+          "ctime": 1790698063,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "木偶有2命奥黛塔有机会"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315477239793,
+          "rpid_str": "315477239793",
+          "root": 319032756192,
+          "root_str": "319032756192",
+          "parent": 319032756192,
+          "parent_str": "319032756192",
+          "dialog": 315477239793,
+          "ctime": 1790698100,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第二间丝柯克队。木偶星超导都行。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315477364977,
+          "rpid_str": "315477364977",
+          "root": 319032756192,
+          "root_str": "319032756192",
+          "parent": 319032756192,
+          "parent_str": "319032756192",
+          "dialog": 315477364977,
+          "ctime": 1790698144,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第三间火神尼可希诺宁班尼特，"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319038433008,
+          "rpid_str": "319038433008",
+          "root": 319032756192,
+          "root_str": "319032756192",
+          "parent": 315477364977,
+          "parent_str": "315477364977",
+          "dialog": 315477364977,
+          "ctime": 1790698645,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_9e638b5b6ded821c533a05aa",
+          "content": {
+            "message": "回复 @星光璀璨之时 :00火神也能上吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319032756192,
+        "rpid_str": "319032756192",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790695092,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_9e638b5b6ded821c533a05aa",
+        "content": {
+          "message": "up，有可能n6吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/ae10991c3405b2e9505213a1c7fdb596630767831.jpg",
+              "img_width": 1080,
+              "img_height": 12117,
+              "img_size": 1484.8,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "cc83de639bfb149d39b0136e74a4886a041a0a62314829d97824bdee8dd71517",
+  "original_bytes_sha256": "ea816272fd3d172a558c8776a26a189c281d6956aedc740d088f12b7aefbe15e",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

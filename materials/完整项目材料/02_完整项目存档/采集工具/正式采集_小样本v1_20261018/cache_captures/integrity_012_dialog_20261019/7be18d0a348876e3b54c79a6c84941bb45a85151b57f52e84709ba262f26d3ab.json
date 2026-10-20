@@ -1,0 +1,87 @@
+{
+  "route": "reply_dialog_web",
+  "params": {
+    "oid": "117325151998016",
+    "type": 1,
+    "root": "314935852353",
+    "dialog": "314940548961",
+    "size": 20
+  },
+  "captured_at": "2026-10-19T05:38:03.507478+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "cursor": {
+        "min_floor": 3,
+        "max_floor": 3,
+        "size": 1,
+        "next": 4,
+        "prev": 2,
+        "is_begin": true,
+        "pagination_reply": {
+          "next_offset": "{\"type\":3,\"direction\":1,\"Data\":{\"cursor\":4}}"
+        },
+        "session_id": ""
+      },
+      "config": {
+        "showtopic": 1,
+        "show_up_flag": true,
+        "read_only": false
+      },
+      "dialog": {
+        "min_floor": 0,
+        "max_floor": 3
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318474899168,
+          "rpid_str": "318474899168",
+          "root": 314935852353,
+          "root_str": "314935852353",
+          "parent": 314940548961,
+          "parent_str": "314940548961",
+          "dialog": 314940548961,
+          "ctime": 1790261382,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "floor": 3,
+          "author_id": "U_76daa4e2822c04263c3ed853",
+          "content": {
+            "message": "回复 @蝶恋枫花 :那不是星锋剑吗"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {}
+    },
+    "source_data_keys": [
+      "assist",
+      "blacklist",
+      "config",
+      "control",
+      "cursor",
+      "dialog",
+      "note",
+      "replies",
+      "upper",
+      "vote"
+    ],
+    "message": "OK",
+    "source_data_was_null": false
+  },
+  "response_hash": "31d7eb14e23fb111e16563434e3724a868e1c3bedb56624ade820a33417510a0",
+  "original_bytes_sha256": "fd55cafd28824b4edf3e5ee21c3f7216f9a1e51dca35699d59ab6ccff7b7ddfe",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials",
+  "capture_namespace": "integrity_012_dialog_20261019"
+}

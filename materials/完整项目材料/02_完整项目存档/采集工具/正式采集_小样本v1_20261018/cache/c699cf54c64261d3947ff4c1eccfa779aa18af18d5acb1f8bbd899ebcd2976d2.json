@@ -1,0 +1,155 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "317204820369",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:12:37.435203+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 320857901952,
+          "rpid_str": "320857901952",
+          "root": 317204820369,
+          "root_str": "317204820369",
+          "parent": 317204820369,
+          "parent_str": "317204820369",
+          "ctime": 1792126054,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_abbe20fb2d2bd4641ec9b314",
+          "content": {
+            "message": "在，奶奶为什么差一级？"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317205520081,
+          "rpid_str": "317205520081",
+          "root": 317204820369,
+          "root_str": "317204820369",
+          "parent": 320857901952,
+          "parent_str": "320857901952",
+          "ctime": 1792126174,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_3a154863deafefb8f9bb8a07",
+          "content": {
+            "message": "回复 @你打到我心八上了 :你不说我都没注意[跪了]",
+            "emote": {
+              "[跪了]": {
+                "id": 1945,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[跪了]",
+                "url": "https://i0.hdslb.com/bfs/emote/f2b3aee7e521de7799d4e3aa379b01be032698ac.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "跪了"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320919848464,
+          "rpid_str": "320919848464",
+          "root": 317204820369,
+          "root_str": "317204820369",
+          "parent": 317204820369,
+          "parent_str": "317204820369",
+          "ctime": 1792163936,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_e0407c39c60a504fbd755a04",
+          "content": {
+            "message": "[笑哭]我的龙王过不去",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 317204820369,
+        "rpid_str": "317204820369",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792125784,
+        "like": 1,
+        "rcount": 3,
+        "count": 3,
+        "state": 0,
+        "author_id": "U_3a154863deafefb8f9bb8a07",
+        "content": {
+          "message": "依旧宝宝巴士",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/d2c7f3ac3dcef7b5387ae35168af3b4b648993462.jpg",
+              "img_width": 1260,
+              "img_height": 2800,
+              "img_size": 1423.15,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "5e36359f9ec8b13c78a26b3abafce21f7e4ae04119de8385cc9c71bd379d8b52",
+  "original_bytes_sha256": "a00bee11c3ee7952537fdcab05cfd5995a8233c24993a4c79a7df5914adceac5",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

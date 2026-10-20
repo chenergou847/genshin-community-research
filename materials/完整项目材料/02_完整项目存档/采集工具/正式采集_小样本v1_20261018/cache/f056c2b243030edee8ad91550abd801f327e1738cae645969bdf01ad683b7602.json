@@ -1,0 +1,150 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "314921095505",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:27:08.975066+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 3
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318455185440,
+          "rpid_str": "318455185440",
+          "root": 314921095505,
+          "root_str": "314921095505",
+          "parent": 314921095505,
+          "parent_str": "314921095505",
+          "dialog": 318455185440,
+          "ctime": 1790250667,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8a8c23a55a941336d4bef9e2",
+          "content": {
+            "message": "桑多涅+skk+梦？"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318456676016,
+          "rpid_str": "318456676016",
+          "root": 314921095505,
+          "root_str": "314921095505",
+          "parent": 314921095505,
+          "parent_str": "314921095505",
+          "dialog": 318456676016,
+          "ctime": 1790251435,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a86ed04b8806f521f798c04d",
+          "content": {
+            "message": "梦见月带奥打一间木偶三间二间丝很好打"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 314931881105,
+          "rpid_str": "314931881105",
+          "root": 314921095505,
+          "root_str": "314921095505",
+          "parent": 314921095505,
+          "parent_str": "314921095505",
+          "dialog": 314931881105,
+          "ctime": 1790256451,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "一命梦见月带二命奥黛塔，5金已经够了，第一间。第二间丝柯克有1芙0爱就够。第三间木偶星超导"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 314921095505,
+        "rpid_str": "314921095505",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790250256,
+        "like": 0,
+        "rcount": 3,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_0174687a8ccf219fa1606cd7",
+        "content": {
+          "message": "有机会n5吗",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/e181b327b736f4d1fc71654526006e6d1320576785.jpg",
+              "img_width": 1080,
+              "img_height": 11283,
+              "img_size": 1363.09,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ]
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "f1477d2457c4ffba3dc99856ee3cf3885634b4c7fd6a72168bea4b2788492cd4",
+  "original_bytes_sha256": "9ba7963b2e9fe0993e9f99e144fcbf6c7628b10d8a86a30e025a8aba2b3513af",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

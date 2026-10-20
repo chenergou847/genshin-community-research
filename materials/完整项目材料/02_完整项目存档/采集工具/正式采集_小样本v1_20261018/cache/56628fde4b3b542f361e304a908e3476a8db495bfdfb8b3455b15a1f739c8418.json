@@ -1,0 +1,138 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "315276503457",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:46:59.681132+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 1
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 315286766913,
+          "rpid_str": "315286766913",
+          "root": 315276503457,
+          "root_str": "315276503457",
+          "parent": 315276503457,
+          "parent_str": "315276503457",
+          "dialog": 315286766913,
+          "ctime": 1790527892,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间薇斯纳+奥黛塔+珐露珊+七七。\n第二间木偶+神子+砂糖+迪奥娜，木偶其实一金就够了。第二间丝柯克队也可以打。\n第三间火神纯火，万叶希诺宁班尼特，万叶扩火再班尼特战场破的更快[doge]，视频有演示。另外木偶队也可以打。看你怎么弄，配队思路是这些",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 315276503457,
+        "rpid_str": "315276503457",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790520831,
+        "like": 0,
+        "rcount": 1,
+        "count": 1,
+        "state": 0,
+        "author_id": "U_4aa0e91d402dc62ff25e3ca6",
+        "content": {
+          "message": "三连了，n5能蒸吗[灵魂出窍]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/91608092e4fec2f2fac684acf582104c455198992.jpg",
+              "img_width": 1224,
+              "img_height": 13942,
+              "img_size": 1766.35
+            }
+          ],
+          "emote": {
+            "[灵魂出窍]": {
+              "id": 16,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[灵魂出窍]",
+              "url": "https://i0.hdslb.com/bfs/emote/43d3db7d97343c01b47e22cfabeca84b4251f35a.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "灵魂出窍"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "13dd3b00fdbf3585a6a8377faba9a791d61a8a318e5018d4dd69e1d00b236367",
+  "original_bytes_sha256": "4b1e59e77a46fe6efb7d07e637ff7fc7b98ebc2ac56ba43527c0df1129bd41ad",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

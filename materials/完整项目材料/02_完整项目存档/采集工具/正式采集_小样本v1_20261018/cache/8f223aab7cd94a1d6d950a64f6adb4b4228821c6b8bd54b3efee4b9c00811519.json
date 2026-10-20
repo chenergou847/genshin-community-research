@@ -1,0 +1,67 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117361524873378",
+    "root": "319258388128",
+    "pn": 2,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T15:20:12.123764+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 2,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319258388128,
+        "rpid_str": "319258388128",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790866979,
+        "like": 4,
+        "rcount": 7,
+        "count": 11,
+        "state": 0,
+        "author_id": "U_c5155fc33132b27d97c5498f",
+        "content": {
+          "message": "怎么打都是错的，第一波循环主角第四下下落的时候一定是脚下有一个风场给我吸出的同时boss一个后跳跳走，然后只要冲刺两下过去满了半秒第五下下落一定变成火底，只能凹风场好一点然后我往前冲一段就能下落打到，还有就是第二套循环的时候同样的操作班尼特永远不能直接切出来满能量按q，我323充能西风暴击头一样的配置差百分之6充能就刚好不够？这样导致我第二套班尼特是e吃完球q出来然后一模一样的操作之后第三下第四下下落永远是火底，为什么，而且第二套往后的开始就有概率机制破不了会有两个炮台放哪里，到底是哪里出问题了"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5ac6d63ea4adcdd5909c8f0dac9f01922d0784fb6b09dab39ed9c86bf8e663b4",
+  "original_bytes_sha256": "f7efb0c85e7c88125f8c4bf9fbf5ef2e300e677257b1050e59edaec25bb5d496",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

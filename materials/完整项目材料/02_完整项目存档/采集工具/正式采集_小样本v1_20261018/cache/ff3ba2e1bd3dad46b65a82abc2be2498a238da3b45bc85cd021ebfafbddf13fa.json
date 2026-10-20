@@ -1,0 +1,164 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318489927184",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:20:12.923775+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318494836992,
+          "rpid_str": "318494836992",
+          "root": 318489927184,
+          "root_str": "318489927184",
+          "parent": 318489927184,
+          "parent_str": "318489927184",
+          "dialog": 318494836992,
+          "ctime": 1790278482,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8b42e1f0bd7447f5a76f585",
+          "content": {
+            "message": "都不好打。运钞车当我没说"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318494715152,
+          "rpid_str": "318494715152",
+          "root": 318489927184,
+          "root_str": "318489927184",
+          "parent": 318489927184,
+          "parent_str": "318489927184",
+          "dialog": 318494715152,
+          "ctime": 1790278497,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_a8b42e1f0bd7447f5a76f585",
+          "content": {
+            "message": "月电最好打的可能是3"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318497259568,
+          "rpid_str": "318497259568",
+          "root": 318489927184,
+          "root_str": "318489927184",
+          "parent": 318494836992,
+          "parent_str": "318494836992",
+          "dialog": 318494836992,
+          "ctime": 1790285180,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_ed9a4c0644160b506fddf7ec",
+          "content": {
+            "message": "回复 @庸寻LAW :只打n5，第三间上打算上仆人超载，还有一队星超导哪里难打去那里"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318500112528,
+          "rpid_str": "318500112528",
+          "root": 318489927184,
+          "root_str": "318489927184",
+          "parent": 318497259568,
+          "parent_str": "318497259568",
+          "dialog": 318494836992,
+          "ctime": 1790291593,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1282714997b158f613731005",
+          "content": {
+            "message": "回复 @我是一个花生米 :那肯定是月感电带冰主打1，星超导打2，丘林机制好破，月电冰锅一个冰控不住的"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318489927184,
+        "rpid_str": "318489927184",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790271690,
+        "like": 0,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_ed9a4c0644160b506fddf7ec",
+        "content": {
+          "message": "月感电去一二哪间好打点？"
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "5d5bfd6a0a6ab316249f70146205bc56c1281a64fb0a5956c5d5a0ab37a844ce",
+  "original_bytes_sha256": "9e65d717cfbb6cb19743293e7755816d56e29380100ddc21b36305472181daaf",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

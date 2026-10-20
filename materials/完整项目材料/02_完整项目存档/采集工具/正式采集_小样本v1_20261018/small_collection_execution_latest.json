@@ -1,0 +1,216 @@
+{
+  "at": "2026-10-18T15:25:28.203198+00:00",
+  "status": "ENUMERATION_RUN_ENDED_WITH_INTEGRITY_HOLDS",
+  "selection_hash": "4a22f96293600f69d116b49a8f01ec6ed751afb072d2615a29a0bd5eb1bec4f1",
+  "summary": {
+    "videos_attempted": 60,
+    "videos_selected": 60,
+    "all_sources_attempted": true,
+    "statuses": {
+      "enumerated_pending_review": 53,
+      "incomplete": 7
+    },
+    "raw_unique_IDs_saved": 9593,
+    "roots": 3251,
+    "replies": 6342,
+    "missing_parent_rows": 27,
+    "sources_with_missing_parents": 4,
+    "failures": [
+      {
+        "bvid": "BV12fJe6bEbz",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1AQJU6hE93",
+        "reason": "root_rcount_vs_reply_count_mismatch"
+      },
+      {
+        "bvid": "BV1zLJv6mE8T",
+        "reason": "root_plus_reply_count_mismatch:154!=155"
+      },
+      {
+        "bvid": "BV137aA63EF6",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1A5aB6FEuN",
+        "reason": "missing_ancestor"
+      },
+      {
+        "bvid": "BV1k6pK6UE9i",
+        "reason": "root_plus_reply_count_mismatch:29!=30"
+      },
+      {
+        "bvid": "BV1B7a16gEXr",
+        "reason": "missing_ancestor"
+      }
+    ],
+    "reason": "既有未通过来源或缺失父评论仍待解决；其余来源采集已保存，但不能冻结统计清单",
+    "formal_random_comments_drawn": 0
+  },
+  "missing_parent_relations": [
+    {
+      "id": "314944409057",
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "parent_id": "314942093713"
+    },
+    {
+      "id": "314954578609",
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "parent_id": "314942093713"
+    },
+    {
+      "id": "314971013393",
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "parent_id": "314942093713"
+    },
+    {
+      "id": "314999976817",
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "parent_id": "314942093713"
+    },
+    {
+      "id": "315007852449",
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "parent_id": "314942093713"
+    },
+    {
+      "id": "315056173585",
+      "bvid": "BV137aA63EF6",
+      "root_id": "315055702433",
+      "parent_id": "315055890289"
+    },
+    {
+      "id": "315063210225",
+      "bvid": "BV137aA63EF6",
+      "root_id": "315061993377",
+      "parent_id": "315062952897"
+    },
+    {
+      "id": "315402683441",
+      "bvid": "BV137aA63EF6",
+      "root_id": "315400518497",
+      "parent_id": "315401585697"
+    },
+    {
+      "id": "315866356849",
+      "bvid": "BV1B7a16gEXr",
+      "root_id": "319347514112",
+      "parent_id": "315854774113"
+    },
+    {
+      "id": "316163334129",
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "315680903009",
+      "parent_id": "316162654353"
+    },
+    {
+      "id": "316164068881",
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "315680903009",
+      "parent_id": "316162654353"
+    },
+    {
+      "id": "316711946017",
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "316676436161",
+      "parent_id": "316706472977"
+    },
+    {
+      "id": "316712136673",
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "316676436161",
+      "parent_id": "316706472977"
+    },
+    {
+      "id": "318474899168",
+      "bvid": "BV137aA63EF6",
+      "root_id": "314935852353",
+      "parent_id": "314940548961"
+    },
+    {
+      "id": "318645878256",
+      "bvid": "BV137aA63EF6",
+      "root_id": "315094616817",
+      "parent_id": "315103052849"
+    },
+    {
+      "id": "318922503120",
+      "bvid": "BV137aA63EF6",
+      "root_id": "318915304256",
+      "parent_id": "315365864721"
+    },
+    {
+      "id": "319143374640",
+      "bvid": "BV137aA63EF6",
+      "root_id": "319138922672",
+      "parent_id": "319142078048"
+    },
+    {
+      "id": "319422439424",
+      "bvid": "BV1B7a16gEXr",
+      "root_id": "319347514112",
+      "parent_id": "315846741329"
+    },
+    {
+      "id": "319439357424",
+      "bvid": "BV1B7a16gEXr",
+      "root_id": "319347514112",
+      "parent_id": "315854766225"
+    },
+    {
+      "id": "319439467072",
+      "bvid": "BV1B7a16gEXr",
+      "root_id": "319347514112",
+      "parent_id": "315854766225"
+    },
+    {
+      "id": "320529078272",
+      "bvid": "BV1A5aB6FEuN",
+      "root_id": "316280823873",
+      "parent_id": "316547634721"
+    },
+    {
+      "id": "320982688608",
+      "bvid": "BV12fJe6bEbz",
+      "root_id": "320978740800",
+      "parent_id": "320982232208"
+    },
+    {
+      "id": "320983359392",
+      "bvid": "BV12fJe6bEbz",
+      "root_id": "320978740800",
+      "parent_id": "320983001584"
+    },
+    {
+      "id": "320983441728",
+      "bvid": "BV12fJe6bEbz",
+      "root_id": "320978740800",
+      "parent_id": "317324656433"
+    },
+    {
+      "id": "320985037840",
+      "bvid": "BV12fJe6bEbz",
+      "root_id": "320978740800",
+      "parent_id": "320984707840"
+    },
+    {
+      "id": "320985491904",
+      "bvid": "BV12fJe6bEbz",
+      "root_id": "320978740800",
+      "parent_id": "320985385296"
+    },
+    {
+      "id": "320985520496",
+      "bvid": "BV12fJe6bEbz",
+      "root_id": "320978740800",
+      "parent_id": "320985183568"
+    }
+  ],
+  "note": "Raw saved IDs are not a frozen window frame or a formal random comment sample."
+}

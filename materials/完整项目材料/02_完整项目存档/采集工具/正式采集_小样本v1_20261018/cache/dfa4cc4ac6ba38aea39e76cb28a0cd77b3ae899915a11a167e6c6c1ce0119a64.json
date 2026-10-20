@@ -1,0 +1,285 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117325151998016",
+    "root": "318937229600",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T13:35:11.872432+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 7
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 318937193920,
+          "rpid_str": "318937193920",
+          "root": 318937229600,
+          "root_str": "318937229600",
+          "parent": 318937229600,
+          "parent_str": "318937229600",
+          "dialog": 318937193920,
+          "ctime": 1790612820,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8c35e856b60dd43a5de43d10",
+          "content": {
+            "message": "感觉冰锅不太好处理诶"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315387230961,
+          "rpid_str": "315387230961",
+          "root": 318937229600,
+          "root_str": "318937229600",
+          "parent": 318937193920,
+          "parent_str": "318937193920",
+          "dialog": 318937193920,
+          "ctime": 1790619272,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6e925699c7409970d3e3a8fc",
+          "content": {
+            "message": "回复 @末之清风 :2沃去辅助丝芙爱 不是乱杀冰锅?"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318943350400,
+          "rpid_str": "318943350400",
+          "root": 318937229600,
+          "root_str": "318937229600",
+          "parent": 315387230961,
+          "parent_str": "315387230961",
+          "dialog": 318937193920,
+          "ctime": 1790619344,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8c35e856b60dd43a5de43d10",
+          "content": {
+            "message": "回复 @香葱味梳打饼 :丝柯克练度不是很好[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315387671473,
+          "rpid_str": "315387671473",
+          "root": 318937229600,
+          "root_str": "318937229600",
+          "parent": 318943350400,
+          "parent_str": "318943350400",
+          "dialog": 318937193920,
+          "ctime": 1790620304,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_6e925699c7409970d3e3a8fc",
+          "content": {
+            "message": "回复 @末之清风 :但是你沃2命"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315400879809,
+          "rpid_str": "315400879809",
+          "root": 318937229600,
+          "root_str": "318937229600",
+          "parent": 318937229600,
+          "parent_str": "318937229600",
+          "dialog": 315400879809,
+          "ctime": 1790646256,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "丝柯克队伍3金就能打。。"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315400928465,
+          "rpid_str": "315400928465",
+          "root": 318937229600,
+          "root_str": "318937229600",
+          "parent": 318937229600,
+          "parent_str": "318937229600",
+          "dialog": 315400928465,
+          "ctime": 1790646278,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_bc1892273f3e332af2c83dd7",
+          "content": {
+            "message": "第一间木偶，第二间丝柯克。第三间法尔伽都有满命尼可杜林了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 318979608560,
+          "rpid_str": "318979608560",
+          "root": 318937229600,
+          "root_str": "318937229600",
+          "parent": 318937229600,
+          "parent_str": "318937229600",
+          "dialog": 318979608560,
+          "ctime": 1790661000,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_d546f0a734a09fd9c7e8b095",
+          "content": {
+            "message": "你这不是随便打吗，第一间木偶沃雅妮莎奥黛塔神子，第二间满杜加爱可菲重云伊安珊黑杜站场平a重云冰附魔吊打冰锅，第三间火神加满尼奶奶当大运碾了，你这配置丝柯克都没有上的必要"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 318937229600,
+        "rpid_str": "318937229600",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790612769,
+        "like": 0,
+        "rcount": 7,
+        "count": 8,
+        "state": 0,
+        "author_id": "U_8c35e856b60dd43a5de43d10",
+        "content": {
+          "message": "已三连，N6应该怎么打呀[tv_疑问]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/a2b70eadf86928373d27c80a120f541f409587012.jpg",
+              "img_width": 1215,
+              "img_height": 15000,
+              "img_size": 8395.76,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[tv_疑问]": {
+              "id": 46,
+              "package_id": 2,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[tv_疑问]",
+              "url": "https://i0.hdslb.com/bfs/emote/0793d949b18d7be716078349c202c15ff166f314.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1756886884,
+              "gif_url": "https://i0.hdslb.com/bfs/emote/fce1b1a0f3b0e39a2dc16a18508dba7b91e929f4.gif",
+              "jump_title": "疑问"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "97a7be1d2b7577285d2b01e568cf5f3e2181acb7ebade1ddb615db279eedbc57",
+  "original_bytes_sha256": "4ff53f07b80702cf4d815229681111aaf910537a58b89acb558bef351e1bc950",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

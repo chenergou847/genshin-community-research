@@ -1,0 +1,474 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117447776536436",
+    "root": "320862229200",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T05:11:57.972476+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 16
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "replies": [
+        {
+          "rpid": 317229120833,
+          "rpid_str": "317229120833",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320862229200,
+          "parent_str": "320862229200",
+          "ctime": 1792143796,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_0dcab131cc5cc1e0fb162667",
+          "content": {
+            "message": "带了个冰主   但感觉不带冰主也能打"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320884348288,
+          "rpid_str": "320884348288",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320862229200,
+          "parent_str": "320862229200",
+          "ctime": 1792144898,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2aa6f8ef1cc7dafb882f4300",
+          "content": {
+            "message": "月绽放也依旧没环境，冰锅打不过"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317231090113,
+          "rpid_str": "317231090113",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320884348288,
+          "parent_str": "320884348288",
+          "ctime": 1792144991,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_1871f183b4ddcd2d13a57a62",
+          "content": {
+            "message": "回复 @高贵的木叶丸大人 :打上面"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320884702256,
+          "rpid_str": "320884702256",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 317231090113,
+          "parent_str": "317231090113",
+          "ctime": 1792145081,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2aa6f8ef1cc7dafb882f4300",
+          "content": {
+            "message": "回复 @bili_56237617887 :我最后换了月感电过了，月感电还是太权威了，5金的月感电爆杀12金月绽放"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320886827104,
+          "rpid_str": "320886827104",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320862229200,
+          "parent_str": "320862229200",
+          "ctime": 1792146169,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_60570941963d63cd72f8134a",
+          "content": {
+            "message": "夜兰依旧没环境，但依旧能力大砖飞[思考]",
+            "emote": {
+              "[思考]": {
+                "id": 1941,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[思考]",
+                "url": "https://i0.hdslb.com/bfs/emote/cfa9b7e89e4bfe04bbcd34ccb1b0df37f4fa905c.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "思考"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320887202832,
+          "rpid_str": "320887202832",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320884702256,
+          "parent_str": "320884702256",
+          "ctime": 1792146350,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4690f098fdfa887d0d012ea0",
+          "content": {
+            "message": "回复 @高贵的木叶丸大人 :不会吧，十二金月绽放打不过怕不是金数分配问题？"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320889966656,
+          "rpid_str": "320889966656",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320887202832,
+          "parent_str": "320887202832",
+          "ctime": 1792147844,
+          "like": 1,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_841e581f844a19e74f6274bb",
+          "content": {
+            "message": "回复 @渡腐澡堂 :一看就是月绽放带单冰打冰锅，超导造成冰伤所以月感电可以单冰过，只能说这人招笑完了[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320890260944,
+          "rpid_str": "320890260944",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320887202832,
+          "parent_str": "320887202832",
+          "ctime": 1792147948,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_185cc9d59bc405949710c20d",
+          "content": {
+            "message": "回复 @渡腐澡堂 :他这个应该是感电队塞工具人了，破机制比较快，靠环境优势赢的绽放[笑哭]",
+            "emote": {
+              "[笑哭]": {
+                "id": 509,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[笑哭]",
+                "url": "https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "笑哭"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320892420864,
+          "rpid_str": "320892420864",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320862229200,
+          "parent_str": "320862229200",
+          "ctime": 1792149089,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_54bcc1dbd895d3b4b45ea057",
+          "content": {
+            "message": "我也是一样"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320892587088,
+          "rpid_str": "320892587088",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320887202832,
+          "parent_str": "320887202832",
+          "ctime": 1792149169,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2aa6f8ef1cc7dafb882f4300",
+          "content": {
+            "message": "回复 @渡腐澡堂 :破不了机制啊，所以打不过，下人又没法下"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320892613952,
+          "rpid_str": "320892613952",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320890260944,
+          "parent_str": "320890260944",
+          "ctime": 1792149210,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2aa6f8ef1cc7dafb882f4300",
+          "content": {
+            "message": "回复 @胡作绯为罢了 :是的，其实我就是想说环境问题，草岩环境太差了"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320893031248,
+          "rpid_str": "320893031248",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320889966656,
+          "parent_str": "320889966656",
+          "ctime": 1792149451,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2aa6f8ef1cc7dafb882f4300",
+          "content": {
+            "message": "回复 @悾訢 :有没有一种可能，你想到的这个我当时就是没想到呢，这也招笑?那你笑点有点低啊"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 317244327809,
+          "rpid_str": "317244327809",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320862229200,
+          "parent_str": "320862229200",
+          "ctime": 1792152224,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_773aa9a404c1d4401f64a2c3",
+          "content": {
+            "message": "月感电不吃压力[doge_金箍]",
+            "emote": {
+              "[doge_金箍]": {
+                "id": 83964,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge_金箍]",
+                "url": "https://i0.hdslb.com/bfs/emote/aadaca1895e09c5596fc6365192ec93a23718cf0.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1724910828,
+                "jump_title": "金箍"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320912398272,
+          "rpid_str": "320912398272",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320893031248,
+          "parent_str": "320893031248",
+          "ctime": 1792159967,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_841e581f844a19e74f6274bb",
+          "content": {
+            "message": "回复 @高贵的木叶丸大人 :连机制都不懂的，说队伍不行，能不招笑吗"
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320915985888,
+          "rpid_str": "320915985888",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 320892587088,
+          "parent_str": "320892587088",
+          "ctime": 1792161857,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_4690f098fdfa887d0d012ea0",
+          "content": {
+            "message": "回复 @高贵的木叶丸大人 :哦哦原来如此[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": []
+        },
+        {
+          "rpid": 320941815536,
+          "rpid_str": "320941815536",
+          "root": 320862229200,
+          "root_str": "320862229200",
+          "parent": 317244327809,
+          "parent_str": "317244327809",
+          "ctime": 1792192784,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_372bacb4706aa2e3963ec34c",
+          "content": {
+            "message": "回复 @bsjsbszbjs :但是月感电经常有环境吃[酸了]",
+            "emote": {
+              "[酸了]": {
+                "id": 1273,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[酸了]",
+                "url": "https://i0.hdslb.com/bfs/emote/92b1c8cbceea3ae0e8e32253ea414783e8ba7806.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "酸了"
+              }
+            }
+          },
+          "replies": []
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 320862229200,
+        "rpid_str": "320862229200",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "ctime": 1792128833,
+        "like": 27,
+        "rcount": 16,
+        "count": 16,
+        "state": 0,
+        "author_id": "U_372bacb4706aa2e3963ec34c",
+        "content": {
+          "message": "月结晶依旧没环境，但依旧能力大砖飞[吃瓜]",
+          "emote": {
+            "[吃瓜]": {
+              "id": 415,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[吃瓜]",
+              "url": "https://i0.hdslb.com/bfs/emote/4191ce3c44c2b3df8fd97c33f85d3ab15f4f3c84.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "吃瓜"
+            }
+          }
+        },
+        "replies": []
+      }
+    }
+  },
+  "response_hash": "4a0a4c21d24f0af6f48a1a1f67fb767a60153a77a52be6680b6a076a0afdd5af",
+  "original_bytes_sha256": "cd01c1cc214e0b58a0ace92f03a735b5c53732d673aa4f4ad13a2e008c00251f",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}

@@ -1,0 +1,250 @@
+{
+  "route": "replies_web",
+  "params": {
+    "type": 1,
+    "oid": "117359125994077",
+    "root": "319112234480",
+    "pn": 1,
+    "ps": 20
+  },
+  "captured_at": "2026-10-18T14:56:38.899242+00:00",
+  "response": {
+    "code": 0,
+    "data": {
+      "page": {
+        "num": 1,
+        "size": 20,
+        "count": 4
+      },
+      "config": {
+        "showtopic": 0,
+        "show_up_flag": false,
+        "read_only": false
+      },
+      "fold_control": {},
+      "replies": [
+        {
+          "rpid": 319112597520,
+          "rpid_str": "319112597520",
+          "root": 319112234480,
+          "root_str": "319112234480",
+          "parent": 319112234480,
+          "parent_str": "319112234480",
+          "dialog": 319112597520,
+          "ctime": 1790766233,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_8656221766e2fdcfe42b1ee9",
+          "content": {
+            "message": "我也是，我回坑3个多月，只能说这两个版本太适合老玩家回坑了[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319115074784,
+          "rpid_str": "319115074784",
+          "root": 319112234480,
+          "root_str": "319112234480",
+          "parent": 319112234480,
+          "parent_str": "319112234480",
+          "dialog": 319115074784,
+          "ctime": 1790767458,
+          "like": 2,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_2574d1ade1f3dc0033773244",
+          "content": {
+            "message": "[doge]我也是，我木偶版本回归上期和这期就能轻松n5了",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 315558968001,
+          "rpid_str": "315558968001",
+          "root": 319112234480,
+          "root_str": "319112234480",
+          "parent": 319112234480,
+          "parent_str": "319112234480",
+          "dialog": 315558968001,
+          "ctime": 1790769749,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_fa6965f0021d2fdaa2f61f7b",
+          "content": {
+            "message": "那么恭喜你成为强度前0.3%～0.1%的55～60级玩家了"
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        },
+        {
+          "rpid": 319119756176,
+          "rpid_str": "319119756176",
+          "root": 319112234480,
+          "root_str": "319112234480",
+          "parent": 315558968001,
+          "parent_str": "315558968001",
+          "dialog": 315558968001,
+          "ctime": 1790769859,
+          "like": 0,
+          "rcount": 0,
+          "count": 0,
+          "state": 0,
+          "author_id": "U_b1adfcf23ca998dd3b19114f",
+          "content": {
+            "message": "回复 @没有名_那维莱特 :58级[doge]",
+            "emote": {
+              "[doge]": {
+                "id": 26,
+                "package_id": 1,
+                "state": 0,
+                "type": 1,
+                "attr": 0,
+                "text": "[doge]",
+                "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+                "meta": {
+                  "size": 1,
+                  "suggest": [
+                    ""
+                  ]
+                },
+                "mtime": 1668688325,
+                "jump_title": "doge"
+              }
+            }
+          },
+          "replies": [],
+          "folder": {
+            "has_folded": false,
+            "is_folded": false,
+            "rule": ""
+          }
+        }
+      ],
+      "top_replies": [],
+      "hots": [],
+      "top": {},
+      "root": {
+        "rpid": 319112234480,
+        "rpid_str": "319112234480",
+        "root": 0,
+        "root_str": "0",
+        "parent": 0,
+        "parent_str": "0",
+        "dialog": 0,
+        "ctime": 1790766088,
+        "like": 9,
+        "rcount": 4,
+        "count": 4,
+        "state": 0,
+        "author_id": "U_b1adfcf23ca998dd3b19114f",
+        "content": {
+          "message": "老玩家0基础回归200多天速通N5[doge]",
+          "pictures": [
+            {
+              "img_src": "http://i0.hdslb.com/bfs/new_dyn/5e35fb4dc33c3018fb0c21df3f26a67c225170725.png",
+              "img_width": 1600,
+              "img_height": 900,
+              "img_size": 1368.44,
+              "top_right_icon": "https://i0.hdslb.com/bfs/activity-plat/static/20230425/b66bfe4ccfd6bed05bdb54008ff5c7aa/0ufQJIxBvt.png",
+              "play_gif_thumbnail": true
+            }
+          ],
+          "emote": {
+            "[doge]": {
+              "id": 26,
+              "package_id": 1,
+              "state": 0,
+              "type": 1,
+              "attr": 0,
+              "text": "[doge]",
+              "url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
+              "meta": {
+                "size": 1,
+                "suggest": [
+                  ""
+                ]
+              },
+              "mtime": 1668688325,
+              "jump_title": "doge"
+            }
+          }
+        },
+        "replies": [],
+        "folder": {
+          "has_folded": false,
+          "is_folded": false,
+          "rule": ""
+        }
+      }
+    },
+    "source_data_keys": [
+      "config",
+      "control",
+      "page",
+      "replies",
+      "root",
+      "upper"
+    ]
+  },
+  "response_hash": "7e73f283199a3c2bc678440bb5fc8e078ebad15d3a208f10db05a27121f1df4c",
+  "original_bytes_sha256": "40af5ff289ea2d0a98d4ee000f740f87caee0477f84a795df8f10a53f0ef4788",
+  "author_key_id": "074f9e94b1252422278404adbfb8bd5c1d534f4066df5e7da72090109efa5418",
+  "storage": "comments_minimized_no_profile_or_credentials"
+}
