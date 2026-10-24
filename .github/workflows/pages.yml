@@ -18,8 +18,22 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Install locked renderer dependency
+        run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: Recompute saved content annotations
+        run: python3 scripts/analyze_content.py
+      - name: Verify content coverage, counts and author categories
+        run: python3 scripts/validate_content.py
+      - name: Render report, evidence and statistics
+        run: npm run render
       - name: Build standalone report
         run: python3 scripts/build_site.py
+      - name: Verify committed outputs are reproducible
+        run: git diff --exit-code -- analysis/content-20261024 docs web/page.template.html
       - name: Verify complete materials and privacy checks
         run: python3 scripts/validate_project.py
       - uses: actions/configure-pages@v5

@@ -56,4 +56,6 @@ python scripts/validate_project.py
 
 修改正文后，运行`npm ci --ignore-scripts`与`npm run render`更新网页模板，再构建页面。详细步骤见[METHODS.md](METHODS.md)。这些操作只处理既有材料。
 
+[自动发布工作流](.github/workflows/pages.yml)会复算编码、核验内容及作者统计、重建网页并比对已提交的生成文件，通过材料与公开文件校验后部署。通用的采集、编码和交付工作流见独立的[bili-community-observer工具与Skill](https://github.com/chenergou847/bili-community-observer)。
+
 研究描述固定来源下出现的发言和作者，未进行玩家总体抽样。来源集中、未读附图、缺失上文及AI编码验证范围见[正文第7节](report/报告.md)。原采集主档和标签002保留在`materials/`，新增内容分析单独保存。

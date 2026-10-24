@@ -65,7 +65,12 @@ python scripts/validate_content.py
 npm ci --ignore-scripts
 npm run render
 python scripts/build_site.py
+python scripts/update_public_manifest.py
 python scripts/validate_project.py
 ```
 
 汇总与校验使用Python标准库。正文转HTML使用固定版本`marked 17.0.5`，版本见`package-lock.json`；已生成的`web/page.template.html`可直接由`build_site.py`组合成页面，无需安装Node依赖。`render_report.mjs`同步正文、统计、证据与页面模板，`build_site.py`组合CSS与交互，`validate_project.py`核对原材料哈希、隐私、链接及嵌入内容。上述步骤不触发B站采集或重新抽样。
+
+有意修改公开文件后，用`update_public_manifest.py`更新文件清单，再校验并提交。自动发布不会重写清单：工作流复算已保存的编码，核验覆盖和作者分类，安装锁定依赖、渲染并构建页面；生成结果须与提交版本一致，材料与公开文件哈希检查也须通过，才部署到GitHub Pages。见[发布工作流](.github/workflows/pages.yml)。
+
+通用研究工具另在[bili-community-observer](https://github.com/chenergou847/bili-community-observer)维护；本仓库脚本用于复现这份研究的既定数据和报告。
