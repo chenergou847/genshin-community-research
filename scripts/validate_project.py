@@ -45,8 +45,11 @@ def main():
     data=json.loads(re.search(r'<script type="application/json" id="report-data">(.*?)</script>',html,re.S)[1])
     assert data['markdown']==(ROOT/'report/报告.md').read_text(encoding='utf-8')
     assert len(data['evidence'])==15
+    project=json.loads((ROOT/'project.json').read_text(encoding='utf-8'))
+    assert project['evidence_rows']==len(data['evidence']), '项目元数据证据数与现役网页不一致'
     analysis=json.loads((ROOT/'materials/完整项目材料/01_当前交付/编码分析数据.json').read_text(encoding='utf-8-sig'))
     assert len(analysis['rows'])==6526 and sum(bool(r['problem_themes']) for r in analysis['rows'])==706
+    assert project['data_rows']==len(analysis['rows']) and project['source_videos']==60
     current=json.loads((ROOT/'analysis/content-20261024/statistics.json').read_text(encoding='utf-8'))
     assert data['content']==current
     assert data['codebook']==json.loads((ROOT/'analysis/content-20261024/codebook.json').read_text(encoding='utf-8'))
@@ -54,7 +57,7 @@ def main():
     for e in data['evidence']:
         source=analysis['rows'][e['index']-1]
         assert e['row']['id']==source['id'] and e['row']['text']==source['text']
-    for rel in ['README.md','METHODS.md','PUBLICATION.md','report/报告.md']:
+    for rel in ['README.md','METHODS.md','PUBLICATION.md','PROJECT_STATUS.md','AGENTS.md','report/报告.md']:
         text=(ROOT/rel).read_text(encoding='utf-8-sig')
         for target in re.findall(r'\]\(([^\s)]+)\)',text):
             if not urlsplit(target).scheme and not target.startswith('#'):

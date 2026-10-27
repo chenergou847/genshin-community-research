@@ -6,6 +6,8 @@
 
 [网页报告](https://chenergou847.github.io/genshin-community-research/) · [研究正文](report/报告.md) · [逐条内容编码](analysis/content-20261024/逐条内容编码.csv) · [观点分布](analysis/content-20261024/观点分布.csv) · [完整材料目录](materials/00_材料总目录.md)
 
+维护或接续项目先读[项目现状与边界](PROJECT_STATUS.md)。`materials/`中的交接说明和报告按各自日期作为历史保存。
+
 | 研究规模 | 口径 |
 | --- | --- |
 | 固定视频来源 | 60条，三个副本各20条 |
